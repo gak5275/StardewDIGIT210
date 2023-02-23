@@ -26,11 +26,18 @@
 "We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess." 
 "The fresh mountain air is nice on a day like this.I wonder if the frogs will make an appearance soon." 
 "Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter..." 
-"I wonder what would happen if I spent all night in the graveyard? @, What do you think happens to us after we die? I have no idea. We come back as spooky ghosts. We go to Heaven. Our energy bodies enter the astral plane. Nothing. We just cease to exist." 
+
+"I wonder what would happen if I spent all night in the graveyard? @, What do you think happens to us after we die? 
+    I have no idea. 
+    We come back as spooky ghosts. 
+    We go to Heaven. 
+    Our energy bodies enter the astral plane. 
+    Nothing. We just cease to exist." 
 "I guess you think nothing would happen, right?|Maybe a wicked ghost would appear!" 
 "Hmm, interesting..." 
 "Well that's an interesting theory!" 
 "You know, that wouldn't be so bad." 
+
 "Oh, hi @. Taking a break from your work?Me too. Oh! Nothing physical... just some online classes I'm taking." 
 "Hi, I'm glad to see you.I want to take my mind off things for a while... how is your day going?" 
 "You came all this way to visit me? That's nice.So have you been exploring the mountain caves at all?Interesting. I'd like to go there myself one of these days." 
@@ -39,6 +46,7 @@
 "The birds were happily chirping today. They're too simple to understand the future.It's better to be like them, isn't it?" 
 "Great! I'm sure you'll be able to beat this level with ease." 
 "Oh? *sigh*... I guess I'll never get past this level, then..." 
+
 "See? You understand why I'm out here, then.I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!" 
 "Sure. I don't want to kill anything, either. I just want to do a little exploring without risking my neck!I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!" 
 "Oh, it's because I'm a girl... isn't it? Ugh... Why? I'm just as strong as you! I'm not some fragile princess.. I can take care of myself! I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!" 
@@ -54,6 +62,7 @@
 "...okay." 
 "I guess when you have something to lose, it's normal to be afraid..." 
 "...Um, okay. Sorry." 
+
 "Summer's here. It's not really my favorite season.The air is so muggy I feel like I'm floating in soup." 
 "My pet guinea pig, David, just hates this hot weather. He's fussy." 
 "The air is so thick with honey and nectar all summer. I almost feel dizzy." 
@@ -63,10 +72,16 @@
 "Ew, I hope I don't get a tan this summer." 
 "I kind of wish I had a cat. Unfortunately, my Dad is allergic to pretty much everything." 
 "I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*" 
-"Do you ever get an urge to go exploring, @? Okay... pretend you just won a free vacation. Where would you go? The beach. In a dark cave. The old, gnarled forest. Joja Mega-Mall." 
+
+"Do you ever get an urge to go exploring, @? Okay... pretend you just won a free vacation. Where would you go? 
+    The beach. 
+    In a dark cave. 
+    The old, gnarled forest. 
+    Joja Mega-Mall." 
 "I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. I think we both have similar, weird tastes." 
 "Huh. I think that would get old fast." 
 "Yea! That sounds wonderful." 
+
 "I would love to live in an old farmhouse like you.The creak of a floorboard, the slow plumes of dust whispering through the rafters... There's something special about an old building, isn't there?" 
 "You're an interesting guy, @. I'm glad you moved here.^You're an interesting lady, @. I'm glad you moved here." 
 "I'm actually enjoying myself this summer.It's funny how quickly one's outlook can change." 
@@ -79,11 +94,17 @@
 "I can't wait to see some pumpkins this year.The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun." 
 "Last night I dreamt that my left hand had turned into a gigantic %. Does that mean anything?%Abigail doesn't seem to be interested in talking right now." 
 "I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?" 
-"Hmm... what should I do tonight? I was thinking about dyeing my hair again... what do you think? Dye it black. Why not blonde? How about bubblegum pink? I like your hair just the way it is!" 
+
+"Hmm... what should I do tonight? I was thinking about dyeing my hair again... what do you think? 
+    Dye it black. 
+    Why not blonde? 
+    How about bubblegum pink? 
+    I like your hair just the way it is!" 
 "I was going to dye my hair but then I decided against it.|Yes? What is it?" 
 "I guess that's a pretty safe choice, huh?I'll think about it." 
 "Of course that's what you'd say." 
 "You're always good for a laugh." 
+
 "Are you growing pumpkins on your farm this year?Save one for me!" 
 "I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.I dunno why I'm saying this to you. Don't tell anyone." 
 "Hi.Your hair looks cool today... did you do something different?" 
@@ -104,12 +125,17 @@
 "I'm going to eat so much cranberry sauce tomorrow." 
 "Another year is almost over.It goes by so fast, doesn't it?" 
 "One thing I've learned living here... everyone stares at you if you look different." 
-"It's the weekend!That means I can play twice as many video games.Bye." 
-"Oh, hello. I made these two drawings. What do you think? I like the jungle island and the tiger. I like the orc with the battleaxe. I don't like either of them." 
+"It's the weekend! That means I can play twice as many video games. Bye." 
+
+"Oh, hello. I made these two drawings. What do you think? 
+    I like the jungle island and the tiger. 
+    I like the orc with the battleaxe. 
+    I don't like either of them." 
 "Remember those drawings I showed you a while ago? I accidentally threw them away.|Remember that drawing I showed you with the orc? I entered it into an online contest and won 50g!" 
 "Oh yeah? I guess that makes sense." 
 "I'm glad. It's embarrassing to share your art with others. But I think you and I are on the same page." 
 "Rude! Why would you hurt my feelings like that? You're so insensitive!" 
+
 "Hi. If you're ever bored, you can always hang out in my room.As long as I'm not changing, of course!" 
 "It's so cold, I wish we had a hot cup of cocoa to share." 
 "I've been daydreaming a lot lately...Oh! You want to know what it's about? Well......It's a secret." 
