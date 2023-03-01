@@ -6,7 +6,9 @@ html {
 body {
     display: block;
     /*  background-color: #F3F4F6;*/
-    background-image: url("valleybackground.jpg");
+    background-image: url("images/valleybackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     /*  background-color: #cccccc;*/
     color: #1D1A11;
     font-family: Arial, sans-serif;
