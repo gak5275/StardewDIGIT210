@@ -81,8 +81,8 @@ def findfiles():
     for path in pathList:
         #print('THIS IS PATHLIST: \n ------------', pathList)
         ext = f"{stardewPath}\{path}"
-        #print(ext, path.endswith(tuple([".yaml", ".txt"])), os.path.isdir(ext))
-        if path.endswith(tuple([".yaml", ".txt"])):
+        #print(ext, path.endswith(".txt"), os.path.isdir(ext))
+        if path.endswith(".txt")):
             print('This is a File:', path)
             filepath = f"{stardewPath}\\{path}\\"
             #print('THIS IS THE FILEPATH:', filepath)
