@@ -1,0 +1,72 @@
+
+<xml><metadata>xnbData: 
+target: "w"
+compressed: true
+hiDef: true
+readerData: 
+- 
+type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+version: 0
+
+- 
+type: "Microsoft.Xna.Framework.Content.StringReader"
+version: 0
+
+
+numSharedResources: 0
+
+content:  #!Dictionary&lt;String,String&gt;</metadata>
+<p><context>Rainy_Day_0:</context> <dialogue>"Might be a good day to sit back and jam on the guitar...#$e#Hey, you can relax too if you want."</dialogue> #!String</p>
+<p><context>Rainy_Day_1:</context> <dialogue>"Do you think Sebastian and Abigail will ever hook up?#$e#Heh... now that I'm married I'm trying to get everyone else married too."</dialogue> #!String</p>
+<p><context>Rainy_Day_2:</context> <dialogue>"Hey, I found one of these rolling around in the back of a drawer. [90 88 86 535]#$e#I thought you might be able to use it."</dialogue> #!String</p>
+<p><context>Rainy_Day_3:</context> <dialogue>"Aw, man. These cloudy days are kind of a drag...$7"</dialogue> #!String</p>
+<p><context>Rainy_Day_4:</context> <dialogue>"How'd you sleep? The sound of rain really makes me zonk."</dialogue> #!String</p>
+<p><context>patio_Sam:</context> <dialogue>"*Sigh*... I'm never gonna land this trick...$s"</dialogue> #!String</p>
+<p><context>Rainy_Night_0:</context> <dialogue>"Hey, how was your day? I just layed around and read comics most of the day... it was great.$h"</dialogue> #!String</p>
+<p><context>Rainy_Night_1:</context> <dialogue>"It was a pretty low-key day for me... colas, frozen pizza, a few hours noodling around on the guitar. I feel relaxed."</dialogue> #!String</p>
+<p><context>Rainy_Night_2:</context> <dialogue>"Earlier, I listened to our live recording from that show we played. Remember that? Man, was that sloppy.#$b#It made me a little nervous that you were there, I didn't want to mess up and have you think I was a loser!$10"</dialogue> #!String</p>
+<p><context>Rainy_Night_3:</context> <dialogue>"I hope Vincent's not too lonely now that I'm gone... I kinda felt responsible for the little guy.$s#$e#But, life's all about change... right? Kids need to learn that, eventually... Or else adulthood will destroy them.$7"</dialogue> #!String</p>
+<p><context>Rainy_Night_4:</context> <dialogue>"Hey, I tossed a couple frozen pizzas into the oven. Here's yours. [206]$h"</dialogue> #!String</p>
+<p><context>Indoor_Day_0:</context> <dialogue>"Phew... I'll tell you one thing I don't miss about my old life... working at JojaMart."</dialogue> #!String</p>
+<p><context>Indoor_Day_1:</context> <dialogue>"Hey, I made you some instant pancakes. Enjoy. [211]$h#$e#What? I never learned to cook... mom always did that."</dialogue> #!String</p>
+<p><context>Indoor_Day_2:</context> <dialogue>"Hey. I know I joke around a lot, but I want you to know that I seriously love you...$l"</dialogue> #!String</p>
+<p><context>Indoor_Day_3:</context> <dialogue>"Do you have big plans for the day?#$e#Oh, not me... I usually decide what to do a few moments beforehand..."</dialogue> #!String</p>
+<p><context>Indoor_Day_4:</context> <dialogue>"Um... Maybe I'll help out on the farm some other day. I feel lazy today.$s#$e#You're not mad?"</dialogue> #!String</p>
+<p><context>Indoor_Night_0:</context> <dialogue>"Hey, you look tired. Let me help you relax tonight, okay? Maybe I'll give you a massage later."</dialogue> #!String</p>
+<p><context>Indoor_Night_1:</context> <dialogue>"My day? Oh... I can hardly remember. I didn't really do anything of note. Just relaxed and had a good time."</dialogue> #!String</p>
+<p><context>Indoor_Night_2:</context> <dialogue>"Hey, sorry I didn't make the bed. You know I'm sloppy... that's why you like me, right?$h"</dialogue> #!String</p>
+<p><context>Indoor_Night_3:</context> <dialogue>"The only thing I miss about living at home is Mom's fish casserole"</dialogue> #!String</p>
+<p><context>Indoor_Night_4:</context> <dialogue>"Ready to hit the hay? I actually made the bed for once..."</dialogue> #!String</p>
+<p><context>Outdoor_0:</context> <dialogue>"Maybe I should get some off-road wheels for my skateboard. Mayor Lewis can't touch me out here.$h"</dialogue> #!String</p>
+<p><context>Outdoor_1:</context> <dialogue>"I always keep an eye on the wide blue sky... you never know when a UFO might go by."</dialogue> #!String</p>
+<p><context>Outdoor_2:</context> <dialogue>"Hi, @! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll try and help you with encouraging thoughts.$h"</dialogue> #!String</p>
+<p><context>Outdoor_3:</context> <dialogue>"Something in the air makes me feel positive... maybe it's the faint whiff of pizza from Gus' ovens."</dialogue> #!String</p>
+<p><context>Outdoor_4:</context> <dialogue>"Wow... you look great today, and the specks of mud just add some extra charm.$l"</dialogue> #!String</p>
+<p><context>OneKid_0:</context> <dialogue>"I'll change %kid1's diaper... don't worry about it. You've got enough on your plate."</dialogue> #!String</p>
+<p><context>OneKid_1:</context> <dialogue>"It's weird, but I really like being a father!$h"</dialogue> #!String</p>
+<p><context>OneKid_3:</context> <dialogue>"I think we should have another kid. Why stop now?"</dialogue> #!String</p>
+<p><context>TwoKids_0:</context> <dialogue>"I woke up early, fed the kids and changed their diapers! We're all set. You can just focus on raking in that sweet money.$h#$e#I'm just kidding... I didn't marry you for the money."</dialogue> #!String</p>
+<p><context>TwoKids_1:</context> <dialogue>"We have to make sure and give %kid1 a lot of attention now that we have %kid2. We don't want any jealousy between them."</dialogue> #!String</p>
+<p><context>TwoKids_2:</context> <dialogue>"It's fun to see the babies playing with each other. I think they're going to be very close."</dialogue> #!String</p>
+<p><context>TwoKids_3:</context> <dialogue>"I never thought I'd become such a family man, but I'm really satisfied with what we've built here. Life is going great.$h"</dialogue> #!String</p>
+<p><context>Good_1:</context> <dialogue>"Do you ever think of that night we snuck into my room? I do, often...$l"</dialogue> #!String</p>
+<p><context>Good_2:</context> <dialogue>"You know, I think I had a feeling we'd be together from the very beginning. There's just something special between us.$l"</dialogue> #!String</p>
+<p><context>Good_3:</context> <dialogue>"Wow, you look really handsome today! Did you do something with your hair?$l^Wow, you look stunning today. Did you do something new with your hair?$l"</dialogue> #!String</p>
+<p><context>Good_6:</context> <dialogue>"Be careful out there! I know you go into the caves sometimes... you could be eaten alive in there!"</dialogue> #!String</p>
+<p><context>Good_4:</context> <dialogue>"Baby, I was just gonna write you a song on the guitar. But now you're here and I feel relaxed.#$e#I mainly feel like playing guitar when I'm lonely."</dialogue> #!String</p>
+<p><context>Good_5:</context> <dialogue>"Baby, talk to me! I'm always interested to hear about your day."</dialogue> #!String</p>
+<p><context>funLeave_Sam:</context> <dialogue>"I'm gonna visit the family today, okay? I'll be home in the evening."</dialogue> #!String</p>
+<p><context>funReturn_Sam:</context> <dialogue>"Seeing family is nice, but it's also kind of depressing in a weird way. Like... our lives are totally separate now, and everything feels more formal than it used to.$7"</dialogue> #!String</p>
+<p><context><date season="spring">spring_1:</date></context> <dialogue>"Ub... spring... my doze... allergies.$s"</dialogue> #!String</p>
+<p><context><date season="spring">spring_12:</date></context> <dialogue>"Are you excited for tomorrow's festival? It'll be cool to see Sebastian again."</dialogue> #!String</p>
+<p><context><date season="spring">spring_23:</date></context> <dialogue>"Oh... tomorrow's the flower dance, isn't it? I thought I could get out of it now that we're married.#$e#Whatever. I guess it's funny in a weird way."</dialogue> #!String</p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue>"The pollen count is a little lower in summer, so my nose is really happy.$h"</dialogue> #!String</p>
+<p><context><date season="summer">summer_10:</date></context> <dialogue>"Have you thought about what you're going to put in the luau soup?#$e#It might be funny to put something nasty. You know, to play a prank on the governor!$h#$e#Sorry..."</dialogue> #!String</p>
+<p><context><date season="summer">summer_27:</date></context> <dialogue>"Summer's great, but I'm ready for the fall now.#$e#Should we watch the jellyfish tomorrow night? It's always kind of fun."</dialogue> #!String</p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue>"It seems like the whole valley's changed overnight... I guess fall's finally here."</dialogue> #!String</p>
+<p><context><date season="fall">fall_15:</date></context> <dialogue>"Hey, tomorrow's the fair. I need to get my old slingshot wrist back in shape..."</dialogue> #!String</p>
+<p><context><date season="fall">fall_26:</date></context> <dialogue>"I wonder if Mom will let Vincent enter the haunted maze this year. Probably not...$h#$e#Poor kid. He's gonna have to grow up some day..."</dialogue> #!String</p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue>"The cold air makes my hair gel freeze. It's not very pleasant.$s"</dialogue> #!String</p>
+<p><context><date season="winter">winter_7:</date></context> <dialogue>"Are we going to stop by the ice festival tomorrow? It might be fun to see everyone again..."</dialogue> #!String</p>
+<p><context><date season="winter">winter_28:</date></context> <dialogue>"We had a great year, @... it's kind of sad that it's over.#$e#We'll just have to make next year even better!$h"</dialogue> #!String</p>
+</xml>

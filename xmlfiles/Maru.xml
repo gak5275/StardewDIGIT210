@@ -1,0 +1,105 @@
+
+<xml><metadata>xnbData: 
+target: "w"
+compressed: true
+hiDef: true
+readerData: 
+- 
+type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+version: 0
+
+- 
+type: "Microsoft.Xna.Framework.Content.StringReader"
+version: 0
+
+
+numSharedResources: 0
+
+content:  #!Dictionary&lt;String,String&gt;</metadata>
+<p><context>Introduction:</context> <dialogue>"Oh! Aren't you the one who just moved in?#$b#I'm Maru. I've been looking forward to meeting you!$h#$e#You know, with a small town like this, a new face can really alter the community dynamic. It's exciting!"</dialogue> #!String</p>
+<p><context>Resort_Entering:</context> <dialogue>"Willy mentioned that you helped fix the boat. Thanks for doing that!"</dialogue> #!String</p>
+<p><context>Resort_Leaving:</context> <dialogue>"That was fun!"</dialogue> #!String</p>
+<p><context>Resort:</context> <dialogue>"I've been noticing a few different starfish species. My favorite are the big purple ones, but they're all very interesting!"</dialogue> #!String</p>
+<p><context>Resort_Towel:</context> <dialogue>"*gasp*... It's a solar eclipse!$3#$b#Oh... nevermind. It's just your body blocking the sun."</dialogue> #!String</p>
+<p><context>Resort_Towel_2:</context> <dialogue>"We're so far removed from civilization out here.#$b#Imagine the stars you could see at night.#$e#Who knows, maybe we'd even see a flying saucer or two!$h"</dialogue> #!String</p>
+<p><context>Resort_Bar:</context> <dialogue>"Mmmm... Why are tropical fruits so good?"</dialogue> #!String</p>
+<p><context>Resort_Shore:</context> <dialogue>"I wonder if Willy would let me bring my telescope here sometime...#The sky is so clear here, I bet I could spot Pelican Town out in the horizon.#Maybe I'd even see you running around %farm Farm!"</dialogue> #!String</p>
+<p><context>danceRejection:</context> <dialogue>"I'm flattered! But... No."</dialogue> #!String</p>
+<p><context>divorced:</context> <dialogue>"We have nothing to say to each other.$a"</dialogue> #!String</p>
+<p><context>breakUp:</context> <dialogue>"Not good enough for you, huh?$a#$b#Fine...$s"</dialogue> #!String</p>
+<p><context>dumped_Girls:</context> <dialogue>"You've got some nerve, speaking to me!$a"</dialogue> #!String</p>
+<p><context>secondChance_Girls:</context> <dialogue>"You've lost some respect with me, @... but I'm willing to forgive you.$s"</dialogue> #!String</p>
+<p><context>Mon:</context> <dialogue>"Whenever I'm struggling with a technical problem, I always take a walk.#$e#It's surprising how much a change of scenery can help."</dialogue> #!String</p>
+<p><context>Tue:</context> <dialogue>"Have you met my mother? She's the town's carpenter."</dialogue> #!String</p>
+<p><context>Wed:</context> <dialogue>"On Tuesdays and Thursdays I work at Harvey's clinic.#$b#He says he likes having me around in case his medical equipment goes haywire!$h#$e#Being a farmer must be pretty easy, huh?"</dialogue> #!String</p>
+<p><context>Thu:</context> <dialogue>"I plan on spending a lot of time with my telescope this summer."</dialogue> #!String</p>
+<p><context>Sat:</context> <dialogue>"Do you know my Dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory."</dialogue> #!String</p>
+<p><context>Fri:</context> <dialogue>"Hey, sorry if I seem cranky... I'm a little sore from work yesterday.#$c .5# I had to carry ten boxes of medical files to the attic!#$e#I had to sort patient records for four hours straight! "</dialogue> #!String</p>
+<p><context>Sun:</context> <dialogue>"Hi!#$q 3/4 Sun_01_old#Do you have fun working on the farm?#$r 3 0 Sun_01_01#Yes.#$r 4 0 Sun_01_02#No."</dialogue> #!String</p>
+<p><context>Sun_01_old:</context> <dialogue>"$p 3#Hey, you've made another week of progress on the farm! It seems like things are going well for you.$h|Another tiring week on the farm, huh? It must really be a lot of work...$s"</dialogue> #!String</p>
+<p><context>Sun_01_01:</context> <dialogue>"Well that's good, isn't it?$h"</dialogue> #!String</p>
+<p><context>Sun_01_02:</context> <dialogue>"Yikes! I'm sorry. Have you ever thought of doing something different...?$s"</dialogue> #!String</p>
+<p><context>Tue2:</context> <dialogue>"Stop by our house when you need to upgrade your buildings.#$e#It's always nice to have visitors."</dialogue> #!String</p>
+<p><context>Fri4:</context> <dialogue>"My mother is a carpenter and my dad is a scientist. I guess it makes sense that I'm into building gadgets."</dialogue> #!String</p>
+<p><context>Mon6:</context> <dialogue>"Sometimes my head gets so cluttered with nonsense I can hardly think. Does that ever happen to you?#$e#Getting some fresh air usually helps."</dialogue> #!String</p>
+<p><context>Wed8:</context> <dialogue>"I work at Harvey's clinic on Tuesdays and Thursdays.#$e#He's nice, but not really my type..."</dialogue> #!String</p>
+<p><context>Thu10:</context> <dialogue>"Oh, @! Is there anything you want to talk to me about?$l"</dialogue> #!String</p>
+<p><context><event>Event_Hospital_1:</event></context> <dialogue>"Of course he'll know the difference! This sample is completely ruined!%fork$s"</dialogue> #!String</p>
+<p><context><event>Event_Hospital_2:</event></context> <dialogue>"Okay. I'll blame it on you, then.$u"</dialogue> #!String</p>
+<p><context><event>Event_Hospital_3:</event></context> <dialogue>"You're right. I should just tell him the truth.%fork$u"</dialogue> #!String</p>
+<p><context><event>Event_Space1:</event></context> <dialogue>"It's amazing, isn't it?"</dialogue> #!String</p>
+<p><context><event>Event_Space2:</event></context> <dialogue>"I guess you could see it like that...$s#$b#But it's still incredible, isn't it?"</dialogue> #!String</p>
+<p><context><event>Event_Cut1:</event></context> <dialogue>"Oh no?$8#$b#Well, that makes me feel a little better, then. Thanks."</dialogue> #!String</p>
+<p><context><event>Event_Cut2:</event></context> <dialogue>"Oh no! Aghh... I'm really really sorry.$s"</dialogue> #!String</p>
+<p><context><event>event_robot1:</event></context> <dialogue>"Thanks. That means a lot to me, @.#$b#I know gadgets aren't really your kind of thing... but I do appreciate that you're showing interest in what I do.#$b#I wish I could return the favor somehow.$l"</dialogue> #!String</p>
+<p><context><event>event_robot2:</event></context> <dialogue>"What? After she said point-blank that she doesn't want to be a slave? How cold...%fork$a"</dialogue> #!String</p>
+<p><context><event>event_robot3:</event></context> <dialogue>"Heh...$8#$b#Yeah I guess he did kinda say that, didn't he?$l#$b#...Um...$l"</dialogue> #!String</p>
+<p><context><event>event_robot4:</event></context> <dialogue>"...$8#$b#@...$8"</dialogue> #!String</p>
+<p><context><event>event_robot_explain1:</event></context> <dialogue>"...$s#$b#You have a point, I did program her to act human... but her neural net is so complex, I can't be sure conciousness didn't emerge on its own.$8#$b#Furthermore, isn't it a little arrogant to assume that human-like consciousness is the only worthwhile vessel of existence? Computer brains are different than ours, but that doesn't mean we can disregard them.$8"</dialogue> #!String</p>
+<p><context><event>event_robot_explain2:</event></context> <dialogue>"I see. Well it wasn't a very funny joke.$a"</dialogue> #!String</p>
+<p><context><event>event_robot_explain3:</event></context> <dialogue>"That's horrible! What's gotten into you, @?$a#$b#I'm just going to forget about this conversation... you aren't acting yourself.$a"</dialogue> #!String</p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue>"This is going to be a great season for stargazing."</dialogue> #!String</p>
+<p><context>summer_Mon:</context> <dialogue>"Hmm... What sort of gadget should I tinker with this summer?"</dialogue> #!String</p>
+<p><context><date season="summer">summer_Mon6:</date></context> <dialogue>"Come to my room if you ever want to tinker with my gadgets."</dialogue> #!String</p>
+<p><context>summer_Tue:</context> <dialogue>"Sebastian is my half-brother, if you didn't know already.#$e#We look totally different."</dialogue> #!String</p>
+<p><context><date season="summer">summer_Tue4:</date></context> <dialogue>"Sebastian hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one."</dialogue> #!String</p>
+<p><context>summer_Wed:</context> <dialogue>"Are you enjoying the season?#$e#It's been so warm this year.$h"</dialogue> #!String</p>
+<p><context>summer_Thu:</context> <dialogue>"Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you#$r 36 -50 Thu_01_01#You should be more realistic#$r 35 40 Thu_01_02#It sounds challenging"</dialogue> #!String</p>
+<p><context>Thu_01_old:</context> <dialogue>"See you later."</dialogue> #!String</p>
+<p><context>Thu_0:</context> <dialogue>"Really? Are you sure you're not just trying to flatter me?"</dialogue> #!String</p>
+<p><context>Thu_01_01:</context> <dialogue>"You don't think I could do it?$s"</dialogue> #!String</p>
+<p><context>Thu_01_02:</context> <dialogue>"You're right, but I love a challenge!$h"</dialogue> #!String</p>
+<p><context>summer_Sat:</context> <dialogue>"Hey, have any interesting farm stories to tell me?#$e#Guess not."</dialogue> #!String</p>
+<p><context>summer_Fri:</context> <dialogue>"I worked at the clinic yesterday. We didn't have a single patient.#$e#I guess people get sick less during summer."</dialogue> #!String</p>
+<p><context>summer_Sun:</context> <dialogue>"I bet you're growing some interesting crops right now.#$b#Dad says a lot of exotic plants grow in the valley this time of year."</dialogue> #!String</p>
+<p><context><date season="summer">summer_Fri2:</date></context> <dialogue>"Hey, tell me a story about farming.#$e#That's really interesting!"</dialogue> #!String</p>
+<p><context><date season="summer">summer_Wed4:</date></context> <dialogue>"Is it just me or did it suddenly get really hot?#$e#I guess it's just me."</dialogue> #!String</p>
+<p><context><date season="summer">summer_Sun6:</date></context> <dialogue>"Some day I'm going to be a world-class inventor.$u#$e#You're lucky to be friends with me!#$b#...just kidding."</dialogue> #!String</p>
+<p><context><date season="summer">summer_Tue8:</date></context> <dialogue>"@, you're looking sharp today.$h"</dialogue> #!String</p>
+<p><context><date season="summer">summer_Thu10:</date></context> <dialogue>"How do your hands stay so soft with all that farm work?"</dialogue> #!String</p>
+<p><context>fall_Mon:</context> <dialogue>"Have you explored the mines much? I've heard you can find some useful materials there."</dialogue> #!String</p>
+<p><context>fall_Tue:</context> <dialogue>"The trees look beautiful today!$h"</dialogue> #!String</p>
+<p><context>fall_Thu:</context> <dialogue>"In other parts of the world it's spring right now. Imagine that!"</dialogue> #!String</p>
+<p><context>fall_Wed:</context> <dialogue>"Bleh... I don't feel like working tomorrow."</dialogue> #!String</p>
+<p><context>fall_Fri:</context> <dialogue>"I bet we'll start seeing more people at the clinic this season.$s#$e#I hope everyone stays healthy."</dialogue> #!String</p>
+<p><context>fall_Sat:</context> <dialogue>"All these falling leaves will provide food for mushrooms and other small organisms.$u#$e#Interesting, isn't it?"</dialogue> #!String</p>
+<p><context>fall_Sun:</context> <dialogue>"Hey, here's to another good week! *toast*"</dialogue> #!String</p>
+<p><context><date season="fall">fall_Tue2:</date></context> <dialogue>"@, I just love how the trees look right now!#$e#I know you like them too."</dialogue> #!String</p>
+<p><context><date season="fall">fall_Wed4:</date></context> <dialogue>"If you have any extra metal laying around, I could always use it for one of my projects.#$e#But only if you don't need it yourself."</dialogue> #!String</p>
+<p><context><date season="fall">fall_Fri6:</date></context> <dialogue>"I've been feeling especially optimistic lately...$h"</dialogue> #!String</p>
+<p><context><date season="fall">fall_Mon8:</date></context> <dialogue>"You should come visit me at the clinic Tomorrow. I work from 10 a.m.to 4 p.m.$h"</dialogue> #!String</p>
+<p><context><date season="fall">fall_Thu10:</date></context> <dialogue>"You have a leaf in your hair. Let me get it for you.#$e#...$h"</dialogue> #!String</p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue>"Oh man, it's so cold...$s"</dialogue> #!String</p>
+<p><context>winter_Mon:</context> <dialogue>"Did you see the snowman I built?$h"</dialogue> #!String</p>
+<p><context>winter_Tue:</context> <dialogue>"My hair gets so frizzy in this dry weather. *sigh*"</dialogue> #!String</p>
+<p><context>winter_Wed:</context> <dialogue>"I guess winter is a good time to work on my gadgets.#$e#I wonder if I could make anything useful for farmers?"</dialogue> #!String</p>
+<p><context>winter_Thu:</context> <dialogue>"Hey! What's up?#$e#It's a good time to explore the caves.#$e#I would go but my Dad would flip."</dialogue> #!String</p>
+<p><context>winter_Fri:</context> <dialogue>"I hope I don't catch the flu this year."</dialogue> #!String</p>
+<p><context>winter_Sat:</context> <dialogue>"Have you built a furnace yet?#$e#You can use them to turn raw material like ores into more useful products.$u"</dialogue> #!String</p>
+<p><context>winter_Sun:</context> <dialogue>"I get so sleepy when it's cold..."</dialogue> #!String</p>
+<p><context><date season="winter">winter_Sat2:</date></context> <dialogue>"Hey, if any of your farming machines need to be fixed, just let me know.$h"</dialogue> #!String</p>
+<p><context><date season="winter">winter_Tue4:</date></context> <dialogue>"Hey, do you have any ideas for a new gadget I can make?#$e#Mhmm. I trust your opinion."</dialogue> #!String</p>
+<p><context><date season="winter">winter_Fri6:</date></context> <dialogue>"You look fresh today. I guess it's that crisp winter air."</dialogue> #!String</p>
+<p><context><date season="winter">winter_Mon8:</date></context> <dialogue>"Hi @!$h#$e#Hey, don't you think my snowman looks kind of like you?"</dialogue> #!String</p>
+<p><context><date season="winter">winter_Thu10:</date></context> <dialogue>"@, come closer. I'm cold.$l#$e#My hands are so dry from the winter air. I'm sorry about that.$l"</dialogue> #!String</p>
+</xml>
