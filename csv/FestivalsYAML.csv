@@ -1,0 +1,405 @@
+character,scene,dialogue
+fall16,name,Stardew Valley Fair
+fall16,conditions,Town/900 1500
+fall16,set-up,fallFest/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Fair/viewport -1000 -1000/loadActors Set-Up/advancedMove Vincent true -3 0 2 5000 3 0 2 5000/advancedMove Jas true 2 0 4 5000 -2 0 4 5000/advancedMove Marnie true -2 0 4 5000 2 0 2 5000/advancedMove Abigail true 4 6000 5 0 0 3 2 6000 0 -3 -5 0/advancedMove Robin true 0 1 1 5000 0 -2 3 5000 0 1 1 5000/animate Sebastian false true 200 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 20 22 22 23/addTemporaryActor BabyPig 32 32 65 68 2 false Animal/addTemporaryActor Pig 32 32 65 70 3 false Animal/addTemporaryActor White_Chicken 16 16 59 67 2 false Animal/addTemporaryActor Brown_Chicken 16 16 61 67 2 false Animal/addTemporaryActor White_Cow 32 32 59 72 0 false Animal/addTemporaryActor BabyWhite_Cow 32 32 61 72 1 false Animal/advancedMove BabyPig true 0 1 3 5000 0 -1 0 7000/advancedMove Pig true 3 5000 0 1 1 5000 0 -1 3 5000/advancedMove White_Chicken true 1 0 2 7000 -1 0 2 10000/animate Brown_Chicken false true 500 16 17/viewport 22 22 true unfreeze/globalFadeToClear/pause 2000/playerControl fair
+fall16,Abigail_spouse,I beat all these games last year!$h
+fall16,Leah_spouse,"I learned all of Robin's techniques last year, but she's always one step ahead of me!"
+fall16,Maru_spouse,mumph... This is my one chance to pig out on barbecue sandwiches.
+fall16,Penny_spouse,I hope we win the grange display contest!
+fall16,Haley_spouse,Did you remember to bring good stuff for our grange display? I hope we win this year.
+fall16,Sebastian_spouse,"Hey, @. I'm just catching up with Sam. Go ahead and have some fun."
+fall16,Sam_spouse,Sebastian's the same as always. Are you having fun at the festival?
+fall16,Alex_spouse,I'm just catching up with some old friends... you go on and have a good time.
+fall16,Harvey_spouse,I'll wait here until you're ready to go home...
+fall16,Elliott_spouse,"The smokey aroma drew me here, yet 'twas the zesty sauce that truly sealed my fate... *gurgle*$s"
+fall16,Abigail,I already beat all the games... now what?
+fall16,Robin,Woodworking is an ancient tradition that I'm very proud to be a part of.$h
+fall16,Demetrius,Robin really works hard on her carpentry stuff... she deserves a little recognition now and then.
+fall16,Maru,*slurp* mmm... this barbecue sauce is amazing.$h
+fall16,Sebastian,It's kinda hectic today... I'm just gonna hang out here for a while.
+fall16,Pierre,"My store carries the very finest quality products in the whole valley. Please, inspect my grange display closely and see for yourself!"
+fall16,Caroline,"Hey, best of luck to you if you enter!$ePierre is very serious about his grange display. He's been setting aside the best-looking produce for weeks in preparation."
+fall16,Linus,These animals never judge people by their looks. The same can't be said for humans.
+fall16,Alex,I played the 'Strength' game too many times and now my arms feel like rubber.
+fall16,George,Hmm... smoked turkey haunch? I guess this festival isn't all bad.$h
+fall16,Evelyn,"I wish Gus would include a vegetarian option. Some zucchini skewers, maybe?"
+fall16,Lewis,"If you'd like to participate by setting up a grange display, I've left an empty stand for you. Just let me know after you've set everything up so we can get to the judging.$bWell @, It's the big day... Our most important festival of the year, the 'Stardew Valley Fair'."
+fall16,Clint,"These are some of my finest pieces. I hope you like them.$bI complain about my job sometimes, but I do take pride in my work."
+fall16,Emily,"You know, I would've made a pretty good clown. I think I missed my calling."
+fall16,Penny,I won the wheel of chance ten times in a row and now the man won't let me play anymore...$s
+fall16,Pam,"Better hurry up, kid... Before ol' Pam here fishes every last lunker out of the tent! Hehe.$h"
+fall16,Haley,I already saw her... she told me something... interesting. *giggle*$h$eHave you been to the fortune teller? She set up her stand in the graveyard.
+fall16,Jodi,He doesn't look very happy... I guess Mayor Lewis had to cut costs with a budget clown this year.
+fall16,Kent,Pretty disappointing.$eI'm waiting for this clown to start doing something funny.
+fall16,Sam,"The slingshot tent is pretty fun, and if you get good at it you can really rack up the star tokens.$eHey @. Having a good time?"
+fall16,Leah,I really admire Robin's carpentry skills. I use a lot of the same techniques in my own line of work.
+fall16,Shane,All these animals are friendly and love to get massaged.
+fall16,Marnie,"Well, maybe the judges will give me bonus points for the massive cheese wheel.$eI tried my best, but my display is pretty weak compared to Pierre's.$s"
+fall16,Elliott,"I'm trying to get Gus to tell me his sauce recipe, but he won't budge."
+fall16,Gus,Oh! Make sure to dribble some of my secret sauce on there.$eEat as much as you like! It's all free today... compliments of Mayor Lewis.$h
+fall16,Dwarf,Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.$eYou say it's raining up above? *gasp*
+fall16,Wizard,"Was it the school of illusion? Or maybe the Carnival of Secrets? Hmm...$eThat clown... I know him from somewhere.$e...$eWelwick and I have known each other for a long time... she is a remarkable diviner, and a good friend."
+fall16,Harvey,"I've got some soul-searching to do...$11$eAnd just a few steps over there, Gus is grilling up a batch of pork ribs... Yikes.$s"
+fall16,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+fall16,Jas,Ow! A hen pecked my little finger!$u
+fall16,Vincent,Moooo!
+fall16,Marlon,So do his prices...$eClint's blades get sharper every year.
+fall16,Willy,"Are you setting up a grange display, @? It's your chance to show off all the good produce from %farm!"
+fall16,Leo,Haha! I've never seen anything like this before...$h
+fall27,name,Spirit's Eve
+fall27,conditions,Town/2200 2350
+fall27,shop,BO 113 5000 1 O 746 750 5 BL 746 2000 1 BO 47 350 -1 F 2870 4000 -1
+fall27,set-up,spirits_eve/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Maru true 0 2 2 0 0 3 -11 0 0 -7 5 0 0 2 4 0/advancedMove Alex true -4 0 4 4000 4 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Pam true 0 1 1 5000 0 -1 1 5000/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/playerControl halloween
+fall27,Abigail_spouse,"You'll have to tell me what's beyond, I can't go on... spiders...$s"
+fall27,Leah_spouse,I may have had a little too much pumpkin ale...
+fall27,Maru_spouse,I'm confused... you go on ahead and let me figure this out.
+fall27,Penny_spouse,Oh... These vapors... Hmmm... You look nice tonight.$l
+fall27,Haley_spouse,I get scared easily... I think I'm just going to stay right here.$s
+fall27,Sebastian_spouse,It would be interesting to have one of these on the farm.
+fall27,Sam_spouse,"Hey, I was wondering when you'd show up!$h"
+fall27,Harvey_spouse,Hi... I was hoping you'd find me here...$l
+fall27,Elliott_spouse,Mmph... I believe I've eaten a few too many slices of pumpkin pie.
+fall27,Abigail,I can't go on... spiders...$s
+fall27,Robin,"Well, winter's almost here. It's a great time to stockpile wood and stone."
+fall27,Demetrius,I haven't seen Maru in hours... I hope she's alright.
+fall27,Maru,"I'm lost...$s$eI think I've already been this way... no, wait...$s"
+fall27,Sebastian,It's pretty cool though.$eI have no idea how these skeletons are walking... creepy.
+fall27,Pierre,??
+fall27,Caroline,I get scared very easily. I'll leave the haunted maze to the younger people.
+fall27,Linus,"Good show, old friend."
+fall27,Alex,There's gotta be a secret passage somewhere around here.$eThere's something weird over there. But how do I get to it?
+fall27,George,Hmm... smoked turkey haunch? I guess this festival isn't all bad.$h
+fall27,Evelyn,"I wish Gus would include a vegetarian option. Some zucchini skewers, maybe?"
+fall27,Lewis,"That strange man who lives in the tower set it all up himself. He wouldn't let anyone near while he was working on it.$eGood evening, @. Have you ventured into the haunted maze yet? It's quite spooky."
+fall27,Clint,One of my iridium-infused maces would make quick work of these things.
+fall27,Emily,Do you like the jack-o-lanterns? I carved them myself.
+fall27,Penny,"The vapor from this cauldron... it's making my head spin, but I can't seem to leave...$u"
+fall27,Pam,"I'll come to any event with free grub! You won't see me in the haunted maze, though."
+fall27,Haley,Eek! I'm too scared.$s
+fall27,Jodi,Vincent's upset that I won't let him go into the haunted maze... but he's just a little boy!
+fall27,Kent,"Hey, @. Nice evening, isn't it?"
+fall27,Sam,"I could've sworn there was someone ahead of me when I went through the maze, though. Where'd they go?$eThat's odd... It's just a dead end up ahead."
+fall27,Leah,"Mm, hi. Sorry... mouth full of blackberries."
+fall27,Marnie,"It's starting to get quite cold... crops won't hold out for much longer.$eHi, @. Have you had a productive fall?"
+fall27,Elliott,"Why, hello @. It's chilly, isn't it?"
+fall27,Gus,It's a lot of fun to cook with pumpkin. Such an interesting fruit.
+fall27,Dwarf,Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.$eYou say it's raining up above? *gasp*
+fall27,Wizard,"It was for them that I created this silly maze.$eThe affairs of mundane folk matter little to me, but the elementals like a chance to see you up close."
+fall27,Harvey,"The truth is, I got too scared so I came here to hide. Don't tell anyone.$s$bOh! You found me...$8"
+fall27,Shane,Why is there no more pumpkin ale?
+fall27,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+fall27,Jas,But Aunt Marnie! I wanna go in the maze! I'm not scared!$s
+fall27,Vincent,Mother won't let me go in the maze. *sob*$s
+fall27,Marlon,Don't get too close to the cage.
+fall27,Leo,%Leo's unblinking eyes are glued to the screen. You're unable to get his attention.
+spring13,name,Egg Festival
+spring13,conditions,Town/900 1400
+spring13,shop,BO 36 400 -1 BO 107 2000 1 O 745 100 -1 BO 184 350 -1 BO 188 350 -1 F 1684 500 -1 F 2624 1000 -1 F 2632 1000 -1
+spring13,set-up,fallFest/27 60/farmer 12 54 1/changeToTemporaryMap Town-EggFestival/loadActors Set-Up/advancedMove Vincent true -2 0 0 -2 2 0 0 2/advancedMove Jas true 2 0 0 2 -2 0 0 -2/advancedMove Leo true 0 -2 2 0 0 2 -2 0/advancedMove Pam true 0 -1 3 5000 0 2 3 5000 0 -1 3 4000/advancedMove Clint true 1 7000 0 1 3 7000 0 -1/advancedMove Demetrius true 2 15000 -3 0 0 8 3 20000 0 -8 3 0/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/advancedMove Shane true 4 40000 2 0 0 2 1 35000 0 -2 -2 0/advancedMove Harvey true 0 6 -6 0 0 9 -3 0 3 15000 3 0 0 3 20 0 0 -8 1 0 0 -11 -15 0 0 1 2 30000/playerControl eggFestival
+spring13,afterEggHunt,"Now if only I could get you kids to pick up litter this efficiently, we'd have the cleanest town this side of the Gem Sea! *chuckle*$h""/pause 800/playMusic none/speak Lewis ""And now, the winner of this year's egg hunt...""/playMusic none/pause 3000/cutscene eggHuntWinner/null/playMusic event1/pause 500/fork AbbyWin/move Lewis 0 1 2/speak Lewis ""Here's your prize! Enjoy.""/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis ""Well, that's it for this year's Egg Festival. Thanks for coming, everyone!""/pause 600/viewport move 1 0 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end$bpause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/globalFade/viewport -1000 -1000/playMusic event1/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 26 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true/pause 2000/speak Lewis ""Wow, look at all these eggs!$h"
+spring13,AbbyWin,"pause 100/jump Abigail/faceDirection Vincent 3/pause 800/move Abigail 0 -1 0/faceDirection Vincent 0/speak Lewis ""Here's your prize, Abigail. Enjoy!""/pause 500/move Abigail 0 -1 0/playSound coin/pause 400/move Abigail 0 2 0/faceDirection Lewis 0/speak Lewis ""Well, that's it for this year's Egg Festival. Thanks for coming, everyone!""/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end"
+spring13,mainEvent,"pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 27 69 /warp farmer2 27 67/warp farmer3 32 67/warp farmer4 28 71/faceDirection farmer1 0/faceDirection farmer2 1/faceDirection farmer3 3/faceDirection farmer4 0/pause 1000/viewport 27 67 true unfreeze/pause 2000/speak Lewis ""It's time for the highlight of today's festivities... The Annual Spring Egg Hunt!$h""/pause 100/jump Jas/jump Vincent/pause 1000/speak Lewis ""Calm down now, kiddos. You're going to need all your energy if you hope to find the most eggs and take home the exclusive prize.""/pause 100/faceDirection Vincent 3 true/faceDirection Jas 1 true/pause 1000/faceDirection Vincent 0 true/faceDirection Jas 0 /pause 800/faceDirection Lewis 3/faceDirection Lewis 2/faceDirection Lewis 1/faceDirection Lewis 2/pause 800/speak Lewis ""Now... Is everyone ready?""/pause 1000/waitForOtherPlayers startContest/jump Lewis/pause 1000/speak Lewis ""Let the egg hunt begin!$h""/advancedMove Maru false -2 0 0 6 -9 0 0 -2 -9 0 0 -1 2 0 0 -12 6 0 0 -7 3 0/advancedMove Abigail false 0 21 -20 0 0 3 7 0 0 -15 -9 0 9 0 0 18/advancedMove Jas false 0 12 8 0 0 10 3 0 0 4 14 0 0 -20 -6 0 0 3/advancedMove Sam false 4 0 0 -4 2 0 0 -4 12 0 0 -6 19 0 0 20 0 -20 0 20/advancedMove Vincent false 0 3 24 0 0 21 9 0 0 4 -20 0 20 0 -20 0/advancedMove Leo false 0 -10 -1 0 0 -3 -6 0 0 -2 -3 0 0 -3 -1 0 0 20 -5 0 0 -10 -2 0/playSound whistle/playMusic tickTock/playerControl eggHunt"
+spring13,Abigail_spouse,"Go away, we're adversaries until the egg hunt is over!$h"
+spring13,Leah_spouse,"I never had many friends in town, so these events are always kind of boring for me. I enjoy the buffet, though."
+spring13,Maru_spouse,I'm just catching up with Penny. Have you had your fill of eggs?
+spring13,Penny_spouse,Maru's trying to convince me to eat a deviled egg. I'm just not sure I can stomach it...
+spring13,Haley_spouse,"I was going to eat some eggs, but then I remembered I'm on a spring diet."
+spring13,Sebastian_spouse,I'll be rooting for you in the egg hunt.$h
+spring13,Sam_spouse,The gang's just the same as always. Are you having a good time?
+spring13,Alex_spouse,Ungh... I think I ate a dozen too many hard boiled eggs...$s
+spring13,Harvey_spouse,How is everyone doing? I'm just taking a break for a little while. I'm looking forward to seeing you in the egg hunt!
+spring13,Elliott_spouse,"I enjoy seeing you so relaxed, my dear.$h"
+spring13,Abigail,Searching for eggs is like going on a treasure hunt.$h
+spring13,Robin,Spring is a busy time of year... so it's nice to have a day off to catch up with friends.
+spring13,Demetrius,Egg... what a strange thing to eat.
+spring13,Maru,I always look forward to these gatherings... it makes the valley feel like a real community.
+spring13,Sebastian,Mayor Lewis put an end to that pretty quick.$bWe used to do a rotten egg toss...
+spring13,Linus,No one really talks to me... I just come for the deviled eggs.
+spring13,Pierre,Don't touch anything.$bHey! How'd you get back here?$u
+spring13,Caroline,"Abby's always loved the egg hunt, ever since she was a tiny girl."
+spring13,Alex,I need that protein for my legs.$eI try to eat at least three eggs every day.
+spring13,George,Eggs... why eggs?$bWhat's everyone so happy about? Hmmph...
+spring13,Evelyn,Tradition connects us with both the past and the future... it's comforting.$bThis festival has been a tradition for as long as I can remember.
+spring13,Lewis,"Enjoying yourself, @?$h"
+spring13,Clint,Is there any more food?$s
+spring13,Penny,The children have been looking forward to this festival for weeks.
+spring13,Pam,"Shhh... that's just between you and me, kid.$eHehe... I put something nice into the punch.$h"
+spring13,Emily,I've been up since dawn coloring eggs... it's always my favorite part of the season.$h
+spring13,Haley,This festival is alright... but what I'm really looking foward to is the Flower Dance.
+spring13,Jodi,Vincent loves this festival... it's a joy to see him so happy.
+spring13,Kent,"I'm not a big fan of eggs, to tell you the truth."
+spring13,Marlon,"Even with my bad leg, I never miss a town festival."
+spring13,Sam,*sniff*... ub... my doze... allergies...$s
+spring13,Leah,Mmmm... This fruit punch is unusually good.$h
+spring13,Shane,They deserve the best tonight... bowls full of sweet yellow corn!$h$bOur hens have been working overtime to prepare for this festival.
+spring13,Marnie,Welcome to the Egg Festival... complements of my wonderful brood of hens.
+spring13,Elliott,Taking breaks from work can make you more productive in the long run.
+spring13,Gus,"Fried eggs, boiled eggs, poached eggs, deviled eggs, scrambled eggs, chocolate eggs... you name it!$h$bI hope everyone's enjoying the food... I've been cooking for days to get everything ready."
+spring13,Dwarf,Rain... it's almost mythical to us. Some of us live our entire lives without ever experiencing it.$eYou say it's raining up above? *gasp*
+spring13,Wizard,Hmm... And what about raw lizard egg sprinkled with blackened marrow?
+spring13,Harvey,Oops... I should take off my Doctor's hat for the time being.$11$eEggs definitely have a place in the well-balanced diet.
+spring13,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+spring13,Jas,I hope I can find some eggs before Vincent takes them all...$s
+spring13,Vincent,When does the egg hunt start?! I'm so excited!!$h
+spring13,Willy,"Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe. $h$bSometimes I'll hide an egg too well and no one finds it..."
+spring13,???,"Ah, the sewers are flowing quickly today. It'll get nice and humid in here... just how I like it."
+spring13,Leo,"Oh well, I'll join in anyway!$h$bThe idea of an egg hunt is a little bit weird... but I guess the eggs don't belong to any of my family members...$s"
+spring13,Abigail_y2,"$y 'Do you think I'm too old to do the egg hunt?_Yes_Hmmph... you sound like my Mom!$a_No_Yeah, I guess so. If I'm still having fun, why stop?'"
+spring13,Robin_y2,"It feels great to be outside again after that long, cold winter, doesn't it?"
+spring13,Demetrius_y2,"...What? It is the 'egg' festival, isn't it?$bHey @, did you get a taste of my carp roe pie?"
+spring13,Maru_y2,Think you'll win the egg hunt this year?
+spring13,Sebastian_y2,"You know what? I kind of miss the winter... it's simpler, in a way."
+spring13,Linus_y2,I'll just slip in a little later and have some food. I'm eyeing that scrumptious looking pie!
+spring13,Pierre_y2,"Trying to make a back-room deal, huh? Hah! I admire your gumption."
+spring13,Caroline_y2,"It may be a little boring, but these festivals are a good chance to connect with our neighbors."
+spring13,Alex_y2,I wonder what would happen to my arms and legs if I ate thirty eggs a day?
+spring13,George_y2,"Evelyn made eggs and leeks for breakfast, so I'm in a good mood.$h"
+spring13,Evelyn_y2,"$y 'Do you have hens on your farm?_Yes_Oh, good! I'm sure they lay the most delicious eggs...$h_No_Spring would be a great time to start raising chickens, don't you think?"
+spring13,Clint_y2,Oh no... *gulp*... It's mostly salad this year...$s
+spring13,Penny_y2,It would be good for him to feel like he's a contender.$bHopefully Vincent will be able to find an egg this year... 
+spring13,Pam_y2,"Hey... If you're gonna feed me eggs, I'm gonna need some hot sauce, kid!"
+spring13,Emily_y2,This year I sewed little pants and hats for some of the eggs. They look adorable!$h
+spring13,Haley_y2,Oh! I still need to get my photo taken at the bunny stand. Does my hair look okay?
+spring13,Jodi_y2,Kent always seems a little antsy during big gatherings like this...
+spring13,Marlon_y2,Have you ever hunted for slime eggs? Now there's a true challenge...
+spring13,Leah_y2,Hmm... The punch isn't as good as last year. It's missing something!
+spring13,Shane_y2,Some of these eggs were laid just this morning. See? They're still warm!
+spring13,Marnie_y2,"That means happier hens and better eggs...$h$bHens lay the eggs, but roosters play an important role, too... they protect the hens and prevent them from fighting with each other!"
+spring13,Elliott_y2,Be careful you don't accidentally take a raven's egg. They'll hold a grudge against you for the rest of their days!
+spring13,Gus_y2,"Shh... don't tell anyone, but I tried something different this year... Duck eggs in the custard!$h"
+spring13,Harvey_y2,"Eggs are fine, but I'd advise against eating thirty per day!"
+spring13,Jas_y2,I'm going to try my best to win this year!
+spring13,Vincent_y2,I want to live inside a big egg!
+spring13,Willy_y2,"Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!"
+spring24,name,Flower Dance
+spring24,conditions,Forest/900 1400
+spring24,shop,BO 48 350 -1 BO 192 350 -1 BO 204 350 -1 BO 108 250 -1 BBL 108 1000 1 O 18 50 10 O 22 50 10 BO 137 2500 1 F 1973 800 -1 F 1974 800 -1 F 1820 400 -1 F 1821 400 -1
+spring24,set-up,event1/22 22/farmer 76 17 1/changeToTemporaryMap Forest-FlowerFestival/loadActors Set-Up/advancedMove Vincent true -6 0 0 -1 6 0 0 1/advancedMove Jas true 1 0 0 1 -6 0 0 -1 5 0/advancedMove Pam true 2 25000 0 -3 4 0 4 25000 -4 0 0 3/advancedMove Haley true 0 1 2 3000 2 0 0 -1 -2 0 3 500 4 500 1 500 2 500 2 0 1 500 2 500 3 500 4 500 0 2 0 -2 -2 0/advancedMove Caroline true 7 0 0 1 1 18000 0 -1 -7 0 3 18000/advancedMove Willy true 2 25000 -4 0 0 -12 4 0 0 -1 4 30000 0 1 -4 0 0 12 4 0/playerControl flowerFestival
+spring24,mainEvent,"pause 500/playMusic none/pause 500/globalFade/viewport -1000 -1000/loadActors MainEvent/warp farmer1 5 21/warp farmer2 11 21/warp farmer3 23 21/warp farmer4 12 21/faceDirection farmer1 2/faceDirection farmer3 2/faceDirection farmer4 2/faceDirection farmer 2/warp Girl1 13 24/warp Girl2 15 24/warp Girl3 11 24/warp Girl4 9 24/warp Girl5 17 24/warp Girl6 19 24/warp Guy1 13 27/warp Guy2 15 27/warp Guy3 11 27/warp Guy4 9 27/warp Guy5 17 27/warp Guy6 19 27/showFrame Girl1 40/showFrame Girl3 40/showFrame Girl5 40/showFrame Girl4 40/showFrame Girl2 40/showFrame Girl6 40/showFrame Guy6 44/showFrame Guy5 44/showFrame Guy4 44/showFrame Guy3 44/showFrame Guy2 44/showFrame Guy1 44/viewport 14 25 clamp true/pause 2000/playMusic FlowerDance/pause 600/animate Girl1 false true 600 43 41 43 42/animate Girl6 false true 600 43 41 43 42/animate Girl3 false true 600 43 41 43 42/animate Girl5 false true 600 43 41 43 42/animate Girl4 false true 600 43 41 43 42/animate Girl2 false true 600 43 41 43 42/animate Guy5 false true 600 44 45/animate Guy6 false true 600 44 45/animate Guy3 false true 600 44 45/animate Guy2 false true 600 44 45/animate Guy4 false true 600 44 45/animate Guy1 false true 600 44 45/pause 9600/animate Girl1 false true 600 46 47/animate Girl6 false true 600 46 47/animate Girl3 false true 600 46 47/animate Girl5 false true 600 46 47/animate Girl4 false true 600 46 47/animate Girl2 false true 600 46 47/animate Guy5 false true 300 46 47/animate Guy6 false true 300 46 47/animate Guy3 false true 300 46 47/animate Guy2 false true 300 46 47/animate Guy4 false true 300 46 47/animate Guy1 false true 300 46 47/positionOffset Guy1 0 -2/positionOffset Guy6 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/pause 300/positionOffset Guy6 0 -2/positionOffset Guy1 0 -2/positionOffset Guy4 0 -2/positionOffset Guy3 0 -2/positionOffset Guy2 0 -2/positionOffset Guy5 0 -2/animate Girl1 false true 600 43 41 43 42/animate Girl6 false true 600 43 41 43 42/animate Girl3 false true 600 43 41 43 42/animate Girl5 false true 600 43 41 43 42/animate Girl4 false true 600 43 41 43 42/animate Girl2 false true 600 43 41 43 42/animate Guy5 false true 600 44 45/animate Guy6 false true 600 44 45/animate Guy3 false true 600 44 45/animate Guy2 false true 600 44 45/animate Guy4 false true 600 44 45/animate Guy1 false true 600 44 45/pause 7600/stopAnimation Girl3/stopAnimation Girl6/stopAnimation Girl5/stopAnimation Girl2/stopAnimation Girl1/stopAnimation Girl4/stopAnimation Guy3/stopAnimation Guy2/stopAnimation Guy6/stopAnimation Guy1/stopAnimation Guy5/stopAnimation Guy4/pause 3000/globalFade/viewport -1000 -1000/message ""That was fun! Time to go home...""/waitForOtherPlayers festivalEnd/end"
+spring24,Abigail,Mom makes me do it.$u$eI really hate dancing in front of everyone... It's so embarrassing.
+spring24,Robin,Ahh... The air smells so sweet with all these flowers.$h
+spring24,Demetrius,"Hey... You should know about this stuff, farmer.$eThese springtime dances can be traced back to ancient fertility rituals."
+spring24,Maru,"I like dancing, but this one is a little stilted. The old timers really love it, though."
+spring24,Sebastian,Ugh...
+spring24,Linus,"Spring is almost over... what a shame.$bOh, hello there. It's nice of you to talk to me."
+spring24,Pierre,Don't touch anything.$bWhat! How'd you get back here?$u
+spring24,Caroline,I wish Pierre would spend this time with the family...$s
+spring24,Alex,I'm just enjoying the scenery... hehe.
+spring24,George,It's too bright out here!$eFlowers? I can hardly see them.
+spring24,Evelyn,I've been working on these floral arrangements for a week. Do you like them?
+spring24,Lewis,"If you'd like to dance with the other young people, you'll need to find a partner."
+spring24,Clint,I wonder if Emily would dance with me?
+spring24,Penny,*gulp*... I'm nervous.$s
+spring24,Pam,"Now this is the life... Huh, kid? Sweet wine, a babbling brook, warm air... Did I mention wine?"
+spring24,Emily,"Whoo... I'm stuffed. Hey, have you tried the red jelly yet?"
+spring24,Haley,I've been flower queen for the past 5 years and I'm not ready to step off the throne just yet!$eI'm practicing my dance moves... It needs to be perfect.
+spring24,Jodi,"Are you going to be dancing today, @?$h"
+spring24,Kent,"*whisper* Happy thoughts, Kent. Happy Thoughts.$eThis open field... it makes me nervous."
+spring24,Marlon,Marnie looks lovely today...
+spring24,Sam,You know what? I admit it... I really like flowers!
+spring24,Leah,Hi @. Glad to see you here.$h
+spring24,Shane,"*crunch* ...ow.$s$bAh, this green stuff is spicy! *munch*$eMmm... excellent sauce. *slurp*"
+spring24,Marnie,*sigh*... Love is in the air... And I'm still single.$s
+spring24,Elliott,I wore my best shirt for the dance... This sort of thing doesn't happen very often!
+spring24,Gus,Frog season is really starting to pick up.
+spring24,Dwarf,Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.$eYou say it's raining up above? *gasp*
+spring24,Wizard,You shouldn't be up here.
+spring24,Harvey,I'm working up the courage to ask someone to dance with me.$11
+spring24,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+spring24,Jas,"Some day, I'm going to be the flower queen!"
+spring24,Vincent,That's not fair... Why can't I be the flower queen?
+spring24,Willy,I should've brought my fishing pole.
+spring24,Leo,"I wonder if I'll ever have to get up there and dance...$u$eThe flowers here are nice, but they aren't as colorful as back home!$h"
+summer11,name,Luau
+summer11,conditions,Beach/900 1400
+summer11,shop,F 2654 1000 -1 F 2627 800 -1 F 2628 800 -1 F 2629 800 -1 F 2630 800 -1 F 1817 400 -1 F 1818 400 -1 F 1819 400 -1 F 1295 1000 -1 O 268 3000 1 F 2397 700 -1
+summer11,set-up,event2/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Luau/loadActors Set-Up/addTemporaryActor Governor 16 32 32 4 2/advancedMove Vincent true 3 0 3 3000 -3 0 3 3000/advancedMove Jas true 3 0 1 3000 -3 0 1 3000/advancedMove Pam true 4 25000 -5 0 4 20000 5 0/advancedMove Gus True 0 -1 3 4000 0 1 3 4000/advancedMove Shane true 1 10000 0 1 1 10000 0 -1/advancedMove Clint true 4 15000 -3 0 4 15000 6 0 4 10000 -3 0/animate Emily false true 250 16 17 16 17 20 21 20 21 18 19 18 19 22 23 22 23/animate Robin false true 500 20 21 20 22/animate Demetrius false true 500 24 25 24 26/animate Marnie false true 200 17 18 17 19/positionOffset Marnie 0 16/viewport 38 2 clamp true/pause 1000/playerControl luau
+summer11,mainEvent,"I trust that you all put high-quality ingredients in the pot this year. We don't want the governor to regret his visit to the valley!""/pause 1000/faceDirection Lewis 3/pause 500/speak Lewis ""Well... Governor? Would you do us the honor of tasting the soup?""/pause 500/speak Governor ""Of course! I've been looking forward to this all year.""/playMusic none/pause 500/move Governor 0 1 2/pause 1000/playSound dwop/showFrame Governor 8 true/pause 1000/animate Governor false false 200 8 8 9 10 11 11/pause 1100/playSound sipTea/pause 1000/playSound gulp/pause 500/showFrame Governor 8 true/animate Governor false false 200 11 10 9 8/pause 900/speak Governor ""...$h""/pause 300/cutscene governorTaste/null$bpause 500/playMusic ocean/globalFade/viewport -1000 -1000/loadActors MainEvent/addTemporaryActor Governor 16 32 35 10 2/warp farmer1 33 19/warp farmer2 32 19/warp farmer3 40 19/warp farmer4 28 9/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 1/viewport 35 12 true/pause 2000/faceDirection Lewis 3/pause 100/faceDirection Lewis 2/pause 100/faceDirection Lewis 1/pause 100/faceDirection Lewis 2/speak Lewis ""Well folks, it's time once again for the potluck ceremony."
+summer11,governorReaction6,"And to ruin a perfectly good soup... unforgivable! I've never been more ashamed of this community... Truly disgusting.$4""/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis ""Go home, the festival is over.$s""/pause 500/globalFade/viewport -1000 -1000/message ""I guess the 'little prank' didn't go over too well...""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end$bI've never been so insulted in all my life!$1""/pause 600/showFrame Governor 13/playSound throw/specificTemporarySprite luauShorts/pause 500/jump Lewis/pause 1000/speak Governor ""Blech... my tongue is swelling up... I think I'm going to be sick.$u""/pause 400/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport 35 12 true/pause 1000/speak Lewis ""Whoever took part in this appalling act is truly reprehensible. Using my very private item for this sick purpose!$4$bpause 1000/playMusic ocean/speak Governor ""Hmm... It's a bit tangy... but actually, the flavor is quite good!""/pause 600/emote Governor 8/speak Governor ""Just one minute... there's something in my bowl... what's this?$2""/pause 500/showFrame Governor 14/playSound slimeHit/jump Governor/pause 500/showFrame Lewis 24/jump Lewis/textAboveHead Lewis ""Whaaaat?!""/showFrame Emily 26/pause 1000/showFrame Marnie 16/jump Marnie/textAboveHead Marnie ""*gasp*""/pause 1000/shake Governor 2000/emote Governor 12/pause 500/showFrame Emily 4/showFrame Marnie 8/speak Governor ""This... This is outrageous!$1"
+summer11,governorReaction5,"Did everyone in town contribute an ingredient to the soup? I feel like it's missing someone's unique voice.""/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis ""You're right... It's a little bland.$s""/pause 1000/speak Lewis ""Well, thanks for joining us this year, Governor. Sorry the soup wasn't anything special.""/pause 500/faceDirection Lewis 2/speak Lewis ""Now... who else wants some soup?""/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message ""The soup was bland, but the luau was still fun!""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end$bemote Governor 40/pause 400/speak Governor ""Hmmm... Well it's not bad, but it's missing something...$s"
+summer11,governorReaction4,"emote Governor 16/pause 600/shake Governor 1000/jump Governor/pause 800/playMusic SettlingIn/speak Governor ""Oh my... that's the best soup I've ever tasted!$h""/shake Governor 5000/animate Governor false true 100 9 10 11 11 10/pause 800/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis ""You're right... It's delicious!$h""/pause 500/faceDirection Lewis 2/speak Lewis ""Wonderful job, everyone! Now... who else wants a taste?$h""/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message ""The Governor wasn't kidding... the soup was out of this world!""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end"
+summer11,governorReaction3,"emote Governor 32/pause 400/playMusic jaunty/speak Governor ""Ah... that's a very pleasant soup. The produce from this valley never disappoints!""/showFrame Governor 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis ""Mmm... tasty. You all did very well today.""/pause 500/faceDirection Lewis 2/speak Lewis ""Now... who else wants some soup?""/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message ""The Luau was a success! Good thing I brought something tasty for the soup.""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end"
+summer11,governorReaction2,"pause 400/playMusic ocean/speak Governor ""Hmm... I don't have much to say about this. It's an average soup.""/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis ""He's right... It's nothing special. Not bad, though.""/pause 500/faceDirection Lewis 2/speak Lewis ""Well... who else wants some soup?""/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message ""The soup was just average, but otherwise the Luau was a success!""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end"
+summer11,governorReaction1,"emote Governor 28/pause 400/playMusic ocean/speak Governor ""Um... It's actually kind of disgusting. I think I'll pass on the soup this year.$s""/showFrame Governor 0/pause 400/showFrame Lewis 18/emote Lewis 28/pause 600/showFrame Lewis 0/pause 400/move Lewis 2 0 2/move Lewis 0 2 3/pause 500/animate Lewis false false 200 19 19 22 23 23 22 23 23 22 19 19/pause 800/playSound gulp/pause 600/playSound gulp/pause 1000/speak Lewis ""Yuck. Someone must have ruined it with a poor-quality ingredient.$s""/pause 500/faceDirection Lewis 2/speak Lewis ""Well... does anyone want any?""/faceDirection Marnie 0 true/advancedMove Gus false 0 -1 5 0 4 1000/advancedMove Jodi false 0 -2/advancedMove Clint false 0 1 -1 0 0 3 -2 0/advancedMove Emily false 3 0/advancedMove Pam false 0 2 7 0/pause 1000/globalFade/viewport -1000 -1000/pause 300/message ""The soup wasn't very good, but otherwise the Luau was a success!""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end"
+summer11,governorReaction0,"pause 500/showFrame Governor 13/pause 500/shake Governor 2000/emote Governor 12/pause 500/speak Governor ""Blech! This is vile! I think I'm going to be sick... $u""/showFrame Governor 13/jump Lewis/pause 800/speak Governor ""I need to lie down...$u""/globalFade/viewport -1000 -1000/pause 1000/warp Governor -100 -100/playSound slimedead/faceDirection Lewis 2/viewport 35 12 true/pause 1000/speak Lewis ""Good going, people... Whoever put that foul ingredient in the soup made the Governor pass out! I'm ashamed.$4""/pause 500/faceDirection Lewis 0/emote Lewis 12/speak Lewis ""Go home, the festival is over.$s""/pause 500/globalFade/viewport -1000 -1000/message ""What a disaster...""/pause 500/message ""Time to head home.""/waitForOtherPlayers festivalEnd/end"
+summer11,Governor,I must speak to the missus about purchasing a vacation home here.$eWhat a lovely occasion... It's always a joy to visit Stardew Valley.
+summer11,Abigail_spouse,Don't let me stop you from having fun today. I just feel like watching the sea by myself.
+summer11,Leah_spouse,"It's nice to see everyone once in a while, but mostly I want to get back to the farm."
+summer11,Maru_spouse,"Harvey keeps trying to talk to me, but all I want is a piece of this roast."
+summer11,Penny_spouse,I'm just humoring some old friends. What I really want is a bowl of that soup.
+summer11,Haley_spouse,"Phew... I'm afraid to move, or else I might start to sweat."
+summer11,Sebastian_spouse,I'm doing my best to stay in a good mood...
+summer11,Sam_spouse,I guess it wouldn't be very nice to put something nasty in the soup...
+summer11,Alex_spouse,"Hey, I'll take any excuse to come hang out at the beach. This weather is amazing!"
+summer11,Harvey_spouse,Oh dear... I've got sand in my socks...$s
+summer11,Elliott_spouse,The old cabin seems to be holding up well. Every time I return I half expect the thing to be rotted...
+summer11,Abigail,It's tiring to socialize with everyone... I'd rather watch the sea.
+summer11,Emily,%She's unresponsive.
+summer11,Robin,"Ow... you stepped on my foot, dear."
+summer11,Demetrius,"This is tiring, honey. Are you ready to visit the buffet soon? *pant*"
+summer11,Maru,Whatever Linus is roasting smells awfully good... *slurp*
+summer11,Sebastian,Ever wondered why Sam leads the town in community service hours?$h$eOne year Sam put a pound of anchovies in the potluck soup.
+summer11,Linus,"A slow, continuous rotation is key to achieving the perfect roast."
+summer11,Pierre,Now if only the Mayor would stop shmoozing with him all afternoon.$eI wonder if he likes aged whiskey?$bHmm... maybe if I get on the governor's good side he'll give my business a tax break...
+summer11,Caroline,I put fresh vegetables from my garden into the communal soup pot.
+summer11,Alex,"Perfect weather for a beach party, huh?"
+summer11,George,Can't I have a little peace and quiet to enjoy the ocean?$bThat music! It's too loud.
+summer11,Evelyn,Ahh... The smell of the ocean takes me back many years. Long before you were born.
+summer11,Lewis,If you brought something for the potluck make sure and add it to the soup cauldron.$bLook sharp! The governor's here for his annual visit.
+summer11,Clint,"I'm full, but what else is there to do besides eat?"
+summer11,Penny,Mayor Lewis hopes it will get the governor on our good side. That's why he's so neurotic about the way the soup tastes.$eWe do this festival every year to give the governor a taste of everything the valley has to offer.
+summer11,Pam,"Heh... free buffet. One of the perks of living here. Enjoy it, kid!"
+summer11,Haley,"I would dance, but I don't want to get sweaty."
+summer11,Jodi,I hope the soup is good this year.
+summer11,Kent,"Hey, good to see you."
+summer11,Marlon,I'll be back here by the trees... the air is a lot cooler.
+summer11,Sam,Why should I care about some random old guy?$eGovernor? Who cares...
+summer11,Leah,How's the farming coming along? It must be a busy season for you.
+summer11,Shane,Wow... you don't get hot pepper chutney like this in the big city...
+summer11,Marnie,"If you brought something for the soup, climb the stairs on the other side and throw it in."
+summer11,Elliott,"I forgot that today was the Luau.$h$eI woke up late, stepped out of the door and found myself in the middle of all this hubbub!"
+summer11,Gus,These blasted sand-flies keep landing on the food!
+summer11,Dwarf,Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.$eYou say it's raining up above? *gasp*
+summer11,Wizard,They become upset when you litter into the ocean.$eThe merpeople are curious about your festivities.
+summer11,Harvey,I wonder if Maru could use some sunscreen on her shoulders?$eGood thing I came with sunscreen.
+summer11,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+summer11,Jas,Vincent isn't a good dancer.
+summer11,Vincent,I'm bored...
+summer11,Willy,"To tell you the truth, I'd rather be fishing right now.$eHi there, @. Taking a breather?"
+summer11,Leo,Shhh... I'm learning the secrets of the perfect roast.
+summer28,name,Dance Of The Moonlight Jellies
+summer28,conditions,Beach/2200 2400
+summer28,shop,F 2626 800 -1 F 1687 1200 -1 F 1692 1200 -1 F 2631 1000 -1 F 2875 4000 -1 O 265 5000 1
+summer28,set-up,ocean/-1000 -1000/farmer 38 3 2/changeToTemporaryMap Beach-Jellies/loadActors Set-Up/advancedMove Vincent true 0 12 3 3000 2 0 1 3000 0 -12 -2 0 3 3000/advancedMove Jas true 0 2 3 5000 0 -2 3 5000/advancedMove Clint false 2 50000 -2 0 3 500 2 1000 3 1000 1 0 2 1000/advancedMove Harvey True 0 -12 -10 0 0 6 2 25000 0 -6 10 0 0 12 2 25000/viewport 38 2 clamp true/pause 1000/playerControl jellies
+summer28,mainEvent,"pause 500/globalFade/viewport -1000 -1000/changeLocation Beach/warp farmer1 28 36/warp spouse 29 36/positionOffset farmer 0 16/faceDirection spouse 2/warp farmer2 29 35/warp farmer3 34 36/warp farmer4 35 36/faceDirection farmer1 2/faceDirection farmer2 2/faceDirection farmer3 2/faceDirection farmer4 2/specificTemporarySprite candleBoat/viewport 26 36 true/pause 2000/move Lewis 0 1 2/move Lewis -2 0 3/pause 400/showFrame Lewis 16 true/animate Lewis false false 200 25 16 17 17/pause 800/playSound parry/specificTemporarySprite candleBoatMove/pause 500/showFrame Lewis 0 true/animate Lewis false false 200 25 12/pause 400/faceDirection Lewis 2/pause 6000/specificTemporarySprite moonlightJellies/pause 10000/playMusic moonlightJellies/pause 30000/viewport move -1 0 8000/pause 10000/viewport move 1 0 20000/pause 18000/globalFade/viewport -1000 -1000/pause 2000/pause 1000/message ""The glow of summer has faded, now... and the moonlight jellies carry on toward the great unknown.""/playMusic none/pause 2000/waitForOtherPlayers festivalEnd/end"
+summer28,Leah_spouse,Hey. I'm paying my respects to another bygone summer. I'll come meet up with you when we launch the candle-boat.
+summer28,Abigail,Such a rare and exciting thing... 
+summer28,Robin,"Hey, did you see that candle-boat? I crafted it myself.$h$e*yawn*... It's past my bed-time.$s"
+summer28,Demetrius,It's unknown why they are attracted to light... very curious.$eThe 'Moonlight Jelly'... what a remarkable species! We're very lucky that they stop here on their long journey south.
+summer28,Maru,"It's kind of cold, actually. I guess fall is right around the corner."
+summer28,Sebastian,"Just trying to scare you...$h$eI thought I saw something moving in there... something big, something dark."
+summer28,Pierre,Psst... Make sure to swing by the shop tomorrow to get your fall seeds!
+summer28,Caroline,"These candles are romantic, aren't they?"
+summer28,Linus,I'll just sneak up when the jellies arrive... I don't want to bother anyone.
+summer28,Alex,I can't believe summer's over... I feel like it just started.$s
+summer28,George,"What, why are you looking at me like that? You think I'm too old to enjoy something like this?"
+summer28,Evelyn,"But that was long ago... I'm a lot less energetic now.$eI remember seeing the jellies once, as a little girl. Oh, how I jumped with joy when they arrived!"
+summer28,Lewis,"Once we launch the candle-boat they'll come up to the docks and say hello.$bGood evening, @. The Moonlight Jellies are close... I already saw one glowing in the distance."
+summer28,Clint,I wore my special shoes tonight... No one noticed.$s
+summer28,Emily,"Eerie, isn't it?$bLook out there, at the endless sea. Deep underwater, all kinds of life forms are moving around in the dark."
+summer28,Penny,Life is so easy for a jellyfish... just letting the waves carry you onward forever.
+summer28,Pam,"Don't tell Gus, but I'm a little disappointed there's no buffet tonight."
+summer28,Haley,I should've brought my camera! I always forget.$s
+summer28,Jodi,Oh... It's gone.$s$bThere! I just saw something glowing!
+summer28,Kent,"Good evening, @. Hope you can find some time to relax before the harvest season."
+summer28,Sam,Maybe I shouldn't push Sebastian in the water after all...$h$eI wonder if they're poisonous?
+summer28,Leah,Hey. I'm paying my respects to another bygone summer. 
+summer28,Shane,"The jellies were here a year ago, and they'll be back again a year from now... nature is amazing."
+summer28,Marnie,That's a heavy load of people for an ancient wooden dock! I'll stay over here near the beach.
+summer28,Elliott,"What a shame... we have no respect for nature anymore.$eIf we keep polluting the oceans, the jellies will surely go extinct. It's already in the process of happening."
+summer28,Gus,"I would never try it, of course!$u$b'Moonlight Jellies'... I wonder how they taste?$h"
+summer28,Dwarf,Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.$eYou say it's raining up above? *gasp*
+summer28,Wizard,"I'm here to observe the Lunaloos... or 'Moonlight Jellies', as you call them. They possess an unusually potent magical aura for an aquatic life form.$ePerhaps you are blessed with the gift of clairvoyance.$bHow did you find me back here? I thought I was well-hidden."
+summer28,Harvey,"Well, summer's over. To be honest, I'll be happy to say goodbye to these blasted mosquitos!"
+summer28,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+summer28,Jas,I hope there are babies this year!
+summer28,Vincent,I wanna see the rare green jelly!
+summer28,Willy,Most night-fish would be scared of the light... these are strange ones.
+summer28,Leo,"The moonlight jellies are my old friends... they come to the island every year, too."
+winter25,name,Feast of the Winter Star
+winter25,conditions,Town/900 1400
+winter25,shop,F 2625 1000 -1 F 1745 800 -1 F 1747 500 -1 F 1678 1000 -1 F 1390 700 -1 F 807 3000 -1 F 2798 1000 -1 F 2634 1000 -1 F 2633 500 -1 F 2635 500 -1 F 2636 700 -1 F 1440 5000 -1 F 1296 800 -1
+winter25,set-up,christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas
+winter25,secretSanta,"none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta ""dialogue1""/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta ""dialogue2""/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2"
+winter25,Abigail_spouse,I wonder if I could lick one of those canes...
+winter25,Leah_spouse,I'm thankful for our simple life on the farm.$h
+winter25,Maru_spouse,"Hey, @. I'm ready to head home whenever you are."
+winter25,Penny_spouse,I'm thankful to have met you...$l
+winter25,Haley_spouse,"Me?... Oh, I'm thankful for... how about I just show you when we get home tonight?$l"
+winter25,Sebastian_spouse,"Hey, @. As you can see, I'm fulfilling my family obligations..."
+winter25,Sam_spouse,*yawn*... I'm here for the gifts and the cookies.$h
+winter25,Alex_spouse,What am I thankful for? I'll show you when we get back home...$l
+winter25,Harvey_spouse,I'm feeling a little overwhelmed... thank goodness for this crisp air...$l
+winter25,Elliott_spouse,"You don't need to get me anything, you've already given me the greatest gift of all...$l"
+winter25,Abigail,"Nothing like a piping hot feast on a cold winter's day, huh?$h"
+winter25,Robin,"Hiya, @. You're welcome to join our family table if you need company.$h"
+winter25,Demetrius,I'll probably get another tool set this year... *sigh*
+winter25,Maru,"Hi, @.$h"
+winter25,Shane,"I've met some people who believe in spirits, and magic... but me? I've never seen anything that couldn't be explained by science."
+winter25,Sebastian,Spending time with family is tiring sometimes.
+winter25,Pierre,"Boy, holidays are good for business. I wonder if I could invent some new ones...$eMy sales figures have been phenomenal lately... thanks to the Feast of the Winter Star!$h"
+winter25,Caroline,Ooohh... I've had too much nog.$h
+winter25,Linus,I'd join in... but I don't think I'm welcome.$s
+winter25,Alex,"Oh, hello.$s"
+winter25,George,A feast for some stupid star? Humbug!
+winter25,Evelyn,"Oh, my! Aren't you cold, dear? It's freezing!"
+winter25,Lewis,Today is a time to be thankful for this year's good fortune. Forget your worries for a day and relax!
+winter25,Clint,"*sigh*... All these happy families. But for me, just another lonely year."
+winter25,Emily,$y '@! What are you hoping to find under the spirit tree?_A new watering can._All work and no play? That's not very fun.$s_A jug of spiced mead._Ooo... that sounds nice. Make sure to give me a taste.$h_A pair of stylish boots._I see. That would be a great gift!'
+winter25,Penny,What a beautiful tree.$h
+winter25,Pam,Hmmph... I'm still upset I didn't win the ice fishing competition.$4
+winter25,Haley,I hope there's a new camera for me under the spirit tree!
+winter25,Jodi,It's not a good time of year for a diet...$s
+winter25,Kent,"Good afternoon, @. Happy Feasting."
+winter25,Sam,"I'm thankful for my guitar and my skateboard. Oh, and my family I guess."
+winter25,Leah,I think he had too much cinnamon nog.$eGus was just telling me about his artisan candy canes. *yawn*$u
+winter25,Marnie,Welcome to the Feast of the Winter Star!$h
+winter25,Elliott,"Why, hello @. It's chilly, isn't it?"
+winter25,Gus,"Hey, you look like you're falling asleep. Are you okay?$s$eOf course, peppermint candy canes are the standard, and I always make a healthy batch of those as well.$eOh, you want to know the secret to my deluxe double-canes? Okay, but you've got to promise absolute secrecy. *whisper* It's a drop of vanilla in the white candy to complement the cherry flavor.$h$eI usually use Fern Island Ringfruit for my premier canes, you know. You can't beat that bright red coloring... And it's all natural!$eIt's a fine art, making candy canes. You've really got to search far and wide for the best ingredients. They aren't easy to come by these days!$h"
+winter25,Willy,"$y 'Do you want to hear the Legend of the Winter Star?_Yes_In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as =Stardrop is connected to the Winter Star in some way._No thanks_Suit yourself.'"
+winter25,Wizard,"Ah, the mysterious Winter Star. One of the reasons I chose this valley as the location for my... research."
+winter25,Harvey,I'm thankful there were no medical emergencies this year!
+winter25,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+winter25,Jas,Ohh! Presents!$h
+winter25,Vincent,Can we open presents now?!
+winter25,Marlon,"Hey, good afternoon."
+winter25,Leo,"We'll have our own little feast... mashed winter root and spice berry fish!$h$eLinus feels uncomfortable about joining in, so I'm going to keep him company."
+winter8,name,Festival of Ice
+winter8,conditions,Forest/900 1400
+winter8,shop,BO 136 5000 1 F 1440 5000 -1 F 2730 2000 -1 F 2790 4000 -1 F 800 3000 -1 F 2653 800 -1 F 2750 1000 -1 F 1401 1000 -1 O 238 200 1 O 239 200 1 O 236 250 1
+winter8,set-up,christmasTheme/-1000 -1000/farmer 68 0 1/changeToTemporaryMap Forest-IceFestival/loadActors Set-Up/animate Robin false true 100 24 25 26 24 25 26 24 25 26 24 25 26 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27 27/advancedMove Pierre true -1 0 0 -1 1 5000 0 1 1 0 4 5000/advancedMove Vincent true 0 3 3 0 2 5000 0 -5 2 0 1 5000 -5 0 0 2 3 5000/advancedMove Pam true -5 0 0 1 2 5000 0 -1 5 0 2 7000/playerControl iceFestival
+winter8,mainEvent,"You must catch your fish here, from these holes in the ice.""/pause 600/speak Lewis ""Well, is everyone ready?""/pause 500/waitForOtherPlayers startContest/jump Lewis/faceDirection Pam 2 true/faceDirection Elliott 1 true/faceDirection Willy 2 true/speak Lewis ""Begin!""/advancedMove Lewis false 0 -4 2 1000/advancedMove Marnie true 4 6000 -2 0 4 5000 2 0/advancedMove Maru true 3 4000 0 2 3 7000 0 -2/advancedMove Jas true 2 0 0 -9 -4 0 2 20000 4 0 0 9 -2 0 3 15000/advancedMove Jodi true 1 6000 -1 0 0 2 1 8000 0 -1 1 6000 0 -1 1 0/jump Willy/shake Pam 700/showFrame Pam 16/extendSourceRect Pam 0 32/showFrame Elliott 40/extendSourceRect Elliott 16 0/shake Elliott 400/pause 300/showFrame Willy 16/extendSourceRect Willy 0 32/playMusic fallFest/playerControl iceFishing$bglobalFade/viewport -1000 -1000/playMusic none/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/loadActors Main-Event/faceDirection Pam 1/faceDirection Elliott 0/faceDirection Willy 0/viewport 71 35 true/pause 2000/speak Lewis ""Alright, everyone. Let's begin this year's ice fishing competition.""/pause 200/faceDirection Lewis 3/pause 300/faceDirection Lewis 2/faceDirection Lewis 1/pause 300/faceDirection Lewis 2/pause 400/speak Lewis ""Contestants, your goal is to catch as many fish as you possibly can in two minutes using the provided fishing rods."
+winter8,afterIceFishing,"Now let's release these poor fish...$s""/move Lewis -3 0 0/move Lewis 0 -1 0/advancedMove Willy true 0 3 -2 0/pause 600/viewport move 1 0 5000/pause 2000/playMusic none/globalFade/viewport -1000 -1000/pause 1000/cutscene iceFishingWinnerMP/fork OtherPlayerWin/message ""I can't believe I won! Well, time to head home.""/waitForOtherPlayers festivalEnd/end$bpause 100/playSound whistle/waitForOtherPlayers endContest/pause 1000/restoreStashedItem/globalFade/viewport -1000 -1000/extendSourceRect Pam reset/extendSourceRect Willy reset/extendSourceRect Elliott reset/specificTemporarySprite iceFishingCatch/faceDirection Pam 0/faceDirection Willy 0/faceDirection Elliott 0/playMusic event1/loadActors MainEvent/warp farmer1 71 35/warp farmer2 72 35/warp farmer3 70 35/warp farmer4 69 35/faceDirection farmer1 0/faceDirection farmer2 0/faceDirection farmer3 0/faceDirection farmer4 0/pause 1000/viewport 71 35 true/pause 2000/move Lewis 0 4 2/speak Lewis ""Wow, that's a lot of fish!$h""/pause 300/showFrame Lewis 18/shake Lewis 1000/speak Lewis ""*gag*... the smell...$s""/pause 500/showFrame Lewis 0/pause 600/move Lewis 0 1 2/speak Lewis ""Now, for the winner of this year's ice fishing competition...""/pause 800/playMusic none/pause 3000/cutscene iceFishingWinner/null/playMusic event1/pause 500/fork DickWin/move Lewis 0 1 2/speak Lewis ""Here's your prize! Enjoy.""/awardFestivalPrize/null/move Lewis 0 -1 0/speak Lewis ""Well, that's it for this year's Festival of Ice. Thanks for coming, everyone! "
+winter8,OtherPlayerWin,"message ""I didn't win the competition, but it was still fun! Time to head home.""/waitForOtherPlayers festivalEnd/end"
+winter8,DickWin,"Now let's release these poor fish...$s""/move Lewis -2 0 0/pause 600/viewport move 1 0 5000/pause 2000/playMusic none/globalFade/viewport -1000 -1000/pause 1000/message ""I didn't win the competition, but it was still fun! Time to head home.""/waitForOtherPlayers festivalEnd/end$bpause 100/jump Willy/faceDirection Elliott 3/pause 800/move Willy 0 -1 0/faceDirection Elliott 0/speak Lewis ""Here's your prize, Willy. Enjoy.""/pause 500/move Willy 0 -2 0/move Lewis -1 0 2/move Lewis 0 1 2/playSound coin/pause 400/move Lewis 0 -1 0/pause 500/speak Lewis ""Well, that's it for this year's Festival of Ice. Thanks for coming, everyone!"
+winter8,Abigail_spouse,"Hey, honey... look, it's you!$h"
+winter8,Penny_spouse,"Are you entering the fishing contest this year, @? My mom's pretty serious about winning."
+winter8,Haley_spouse,Brr... my hands are freezing from making this snowman.$l
+winter8,Sebastian_spouse,"Don't worry about me, I never get cold..."
+winter8,Sam_spouse,Aren't you cold? Are you sure you don't want my jacket?
+winter8,Alex_spouse,I'll be rooting for you in the fishing competition.
+winter8,Harvey_spouse,I'm dreaming of our warm fire back home...$l
+winter8,Elliott_spouse,"I know you'll beat me in the fishing competition, but I don't mind. I'm just here for the fun of it.$h"
+winter8,Abigail,What do you think of my snow-goon?
+winter8,Robin,"I'm sorry, but carving ice parapets requires my undivided attention!"
+winter8,Demetrius,You know what? I probably should've worn a jacket.
+winter8,Maru,I'm not very creative when it comes to snowmen.$s
+winter8,Sebastian,"Cold? Nah, I never get cold."
+winter8,Pierre,This snow is so cold I can't feel my fingers anymore...$s
+winter8,Shane,"If it was up to me, I'd probably have a pizza festival at the saloon, instead..."
+winter8,Caroline,"How's winter coming along for you, @?$h"
+winter8,Linus,"An Igloo makes a nice home, but it's easier to just stay in my tent year-round.$eThat was many years ago.$h$eIgloo-building's an art I picked up from the tundra dwellers who live beyond the frozen sea."
+winter8,Alex,"Snowmen are okay, I guess. But mostly I'm looking forward to the spring."
+winter8,George,Hmmph... Wife dragged me out into the cold for this?
+winter8,Evelyn,"He was a gentleman back then, and came over to see if I was okay.$h$eDid I ever tell you how George and I first met? He actually pelted me with a snowball in this very festival."
+winter8,Lewis,Just let me know when you're ready to compete.$bThe highlight of today's festival is the ice fishing competition. We set up this 'frozen lake' and stocked it full of fish.$eWelcome to the Festival of Ice!
+winter8,Clint,Emily started helping me without any provocation... does that mean something? *gulp*$4
+winter8,Emily,"Wow, this snowman needs a makeover. Who made this?$s"
+winter8,Penny,"$y 'Hmm... What kind of snowman should we make?_A classic one. Carrot nose, top-hat, scarf._I guess maybe it's best to stick with the classics, huh?$h_Something funky. Icicle antennas, pine cone eyes._Okay! That sounds like fun.$h_Snowmen are boring. Think outside of the box!_Um, okay... I think I might stick with something more conventional.'"
+winter8,Pam,"Willy is gonna be pretty hard to beat, though... He does this kinda stuff day and night.$s$eI plan on winning the ice fishing competition!"
+winter8,Haley,I guess Winter isn't all bad... playing in the snow can be fun!
+winter8,Jodi,"The forest looks beautiful in the winter, doesn't it?"
+winter8,Kent,I like winter. It's peaceful.
+winter8,Sam,"Oh, not me. I don't know how to fish.$eHey, @. Are you gonna enter the ice fishing competition?"
+winter8,Leah,"But I guess that might make the art even better.$eOh, ice. A beautiful material to sculpt in, but so impermanent."
+winter8,Marnie,"I feel bad for all the poor, cold animals out there.$s"
+winter8,Elliott,"It's rare that Willy ever loses, though.$eI'm entering the ice fishing competition today. Why not?"
+winter8,Gus,Just wait until the Feast of the Winter Star. You'll be stuffed for days.$eSorry there's no food.
+winter8,Willy,"$y 'Hey, @. Ready for some ice fishing?_Yes. I'll do my best!_That's the spirit!$h_Yes, and I'm going to beat you!_We'll see.$h_To be honest, no. I'm bad at fishing._Well, then think of it as good practice!$h'"
+winter8,Wizard,Sneaking off to visit my weird tower? You're odd for a mundane.
+winter8,Harvey,"Oh, and enjoy the festival!$h$eExtreme temperatures can put your body under a lot of stress, so make sure to bundle up!"
+winter8,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+winter8,Jas,I wanna give him a carrot nose!$h
+winter8,Vincent,I saw a big fish down there!
+winter8,Marlon,"Hey, good afternoon."
+winter8,Leo,You could make an igloo twice as warm if you stuffed feathers in the walls!

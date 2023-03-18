@@ -1,0 +1,1083 @@
+character,scene,dialogue
+EngagementDialogue,Maru0,I'm going to be your wife. Hehe.$l$bI'm really excited.$h
+EngagementDialogue,Maru1,I need to get mentally prepared for being a farmer's wife.
+EngagementDialogue,Leah0,I'm a little nervous. But happy.$h$e...$l
+EngagementDialogue,Leah1,I'm going to be so happy.$eI've always dreamed of living on a farm.$h
+EngagementDialogue,Haley0,It's just like I always dreamed.$l$eI'm so happy!$h
+EngagementDialogue,Haley1,"I'm a farmer now, too!$eIt's okay. I know we can't have a honeymoon, since your farm needs to be taken care of."
+EngagementDialogue,Penny0,"Don't worry, I'm really happy, too.$h$e@.. I'm a little scared. This is such a big change!"
+EngagementDialogue,Penny1,"I'm so glad you feel this way about me.$h$eWe're going to have a little farm family, soon.$l"
+EngagementDialogue,Abigail0,We're going to have a lot of fun together.$h$eHehe. Me? Married? I never thought this would happen.$h
+EngagementDialogue,Abigail1,Our lives are going to be a lot different from now on.$l$eI'm engaged to a farmer. Wow!$h
+EngagementDialogue,Sam0,"I'm excited.$eI'm going to be really happy as your husband, @.$l"
+EngagementDialogue,Sam1,I can't wait till the wedding.$h$eI never dreamed this would happen. I'm so lucky.$l
+EngagementDialogue,Sebastian0,"I'm happy, though.$l$eIn a couple days I'm going to be living on a farm. I can't believe it.$h"
+EngagementDialogue,Sebastian1,"Life is strange, huh?$h$eWhen you showed up in town, I never thought I'd be marrying you some day.$l"
+EngagementDialogue,Harvey0,I'll be relieved after we're all settled in on your farm.$h$eOh my goodness! I have so much to prepare before the wedding! I'm nervous.$l
+EngagementDialogue,Harvey1,This was always my secret wish.$l$eI'm really happy.$h
+EngagementDialogue,Elliott0,We're going to make a great pair.$l$eThe farm will be such a lovely place to write. I'm really looking forward to this.$h
+EngagementDialogue,Elliott1,We can use my cottage as a beach house.$l$eThis is going to be such an adventure! I'm really excited. Aren't you?$h
+EngagementDialogue,Alex0,"I can't wait.$h$e@, this is the greatest thing that could have happened.$l"
+EngagementDialogue,Alex1,I'm going to love being a farmer.$h
+EngagementDialogue,Shane0,I can't believe you'd actually want to marry someone like me.$ePart of me is wondering if this isn't all some elaborate prank.
+EngagementDialogue,Shane1,"@... My head's spinning, and I haven't even had a beer today."
+EngagementDialogue,Emily0,It's... exciting.$eCan you believe we're about to move in together? I've never lived with anyone but my family.
+EngagementDialogue,Emily1,The parrot is excited too.$eI always knew something important would happen between us... I just never thought it would be this!$h
+EngagementDialogue,Krobus0,@... I'm afraid we'll have to keep this a secret... Neither my people nor yours would accept us living together.
+EngagementDialogue,Krobus1,"You know I'll be a very strange person to live with, right? I won't be able to leave the house..."
+ExtraDialogue,LostItemQuest_DefaultThankYou,You found it! Thank you.
+ExtraDialogue,NewChild_SecondChild1,"Just look at our little family... We've come a long way, haven't we?"
+ExtraDialogue,NewChild_SecondChild2,"Two beautiful children... We've come a long way, haven't we?"
+ExtraDialogue,NewChild_Adoption,It's so wonderful to welcome little {0} into our life.
+ExtraDialogue,NewChild_FirstChild,"Everything went well, and now little {0} is part of the family. We're very fortunate."
+ExtraDialogue,Spouse_KitchenBlocked,You've got a bunch of your stuff blocking the kitchen... I guess you're not getting dinner tonight.$a
+ExtraDialogue,Spouse_MonstersInHouse,Um... Honey? Why are there monsters in the house?
+ExtraDialogue,Farm_RobinWorking_ReadyTomorrow,Your new {0} will be finished tomorrow! Are you excited?
+ExtraDialogue,Farm_RobinWorking1,Your new {0} will be ready in {1} days. Just pretend I'm not here.
+ExtraDialogue,Farm_RobinWorking2,Your new {0} will be ready in {1} days. I'm going to be working on this thing day and night!
+ExtraDialogue,AnimalShop_Marnie_Trash,Why are you looking through my trash can?$s
+ExtraDialogue,JoshHouse_Alex_Trash,Uh.. What are you doing?$s
+ExtraDialogue,SamHouse_Sam_Trash,"Hey, don't look in there!$a"
+ExtraDialogue,SeedShop_Abigail_Drawers,"Hey, don't even think about it! That's private!$a"
+ExtraDialogue,Wizard_Hatch,What are you doing? I only allow those I trust to enter there.  
+ExtraDialogue,Clint_NoInventorySpace,Hey. Your tool is ready but you don't have any room in your inventory.
+ExtraDialogue,Clint_StillWorking,"Um, I'm still working on your {0}. It won't be ready today."
+ExtraDialogue,Gunther_MuseumComplete,The museum looks amazing! Thanks again for all your help.
+ExtraDialogue,Gunther_NothingToDonate,"It doesn't seem like you have anything to donate to the museum. Better get out there and do some treasure hunting, huh?"
+ExtraDialogue,Gunther_NoArtifactsFound,"But I'm hoping to remedy that soon! Hey, if you find any artifacts or minerals out there... would you let me know?$bUh... This is embarrassing, but the previous curator made off with the entire collection. We don't have any artifacts for display.$bHello there! Welcome to the Stardew Valley Archaeological Office."
+ExtraDialogue,Sandy_PlayerClubMember,What happened? You're a club member?!
+ExtraDialogue,MisterQi_PlayerClubMember,"You'll understand someday. Just keep doing your best and never give up.$eDidn't you ever wonder who put those treasure chests in the old mineshaft? I like to give people surprises.$bYou see, kid... The world's like a bowl of rice. It's got substance, but it ain't worth nothin' without a good, zesty sauce. That's where we come in.$ePeople like us have a responsiblity to keep the world alive, to give folks a taste of the extraordinary.$bWhat spark? Ah... The conduit of mystery, of art...$eYou've got the 'spark'... that's why I singled you out.$eIt's good to finally meet ya, kid. Welcome to my exclusive clubhouse."
+ExtraDialogue,Robin_HouseUpgrade_Accepted,Thank you! I'll get started tomorrow. I should be finished in around three days.
+ExtraDialogue,Robin_PamUpgrade_Accepted,That's so generous of you! I'll start working on the upgrade tomorrow. It should take around three days.
+ExtraDialogue,Mines_PlayerKilled_Robin,"Be a little more careful next time, okay?$s$b...I found you unconscious in the mines. I almost mistook you for a piece of exotic wood!"
+ExtraDialogue,Mines_PlayerKilled_Clint,"Be a little more careful next time, okay?$s$b...I found you unconscious in the mines. I think I blew my back out, dragging you all the way up here."
+ExtraDialogue,Mines_PlayerKilled_Maru_Spouse,"Be a little more careful next time, okay?$s$b...I found you unconscious in the mines. You were gone so long I started to get worried about you!"
+ExtraDialogue,Mines_PlayerKilled_Maru_NotSpouse,"Be a little more careful next time, okay?$s$b...I found you unconscious in the mines. I was hunting for minerals and I almost stepped on your head!"
+ExtraDialogue,Mines_PlayerKilled_Linus,"Be a little more careful next time, okay?$s$b...I found you unconscious in the mines. You're lucky I happened to pass by!"
+ExtraDialogue,Mines_PlayerKilled_Spouse_PlayerMale,You were gone so long I started to get worried about you! I started crying when I saw your limp body...$s
+ExtraDialogue,Mines_PlayerKilled_Spouse_PlayerFemale,You were gone so long I started to get worried about you! I almost had a heart attack when I saw your limp body...$a
+ExtraDialogue,Morris_PlayerSignedUp,"Now, let me call Mayor Lewis and see about gutting that nasty old community center...$bExcellent! Welcome to Joja Corporation! Come back tomorrow and we can see about getting started on some community development projects... Oh, and don't forget your wallet! Hehe."
+ExtraDialogue,Morris_ComeBackLater,Come back tomorrow and we can see about getting some community improvements started... Just make sure to bring a lot of money. Hehe.
+ExtraDialogue,Morris_Greeting,"When you decide you want to become a Joja Member, I'll be delighted to help make your transition a joyous experience.$bI don't believe we've met. I'm Morris, Joja Customer Satisfaction Representative.$bWelcome to JojaMart! How are you doing today?"
+ExtraDialogue,Morris_WeekendGreeting,We're currently in the process of setting up a brand-new membership system for our customers. Please check back soon to join!$bWelcome to JojaMart! How is your weekend going?
+ExtraDialogue,Morris_FirstGreeting,We're currently in the process of setting up a brand-new membership system for our customers. Please check back soon to join!$bWelcome to JojaMart! How are you doing today?
+ExtraDialogue,Morris_FirstGreeting_CommunityCenterComplete,"Unfortunately, due to unforeseen circumstances our Joja Membership offer is not currently available. I'm certain it will get sorted out soon!$bWelcome to JojaMart! How are you doing today?"
+ExtraDialogue,Morris_WeekendGreeting_CommunityCenterComplete,"Unfortunately, due to unforeseen circumstances our Joja Membership offer is not currently available. I'm certain it will get sorted out soon!$bWelcome to JojaMart! How is your weekend going?"
+ExtraDialogue,Morris_WeekendGreeting_MembershipAvailable,"No.$r -1 -1 NoYes.$r -1 -1 YesMembership costs {0}g. Well, would you like to join us?$q -1 -1Oh, and another thing... Mayor Lewis promised us that if anyone else joined up, he'd let us turn that old community center into a Joja Warehouse. Isn't that wonderful?$bMembership is now available! With a Joja Membership, you'll be able to make improvements in the community with the help of our dedicated personnel... for a fee, of course.$bWelcome to JojaMart! How is your weekend going?"
+ExtraDialogue,Morris_FirstGreeting_MembershipAvailable,"No.$r -1 -1 NoYes.$r -1 -1 YesMembership costs {0}g. Well, would you like to join us?$q -1 -1Oh, and another thing... Mayor Lewis promised us that if anyone else joined up, he'd let us turn that old community center into a Joja Warehouse. Isn't that wonderful?$bMembership is now available! With a Joja Membership, you'll be able to make improvements in the community with the help of our dedicated personnel... for a fee, of course.$bWelcome to JojaMart! How are you doing today?"
+ExtraDialogue,Morris_WeekendGreeting_SecondPlayer,"Hmm... Our records show that you live on a farm with some other folks... I'm sorry, but we can only sell a membership to the owner of your residence.$bWelcome to JojaMart! How is your weekend going?"
+ExtraDialogue,Morris_FirstGreeting_SecondPlayer,"Hmm... Our records show that you live on a farm with some other folks... I'm sorry, but we can only sell a membership to the owner of your residence.$bWelcome to JojaMart! How are you doing today?"
+ExtraDialogue,Morris_StillProcessingOrder,We're currently processing your last Community Development order. Please come back after the work is complete.
+ExtraDialogue,Morris_CommunityDevelopmentForm_PlayerMale,"No$r -1 -1 NoYes$r -1 -1 YesI've got the Joja Community Development Form right here for you, sir. Care to take a look?$q -1 -1"
+ExtraDialogue,Morris_CommunityDevelopmentForm_PlayerFemale,"No$r -1 -1 NoYes$r -1 -1 YesI've got the Joja Community Development Form right here for you, miss. Care to take a look?$q -1 -1"
+ExtraDialogue,PurchasedItem_1_QualityHigh," Anyways...$eI'm glad Pierre's stock is starting to expand again.$bI cooked it up for dinner last night... It filled the house with a {3} smell.. It was a hit!$h$b So I stopped by Pierre's the other day and bought {1} {2}. It was the first time I've seen one of those there in a while... $bHey, {0}."
+ExtraDialogue,PurchasedItem_1_QualityLow," Anyways...$eI cooked it up for dinner last night... It filled the house with a {3} odor. I don't even want to know where Pierre found that thing.$s$b So I stopped by Pierre's the other day and bought {1} {2}. It was the first time I've seen one of those there in a while... $bHey, {0}."
+ExtraDialogue,PurchasedItem_2_QualityHigh,It was pretty high-quality stuff. I'm impressed.$eHi... did you sell {1} {2} to the general store the other day? I think I bought it...
+ExtraDialogue,PurchasedItem_2_QualityHigh_Jodi,It was pretty high-quality stuff. As soon as I smelled it I was back in Granny's old cottage...$eHi... did you sell {1} {2} to the general store the other day? I think I bought it...
+ExtraDialogue,PurchasedItem_2_QualityLow,The quality was decent.$eHi... did you sell {1} {2} to the general store the other day? I think I bought it...
+ExtraDialogue,PurchasedItem_3_QualityLow_Rude, It was {4}! No wonder Pierre was selling that {5} for so cheap...$eI went shopping last night and picked up {1} {2} on sale for only {3}g.
+ExtraDialogue,PurchasedItem_3_QualityHigh_Rude, It was actually pretty {4}.$eI went shopping last night and picked up {1} {2} on sale for only{3}g.
+ExtraDialogue,PurchasedItem_3_NonRude, I couldn't pass up that great price.$eI went shopping last night and picked up {1} {2} on sale for only {3}g.
+ExtraDialogue,PurchasedItem_4,I bought it.$h$eSo I was at the store the other day and Pierre showed me {1} {2} you brought in.
+ExtraDialogue,PurchasedItem_5_VegetableOrFruit,"Looks like you might have some competition, huh?$bHe said that he grew the thing in his own backyard. I didn't know Pierre was such a talented farmer!$h$bI bought the tastiest {2} from Pierre's shop the other day. "
+ExtraDialogue,PurchasedItem_5_Cooking,He said he cooked the thing himself using local ingredients. I didn't know Pierre was such {3} {4} chef!$bI bought the tastiest {2} from Pierre's shop the other day. 
+ExtraDialogue,PurchasedItem_5_Foraged,I bought the tastiest {2} from Pierre's shop the other day. He said he found it himself while exploring the mountains. I didn't know Pierre was such a talented forager!
+ExtraDialogue,PurchasedItem_Teen,"Hey, so I picked up {2} at the store last night. My mom wanted something good for dinner."
+ExtraDialogue,PurchasedItem_Abigail_QualityLow,Unfortunately it tasted like {3}.$s$bHey. We had one of those {2}s you sold at the shop for dinner last night... I guess it was starting to go bad and my Dad couldn't bear to throw it out.$h
+ExtraDialogue,PurchasedItem_Abigail_QualityHigh,"It was still pretty good, though.$bHey. We had one of those {2}s you sold at the shop for dinner last night... I guess it was starting to go bad and my Dad couldn't bear to throw it out.$h"
+ExtraDialogue,PurchasedItem_Caroline_QualityLow,"Now the whole thing smells horrendous. Where did you find that thing again?$bOh, @... This is embarrassing. I threw one of your {2}s you sold us into my compost bin.$s"
+ExtraDialogue,PurchasedItem_Caroline_QualityHigh,"But on the bright side, the worms are really loving it! They've never looked happier!$bOh, @... This is embarrassing. I threw one of your {2}s you sold us into my compost bin.$s"
+ExtraDialogue,PurchasedItem_Pierre_QualityLow,"... well,... back to business, huh?$bI can't say it was a hit... $s$bHey, remember that {2} you sold me the other day? I ended up serving it to the family for a special dinner."
+ExtraDialogue,PurchasedItem_Pierre_QualityHigh,"... well,... back to business, huh?$bMy wife loved it! ...And Abby even started going to town on it after I smothered the thing in hoisin sauce. $h$bHey, remember that {2} you sold me the other day? I ended up serving it to the family for a special dinner."
+ExtraDialogue,PurchasedItem_Haley,I don't like health food...$s$eEmily tried to serve me {1} {2} for dinner last night... I threw it away when she wasn't looking.
+ExtraDialogue,PurchasedItem_Elliott,"I saw that Pierre had fresh {2} in the shop the other day! Marvelous. It smelled just perfect... and firm, too!"
+ExtraDialogue,PurchasedItem_Alex,"Hey, so I picked up {1} {2} at the store last night. Grandma made her special casserole..."
+ExtraDialogue,PurchasedItem_Leah,The other day I bought {1} {2} at Pierre's. It was perfect on a bed of greens and a dash of my 'special' vinaigrette.
+ExtraDialogue,PurchasedItem_1_QualityHigh_Willy," Anyways...$eHe told me you caught it yourself... I'm impressed!$bSo I cooked it up for dinner last night, and it filled the house with a {3} smell.. It was a hit!$h$b So I stopped by Willy's the other day and bought {1} {2}. I've never seen one so fresh! $bHey, {0}."
+ExtraDialogue,PurchasedItem_1_QualityLow_Willy,"Anyways...$eI cooked it up for dinner last night... and, uh... It filled the house with a {3} odor. I don't even want to know where you found that thing...$s$b So I stopped by Willy's the other day and bought {1} {2}. He said you caught it yourself! $bHey, {0}."
+ExtraDialogue,PurchasedItem_2_QualityHigh_Willy,It was pretty high-quality stuff. I'm impressed.$eHi... did you sell {1} {2} to the fish shop the other day? I think I bought it...
+ExtraDialogue,PurchasedItem_2_QualityHigh_Jodi_Willy,It was pretty high-quality stuff. Very firm meat.$eHi... did you sell {1} {2} to the fish shop the other day? I think I bought it...
+ExtraDialogue,PurchasedItem_2_QualityLow_Willy,"It smelled kind of fishy, but it was alright.$eHi... did you sell {1} {2} to the general store the other day? I think I bought it..."
+ExtraDialogue,PurchasedItem_3_QualityLow_Rude_Willy, It was {4}! No wonder Willy was practically giving that {5} away...$eI went shopping last night and picked up {1} {2} on a 'chum-bucket' sale for only {3}g.
+ExtraDialogue,PurchasedItem_3_QualityHigh_Rude_Willy, It was actually pretty {4}.$eI went shopping last night and picked up {1} {2} on sale for only{3}g.
+ExtraDialogue,PurchasedItem_3_NonRude_Willy, I couldn't pass up that great price.$eI went shopping last night and picked up {1} {2} on sale for only {3}g.
+ExtraDialogue,PurchasedItem_4_Willy,I cooked it up for dinner with some lemon and a side of rice pilaf. Pretty good!$h$eSo I was at Willy's other day and he showed me {1} {2} you brought in.
+ExtraDialogue,PurchasedItem_Pierre_QualityLow_Willy,"T'was the mealiest fish I've ever set me gums on...$s$bAhoy... you know that {2} you sold me the other day? Well, I sizzled it up in me cabin last night..."
+ExtraDialogue,PurchasedItem_Pierre_QualityHigh_Willy,"T'was the finest fish I've had since I was a wee lad!$h$bAhoy! Remember that {2} you brought in the other day? Well, I sizzled it up in me cabin last night..."
+ExtraDialogue,Town_DumpsterDiveComment_Child,Eww... What are you doing?$s
+ExtraDialogue,Town_DumpsterDiveComment_Linus,Find anything good?$h
+ExtraDialogue,Town_DumpsterDiveComment_Teen,Um... Why are you digging in the trash?$s
+ExtraDialogue,Town_DumpsterDiveComment_Adult,"Hey, Stop that! ...Yuck!$s"
+ExtraDialogue,SkullCavern_100_event,"Even so, it must have been a lot of work to mine all that stone. And that sort of dedication is praiseworthy. You're a rare one, kid.""/pause 500/speak MrQi ""Now... go over to the table and drink this special milk I've prepared for you.""/pause 500/move farmer 3 0 0/move farmer 0 -1 0/emote farmer 8/speak MrQi ""It's called 'Iridium Snake Milk'... one healthy swig of that and you'll become even more powerful.""/pause 1000/faceDirection farmer 2 true/specificTemporarySprite removeSprite 803/farmerEat 803/awardFestivalPrize qimilk/pause 2000/message ""The taste is awful, and the texture is even worse.""/pause 100/pause 500/jump farmer/playSound reward/message ""... But your health is permanently increased by 25!""/pause 1000/fade/viewport -1000 -1000/pause 500/playSound boop/speak MrQi ""Good luck out there, kid.""/pause 500/playSound boop/end$b...although you did skip a bunch of levels by crafting staircases. Clever, sure... but not very honorable.$1$bI had to see for myself!""/animate MrQi false false 100 0 1 2 3 3 3 2 1 2 3 3 3 2 1 0/pause 1000/playSound boop/pause 1000/speak MrQi ""Impressive... very impressive. Making it all the way down here is quite a feat!$bclubloop/-100 -100/farmer 6 6 2 MrQi 10 7 0/specificTemporarySprite qiCave/removeQuest 30/viewport 10 7 true/pause 3500/speak MrQi ""Well, well, well... you made it.""/pause 500/playSound boop/faceDirection MrQi 3 true/pause 50/faceDirection MrQi 2/pause 100/playSound boop/animate MrQi false false 100 0 1 2 3 3 3 2 1 0/pause 1500/speak MrQi ""Come closer, now... don't be shy.""/emote farmer 40/playSound boop/pause 500/move farmer 0 4 1/move farmer 4 0 0/pause 500/stopJittering/speak MrQi ""I heard you were attempting a deep dive into these caverns today..."
+ExtraDialogue,SkullCavern_100_event_honorable,"That's why you're special, kid... see? You lead by example. I like that.""/pause 500/speak MrQi ""Now... go over to the table and drink this special milk I've prepared for you.""/pause 500/move farmer 3 0 0/move farmer 0 -1 0/emote farmer 8/speak MrQi ""It's called 'Iridium Snake Milk'... one healthy swig of that and you'll become even more powerful.""/pause 1000/faceDirection farmer 2 true/specificTemporarySprite removeSprite 803/farmerEat 803/awardFestivalPrize qimilk/pause 2000/message ""The taste is awful, and the texture is even worse.""/pause 100/pause 500/jump farmer/playSound reward/message ""... But your health is permanently increased by 25!""/pause 1000/fade/viewport -1000 -1000/pause 500/playSound boop/speak MrQi ""Good luck out there, kid.""/pause 500/playSound boop/end$bYou understand the importance of challenging yourself, and holding yourself to the highest standard, even if no one is watching.$bThat shows you're the real deal, kid. You've got principles.$bI'm very pleased that you challenged yourself and came down the honorable way, instead of skipping all the levels by crafting staircases.$bI had to see for myself!""/animate MrQi false false 100 0 1 2 3 3 3 2 1 2 3 3 3 2 1 0/pause 1000/playSound boop/pause 1000/speak MrQi ""Impressive... very impressive. You passed my test with flying colors, kid.$bclubloop/-100 -100/farmer 6 6 2 MrQi 10 7 0/specificTemporarySprite qiCave/removeQuest 30/viewport 10 7 true/pause 3500/speak MrQi ""Well, well, well... you made it.""/pause 500/playSound boop/faceDirection MrQi 3 true/pause 50/faceDirection MrQi 2/pause 100/playSound boop/animate MrQi false false 100 0 1 2 3 3 3 2 1 0/pause 1500/speak MrQi ""Come closer, now... don't be shy.""/emote farmer 40/playSound boop/pause 500/move farmer 0 4 1/move farmer 4 0 0/pause 500/stopJittering/speak MrQi ""I heard you were attempting a deep dive into these caverns today..."
+ExtraDialogue,Robin_UpgradeConstruction_Festival,"Okay, I'll start working on your {1} upgrade the day after tomorrow. I always take festivals off.$h"
+ExtraDialogue,Robin_UpgradeConstruction,"Okay, I'll start working on your {1} upgrade first thing tomorrow morning!$h"
+ExtraDialogue,Robin_NewConstruction_Festival,"Okay, I'll start working on your new {0} the day after tomorrow. I always take festivals off.$h"
+ExtraDialogue,Robin_NewConstruction,"Okay, I'll start working on your new {0} first thing tomorrow morning!$h"
+ExtraDialogue,Robin_Instant,"This {0} is pre-fabricated, so there's no construction time! Convenient, isn't it?$h"
+ExtraDialogue,Morris_JojaCDConfirm,Excellent! We'll get our workers on it tonight. It should be ready for you by tomorrow.
+ExtraDialogue,Morris_BuyMovieTheater,"No$r -1 -1 NoYes$r -1 -1 YesWe could make this happen for a small investment of... *cough*... 500,000g...$h$q -1 -1$bAh, our favorite customer... I have exciting news for you! Joja headquarters has approved the construction of a new Joja 'entertainment opportunity' to replace the nearby Joja Warehouse. We just need an investor willing to support our vision! So, naturally, I turn to you... our most devoted and generous Joja member."
+ExtraDialogue,Morris_TheaterBought,*Ahem*... I mean... Excellent! Our Joja Construction Team will begin work on the new building tonight! Thank you for supporting our work.$bHalf a mil...!$2
+ExtraDialogue,Morris_NoMoreCD,Ah! My favorite customer... Unfortunately I have no more community development projects available at the moment.
+ExtraDialogue,Island_willy_rescue,"The island can be a dangerous place.$bYou really had me worried... I thought you were a goner! Be a little more careful out there...$s$bAre you okay? I found you washed up on the shore, lad.$s^Are you okay? I found you washed up on the shore, miss.$s"
+ExtraDialogue,Island_leo_rescue,"Please be safe out there. I don't want to be sad anymore...$s$bMy bird-friends spotted you and told me you were in danger, so I dragged you all the way down here.$s$bIt seems like you're going to live.$u"
+ExtraDialogue,Birdie0,"I never thought I'd see a new face on this island, dear. But I'm glad you're here!"
+ExtraDialogue,Birdie1,"Have you been inside the volcano? It's filled with the ruins of their strange machines...$eIt's rumored that long ago, a great civilization of dwarves lived on this very island."
+ExtraDialogue,Birdie2,"If you're ever feeling queasy in the stomach, a bite of ginger does wonders, dear..."
+ExtraDialogue,Birdie3,Have you been to the secret shrine in the jungle? The flowers there smell lovely... It's one of my favorite spots on the island.$h
+ExtraDialogue,Birdie4,"Every morning for breakfast, I have a bowl of poi and a glass of freshly squeezed mango juice. It keeps me young!"
+ExtraDialogue,Birdie5,I walk the beach every day to see if anything new has washed ashore. There's a lot floating around out there!
+ExtraDialogue,Birdie6,"My hut may be small, but it's more than enough for what I need. And best of all, I built it myself."
+ExtraDialogue,Birdie12,"Sorry to trouble you, my dear. I sometimes get carried away by thoughts...$b*sigh*... To live in a world of endless potential, we can never know if we've made the right choices.$s"
+ExtraDialogue,Birdie15,"Fruit, fish, and foraged food... It's a good diet! I feel as healthy as ever."
+ExtraDialogue,Birdie17,"The weather is warm and lovely year round, my dear... it feels perfect for me bones..."
+ExtraDialogue,Birdie19,Have you seen the little banana altar in the jungle? If I had a banana I'd set it there and see what happens... heh heh...$h
+ExtraDialogue,Birdie22,"Hello, dear... you look healthy and in good spirits today!$h"
+ExtraDialogue,Birdie23,"I've been here so long, I can't even hear the ocean anymore..."
+ExtraDialogue,Birdie28,"It's a full moon, tonight... Whether your fortune be good or bad, be on the alert, my dear... The spirits are restless."
+ExtraDialogue,Birdie_NoGift,"Oh, no no no... I don't need any gifts, my dear. You keep it."
+ExtraDialogue,ProfessorSnail_Hint_828,"My research suggests that a species of frog once lived on this island. They would've inhabited a dark, damp area, with lots of vegetation..."
+ExtraDialogue,ProfessorSnail_Hint_827,"Long ago, a rare species of cave-bat made their home here. The evidence suggests they were adapted to tolerate intense heat. Interesting, huh?"
+ExtraDialogue,ProfessorSnail_Hint_826,Hmm... My nose is telling me that snake spines might be found in the western region of the island.
+ExtraDialogue,ProfessorSnail_Hint_825,"If you see something wiggling in the dirt, make sure to excavate it. You never know what might be under there!"
+ExtraDialogue,ProfessorSnail_Hint_824,"Before I got stuck in that cave, I was exploring the little gully nearby. The stones there are full of fossils! If I were you, I'd be breaking them open to look for bones."
+ExtraDialogue,ProfessorSnail_Hint_822,"You know, I bet if you did some panning, you could find some interesting stuff in the nearby river."
+ExtraDialogue,ProfessorSnail_Hint_821,"You know, there's some great fishing on this island. From what I know, many of the fish enjoy nibbling on ancient bones..."
+ExtraDialogue,ProfessorSnail_Hint_820,Have you found any golden coconuts on the island? It's rumored that many interesting things can be found inside of them...
+ExtraDialogue,SummitEvent_Intro_Lewis,Wow... Look at that view.
+ExtraDialogue,SummitEvent_Dialogue1_Lewis,"People have come and gone. We've lived through times of hardship, and times of plenty.$bYou know, @... I've been mayor of Pelican Town for a long time."
+ExtraDialogue,SummitEvent_Dialogue2_Lewis,"And in the process, you've changed the valley forever.$bYou've taken the farm beyond the wildest dreams of your Grandfather.$bBut I have to say, in all the years I've been mayor, nothing has made me so proud as seeing %farm Farm blossom under your care.$h"
+ExtraDialogue,SummitEvent_Outro_Lewis,"...Thank you.$bWho knew a humble farmer moving to town would change everything?$h$bBut now, I feel completely at ease.$b%year years ago, I was deeply worried about the future of the valley.$s$bYou might not realize it, but I care a lot about this town, @."
+ExtraDialogue,SummitEvent_Intro_Morris,"Ah, @... My favorite Joja member."
+ExtraDialogue,SummitEvent_Dialogue1_Morris,"What self-respecting Joja Manager would want to preside over a tiny, backwater location like Pelican Town?$h$bYou know, when I was first assigned to this location over %year years ago, I considered it a step back in my career."
+ExtraDialogue,SummitEvent_Dialogue2_Morris,"Working here has opened my eyes to a different way of life. It's hard to say this, but... It's been... a humbling experience.$bBut I have to say, this valley has really grown on me, over the years."
+ExtraDialogue,SummitEvent_Outro_Morris,"Our strength comes from our members, and you've shown exemplary drive and ingenuity. It makes me proud to work for the company.$h$bI just want to say, @... I appreciate all the hard work you've done for Joja Co."
+ExtraDialogue,SummitEvent_Intro_Spouse,"Hey, @."
+ExtraDialogue,SummitEvent_Intro2_Spouse,It's so beautiful up here...
+ExtraDialogue,SummitEvent_Intro2_Spouse_Gruff,"Great view, huh?"
+ExtraDialogue,SummitEvent_Dialogue1_Spouse,"I was just thinking about the last %year years...""/pause 1000/speak spouse ""We've been through a lot together, haven't we?$h"
+ExtraDialogue,SummitEvent_Dialogue2_Spouse,...But look how far we've come.
+ExtraDialogue,SummitEvent_Dialogue3_Alex,"I've finally discovered who I want to be... and I feel certain about the future.""/pause 500/speak Alex ""I don't think I would've gotten here without you, @."
+ExtraDialogue,SummitEvent_Dialogue3_Sebastian,"...but you've shown me that the world isn't such a dark place, after all.$h""/faceDirection Sebastian 3/pause 500/speak Sebastian ""...That's one of the reasons I love you...$bBefore I met you, I spent most of my time turned away from reality... because I thought I'd never find happiness."
+ExtraDialogue,SummitEvent_Dialogue3_Sam,"Even if that means just doing normal stuff, like... uh... buying groceries and changing diapers... hah...$10$bBut I'm at a place, now, where I'm actually really excited about our future together...$l$b...you might call it 'maturity'... hehe.$10$bI feel like I've changed a lot from when we first met... you know?"
+ExtraDialogue,SummitEvent_Dialogue3_Shane,"I have no regrets marrying you!$h$bUh.. I guess what I want to say is...$bI guess keeping things light-hearted makes it so I don't have to open up and make myself vulnerable.""/emote Shane 28/speak Shane ""But every season that goes by, with you, I get a little more comfortable with myself.$bWhich would be a shame, because the bird-watching up here is phenomenal!$h""/emote farmer 16/pause 1000/speak Shane ""Heh... I... I tend to joke a lot, because...well...$s$bIf I hadn't met you, @... I might not even be here right now."
+ExtraDialogue,SummitEvent_Dialogue3_Elliott,"How poetic!$l$bWe've reached the summit, but not just physically... metaphorically as well.$bHeh... it just dawned on me...$h"
+ExtraDialogue,SummitEvent_Dialogue3_Harvey,"I... I love and admire you very much, @...$l$bWhen I'm next to you, I'm not even scared of falling off this cliff and dashing onto the sharp rocks below...$l""/jump Harvey/shake Harvey 1000/pause 1000/speak Harvey ""...$8"
+ExtraDialogue,SummitEvent_Dialogue3_Abigail,"I'm just happy I get to explore this world, with you by my side...$l$bStanding here, looking out on the horizon... I get a feeling of endless possibility."
+ExtraDialogue,SummitEvent_Dialogue3_Emily,"Now, it's all come true.""/pause 500/speak Emily ""The world is a mysterious and special place...$l$bI've always known I would be standing here with you, someday. I've always felt it in my heart.$bThis is a special moment..."
+ExtraDialogue,SummitEvent_Dialogue3_Haley,"As a little girl, I always dreamed that one day, I would climb to the summit with my true love, and share a kiss.$l$b*giggle*... $h""/faceDirection farmer 1 true/emote farmer 8/pause 1000/speak Haley ""Oh, it's just that..."
+ExtraDialogue,SummitEvent_Dialogue3_Leah,"I wouldn't want to be anywhere else, but here with you.$l$bI think we've both found what we were looking for in this place."
+ExtraDialogue,SummitEvent_Dialogue3_Penny,"We have a beautiful home and a thriving family... it's all I've ever dreamed of, and more.$l"
+ExtraDialogue,SummitEvent_Dialogue3_Maru,"You've really accomplished a lot since you moved here, @. It's incredible.""/pause 300/faceDirection Maru 3/pause 400/speak Maru ""I think it's safe to say that you were meant to be a farmer!$h"
+ExtraDialogue,SummitEvent_closingmessage,It's been a long road...
+ExtraDialogue,SummitEvent_closingmessage2,You challenged yourself to reach the summit
+ExtraDialogue,SummitEvent_closingmessage3,What an accomplishment!
+ExtraDialogue,SummitEvent_closingmessage4,We've been watching every step of the way
+ExtraDialogue,SummitEvent_closingmessage5,And you've made us very proud!
+Locations,AdventureGuild_KillList_Header,"------------------------------
+			 --Monster Eradication Goals--
+             ""Help us keep the valley safe.""
+------------------------------"
+Locations,AdventureGuild_KillList_LineFormat,{0}/{1} {2}
+Locations,AdventureGuild_KillList_LineFormat_None,{0}/{1} ????
+Locations,AdventureGuild_KillList_LineFormat_OverTarget,{0} {2} *
+Locations,AdventureGuild_KillList_Slimes,Slimes
+Locations,AdventureGuild_KillList_VoidSpirits,Void Spirits
+Locations,AdventureGuild_KillList_Bats,Bats
+Locations,AdventureGuild_KillList_Skeletons,Skeletons
+Locations,AdventureGuild_KillList_CaveInsects,Cave Insects
+Locations,AdventureGuild_KillList_Duggies,Duggies
+Locations,AdventureGuild_KillList_DustSprites,Dust Sprites
+Locations,AdventureGuild_KillList_RockCrabs,Rock Crabs
+Locations,AdventureGuild_KillList_Mummies,Mummies
+Locations,AdventureGuild_KillList_PepperRex,Pepper Rex
+Locations,AdventureGuild_KillList_Serpent,Serpents
+Locations,AdventureGuild_KillList_Footer,"
+  -See Gil to claim your rewards."
+Locations,AnimalHouse_Incubator_RemoveEgg_Question,Remove the egg?
+Locations,AnimalHouse_Incubator_Hatch_VoidEgg,A new chick hatched... It looks odd.
+Locations,AnimalHouse_Incubator_Hatch_RegularEgg,A new baby chick hatched!
+Locations,AnimalHouse_Incubator_Hatch_DuckEgg,A new baby duckling hatched!
+Locations,AnimalHouse_Incubator_Hatch_DinosaurEgg,A new baby ...lizard?... hatched.
+Locations,BeachNightMarket_Closed,Opens at 5pm.
+Locations,BeachNightMarket_SubmarineInUse,The submarine is currently in use. Come back later.
+Locations,BeachNightMarket_GiftGiverClosed,Merchant: The night market starts at 5pm... visit me then for a free cup of coffee! 
+Locations,BeachNightMarket_GiftGiverQuestion,Merchant: Hello there! Care for a cup of coffee?
+Locations,BeachNightMarket_GiftGiverEnjoy,"Merchant: Mmm... smells great, doesn't it?"
+Locations,BeachNightMarket_PainterClosed,"Famous Painter Lupini: Come back when the market opens, if you wish to purchase my fine work."
+Locations,BeachNightMarket_PainterQuestion,Famous Painter Lupini: I'm selling this painting for 1200g. What do you say?
+Locations,BeachNightMarket_PainterSold,Famous Painter Lupini: My apologies... I have no more paintings to sell today.
+Locations,BeachNightMarket_WarperQuestion,Shrouded Figure: I can send you home for 250g.
+Locations,Beach_FixBridge_Question,Use 300 pieces of wood to fix the bridge?
+Locations,Beach_FixBridge_Hint,Hmmm... With 300 pieces of wood this could be fixed.
+Locations,Beach_GoneFishingMessage,"    Gone fishing.
+
+   I'll be back tomorrow."
+Locations,Beach_Mariner_Player_Male,lad
+Locations,Beach_Mariner_Player_Female,miss
+Locations,Beach_Mariner_PlayerMarried,"Old Mariner: Glad the amulet worked out for ye, {0}."
+Locations,Beach_Mariner_PlayerHasItem,"Old Mariner: Don't be shy, now. Show that amulet to the one you intend to marry."
+Locations,Beach_Mariner_PlayerNotUpgradedHouse,"Old Mariner: I can see that sparkle in yer eye, {0}. Ye must be head over heels in love. But I'm afraid a bigger house is essential for a happy marriage."
+Locations,Beach_Mariner_PlayerBuyItem_Question,"Old Mariner: Ah, I can see it in yer eyes... There be a special someone in yer heart. Just so happens I'm sellin' a 'Mermaid's Pendant'. Give that to yer intended and they'll know exactly what you mean."
+Locations,Beach_Mariner_PlayerBuyItem_AnswerYes,Buy (5000g)
+Locations,Beach_Mariner_PlayerBuyItem_AnswerNo,Not now...
+Locations,Beach_Mariner_PlayerNoRelationship,"Old Mariner: I've got this old amulet to sell... but somethin' tells me yer not ready for it, {0}."
+Locations,BuildableLocation_CantUpgrade_SomeoneInside,Can't upgrade while someone's inside.
+Locations,BuildableLocation_CantUpgrade_IncorrectBuildingType,Incorrect Building Type
+Locations,MineCart_Destination_Mines,Mines
+Locations,MineCart_Destination_Town,Town
+Locations,MineCart_Destination_BusStop,Bus Stop
+Locations,MineCart_Destination_Quarry,Quarry
+Locations,MineCart_Destination_Cancel,Cancel
+Locations,MineCart_ChooseDestination,Choose destination:
+Locations,MineCart_OutOfOrder,Out of order
+Locations,BusStop_BuyTicketToDesert,Buy a ticket to Calico Desert for 500g?
+Locations,BusStop_DesertOutOfService,The bus to Calico Desert is out of service.
+Locations,BusStop_NotEnoughMoneyForTicket,You don't have enough money.
+Locations,BusStop_NoDriver,Please return when a bus driver is present.
+Locations,BusStop_ReturnToHorse1,{0} is wondering where you've been.
+Locations,BusStop_ReturnToHorse2,Your loyal horse waits patiently for your return.
+Locations,Club_Bouncer_TextAboveHead1,Now I'm angry!
+Locations,Club_Bouncer_TextAboveHead2,You little punk...
+Locations,CommunityCenter_AreaCompletion1,We are the Junimos... Keepers of the forest.
+Locations,CommunityCenter_AreaCompletion2,This house was empty for years... The trees moved in and so did we.
+Locations,CommunityCenter_AreaCompletion3,"We're happy to help... It's not our house, after all."
+Locations,CommunityCenter_AreaCompletion4,So many wonderful bundles... thank you! Thank you!
+Locations,CommunityCenter_AreaCompletion5,"When we're done here, we'll return to the other world."
+Locations,CommunityCenter_AreaCompletion6,The last bundle... Farewell... {0}.
+Locations,CommunityCenter_AreaRestored,The {0} has been restored!
+Locations,CommunityCenter_JunimosReturned,The Junimos have returned to the spirit world.
+Locations,CommunityCenter_AreaName_BoilerRoom,Boiler Room
+Locations,CommunityCenter_AreaName_BulletinBoard,Bulletin Board
+Locations,CommunityCenter_AreaName_CraftsRoom,Crafts Room
+Locations,CommunityCenter_AreaName_FishTank,Fish Tank
+Locations,CommunityCenter_AreaName_Pantry,Pantry
+Locations,CommunityCenter_AreaName_Vault,Vault
+Locations,CommunityCenter_AreaName_AbandonedJojaMart,Abandoned JojaMart
+Locations,Desert_Return_Question,Return to Stardew Valley?
+Locations,Desert_Return_Yes,Yes
+Locations,Desert_Return_No,Not yet
+Locations,Farm_1SlimeEscaped,A slime escaped during the night.
+Locations,Farm_NSlimesEscaped,{0} slimes escaped during the night.
+Locations,Farm_GrandpaNote,"{0}-
+
+Wait for my return on the dawn of your third year.
+
+-Grandpa"
+Locations,Farm_GrandpaShrine_PlaceDiamond,You place the diamond on Grandpa's Shrine.
+Locations,Farm_GrandpaShrine_DiamondSlot,There's a diamond-shaped slot in the shrine... was that always there?
+Locations,FarmHouse_SpouseAttacked1,What the...?
+Locations,FarmHouse_SpouseAttacked2,Ahh!!
+Locations,FarmHouse_SpouseAttacked3,$!!&@
+Locations,FarmHouse_SpouseAttacked4,Aiii!
+Locations,FarmHouse_SpouseAttacked5,Die!
+Locations,FarmHouse_SpouseAttacked6,Get out!
+Locations,FarmHouse_SpouseAttacked7,Yuck!
+Locations,FarmHouse_SpouseAttacked8,Take that!
+Locations,FarmHouse_SpouseAttacked9,Help!
+Locations,FarmHouse_SpouseAttacked10,Get your sword!
+Locations,FarmHouse_SpouseAttacked11,Agh!
+Locations,FarmHouse_SpouseAttacked12,Gahh!
+Locations,Forest_WizardTower_Locked,"It's locked. You can hear someone inside, though."
+Locations,Forest_OpenedSewer,You unlock the sewer hatch with the Rusty Key!
+Locations,Forest_HatMouseStore_Abandoned,It looks abandoned...
+Locations,Desert_BusArrived,"Alright, kid. Just get back on the bus when you're ready to go home."
+Locations,Bus_NoDriver,You'll have to wait until Pam's on duty to ride the bus.
+Locations,DoorUnlock_NotFriend_Male,You're not good enough friends with {0} to enter his bedroom.
+Locations,DoorUnlock_NotFriend_Female,You're not good enough friends with {0} to enter her bedroom.
+Locations,DoorUnlock_NotFriend_Couple,You're not good enough friends with {0} or {1} to enter their bedroom.
+Locations,FarmHouse_Bed_GoToSleep,Go to sleep for the night?
+Locations,MensLocker_WrongGender,That's the men's locker room... you can't go in there!
+Locations,WomensLocker_WrongGender,That's the women's locker room... you can't go in there!
+Locations,Saloon_ColaMachine_Question,Buy a Joja Cola for 75g?
+Locations,IceCreamStand_ComeBackLater,Come back when someone's working.
+Locations,IceCreamStand_NotSummer,Closed until summer.
+Locations,WizardTower_WizardShrine,"           The Shrine Of Illusions  
+Make an offering of 500g to change your appearance?"
+Locations,SeedShop_BuyBackpack_Response2000,"Purchase (2,000g)"
+Locations,SeedShop_BuyBackpack_Response10000,"Purchase (10,000g)"
+Locations,SeedShop_BuyBackpack_ResponseNo,Not now
+Locations,SeedShop_BuyBackpack_Question24,Backpack Upgrade -- 24 slots
+Locations,SeedShop_BuyBackpack_Question36,Backpack Upgrade -- 36 slots
+Locations,Club_Buy100Coins,"Buy 100 Qi Coins for 1,000g?"
+Locations,Desert_SandDragon_Initial,"Its maw gapes at the desert sun. Even in death, it yearns for a taste."
+Locations,Desert_SandDragon_ConsumeEssence,You place the essence in the dragon's maw. Only then do you notice a note hidden in the eye socket:
+Locations,Desert_SandDragon_MrQiNote,"'You've proven yourself, kid. Check out the pile of lumber next to your house. -Mr. Qi'"
+Locations,Railroad_Box_Initial,It's an empty box.
+Locations,Railroad_Box_ConsumeShell,"You throw the shell into the box. Immediately, a note falls down from the rafters above:"
+Locations,Railroad_Box_MrQiNote,'Well done. Your next task: Place 10 beets inside Mayor's fridge. -Mr. Qi'
+Locations,ManorHouse_LedgerBook_Singleplayer,Pelican Town Ledger Book... It looks like the mayor uses this to keep track of finances.
+Locations,ManorHouse_LedgerBook_NoFarmhands,"If any farmhands join your farm, you can transfer money to each other."
+Locations,ManorHouse_LedgerBook_SharedWallets_Client,Pelican Town Ledger Book... The owner of the farm can request the mayor to split the funds of the farmhands.
+Locations,ManorHouse_LedgerBook_SharedWallets_SeparateQuestion,"Split the funds of each farmer? Tonight, the money will be divided evenly. If you change your mind, come back here before night's end."
+Locations,ManorHouse_LedgerBook_SharedWallets_CancelQuestion,Cancel splitting up funds?
+Locations,ManorHouse_LedgerBook_SeparateWallets_HostQuestion,It's the mayor's ledger book. What would you like to do?
+Locations,ManorHouse_LedgerBook_SendMoney,Send Money
+Locations,ManorHouse_LedgerBook_MergeWallets,Merge Funds
+Locations,ManorHouse_LedgerBook_CancelMerge,Cancel Merging Funds
+Locations,ManorHouse_LedgerBook_Leave,Leave
+Locations,ManorHouse_LedgerBook_TransferCancel,Cancel
+Locations,ManorHouse_LedgerBook_SeparateWallets_MergeQuestion,"Merge the funds of each farmer? Tonight, everyone's money will be combined. If you change your mind, come back here before night's end."
+Locations,ManorHouse_LedgerBook_SeparateWallets_CancelQuestion,Cancel merging funds?
+Locations,ManorHouse_LedgerBook_SeparateWallets_TransferQuestion,Who would you like to send money to?
+Locations,ManorHouse_LedgerBook_SeparateWallets_HowMuchQuestion,How much money would you like to send?
+Locations,ManorHouse_DivorceBook_NoSpouse,"Pelican Town Marriage Log... After marriage, you may file for divorce here. Let's hope that isn't necessary!"
+Locations,ManorHouse_DivorceBook_Question,"File for divorce? There is a 50,000g fee."
+Locations,ManorHouse_DivorceBook_CancelQuestion,Cancel your divorce?
+Locations,ManorHouse_DivorceBook_Cancelled,Your divorce request has been cancelled.
+Locations,ManorHouse_DivorceBook_Filed,"Your divorce papers have been filed, but your spouse won't know until tomorrow morning. If you change your mind, come back here before night's end."
+Locations,ManorHouse_MayorFridge_Initial,It's the mayor's fridge. It's mostly full of milk and iced tea.
+Locations,ManorHouse_MayorFridge_ConsumeBeets,You quickly place the beets in the fridge. Wait a sec... there's a note taped to the milk. It's addressed to you:
+Locations,ManorHouse_MayorFridge_MrQiNote,"'Good job, kid. Your final task: Give the sand dragon his last meal. -Mr. Qi'"
+Locations,Tunnel_TunnelSafe_Initial,"It's a battery powered lock-box. Unfortunately, there's no battery in it."
+Locations,Tunnel_TunnelSafe_ConsumeBattery,"It worked! The lock-box swings open. Inside, there's a note:"
+Locations,Tunnel_TunnelSafe_MrQiNote,'Your first task: Bring a rainbow shell to the train platform. Leave it in the box. -Mr. Qi'
+Locations,SkullCave_SkullDoor_Locked,The door is locked.
+Locations,SkullCave_SkullDoor_Unlock,You insert the skull key into the keyhole. It's a perfect fit!
+Locations,FarmHouse_Crib_NewbornSleeping,{0} is sleeping.
+Locations,Farm_GreenhouseRuins,"Whatever this once was, it's now in ruins."
+Locations,Saloon_Arcade_Minecart_Menu,= Junimo Kart =
+Locations,Saloon_Arcade_Minecart_ProgressMode,Progress Mode
+Locations,Saloon_Arcade_Minecart_EndlessMode,Endless Mode
+Locations,Saloon_Arcade_Minecart_Exit,Exit
+Locations,Saloon_Arcade_PK_NewGame+,Press button for a more difficult journey...
+Locations,Saloon_Arcade_Minecart_Inactive,There's a skull-shaped keyhole...
+Locations,AnimalShop_Marnie_Trash,Mostly empty pizza cartons.
+Locations,JoshHouse_Alex_Trash,There's a bunch of protein bar wrappers.
+Locations,SamHouse_Sam_Trash,Looks like Sam cleans his trash bin regularly.
+Locations,SeedShop_Abigail_Drawers,It's full of clothes... wait. There's a sword hidden under the clothes.
+Locations,Submarine_SubmergeQuestion,"Captain: Ahoy there! Want to take the deep-sea fishing tour? It'll cost ya 1,000g."
+Locations,Submarine_AscendQuestion,Captain: Shall I take us back up?
+Locations,Submarine_Done,Captain: We're back! Make sure not to leave any fish lying around.
+Locations,Mines_MineElevator_NotWorking,It doesn't seem to be working...
+Locations,Mines_LeaveMine,Leave the mine
+Locations,Mines_GoUp,Go up one level
+Locations,Mines_DoNothing,Do nothing
+Locations,Mines_ResetMine,"Reset your progress in the mine?
+(You'll be back at mine level 1)."
+Locations,RemoveChest,You remove the empty chest.
+Locations,Club_CalicoJack_HS,This table's for the big shots. It's a 1000 coin bet.
+Locations,Club_CalicoJack,Wanna play some CalicoJack? This is the 100 coin table.
+Locations,Club_CalicoJack_Play,Play
+Locations,Club_CalicoJack_Leave,Leave
+Locations,Club_CalicoJack_Rules,Rules
+Locations,Club_QiCoins,You have {0} Club Coins.
+Locations,Club_QiCoins_BuyStarter,You have 0 Club Coins. Buy a starter pack for 1000g?
+Locations,Club_QiCoins_NotEnoughMoney,Error: Not enough money.
+Locations,Club_ClubSeller,"Psst... I have a 'Statue of Endless Fortune' for sale... only 1,000,000g. What do you say?"
+Locations,Club_ClubSeller_Yes,I'll take it.
+Locations,Club_ClubSeller_No,No way!
+Locations,Club_ClubSeller_NotEnoughMoney,"Hey, I said 1,000,000g! This isn't gonna cut it."
+Locations,Secret_Note_Name,Secret Note
+Locations,Town_DwarfGrave_Translated,"     You translate the dwarvish:     
+
+Stand between the pillars three
+With gift as precious as the sky:
+A rainbow forged from land, not sea
+Then galaxies will heed your cry.
+"
+Locations,Town_mgThiefMessage,"Shadow Guy: Eeeeep! You caught me! I'm sorry! Take it! Take it! It looked so valuable, I couldn't help myself..."
+Locations,Town_SpecialCharmQuestion,Driver: Hey kid... I need a lucky break... why don't 'cha bring me a 'rabbit's foot'? I'll make it worth your while.
+Locations,Town_specialCharmNoFoot,"Driver: Come back when you got a 'rabbit's foot' on ya, kid."
+Locations,SeedShop_Yoba,Altar of Yoba
+Locations,ElliottHouse_ElliottBook_Blank,Blank book
+Locations,ElliottHouse_ElliottBook_Filled,'{0}' by Elliott ... Dedicated to {1}
+Locations,FestivalDay_DoorLocked,It's locked...
+Locations,SeedShop_LockedWed,Closed on Wednesdays.
+Locations,LockedDoor,It's locked...
+Locations,LockedDoor_OpenRange,It's locked... (Open {0} - {1})
+Locations,LockedDoor_FriendsOnly,It's locked... Only {0}'s friends can enter uninvited.
+Locations,ScienceHouse_CarpenterMenu,What can I do for you?
+Locations,ScienceHouse_CarpenterMenu_Shop,Shop
+Locations,ScienceHouse_CarpenterMenu_UpgradeHouse,Upgrade House
+Locations,ScienceHouse_CarpenterMenu_CommunityUpgrade,Community Upgrade
+Locations,ScienceHouse_CarpenterMenu_Construct,Construct Farm Buildings
+Locations,ScienceHouse_CarpenterMenu_Leave,Leave
+Locations,ScienceHouse_RobinAbsent,"Sorry! Shop's closed for the day... I'm at Caroline's place for aerobics club.
+
+-Robin"
+Locations,Blacksmith_Clint_Shop,Shop
+Locations,Blacksmith_Clint_Upgrade,Upgrade Tools
+Locations,Blacksmith_Clint_Leave,Leave
+Locations,Blacksmith_Clint_Geodes,Process Geodes
+Locations,AnimalShop_Marnie_Supplies,Supplies Shop
+Locations,AnimalShop_Marnie_Animals,Purchase Animals
+Locations,AnimalShop_Marnie_Leave,Leave
+Locations,AnimalShop_Marnie_Absent,"Closed for the day.
+
+-Marnie"
+Locations,ArchaeologyHouse_Gunther_Donate,Donate To Museum
+Locations,ArchaeologyHouse_Gunther_Collect,Collect Rewards
+Locations,ArchaeologyHouse_Gunther_Leave,Leave
+Locations,ArchaeologyHouse_Rearrange,Would you like to rearrange the museum's collection?
+Locations,HaleyHouse_EmilyRoomObject,There's a tape inside:'Freeform Dance Rhythyms'
+Locations,Club_Bouncer_PlayerClubMember,You may enter.
+Locations,Club_CalicoJack_Rules1,"The objective is to get as close to 21 as possible. Cards range from 1 to 9, except for the first card which can be as high as 11. Each player starts with two cards, but the dealer's first card remains hidden. Each turn you can choose to draw a random number between 1 and 9 or pass."
+Locations,Club_CalicoJack_Rules2,"Once you pass, the dealer's hidden card is revealed. She must draw until her total reaches or exceeds 18. If either player exceeds 21 on their turn, they lose. If the dealer passes, then all cards are revealed and the highest score wins."
+Locations,Club_CalicoJackHS_NotEnoughCoins,You need at least 1000 coins to play here.
+Locations,Club_CalicoJack_NotEnoughCoins,"Hey, the betting's fixed at 100 coins. You don't have enough. Go buy some coins from the machine if you want to play."
+Locations,ScienceHouse_Carpenter_UpgradeHouse1,"I can increase the size of your house and add a kitchen. It will cost 10,000g and you'll also need to provide me with 450 pieces of wood. Are you interested?"
+Locations,ScienceHouse_Carpenter_UpgradeHouse2,"I can increase the size of your house and add a nursery. It will cost 50,000g and you'll also need to provide me with 150 pieces of hardwood. Are you interested?"
+Locations,ScienceHouse_Carpenter_UpgradeHouse3,"I can add a cellar to your house. The cellar can be used to age certain products, like wine and cheese. It will cost 100,000g. Are you interested?"
+Locations,ScienceHouse_Carpenter_CommunityUpgrade1,"...What's that? You want to build Pam a house? That's a great idea!^I'll just need 950 wood and 500,000g..."
+Locations,ScienceHouse_Carpenter_NotEnoughWood1,"Sorry... You have the money, but I also need 450 pieces of wood."
+Locations,ScienceHouse_Carpenter_NotEnoughWood2,"Sorry... You have the money, but I also need 150 pieces of hardwood."
+Locations,ScienceHouse_Carpenter_NotEnoughWood3,"Sorry... You have the money, but I also need 950 pieces of wood."
+Locations,Farm_WeedsDestruction,The spreading weeds have caused damage to your farm.
+Locations,JojaMart_SignUp,"If you become a Joja Member, the community center will become a Joja Warehouse, and you will no longer be able to refurbish it. However, Joja will provide an alternative means to improving the town. Are you sure you want to join?"
+Locations,Mines_Infested,This area is infested...
+Locations,Mines_Overrun,This area is overrun with monsters.
+Locations,Mines_Fallen,You fell {0} levels.
+Locations,Mines_FallenFar,You fell {0} levels. Ouch!
+Locations,Mines_ShaftJumpIn,Jump In
+Locations,Mines_Shaft,There's a shaft leading down.
+Locations,Mountain_AdventurersGuildNote,"      * Adventurer's Guild *
+
+    Proven adventurers only."
+Locations,Railroad_TrainComing,A train is passing through Stardew Valley
+Locations,Town_SeedShopSign,"- Pierre's General Store -
+Now open 7 days a week From 9am-5pm!"
+Locations,Town_JojaSign_Destroyed,Out of Business.
+Locations,Town_PickupTruck,It's just the back of Lewis' old pickup truck...
+Locations,Sewer_DogStatue,"-Statue Of Uncertainty-^The statue can help you change professions.^Make an offering of 10,000g?"
+Locations,Sewer_DogStatueCancel,"None, I changed my mind..."
+Locations,Sewer_DogStatueQuestion,Which skill's professions would you like to change?
+Locations,Sewer_DogStatueAlready,This skill is already being altered tonight. Come back tomorrow...
+Locations,Sewer_DogStatueFinished,*woof* *woof* (It's done... now go to sleep...)
+Locations,WitchHut_EvilShrineLeft,-Dark Shrine of Selfishness-^Your children will turn into doves and fly away...^Make an offering of one Prismatic Shard?
+Locations,WitchHut_EvilShrineLeftInactive,"-Dark Shrine of Selfishness-^The statue stares through you...
+      "
+Locations,WitchHut_EvilShrineCenter,"-Dark Shrine of Memory-^The relationship between you and your ex-spouses will be wiped from memory. It will be like you've never met.^Make an offering of 30,000g?
+      "
+Locations,WitchHut_Goodbye,"Goodbye, {0}."
+Locations,WitchHut_EvilShrineCenterInactive,"-Dark Shrine of Memory-^The statue stares through you...
+      "
+Locations,WitchHut_EvilShrineRightActivate,"-Dark Shrine of Night Terrors-^The ancient magi-seal of protection will be lifted, allowing monsters to appear on your farm at night.^Make an offering of one Strange Bun?
+      "
+Locations,WitchHut_EvilShrineRightDeActivate,"
+        -Dark Shrine of Night Terrors-^The ancient magi-seal of protection will be restored, preventing monsters from appearing on your farm at night.^Make an offering of one Strange Bun?
+      "
+Locations,WitchHut_NoOffering,You don't have the necessary offering.
+Locations,Sewer_MagicSeal,There's some kind of force-field blocking your path.
+Locations,Woods_Statue,"--Old Master Cannoli--
+...Still searching for the sweetest taste..."
+Locations,ScienceHouse_CarpenterMenu_UpgradeCabin,Upgrade Cabin
+Locations,AdventureGuild_ItemRecovery,Item Recovery Service
+Locations,AdventureGuild_Greeting,Need something?
+Locations,ManorHouse_DivorceBook_Question_Krobus,Kick {0} out of your house?
+Locations,ManorHouse_DivorceBook_CancelQuestion_Krobus,Cancel your eviction?
+Locations,ManorHouse_DivorceBook_Cancelled_Krobus,You've changed your mind about kicking {0} out.
+Locations,ManorHouse_DivorceBook_Filed_Krobus,"You've decided to kick {0} out of the house. If you change your mind, come back here before night's end."
+Locations,Theater_Poster_0,"Now Playing: ""{0}."""
+Locations,Theater_Poster_1,"""{0}"""
+Locations,Theater_Poster_Coming_Soon,"Coming soon: ""{0}."""
+Locations,Theater_MovieEnd,The movie has concluded for tonight. We hope you enjoyed the show!
+Locations,Theater_MovieEndReEntry,The movie has concluded.
+Locations,HaleyHouse_SewingMachine,It's a sewing machine... But I'm not sure how to use it.
+Locations,HaleyHouse_DyePot,An array of brightly colored dyes.
+Locations,Caroline_Sunroom_Door,Caroline only lets her friends enter here...
+Locations,Caroline_Tea_Event1,When I'm alone with relaxing tea...
+Locations,Caroline_Tea_Event2,My mind is empty and free to wander...
+Locations,Caroline_Tea_Event3,Who knows what might appear?
+Locations,Desert_Trader_Closed,Closed until the 18th for the Pelican Town night market.
+Locations,Farm_OtherPlayerMailbox,That's not your mailbox.
+Locations,BoatTunnel_BuyTicket,Buy a ticket for {0}g?
+Locations,IslandNorth_CaveHelp_0,Help!
+Locations,IslandNorth_CaveHelp_1,Anyone there?
+Locations,IslandNorth_CaveHelp_2,I'm stuck!
+Locations,IslandNorth_CaveHelp_3,Over here!
+Locations,IslandNorth_CaveTool_0,That won't work.
+Locations,IslandNorth_CaveTool_1,It's too weak.
+Locations,IslandNorth_CaveTool_2,Hmm...
+Locations,IslandNorth_CaveTool_3,Try something else.
+Locations,IslandNorth_Event_SafariManAppear,"Hey... you should stop by the tent sometime! An enterprising individual like yourself could be a major asset in my projects... hee hee! Farewell.$h""/pause 200/showFrame SafariGuy 17/pause 800/showFrame SafariGuy 12/pause 200/advancedMove SafariGuy true 1 0 0 4/pause 250/end position 20 48$bI've been conducting a survey of this island's flora and fauna for the last year. Truly a remarkable place!""/pause 400/faceDirection SafariGuy 2/pause 250/faceDirection SafariGuy 3/speak SafariGuy ""Well, I think I'll go back to my tent and freshen up a little. I'm afraid I smell like mushrooms...$s$bI've been stuck in this cave for months!""/pause 500/faceDirection SafariGuy 2/pause 300/showFrame SafariGuy 16/pause 600/emote SafariGuy 28/speak SafariGuy ""...One more cave mushroom salad and I would've gone off the deep end... *shudder* ...so rubbery...$s""/pause 500/showFrame SafariGuy 0/pause 500/faceDirection SafariGuy 3/pause 500/changeName SafariGuy Professor_Snail/speak SafariGuy ""Anyway... I'm Professor Snail.$btropical_island_day_ambient/-1000 -100/farmer 20 48 1/skippable/pause 1000/viewport 21 47 true/pause 1000/playSound thudStep/addTemporaryActor SafariGuy 16 32 22 45 2 true ???/move SafariGuy 0 3 3/pause 1000/speak SafariGuy ""Thank you! I thought I was done for... $h"
+Locations,IslandFieldOffice_Welcome_0,Greetings!
+Locations,IslandFieldOffice_Welcome_1,Hello!
+Locations,IslandFieldOffice_Welcome_2,Hey!
+Locations,IslandFieldOffice_Welcome_3,Welcome!
+Locations,IslandFieldOffice_Survey_Yes,Ready to report
+Locations,IslandFieldOffice_Survey_Notyet,Not ready
+Locations,IslandFieldOffice_Survey_Prompt_LeftPlant,Island Survey -- Please report the number of purple flowers present on the island.
+Locations,IslandFieldOffice_Survey_PurpleFlower_Question,How many purple flowers can be found on the island?
+Locations,IslandFieldOffice_Survey_PurpleFlower_Wrong,Hmm... That number doesn't fit my models at all... Maybe you should give it another shot tomorrow.$s
+Locations,IslandFieldOffice_Survey_PurpleFlower_Correct,"Yes, yes... that seems very accurate. Thank you!$h"
+Locations,IslandFieldOffice_Survey_Prompt_RightPlant,Island Survey -- Please report the number of purple starfish present on the island.
+Locations,IslandFieldOffice_Survey_PurpleStarfish_Question,How many purple starfish can be found on the island?
+Locations,IslandFieldOffice_Survey_Failed,Hmm... I think you should take a break and try doing the survey again tomorrow...
+Locations,IslandFieldOffice_Intro_Event,"So if you ever encounter any bones, fossils, or mummified specimens on this island, bring them to my desk, okay? I'll make it worth your while!$h""/pause 200/faceDirection SafariGuy 1/end$bAncient bones, in particular... And this island is full of them.$bGetting stuck in that cave was a huge setback to my project.$s""/pause 50/showFrame SafariGuy 0/pause 200/faceDirection SafariGuy 1/pause 100/speak SafariGuy ""But that's where you come in! Hee hee...$h""/faceDirection farmer 3/emote farmer 8/speak SafariGuy ""I'm in the bone business, you see...$bfieldofficeTentMusic/-1000 -1000/farmer 4 10 0/skippable/addTemporaryActor SafariGuy 16 32 5 4 0 true Professor_Snail/viewport 4 6 true/move farmer 0 -2 0/pause 1000/faceDirection SafariGuy 1 true/pause 50/faceDirection SafariGuy 2 true/pause 500/speak SafariGuy ""Ah... Come in!""/move farmer 2 0 0/move farmer 0 -4 3/faceDirection SafariGuy 1/pause 500/speak SafariGuy ""Welcome to my field office.""/faceDirection SafariGuy 2/faceDirection farmer 2/showFrame SafariGuy 16/emote SafariGuy 28/pause 500/speak SafariGuy ""As you can see... it's quite empty.$s"
+Locations,ScienceHouse_CarpenterMenu_RenovateHouse,Make House Renovations
+Locations,ScienceHouse_CarpenterMenu_RenovateCabin,Make Cabin Renovations
+Locations,ScienceHouse_Renovation_RemoveCrib,Remove Crib/Remove the crib from your home./Select a crib to remove.
+Locations,ScienceHouse_Renovation_BuildCrib,Build Crib/Builds a crib in your home./Select a location for the crib.
+Locations,ScienceHouse_Renovation_OpenBedroom,Open Bedroom/Removes the wall separating your bedroom and the entrance room./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_CloseBedroom,Close Bedroom/Builds a wall separating your bedroom and the entrance room./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_AddSouthernRoom,Add Southern Room/Adds a room to the south of your bedroom./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_RemoveSouthernRoom,Remove Southern Room/Removes the room to the south of your bedroom./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_AddCornerRoom,Add Corner Room/Adds a room in the northeast corner of the house./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_RemoveCornerRoom,Remove Corner Room/Removes the room in the northeast corner of the house./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_AddCornerStairs,Add Corner Stairs/Adds a staircase from your bedroom to the corner room./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_RemoveCornerStairs,Remove Corner Stairs/Removes the staircase from your bedroom to the corner room./Select an area for the renovation.
+Locations,ScienceHouse_Renovation_AddStairs,Add Stairs/Adds a staircase in one of several locations/Select an area for the renovation.
+Locations,ScienceHouse_Renovation_RemoveStairs,Remove Stairs/Remove a staircase./Select an area for the renovation.
+Locations,Journal_Name,Journal Scrap
+Locations,IslandFarmhouse_Drawer,You open the drawer and find a tattered journal...
+Locations,Gourmand_Intro,"Kribbibbit... Whooo? You da farmer who tend-a da land outside me house, bub?"
+Locations,Gourmand_RequestIntro,"Gurrp... Dah land once teemed wis fresh, fresh fooda... *sigh*... me wish ta seein' da teemin' once more."
+Locations,Gourmand_RequestQuestion,"You be growin' da thing outside now, bub?"
+Locations,Gourmand_RequestFailed,Kriibbitt... You no grow da thing I wish-a da see... Grow dis a thing and return-a ta me..
+Locations,Gourmand_Request_0,Grow you for me... da pink thing... da juicy thing...
+Locations,Gourmand_Request_0_Success,"Gurrrp... Yes. Bombo pink... Bombo juicy...|...Bringin' me back to da good old days... sunny days when things bein' sweeter...|*slurp*... Me wanna take a big bombo juicy bite...|...But, me won't."
+Locations,Gourmand_Request_1,Me wanna see da longo yellow ticklin' thing... da thing dat be wavin' in the wind...
+Locations,Gourmand_Request_1_Success,"Gurrrp... Good. Bombo longo and when da run through it... bombo ticklin'.|Heh... remindin' me of an old girlfriend... *gurp*...|Heh... Now me wanna tickle-da you...|...But, me won't."
+Locations,Gourmand_Request_2,"Me wanna eat da zesty ground-fruit, but make da breath stink..."
+Locations,Gourmand_Request_2_Success,"Gurrrp... Yes... Me eatin' da thing once. Made da breath smell bombo bad...|...Remindin' me of Papa when I was just a tadpole...|Heh... Me wanna take a big bite, and smell bombo bad...|...But, me won't."
+Locations,Gourmand_Reward,"Kriibbitt... Yes... Thank-a da you. This bringin' me back... To da good times, long, long ago, bub...|Here... This da for you."
+Locations,Gourmand_LastReward,"Kriibbitt... Yes... Me remember everything now!|Thank-a da you for remindin' me so much.|This da one last reward for you, bub."
+Locations,Gourmand_Finished,"Kriibbitt... Good to see you again, bombo-friend.|I hope a you growin' da big bombo fruit, bub!"
+Locations,Gourmand_InProgress,Ah... I see you growin' da thing. But it's still ding-ee small. Come back when it's bombo big...
+Locations,Saloon_Arcade_Cowboy_Menu,= Journey Of The Prairie King =
+Locations,Saloon_Arcade_Cowboy_Continue,Continue Journey
+Locations,Saloon_Arcade_Cowboy_NewGame,Start New Journey
+Locations,IslandHut_Event_ParrotBoyIntro,"continue/-1000 -1000/farmer 7 7 3/skippable/specificTemporarySprite removeSprite 777/addTemporaryActor ParrotBoy 16 32 5 2 2 true ???/pause 2000/viewport 5 7 true/pause 2000/emote ParrotBoy 8/pause 1500/message ""The boy looks at you with curious eyes...""/pause 1500/animate ParrotBoy false true 500 17 0/playSound parrot_squawk/pause 1000/playSound parrot_squawk/pause 800/stopAnimation ParrotBoy/specificTemporarySprite parrotHutSquawk/pause 800/move farmer -2 0 0/pause 500/emote farmer 8/pause 1000/message ""He seems to have a close bond with the parrots.""/pause 500/message ""But he's too shy to approach you right now.""/pause 1400/faceDirection farmer 1/pause 500/message ""Perhaps making friends with the parrots could earn his trust?""/pause 1000/end position 5 7"
+Locations,IslandSecret_Event_BirdieIntro,"It's all I have to offer... but somehow, I think it will help you find what I seek.""/pause 500/unskippable/playSound coin/awardFestivalPrize memento true/pause 10/addQuest 130/pause 1700/end$b...Guarding his bones...""/faceDirection farmer 2 true/playSound batScreech/animate farmer false true 100 94/jump farmer/pause 1500/stopAnimation farmer/faceDirection farmer 0/faceDirection Birdie 2/speak Birdie ""My child... If I could only find a keepsake of his, it would bring me such peace.$s""/pause 400/textAboveHead Birdie ""Wait here...""/move Birdie -1 0 0/move Birdie 0 -1 3/warp Birdie -100 -100/playSound doorClose/faceDirection farmer 0/faceDirection Birdie 2/pause 1000/playSound Ship/pause 1000/playSound Ship/playSound crafting/pause 1000/playSound doorClose/warp Birdie 20 56/move Birdie 0 1 2/speak Birdie ""Here, take this. It's an old photograph that washed up on shore.$bI've been here ever since, dear.$s$bHe set sail one day, never to return. Took me three years sailing the high seas to find his remains.$s""/emote Birdie 28/speak Birdie ""*sigh*...$s$b My husband was the captain. A pirate, he was.$bI almost forgot what other people looked like!""/pause 1000/speak Birdie ""Well, I suppose now that you're here, I may as well ask you for a favor.""/pause 500/textAboveHead Birdie ""Come...""/pause 500/playFramesAhead 3/stopAnimation Birdie/extendSourceRect Birdie reset/warp Birdie 18 58/viewport move 1 0 2000/move Birdie 0 -1 2/move Birdie 2 0 1/move farmer 1 0 1/pause 500/speak Birdie ""Have you seen that wrecked ship on the south shore?$bCome closer, child.""/pause 400/move farmer -1 0 3/pause 300/emote Birdie 40/speak Birdie ""I haven't had a visitor in many moons...$s$btropical_island_day_ambient/-1000 -1000/farmer 20 58 3/skippable/addTemporaryActor Birdie 32 32 17 58 3 true ???/animate Birdie false true 1000 8 9/pause 1000/viewport 18 58 clamp true/pause 1000/emote Birdie 8/pause 1000/speak Birdie ""Oh... a visitor?"
+Locations,IslandSecret_Event_BirdieFinished,"Bless your heart!$h""/emote Birdie 20/emote farmer 32/pause 1000/end$b...I'm kidding about the monkey meat.""/pause 1000/speak Birdie ""Now... how can I repay you for this?""/jump Birdie/pause 500/speak Birdie ""Oh... How about I teach you a special recipe... Something I discovered in the many years I've spent here.""/pause 1000/playSound reward/addCraftingRecipe Fairy Dust/message ""Learned to craft 'Fairy Dust'.""/pause 1000/fork gotBirdieReward Strings\\Locations:alreadyGotNuts true/speak Birdie ""You can take these, too...""/awardFestivalPrize birdieReward true/pause 1000/speak Birdie ""Though you're a stranger, you went out of your way to help an old lady.$bBesides... I like it here! It's relaxing and beautiful. And I have an endless supply of fresh fish, oysters, and monkey meat. Hehehe.$h$bAnd you've brought me great peace... this locket will comfort me for the rest of my days.$h""(break)emote Birdie 28\speak Birdie ""An old woman like me? I think it's too late, dear...$s$bHe's gone. You should live your life.(break)speak Birdie ""You have great wisdom, child.It's an honorable thing to do.I'm doin' right by my old man... and we'll be together again some day soon... hehe""/pause 500/stopAnimation Birdie/move Birdie 0 1 3/playMusic tropical_island_day_ambient/faceDirection Birdie 1/quickQuestion $b...that familiar, putrid funk...$h""/pause 300/faceDirection farmer 2 true/playSound croak/animate farmer false false 350 104 105 104 105 104 105/pause 1000/faceDirection farmer 3/speak Birdie ""You know... It's been a lonely life here, child... but I don't regret it at all.$btropical_island_day_ambient/-1000 -1000/farmer 20 58 3/removeQuest 130/skippable/addTemporaryActor Birdie 32 32 17 58 3 true ???/animate Birdie false true 1000 8 9/pause 1000/viewport 18 58 clamp true/pause 2300/playMusic none/animate farmer true true 100 35/addObject 19 58 870/playSound sandyStep/pause 800/stopAnimation farmer/playFramesAhead 3/stopAnimation Birdie/extendSourceRect Birdie reset/warp Birdie 18 58/move Birdie 0 -1 2/move Birdie 1 0 2/pause 500/jump Birdie/pause 500/playMusic desolate/speak Birdie ""It's his...$s""/emote Birdie 20/pause 1200/playSound coin/removeObject 19 58/showFrame Birdie 20/pause 2500/speak Birdie ""Heh... It still has his smell, after all these years..."
+Locations,alreadyGotNuts,"Bless your heart!$h""/emote Birdie 20/emote farmer 32/pause 1000/end$bpause 50/pause 50/pause 1000/speak Birdie ""Though you're a stranger, you went out of your way to help an old lady."
+Locations,qiNutDoor,'Only the greatest walnut hunters may enter here.'^    Your current status: {0}/100You hear a strange voice from behind the door...
+Locations,BoatTunnel_DonateBatteries,Donate 5 battery packs to repair the ticket machine?
+Locations,BoatTunnel_DonateHardwood,Donate 200 hardwood for hull repairs?
+Locations,BoatTunnel_DonateIridium,Donate 5 iridium bars to repair the anchor?
+Locations,BoatTunnel_DonateBatteriesHint,This machine could be repaired with 5 battery packs.
+Locations,BoatTunnel_DonateHardwoodHint,The hull could be repaired with 200 pieces of hardwood.
+Locations,BoatTunnel_DonateIridiumHint,The anchor could be repaired with 5 iridium bars.
+Locations,BoatTunnel_boatcomplete,The boat will be repaired overnight.All materials have been found!
+Locations,BoatTunnel_willyText_firstRide,She looks good as new!
+Locations,BoatTunnel_willyText_random0,"Sorry if I smell like fish, heh!"
+Locations,BoatTunnel_willyText_random1,Ahoy!
+Locations,AnimalHouse_Incubator_Hatch_Ostrich,A new ostrich chick hatched... it's a big one!
+Locations,FieldOfficeFinale,"I'll be studying these bones for years to come!""/faceDirection SafariGuy 1/faceDirection farmer 3/speak SafariGuy ""Farewell, @!""/pause 600/end$bLook how far we've come!$h""/faceDirection SafariGuy 1/speak SafariGuy ""The collection looks fantastic, and it's all thanks to you, @.""/emote farmer 32/speak SafariGuy ""Here, as a way of saying 'thanks', I want to teach you something.""/faceDirection farmer 3/pause 700/playSound reward/message ""Learned how to craft 'Ostrich Incubator'""/pause 400/speak SafariGuy ""This device will allow you to raise ostriches back home. Just place the incubator in a barn, place an ostrich egg inside, and wait...""/faceDirection SafariGuy 0/speak SafariGuy ""Getting your hands on an ostrich egg is a different story, though... I'll leave that up to you!""/pause 400/faceDirection farmer 0/pause 500/speak SafariGuy ""Heh... Well... now the real work begins.$bdistantBanjo/-1000 -1000/farmer 4 8 0/addCraftingRecipe Ostrich Incubator/addMailReceived fieldOfficeFinale/skippable/addTemporaryActor SafariGuy 16 32 3 8 0 true Professor_Snail/pause 1000/viewport 4 6 true/pause 4000/speak SafariGuy ""Wow..."
+Locations,NutHint_Squawk,*Awk*
+Locations,NutHint_VolcanoLava,Fire mountain... Hidden down fire river...
+Locations,NutHint_BuriedArch,Buried near bones...
+Locations,NutHint_Arch,Help man in tent...
+Locations,NutHint_NorthBuried,{0} buried in the north...
+Locations,NutHint_WestBuried,{0} buried in the west...
+Locations,NutHint_SouthBuried,{0} buried in the south...
+Locations,NutHint_NorthHidden,{0} hidden in the north...
+Locations,NutHint_HutTree,Bulging very close by...
+Locations,NutHint_TigerSlime,Stripey slimes to the west...
+Locations,NutHint_MusselStone,{0} stuck in shelly stones by shore...
+Locations,NutHint_IslandFarming,{0} grow on the farm to the west...
+Locations,NutHint_WestHidden,{0} hidden in the west...
+Locations,NutHint_IslandFishing,{0} deep in the water...
+Locations,NutHint_VolcanoTreasure,{0} hidden in fire mountain treasures...
+Locations,NutHint_VolcanoBarrel,{0} encased in fire mountain gadgets...
+Locations,NutHint_VolcanoMining,{0} nutty stone in fire mountain...
+Locations,NutHint_VolcanoMonsters,{0} taken by monsters in fire mountain...
+Locations,NutHint_Journal,Hidden in the pages of the journal...
+Locations,NutHint_SouthEastBuried,{0} buried... Pirate's cove...
+Locations,NutHint_StardropPool,Bathing in the heart of the star...
+Locations,NutHint_Caldera,Atop fire mountain...
+Locations,NutHint_Gourmand,Kribbit... Gurrrp...
+Locations,NutHint_IslandShrine,Hidden shrine in rain forest...
+Locations,NutHint_GoldenCoconut,"Inside hard, gold thing..."
+Locations,IslandSouth_ResortOpenSign,The beach resort is open. Temporarily close it down tomorrow?
+Locations,IslandSouth_ResortOpenWillCloseSign,The beach resort will temporarily close tomorrow. Keep it open?
+Locations,IslandSouth_ResortClosedSign,The beach resort is temporarily closed. Open it back up tomorrow?
+Locations,IslandSouth_ResortClosedWillOpenSign,The beach resort will open back up tomorrow. Keep it closed?
+Locations,IslandSouth_ResortWillOpenSign,The beach resort will be open tomorrow.
+Locations,IslandSouth_ResortWillCloseSign,The beach resort will be closed tomorrow.
+Locations,ManorHouse_LAF_Check,The town's 'Lost and Found' box.
+Locations,ManorHouse_LAF_Check_OrdersUnlocked,The town's 'Lost and Found' box. You can collect incomplete deliveries from past special orders here.
+Locations,ManorHouse_LAF_DonationItems,Collect lost items and incomplete deliveries
+Locations,ManorHouse_LAF_FarmhandItems,Retrieve items from offline farmhands
+Locations,ManorHouse_LAF_FarmhandItemsQuestion,Who would you like to retrieve items from?
+Locations,FieldOfficeDonated_0,Ah... Now this is a truly fascinating piece of natural history! Thank you.
+Locations,FieldOfficeDonated_1,"Beautiful! These bones are exactly what I'm looking for. Now, let me clean my magnifying lens..."
+Locations,FieldOfficeDonated_2,"You've outdone yourself, @. This is one of the most pristine specimens I've ever seen. Thank you!$h"
+Locations,FieldOfficeDonated_3,To think... generations have come and gone while this little bone lay hidden beneath the soil. Now it's mine!
+Locations,FieldOfficeDonated_Reward,"I've got a little something waiting for you behind the counter, when you're ready for it!$bAnd would you look at that! With this donation, we've got another full set piece completed.$h"
+Locations,Volcano_ShortcutOut,Take the shortcut out of the volcano?
+Locations,SeedShop_MoneyBox,I'm taking the day off to visit the island. Please place your money in the box. No cheating!^     -Pierre
+Locations,AnimalShop_MoneyBox,"I'm visiting the island today. If you need to buy anything, just leave the money in this box!^     -Marnie"
+Locations,Saloon_MoneyBox,"I'm tending the bar on Ginger Island today, but I won't let that stop you from buying something!^     -Gus"
+Locations,ScienceHouse_MoneyBox,"I'm on the island today, but you can still buy something. It's an honor system!^     -Robin"
+Locations,ChallengeShrine_NotYetHard,"         --Shrine Of Challenge--^Dispel the ancient magi-seal of protection, allowing powerful monsters to ascend from the deep?"
+Locations,ChallengeShrine_AlreadyHard,"         --Shrine Of Challenge--^Summon an ancient magi-seal protection, returning the mines to their original state?"
+Locations,ChallengeShrine_Activated,Your request will be granted overnight.
+Locations,ChallengeShrine_AlreadyActive,You've already put in a request.
+Locations,ChallengeShrine_OnQiChallenge,There's a note from Mr. Qi: ^ I've temporarily disabled this shrine. Come back tomorrow!
+Locations,Gil_Telephone,"If you ever need to use the Item Recovery Service, but don't wanna run all the way out here... just give us a ring. Sound good?$bTell you what... I'm gonna give you Marlon's tellie-phone number. He don't like me givin' it out, but I think you've earned it.$bHey. 150 Magma Sprites, huh? I'm impressed."
+Locations,AdventureGuild_KillList_MagmaSprite,Magma Sprites
+Locations,AnimalHouse_Incubator_HouseFull,"An egg is ready to hatch, but the building is full."
+Locations,SandDuggy,Sand Duggy
+Locations,TravelingMerchant,Traveling Merchant
+Locations,ScienceHouse_Carpenter_CommunityUpgrade2,"...What's that? You'd like me to add a few shortcuts around the valley? Sure, I can do that!^I'll just need 300,000g..."
+Locations,AnimalHouse_Incubator_Hatch_GoldenEgg,A sparkling golden chick hatched!
+Locations,SummitBoulder,It seems impossible to budge...
+Locations,Hint,Hint
+mail,Robin,]A Gift From RobinHey there!^I had some extra wood lying around... I thought maybe you could use it. Take care!  ^   -Robin %item object 388 50 %%[
+mail,Demetrius,"]A Gift From DemetriusDear @,^I was conducting a field study the other day, and I found this specimen. ^I hope you find it as interesting as I did.    ^   -Demetrius%item object 392 1 394 1 132 1 66 1 %%["
+mail,Linus,"]A Gift From LinusHello, friend.^The mountain lake has been kind to me lately. I'd like to share my good fortune with you.  ^   -Linus %item object 136 1 143 1 202 1 227 1 228 1 %%["
+mail,Pierre,"]A Gift From PierreDear valued customer,^Thanks for visiting 'Pierre's'! Enclosed is your 'Cash-back Rewards Program' rebate. See you soon! ^   -Pierre^  P.S. Sorry for the stock message, @. Enjoy! %item money 250 601  %%["
+mail,Caroline,"]A Gift From CarolineDear @,^Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well.   ^   -Caroline%item object 190 1 192 1 24 1 %%["
+mail,George,]A Gift From GeorgeFound some good quality stone. ^Maybe you can build with it or something.  ^   -George %item object 390 35 %%[
+mail,Evelyn,"]A Gift From EvelynHello there, dear,  I hope your farm is doing well.^ I'm sending you a little something from my kitchen... I hope it didn't crumble in the mail.  ^   -Evelyn  %item object 216 1 220 1 223 1 %%["
+mail,Pam,]A Gift From PamHey. ^I found this in a drawer somewhere. Thought you could use it.   ^   -Pam %item object 346 1 349 1 787 1 %%[
+mail,Lewis,"]A Gift From Lewis@,^I'm really glad you've become part of our community! I've enclosed a 500g check from the Stardew Valley Agricultural Fund to help you continue your good work. ^Maybe you can buy some more seeds with it.  ^  Sincerely, Mr. Lewis%item money 500 501 %%["
+mail,Gus,"]A Gift From Gus@!^I made you a little treat this morning in the saloon. Dig in!   ^   -Your friend, Gus%item object 224 1 213 1 211 1 207 1 200 1 195 1 198 1 %%["
+mail,Clint,"]A Gift From ClintUm, Hello...     ^Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it.  ^   -Clint, the blacksmith %item object 334 1 335 1 336 1 %%["
+mail,Jodi,"]A Gift From JodiDear @,^I ordered too much fertilizer for the garden!! I bet you can put it to some good use. Take care!  ^   -Jodi %item object 368 5 369 5 370 5 %%["
+mail,Kent,"]A Gift From KentHello, @.^This item was collecting dust in the toolshed. I figured you might be able to use it.  ^   -Kent%item object 286 1 287 1 288 1 787 1 %%["
+mail,Emily,"]A Gift From EmilyHi!^How are you doing? I hope you enjoy the gift I've sent you... Well, goodbye! +   ^   -Emily %item object 397 1 428 1 440 1 %%["
+mail,Marnie,"]A Gift From MarnieDear @,^You're such a good neighbor I thought I'd send over some animal feed to make your job easier. Keep it up! ^   -Marnie %item object 178 30 %%["
+mail,Shane,"]A Gift From ShaneHey,^I thought it would be fun to send you a letter. I don't really know what to write, though.^ Here, I've enclosed a treat for you. Don't tell anyone, but I snagged this from the back room of JojaMart ages ago.^Okay, see you soon. ^   -Shane %item object 215 1 206 1 %%["
+mail,Wizard,"]A Gift From the WizardGreetings, young adept.^I have enclosed in this package an item of arcane significance. Use it wisely.   ^   -M. Rasmodius, Wizard%item object 422 1 82 1 84 1 70 1 %%["
+mail,Sandy,"]A Gift From SandyGreetings from Calico Desert!^Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person!   ^   -Sandy %item object 88 1 90 1 218 1 %%["
+mail,afterSamShow,"]Sam's Thank-you Note@,^the show was a rockin' success! I wanted to say thanks again for all your help in creating this amazing band. We couldn't have done it without you!   ^   -Sam["
+mail,afterArtShow,"]Leah's Thank-you NoteDear @,^Thanks again for coming to my art show. It was such a success! I sold nearly all of my sculptures, and everyone was so positive and encouraging! I hope to see you again soon.  ^   -Leah["
+mail,haleyGarden,"]Haley's Note@,^I thought it would be fun to write you a note.^ I had so much fun with the cows yesterday... I'm starting to understand why you chose the farmer's life! Hope to see you soon.  ^   -Haley["
+mail,PennyCleanTrailer,]Penny's ApologySorry about what happened at my place yesterday... My mom can get into bad moods sometimes.^Please just forget it happened.  ^   -Penny[
+mail,Duck,"]Ducks For Sale!Dear @,^You've proven your ability to raise chickens, so I'm now selling ducks at my shop!       ^   -Marnie["
+mail,Rabbits,"]Rabbits For Sale!Dear @,^I now have rabbits in the animal shop! They will provide you with fluffy wool ...and more!       ^   -Marnie["
+mail,Sheep,"]Sheep For Sale!Dear @,^You've proven your ability to raise cows, so I'm now selling sheep at my shop!       ^   -Marnie["
+mail,Goats,"]Goats For Sale!Dear @,^I now have goats available for purchase at the animal shop. You've done well so far!       ^   -Marnie["
+mail,Pigs,"]Pigs For Sale!Dear @,^You've come a long way since you first arrived. As a result, I've decided to start selling pigs at my shop. These pigs are trained at finding gourmet truffles!       ^   -Marnie["
+mail,SeaAmulet,"]About Mermaid's Pendants@,^I'm going to give you this advice because I like you and I want you to stay in Pelican Town. If there comes a day that you want to ask for someone's hand in marriage, you'll need to give them a 'Mermaid's Pendant'. Don't worry, everyone in Pelican Town understands the significance of the amulet. It's an ancient tradition in this region. Good luck! ^   -Lewis["
+mail,Bouquet,"]About Bouquets@,^It seems like you're starting to get close with some of the townspeople. If you want to show someone that you're romantically interested, you've got to give them one of my beautiful flower bouquets. I'm selling them now, for a very fair price! If you want to start a family someday, this is the first step! ^   -Pierre["
+mail,RobinCooking,"]Robin's Family RecipeDear @,^here is an old recipe that my grandma passed down to me. Enjoy!   ^   -Robin%item cookingRecipe %%["
+mail,DemetriusCooking,]Demetrius' RecipeI wanted to say 'thanks' for taking an interest in my work. Here's a cooking recipe that I like. ^   -Demetrius%item cookingRecipe %%[
+mail,LinusCooking,"]Linus' Recipe@,^how are you doing? I've enclosed some instructions on how to make one of my favorite fish recipes. ^   -Linus%item cookingRecipe %%["
+mail,PierreCooking,]Pierre's Famous TartTOP SECRET:^Here's the recipe for my famous blueberry tart.^Don't tell anyone! I'm giving it to you because we are such good friends. ^   -Pierre%item cookingRecipe %%[
+mail,CarolineCooking,"]Caroline's RecipeDear @,^nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, ^   -Caroline%item cookingRecipe %%["
+mail,GeorgeCooking,]George's RecipeFigured I'd give you this recipe I had laying around. Try not to burn it. ^   -George%item cookingRecipe %%[
+mail,EvelynCooking,"]Evelyn's RecipeDear @,^I usually don't give out my recipes... but since you've been such a sweetheart to George and I, I've written this one down for you. ^   -Evelyn%item cookingRecipe %%["
+mail,PamCooking,"]Pam's RecipeHey Kid,^here's the recipe for a little treat my pappy used to make. Cook it slow. ^   -Pam%item cookingRecipe %%["
+mail,LewisCooking,"]Lewis's Recipe@,^remember to eat healthy, or you won't have enough energy to work hard! I'm including one of my favorite recipes. Make sure to use ripe tomatoes! ^   -Lewis%item cookingRecipe %%["
+mail,GusCooking,"]Gus's RecipeDear @,^Here's a recipe from my saloon. I only share this with my good friends! ^   -Gus%item cookingRecipe %%["
+mail,ClintCooking,"]Clint's RecipeWell, I know a couple of recipes.^I thought I'd send you one... maybe it'll help you mine more ore or something.^Take care. ^   -Clint%item cookingRecipe %%["
+mail,JodiCooking,"]Jodi's Recipe@,^this recipe of mine won 1st place in a cooking competition! I hope you like it. Thanks for being a friend! ^   -Jodi%item cookingRecipe %%["
+mail,KentCooking,]Kent's RecipePicked up this recipe overseas. Enjoy.^Want to say thanks for making me feel welcome. ^^   -Kent%item cookingRecipe %%[
+mail,EmilyCooking,]Emily's Healthy Recipe@!^Flip this letter over for instructions on how to make a super-healthy meal!^You'll feel energized. See you soon. ^   -Emily%item cookingRecipe %%[
+mail,MarnieCooking,"]Marnie's RecipeDear neighbor,^when I'm not taking care of animals I like to experiment in the kitchen. Since we've become friends I want to share some recipes with you.^I hope you like this! ^   -Marnie%item cookingRecipe %%["
+mail,ShaneCooking,"]Shane's Recipe@,^I found this recipe in a magazine and I thought it sounded interesting. Feel free to give me a taste if you make it. hehe. ^   -Shane%item cookingRecipe %%["
+mail,SandyCooking,"]Sandy's RecipeDear @,^I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon! ^   -Sandy%item cookingRecipe %%["
+mail,WillyCooking,"]Willy's Ol' RecipeDear @,^I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH.  ^   -Willy%item cookingRecipe %%["
+mail,mom1,"]From MomDear @,^  How are you doing, sweety? I've missed you so much since you left. I hope the farming life is everything you hoped for. ^   Love, Mom.   ^   P.S. I sent your favorite cookies < %item object 223 1 %%["
+mail,mom2,"2]From Mom 
+        Dear @,^  It's been so long since I heard from you, dear. Things are the same as ever back home. I miss you very much. ^  Love, Mom ^ P.S. Found an envelope with some money Grandpa left for you. %item money 500 501 %%["
+mail,mom3,"3]From Mom Dear @,^  I saw an article about you in the local paper! It sounds like the country life is a good fit for you! I'm so proud of you. Take care, sweety. Love, Mom["
+mail,mom4,"4]From Mom Dear @,^ How are things going? You must really be making a fortune on that farm. Don't forget your dear old mother when you're a millionaire! ^  Love, Mom   ^   P.S. Enjoy the cake!%item object 221 1 %%["
+mail,dad1,"]From DadDear @,^  Have you settled into your new life yet? I can't believe you're all grown up now... Time sure flies. Now that you're gone I have all this extra money laying around, so I included a little gift.^  Love, Dad.%item money 500 501 %%["
+mail,dad2,"2]From Dad Dear @,^  How is the country life going for you? It's been lonely here without you, but I'm proud of what you're doing.^  Love, Dad  ^  P.S. Found an envelope with some money Grandpa left for you. %item money 500 501 %%["
+mail,dad3,"3]From Dad Dear @,^  I read an article about you in the local paper! I'm so impressed with your progress on the farm! Keep this up and dear old Dad might be retiring in a fern islands luxury bungalow after all ;).^  Love, Dad["
+mail,dad4,"4]From Dad Dear @,^ I know you're busy on the farm and that's why you can't visit. I understand. You've been working so hard... keep it up and you can accomplish anything! ^ Love, Dad  ^  P.S. Included some quality stone %item object 390 30 %%["
+mail,newsstory,"]News StoryGreetings, @.^It is our pleasure to inform you that your farm will be featured in next week's 'up & coming' column of the Stardew Valley Tribune! Congratulations. We're impressed with your quick progress. ^   -SVT["
+mail,pierreBackpack,"]Backpacks From Pierre'sADVERTISEMENT:^""I keep finding cool stuff, but my backpack is full!""^^Does this sound like you? Well, Pierre's got you covered!^^Stop by Pierre's General Store TODAY and check out our affordable size 24 backpack!^ See you soon!["
+mail,pierreHours,]Pierre's Extended HoursADVERTISEMENT:^^Pierre's General Store is now open 7 days a week![
+mail,robinKitchenLetter,"]Robin's ServicesDear Farmer @,^^I'd like to apologize for joking about your Grandpa's old cottage when we first met. It's really a nice little house!^^However, you might need some more space someday. That's where I can help. If you bring me some raw materials and pay a fee, I can expand your house.^(Continued on next page)^^The first expansion I offer includes a kitchen. With a kitchen, you'll be able to cook any recipes you've learned!^^Anyway, I hope you're starting to feel at home in Stardew Valley!^^    Your local carpenter,^        Robin["
+mail,taxPassed,"]Tax ApprovedDear @,^the shipping tax passed. As of today, a 3% tax will be deducted from all your shipping profits. The reduced fee for public services is also in effect. See you soon! ^   -Mayor["
+mail,taxRejected,"]Tax RejectedDear @,^the shipping tax was rejected. Your shipping profits will remain as they are. Fees for public services will remain the same as well. See you soon. ^   -Mayor["
+mail,quest10,"]Best Neighbor@,^I've heard you've been giving some people a hand around town! Everyone seems really thankful. I'm awarding you this month's ""Best Neighbor"" award (with a small cash prize). Keep it up! ^   -Mayor%item money 500 501 %%["
+mail,quest35,"]Thank-you From LewisDear @,^You've been such a help around town since you moved here... everyone keeps telling me all the wonderful things you've done for them! Please accept this thank-you prize. ^   -Mayor%item money 2500 2501 %%["
+mail,quest100,"]Neighbor Of The Year@,^I am pleased to announce that you've been chosen as ""Neighbor of the year""! That comes with a 10,000g prize! Congratulations! Everyone in town wants to say 'thanks' for all you've done. ^   -Mayor%item money 10000 10001 %%["
+mail,hero_update,"]Stardew Hero Rankings@,^it's time for the quarterly Stardew Hero rankings! I've enclosed them in a separate envelope. Good luck this season!  ^   -The Mayor["
+mail,hero_update1,%update
+mail,CF_Fish,"]Willy's Family HeirloomDear @,^ Your angling skills surpass even my ol' Pappy's... I'm impressed. ^ This stardrop's been passed down from Willy Sr. to Willy Jr. for... oh, heck. Prob'ly a thousand years.^Seein' as I don't have any kids... I want you to have it.^^ -Willy   ^  %item object 434 1 %%["
+mail,adoptionLetter,"]Adoption NoticeDear @ and spouse,^Congratulations! Your adoption application has been approved.^We're working hard to choose the perfect baby to match your profile.^Your new family member will arrive in 2 weeks.^^-Ferngill Adoption Agency["
+mail,stardewHeroMine,"]Secret MessageSecret Message: If you can reach the bottom of the mines one more time, a secret awaits you. Be careful, the mines have become more dangerous.["
+mail,fertilizers,"]Pierre's FertilizersDear neighbor,^I hope you are feeling settled in your new home. I am writing to let you know that Pierre's store is now selling fertilizers! Why don't you swing by and see if you can afford a few dozen boxes or so?  ^   -Pierre["
+mail,fertilizers2,"]Pierre's High Quality FertilizersDear @,^I am now selling higher quality fertilizers, as well as new crop selections! See you soon. ^   -Pierre["
+mail,abbySpiritBoard,]Abby's NoteHi @.^One of these days you should come to my room after dark... Maybe around 8pm. ^I want to show you something. ^   -Abby[
+mail,pennySpa,]Penny's NoteMeet me in the bath house after dark. ^   -Penny[
+mail,incubator,"]About The IncubatorDear @,^^Thank you for purchasing a coop upgrade! In addition to doubling the capacity of your coop, I've taken the liberty of installing an incubator. ^To use the incubator, simply place an egg inside. If you have space left in your coop, the egg will hatch in several days!^^As always, thanks for your business.^-Robin["
+mail,hatter,"]Hiyo, PokeHi.^^Me sell hats. Okay, poke?^^Come to old old old haus, poke. Bring coines.^^-hat mouse["
+mail,Beat_PK,"]P.K. Congratulations!Congratulations!!^^You beat 'Journey Of The Prairie King', and were randomly selected in our exclusive winner's sweepstakes! ^You've won a Prairie King Arcade System of your very own!^Now you can enjoy 'Journey Of The Prairie King' from the comfort of your own home.^^You deserve it!^-Prairie King Development Team %item bigobject 141 %%["
+mail,JunimoKart,]Junimo Kart Success!Congratulations!!^^You beat all the levels in 'JunimoKart'... you're actually the first person in the entire Ferngill Republic to do so!^Your prize: a home version of Junimo Kart!^^Have fun!^-Junimo Kart Development Team %item bigobject 159 %%[
+mail,elliottReading,"]Elliott's Reading@,^I have great news... my novel is finished!! I'm giving a public reading this afternoon at the library. Hope to see you there! ^   -Elliott["
+mail,elliottBoat,]Elliott's NoteMeet me at the docks on a sunny morning. I've got something in mind. ^   -Elliott[
+mail,harveyBalloon,"]Harvey's Surprise@,^I have a surprise for you. Meet me by the railroad tracks. ^   -Harvey["
+mail,samMessage,"]Sam's Note@,^meet me in front of my house tonight after dark. ^   -Sam["
+mail,joshMessage,"]Alex' Invitation@,^meet me at the saloon tonight after dark. ^   -Alex["
+mail,lewisStatue,"]Lewis' Angry Letter@,^^In the future, I'd appreciate it very much if you refrained from placing my PRIVATE belongings in town for all to see!^^I'm very displeased!^^Take this money and never speak of my 'project' to anyone.%item money 750 751 %%["
+mail,marnieAutoGrabber,"]Auto-Grabber Notice@,^I've got a new item in stock... It's called the ""Auto-Grabber"".^^This thing can milk your cows and goats, shear your sheep, gather eggs, and pluck your wooly rabbits... all on its own!^^It's considered a 'luxury item', so I'm charging 25,000g.^^    -Marnie["
+mail,EmilyClothingTherapy,"]Emily's Idea@,^I have this crazy new idea that I want to involve you in... It's called ""Clothing Therapy"".^^Please come to the Mayor's house today to see what it's all about.^^ Love, Emily["
+mail,EmilyCamping,"]Emily's Invitation@,^Let's go camping! ^^ Meet me in the secret woods after 10pm.^^ Love, Emily["
+mail,EmilyDoneCamping,"]Emily's NoteThanks for joining me last night... I had a great time.^I'm actually glad that bear showed up!^^See you soon^^  Love, Emily["
+mail,foundLostTools,"]Lost ToolsDear @,^Someone dropped your tools into the lost and found bin last night.^^Stop by the mayor's office to pick them up. ^^  -Mayor Lewis["
+mail,fishing2,]Willy's New ItemsI've got some new items in stock...^A deluxe fishing pole and some bait that you can attach to it!^You can use bait to make fish bite faster. Hope to see you soon! ^   -Willy[
+mail,fishing6,2]Willy's New Items Come by the shop and check out the new rods I'm selling.^They're the best money can buy... and you can customize them with different kinds of tackle!^Hope to see you soon! ^   -Willy[
+mail,wizardJunimoNote,"]Wizard's SummonsMy sources tell me you've been poking around inside the old community center.^Why don't you pay me a visit?^My chambers are west of the forest lake, in the stone tower. I may have information concerning your... 'rat problem'.^   -M. Rasmodius, Wizard %item quest 1 true %%["
+mail,winter_18,"]Secret Gift-GiverDear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favorite tradition is the ""secret gift exchange"", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprise them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 10AM to 2PM at the town square. See you then! ^   -Mayor Lewis["
+mail,ccBulletinThankYou,"]Bulletin Board Thank-youDear @,^Everyone around town has been talking about your great generosity lately!^Apparently, packages have been appearing in people's houses containing items they posted about years ago on the community center bulletin! And the packages are all addressed from your farm!^Thanks for going out of your way to do something like that... all of us in town are delighted! ^   -Mayor Lewis["
+mail,guildQuest,"]Quest To Slay SlimesI see you've been exploring the old mine. You've got the adventurer's spirit, that much I can tell.^If you can slay 10 slimes, you'll have earned your place in my adventurer's guild. ^Be careful.    -Marlon %item quest 15 true %%["
+mail,skullCave,"]Qi's ChallengeI see you've entered the Skull Cavern. Well done.^I've got a better challenge for you, kid. Make it at least 25 levels deep. I've got a mountain of $ to send if you can do it.^  Your friend, Mr. Qi %item quest 20 %%["
+mail,robinWell,"]Build A WellRobin here!^I know there's a lot of stone scattered around your farm.^If you have a surplus, you might consider having me build a well for you.^Wells can be placed all over your farm, and serve as convenient places to refill your watering can.^^Just swing by my shop with 75 stones and 1000g when you're ready for it.^-Robin["
+mail,landslideDone,"]Joja Removed LandslideTo our valued JojaMart customers:^Our team members have removed the landslide caused by our drilling operation near the mountain lake. I'd like to remind you that our drilling operation is entirely legal (pursuant to init. L61091, JojaCo Amendment). Responsible stewardship of the local environment is our top priority! ^^We apologize for any inconvenience this accident may have caused.^As always, we value your continued support and patronage!^^-Morris,^Joja Customer Satisfaction Representative["
+mail,QiChallengeComplete,]Qi Challenge CompleteYou did it.^ I'm very impressed.^ Enjoy your reward.^   -Qi. %item money 10000 %%[
+mail,spring_2_1,"]Willy's InvitationHello there,^Just got back from a fishing trip. You should come down to the beach some time.^I've got something for ya.^-Willy %item quest 13 true %%["
+mail,spring_12,"]Egg Festival NoticeDear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 9 AM and 2 PM if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Mayor Lewis["
+mail,spring_15_1,"]Evelyn's TipHello, dear...^^I know you're just getting started as a gardener, so I wanted to give you a little tip.^^Most crops only grow in one season. When summer arrives, your spring crops will all die out. So plan ahead!^^-Granny Evelyn["
+mail,spring_23,"]Flower Dance NoticeDear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 9 AM and 2 PM if you're interested.^  -Mayor Lewis["
+mail,summer_10,"]Luau NoticeDear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal potluck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behavior.^Come to the beach sometime between 9 AM and 2 PM.^   -Mayor Lewis["
+mail,summer_28,"]Dance Of The Moonlight JelliesDear @,^Tonight at around 10 o'clock PM, a rare and beautiful event will take place.^^The moonlight jellies will be passing by Pelican Town on their long journey south for the winter.^^We're all gathering at the beach to watch. You don't want to miss this!^See you tonight,^ -Demetrius["
+mail,fall_9,"]Stardew Valley Fair NoticeDear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 9 AM... don't miss it!^   -Mayor Lewis["
+mail,fall_15,"]Stardew Valley Fair ReminderDear @,^I just want to remind you that the Stardew Valley Fair is happening tomorrow.^Don't forget to bring your 9 items for the grange display.^Remember, the fair starts at 9AM in the town square. See you there!^   -Mayor Lewis["
+mail,fall_26,"]Spirit's Eve NoticeDear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark specter, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 10 PM if you'd like to participate.^  -Mayor Lewis["
+mail,winter_7,"]Festival Of Ice NoticeDear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9 AM and 2 PM if you'd like to participate.^  -Mayor Lewis["
+mail,winter_14,"]Night Market NoticeStarting tomorrow, a traveling merchant fleet will dock at Pelican Town for the yearly night market.^^The market starts at 5pm, and will be in port for the next three days.^^Please visit the beach after 5pm to join the festivities. There's free coffee!["
+mail,spring_11_1,"]Robin Lost Her AxeMISSING:^I lost my favorite Axe! If you find it, please return ASAP. I'm having a tough time without it. There's 250g in it for whoever finds the thing.^   -Robin%item quest 100 %%["
+mail,spring_19_1,]Jodi Asks For CauliflowerFarmer @-^I have a request for you. I need fresh cauliflower for a recipe I want to make. Could you bring me one?^   -Jodi%item quest 101 %%[
+mail,summer_3_1,"]Lewis Asks For A Favor@-^This is embarrassing... I lost my lucky purple shorts. I'm telling you because I think I can trust you.^If you find them, bring them back to me DISCREETLY. I'll pay well.^Thanks.^   -Mayor Lewis%item quest 102 %%["
+mail,summer_14_1,"]Pam's RequestHey Kid,^My throat's about as dry as a desert bone. I'm real thirsty for a pale ale. You got one? Regular old beer won't do. I need a pale ale.^   -Pam%item quest 103 %%["
+mail,summer_20_1,"]Demetrius Asks For A Sample@-^I'm gathering data on the correlation between soil alkalinity and crop fructose levels. Long story short, I need a fresh melon from your farm. If you brought me one I'd be very grateful.^   -Demetrius%item quest 104 %%["
+mail,summer_25_1,"]George Needs A PepperTo Farmer @:^My knee's acting up again, and you know what helps? ^Rubbing the darn thing with hot pepper.^ Trouble is, my supply's run dry. If you've got one to spare I'd be much obliged.^   -George %item quest 105 %%["
+mail,fall_3_1,"]Marnie's RequestDear @,^I'd like to give my cows a special treat. They're such good girls and hungry, too. Could you bring me one bunch of amaranth? They love the stuff. ^Thanks, Dear.^   -Marnie %item quest 106 %%["
+mail,fall_8_1,"]Linus Lost His BasketHello,^It's blackberry season right now. The bushes are full of them. I want to pick some, but I lost my basket. Can you help?^   -Linus%item quest 107 %%["
+mail,fall_19_1,]Caroline's Request@-^I'd like to buy a pumpkin from you. My daughter and I want to carve a jack-o-lantern for the upcoming Spirit's Eve festival. ^   -Caroline%item quest 108 %%[
+mail,winter_2_1,"]Willy's ChallengeHey, I've got a little challenge for you:^    Catch me a squid.^You can fish them from the ocean at night. They only show up in the winter, though.^   -Willy%item quest 109 %%["
+mail,winter_6_1,]Clint's Unusual RequestI've got an unusual request. Could you keep this a secret?^ I want you to deliver an amethyst to Emily. It's her favorite stone. Tell her it's from me.^   -Clint %item quest 110 %%[
+mail,winter_12_1,"]Wizard's Request@-^I am researching the forgotten art of shadow divination. I require an item known as 'Void Essence'. Bring it to me and you will be rewarded.^ -M. Rasmodius, Wizard %item quest 111 %%["
+mail,winter_17_1,"]Clint's Request@,^Sorry to bother you again, but I need another favor.^I got a new hammer and I want to try it on a variety of metals.^Could you smelt an iron bar and bring it to me? ^Thanks.^ -Clint %item quest 112 %%["
+mail,winter_21_1,"]Robin's Request@-^How are you doing? Hope the winter hasn't been too hard on you.^Anyway, I'm writing to ask you for some hardwood. I need about ten pieces, if you've got it.^If not, no worries. Take Care!^  -Robin%item quest 113 %%["
+mail,winter_26_1,"]Gus Needs A Certain FishDear @-^I want to make fish stew, but I need an albacore! I know they're almost out of season... sorry about the short notice. Could you catch one for me?^   -Gus%item quest 114 %%["
+mail,spring_1_2,]Raw Material Price NoticeNotice:^^The price of raw materials at Robin's shop and Clint's shop has increased.[
+mail,spring_6_2,"]Emily's Request@-^I'm really craving a fresh apricot. I haven't been able to find one at the store, so I'm asking you. I'll pay you well for it!^   -Emily%item quest 115 %%["
+mail,spring_15_2,"]Evelyn's SurpriseDear @,^I'd like to surprise my husband with a gift. He's a big fan of leeks. Could you bring me one?^   -Granny Evelyn%item quest 116 %%["
+mail,spring_21_2,"]Pierre's CravingNOTICE^Pierre here... I really, really want a plate of sashimi. I'll pay top coin to whoever brings me some.^   -Pierre%item quest 117 %%["
+mail,summer_6_2,]Demetrius' Study On ToxinsFisherman Wanted^I need a good pufferfish specimen. I'm conducting an experiment on the toxin created by the pufferfish.^Reward: 1000g^ -Demetrius%item quest 118 %%[
+mail,summer_15_2,"]Kent Needs A GiftDear Farmer @,^I'd like to give my wife a starfruit for our anniversary. Are you growing any on your farm? If you brought me one, I'd be very grateful.^   -Kent%item quest 119 %%["
+mail,summer_21_2,"]Lewis' Request@,^I need truffle oil. Don't ask me why.^ -Mayor Lewis%item quest 120 %%["
+mail,fall_6_2,"]Gus Needs LobsterWanted: 1 Fresh Lobster for a marvelous bisque I'm creating.^Who: Gus, proprietor of the Stardrop Saloon^Reward: 800g %item quest 121 %%["
+mail,fall_19_2,"]Pam Needs HelpNOTICE^Does anybody have one of them battery packs? My TV remote died, and it's a real hassle getting off the couch to change the station.^  -Pam%item quest 122 %%["
+mail,winter_5_2,"]Wizard Needs A Rare Item@,^I'm creating an enchanted staff of phenomenal power.^However, I'm missing something: an Iridium Bar.^I'm willing to pay 5x the market value for it. Bring it as soon as you can.^ -M. Rasmodius, Wizard %item quest 123 %%["
+mail,winter_13_2,"2]Willy's Challenge I've got another challenge for you: Catch me a Lingcod.^They don't go down easy, but I know you can do it.^  -Willy%item quest 124 %%["
+mail,winter_19_2,"]Gus Needs A CoconutDear @,^I'm at my wit's end. I desperately want to make a Coco-no-no at the saloon, but I have no way of getting a coconut!^Can you help me?^  -Gus%item quest 125 %%["
+mail,winter_24,"]Feast Of The Winter Star ReminderDear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 9 AM in the town square. See you then! ^   -Mayor Lewis["
+mail,passedOut1_Billed_Male,"]Joja InvoiceDear Mr. @,^Last night, a Joja team member found you incapacitated. A medical team was dispatched to bring you home safely.^We're glad you're okay!^^(You've been billed {0}g for this service)^^-Morris^Joja Customer Satisfaction Representative["
+mail,passedOut1_Billed_Female,"]Joja InvoiceDear Ms. @,^Last night, a Joja team member found you incapacitated. A medical team was dispatched to bring you home safely.^We're glad you're okay!^^(You've been billed {0}g for this service)^^-Morris^Joja Customer Satisfaction Representative["
+mail,passedOut1_NotBilled_Male,"]Legally Required NoticeDear Mr. @,^Last night, a Joja team member found you incapacitated. A medical team was dispatched to bring you home safely.^We're glad you're okay!^^Since you have no money, we were obligated by law to provide this service free of charge.^^-Morris^Joja Customer Satisfaction Representative["
+mail,passedOut1_NotBilled_Female,"]Legally Required NoticeDear Ms. @,^Last night, a Joja team member found you incapacitated. A medical team was dispatched to bring you home safely.^We're glad you're okay!^^Since you have no money, we were obligated by law to provide this service free of charge.^^-Morris^Joja Customer Satisfaction Representative["
+mail,passedOut2,"]Note From Linus@, ^You're lucky I found you last night! You were unconscious, and someone was searching your pockets. I have no idea how much money they took... they ran away as soon as I approached. Be more careful!^^-Linus["
+mail,passedOut3_Billed,"]From The Office Of Dr. Harvey@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^I've billed you {0}g to cover your medical expenses.^^-Dr. Harvey["
+mail,passedOut3_NotBilled,"]Harvey's Free Medical Service@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^Since you have no money, I provided your medical care free of charge.^^-Dr. Harvey["
+mail,passedOut4,"]Note From Marlon@, ^^Found you face-down in the mud during my 3:00 AM sweep.^^You should try to make it home a little earlier next time!^^     -Marlon["
+mail,elliottLetter1,"]Letter From My Husband@, my love,^^I've just arrived in Grampleton, to start the tour. I've forgotten how hectic the city is! The streets are packed with people... they either seem in a mad hurry, or lost in a daze, unaware of their surroundings. I miss Pelican Town already!^^I begin the tour this evening, at a local bookstore. I must admit, I'm becoming a bit nervous at the thought of public speaking... my stomach feels as if it's been twisted into a soft pretzel and doused with spicy cheese dip. Wish me luck!^^-Love, Elliott^^P.S. I hope you had a peaceful night, and weren't too scared all alone in that big house! %item conversationTopic ElliottGone2 0 %%["
+mail,elliottLetter2,"]Letter From My Husband 2My dear @,^^The first reading went well, though the audience was a bit smaller than I'd hoped. Still, I sold enough copies of the book to pay for my (bug-infested) hotel room!^^In a few hours, I leave for Zuzu City. If yesterday's reading was a warm-up, this next one will be a true napalm blast...^^I miss you very much. Remember to eat well! Oh, and don't forget the leftover crab cakes I put in the fridge...^-Love, Elliott %item conversationTopic ElliottGone3 0 %%["
+mail,elliottLetter3,"]Letter From My Husband 3My sweet @,^^Last night in Zuzu City was quite the experience! It seems there's a large literary scene here... a few dozen people showed up at my reading!^^I even signed a couple of autographs... it's strange to be seen as someone important. It's all a matter of framing, a grand illusion... for truly I am no one special. Only your devoted Elliott, as always.^^Currently I'm alone, in my hotel room, 'ingesting' a Joja Value Meal...^^Should this be called 'food'?^Or 'edible matter'?^I needn't long brood^It must be the latter^^I look forward to returning home soon. Hope you enjoyed the crab cakes.^^-Love, Elliott %item conversationTopic ElliottGone4 0 %%["
+mail,elliottLetter4,"]Letter From My Husband 4In dreams, when graced with lofty view^I gaze upon the sunlit sea^What distant shores I've travelled to^But time now clouds my memory^^There is but one eternal place^Where I shall someday pass beyond^In Valley dear, where my love waits:^Our little home beside the pond^^-Elliott %item conversationTopic ElliottGone5 0 %%["
+mail,elliottLetter5,"]Letter From My Husband 5My dear @,^^I won't bore you with any more details about my readings. They are mostly the same.^^I'm sure your time has been much more exciting! I can't wait to return and see what progress has been made.^^On these long travels between towns, I amuse myself by closing my eyes and envisioning the farm... I see kegs pulsing with sweet wine, a furnace ablaze with precious ore, and our little kitchen with the smell of cinnamon and nutmeg. There's a lot to enjoy!^^Just don't stay out too late in the mines, my love. It's dangerous in there! If you must go... bring plenty of food.^^-Love, Elliott %item conversationTopic ElliottGone6 0 %%["
+mail,elliottLetter6,"]Letter From My Husband 6My dear @,^^This will be my last letter before I return home. I've had a fine trip... though nothing too exciting. It's been nice to meet people who enjoy my work, but I'm eager to return home.^^I look forward to the comfort of our little house, the satisfying farm work, a home-cooked meal, and most of all, cozying into the flannel sheets with you.^^See you soon!^-Love, Elliott %item conversationTopic ElliottGone7 0 %%["
+mail,MarlonRecovery,"]Marlon Found Your Item@,^Found your lost item.^^Be more careful next time!^   -Marlon%item itemRecovery %%["
+mail,RarecrowSociety,"]From The Rarecrow SocietyDear @,^^Your dedication is truly impressive...^^Only a select few manage to acquire the complete Rarecrow collection!^^Please accept this blueprint to commemorate your achievement.^   -The Z.C. Rarecrow Society%item craftingRecipe Deluxe_Scarecrow %%["
+mail,CarolineTea,"]Caroline's Tea NoteDear @,^^Thanks for stopping by my sunroom yesterday. I usually drink tea alone, but it was fun to share with you!^^I've enclosed instructions on how to prepare and grow your own tea. No pressure, but if you do end up growing some, make sure to bring me a cup!^^-Caroline%item craftingRecipe Tea_Sapling %%["
+mail,WoodChipper,"]Wood Chipper NoticeHey @,^^Just wanted to let you know about a new item I'm carrying... it's called a 'Wood Chipper'.^^You can use it to break hardwood into several pieces of regular wood!^^I know wood can be hard to come by in the winter, so if your supply gets low, consider picking one up.^       -Robin["
+mail,willyBackRoomInvitation,"]Willy's Back Room Invitation@,^^I've unlocked the back room of the shop.^Come by when you have a chance.^There's something I want to show you.^^-Willy["
+mail,KrobusCrafting,"]A letter from Krobus@, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.^^I hope you are doing okay.^^I wanted to share this with you... it's notes on how my people build a certain item.^^   -Krobus%item craftingRecipe Dark_Sign %%["
+mail,georgeGifts,"]Evelyn's thank-you noteDear @,^^Thank you so much for the leeks. They look fresh and delicious. George will love them.^^Today, I'm going to surprise him with 12 little gift-wrapped treasures (thanks to you!). Stop by if you want to be there!^^-Evelyn^^P.S. Please accept this gift. I think you'll enjoy it!%item bigobject 246 %%["
+mail,robinResource,"]Robin's Resource RushHey @,^^Congratulations on completing my little challenge. I'm impressed!^^As an added bonus, I've included the blueprints for a new type of chest. Enjoy!^^-Robin^^^^P.S. -- Now that you have all those resources laying around, why not swing by for some construction work?%item craftingRecipe Stone_Chest %%["
+mail,ClintReward,"]Clint's Thank-youUm, Hello...     ^Thanks for helping me clear out those monsters.^^I'm not scared at all! ...But it should make the mines safer for everyone else... right?^^Take this blueprint. (Hope it doesn't make me obsolete...)^^   -Clint, the blacksmith%item craftingRecipe Geode_Crusher %%["
+mail,ClintReward2,"]Clint's Alternate Thank-youUm, Hello...     ^Thanks for helping me clear out more monsters.^^Maybe next time, I'll take care of them myself... if I have time!^^Take this item. I found it in the back room...^^   -Clint, the blacksmith%item object 286 10 287 5 231 3 %%["
+mail,willyBugWadCutscene,]Willy's Thank-you^^   -Willy%item craftingRecipe Quality_Bobber %%[
+mail,MSB_Pierre,"]Pierre's Prime ProduceDear @,^^I guess people didn't take to 'Pierre's Prime Produce' like I'd hoped...^^Anyways, here's my old 'Mini-Shipping Bin'.^The next time you get your hands on some produce worthy of the 'Pierre's Prime' luxury brand, maybe you could have them shipped my way?^^   -Pierre%item bigobject 248 %%["
+mail,MSB_Lewis,"]Lewis's Thank You@,^I wanted to thank you for taking care of my special order. All of the hard work you've done has been a great boost to Pelican Town's image.^Here's a 'Mini-Shipping Bin' as a token of my appreciation.^Place it anywhere and I'll be sure to make a stop when I make my rounds.^^   -Lewis%item bigobject 248 %%["
+mail,WizardReward,"]The Wizard's DiscoveryThe specimen you delivered offered great insight into the machinations of the fell beings we call 'monsters'.^^I've formulated a pungent tincture that these beings find intoxicating. Use it with caution...^^   -M. Rasmodius, Wizard%item craftingRecipe Monster_Musk %%["
+mail,WizardReward2,"]The Wizard's BreakthroughThanks to the ectoplasm you delivered to me, I've made a major breakthrough in the field of arcane engineering.^^Enclosed, you'll find blueprints for a most useful machine...^^   -M. Rasmodius, Wizard%item craftingRecipe Mini-Obelisk %%["
+mail,DemetriusReward,"]Demetrius' Thank YouHi @,^^Thanks for your help with the fish.^Nature is usually good at keeping things balanced, but sometimes artificial factors can cause an imbalance.^^I've enclosed a blueprint from a science magazine that you might find interesting.^^-Demetrius%item craftingRecipe Farm_Computer %%["
+mail,willyHours,"]Willy's BoatGood news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 8AM every day, so you can get an early start.^^-Willy["
+mail,linusTrashCleanup,"]Linus' Thank YouHi @,^^Thanks for helping me clean up around the valley.^The waters are looking much cleaner. I think everyone will appreciate it. I know I will.^As a way of saying 'thanks', I wanted to teach you how to grow your own fiber. I hope it's useful.^^-Linus%item craftingRecipe Fiber_Seeds %%["
+mail,gusGiantOmelet,"]Gus' Famous OmeletHi @,^^Thanks for the eggs.^The yolks look amazing... I think this will be my best omelet yet!^^Please accept this gift.^^-Gus%item bigobject 216 %%["
+mail,pamNewChannel,"]Pam's TipHey kid,^^Thanks for the 'juice'. It definitely had a ...one-of-a-kind... flavor.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.^^Take care,^-Pam["
+mail,emilyStones,"]Emily's GemstonesHi @,^^Thanks again for the wonderful gemstones.^These will be perfect for my energy re-alignment work!^I wanted to thank you with this special gift. I hope you create some wonderful items with it!^^-Emily%item bigobject 247 %%["
+mail,carolineSO,"]Caroline's Tropical IngredientsHi @,^^Lewis told me that you've been shipping a lot of ingredients from the island! It's great to have access to new produce... it really opens a whole new world of culinary possibilities!^I'm including a gift for you... some blueprints you might find useful.^^-Caroline%item craftingRecipe Solar_Panel %%["
+mail,WillyTropicalFish,"]Willy's Tropical Challenge@,^^Congrats on a successful island fishing trip. I'm proud of ya!^^Here, take this special fish tank. It'll make a great piece in your house.^^-Willy%item furniture 2312 %%["
+mail,passedOutIsland,"@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater shrimp...^-Willy"
+mail,passedOutIsland_Leo,"Hi @,^^Last night, I found you slumbering in the dark.^It wasn't a very safe place, so the bird friends air-lifted you to your bed.^Please be careful from now on.^^-Leo^^P.S. Willy helped me write this."
+mail,guntherBones,"]Gunther's NoteHi @,^^Thanks for all the bones. I've got a lot to sort through here! To think, each fragment belonged to a living, breathing body from the past. Fascinating.^^Please accept this unique crafting recipe as a thank-you gift!^^-Gunther%item craftingRecipe Bone_Mill %%["
+mail,LeoCooking,"]Leo's Recipe@,^Here's a food from my home, that me and my family enjoy. Hope you like it. ^^  -Leo^^P.S. Willy helped me write this.%item cookingRecipe %%["
+,Rainy_Day_0,"I worry about you sometimes!$eStay indoors as much as possible.$h$eIt's raining outside. Make sure you don't catch cold, dear."
+,Rainy_Day_1,"Have you fed the animals yet, honey?$eNature can be a big help sometimes.$eIt's raining! That means we don't have to water the crops today.$h"
+,Rainy_Day_2,Stay warm and don't work too hard. I want you to stay healthy.$eGood morning! I woke up early from the sound of the rain and made you some breakfast. [194 195 210 211 216]  
+,Rainy_Day_3,"Maybe I'll make something hot for dinner.$eI don't want to go outside in this weather... I'll just do some things around the house.$eWhat's on your agenda today, dear?"
+,Rainy_Day_4,Any dinner requests for tonight?
+,Rainy_Day_Maru,"Despite all the technology we have, a rainy day is still the best tool for watering crops."
+,Rainy_Day_Abigail,"The countryside looks more interesting on a day like this, don't you think?"
+,Rainy_Day_Penny,I think I might do some baking today.$h
+,Rainy_Day_Leah,"Might want to do some fishing or mining today, huh?"
+,Rainy_Day_Haley,Hmmph. If this weather keeps up I'll get too pale.$s
+,Rainy_Day_Harvey,"Make sure you stay dry today, dear. I don't want you to become hypothermic."
+,Rainy_Day_Sebastian,I got up just before dawn and took a walk around the farm. It's really peaceful at that hour.
+,Rainy_Day_Alex,Hmm... I guess I'll have to do push-ups and sit-ups indoors today.
+,Rainy_Day_Elliott,Change is part of life. That's okay.$eThe rain makes me think of my old life by the ocean.
+,Rainy_Day_Sam,I might spend some time today fixing any leaks in the roof or the windows.
+,Rainy_Day_Emily,"I know you pride yourself on your work, but don't overdo it today. Okay, honey?$u"
+,Rainy_Day_Shane,The roof's leaking? Ah well... a little mold never hurt anyone.
+,Rainy_Night_0,I'm cold... Aren't you ready to tuck into bed?$l$eThe rain makes it feel like we're all alone.$l
+,Rainy_Night_1,"Can you hear the rain pattering on the roof, @?$eMake sure you change into something warm. I don't want you to get sick."
+,Rainy_Night_2,Ah...The soothing sound of rain overhead... I'm going to sleep well tonight.$h
+,Rainy_Night_3,The rain makes our home seem so cozy.$h^It's nights like this I'm glad we have a quality roof.
+,Rainy_Night_4,You need something hot on a day like this!$h$eI made some soup for dinner. [199 218 219 727 730]$h
+,Rainy_Night_5,I'm glad you're home... It's a good night to stay inside.
+,Rainy_Night_Maru,"I tried to fix up some things around the house... you know, just little stuff.$eWere you able to accomplish much today, hun?"
+,Rainy_Night_Abigail,I'm ready to hop into bed whenever you are. The sound of rain will put us right to sleep.
+,Rainy_Night_Penny,Oh... the smell? I tried to do some baking... It didn't work out too well.$s
+,Rainy_Night_Leah,"How was your day today, dear? Muddy?"
+,Rainy_Night_Haley,"Hi, honey. I'm so glad you're home. I was starting to get kind of lonely.$l"
+,Rainy_Night_Harvey,I spent the day skimming through some medical journals.$eHi. It's good to see you.$h
+,Rainy_Night_Sebastian,I'll never grow tired of the rain... especially out here in the countryside.
+,Rainy_Night_Alex,Grandma always used to make hot stew on nights like this.$h
+,Rainy_Night_Elliott,"Sit down, relax! You've got to be tired after trudging through the mud all day."
+,Rainy_Night_Sam,Vincent called. He said he misses me and also to tell you hi.$h
+,Rainy_Night_Shane,I just got off the phone with Jas and Marnie. They seem to be having a pretty good time without me.
+,Rainy_Night_Emily,Certain spirits only appear in the rain. Maybe you've heard their cries?
+,Indoor_Day_0,Ready for a hard day's work? I am.$h$eGood morning ~<$h
+,Indoor_Day_1,"You need food to stay energized throughout the day.$eHi, honey! Smells good, doesn't it? I made you breakfast! [194 195 210 211 216]"
+,Indoor_Day_2,I've got some chores to do in here.$eDid you sleep well?
+,Indoor_Day_3,"Well, we can't spend all day chit-chatting. You have work to do!$eHehe. Dreams don't mean anything... do they, Honey?$l$eI did, but all I remember is that it had something to do with a %adj %noun. Weird.$s$eDid you have any strange dreams last night?"
+,Indoor_Day_4,"I'll be cheering for you. <$h$eGood morning, dear. Another day of farm chores, huh?"
+,Indoor_Day_Maru,If you ever want to talk about how to maximize crop yield or anything... I'm open to that!
+,Indoor_Day_Abigail,There's always something new happening on our farm... I love it.
+,Indoor_Day_Penny,"This place is so big compared to the trailer, I feel overwhelmed... In a good way!"
+,Indoor_Day_Leah,Mind if I add some architectural flair to the woodwork around here? My chisel hand is itching!
+,Indoor_Day_Haley,I always feel happy on a sunny day.$h
+,Indoor_Day_Harvey,"From now on, I'm only going to go into the clinic when I have appointments. Otherwise I can just work from home!$eThe sky looks great today... so clear!"
+,Indoor_Day_Sebastian,"Well, this place sure beats my old basement room, doesn't it?$h"
+,Indoor_Day_Alex,The sun's shining and I'm bursting with energy! You'd better watch out! Heh Heh.$h
+,Indoor_Day_Elliott,"I want to make sure I always remember these years.$eI've been keeping a journal ever since we moved in together. Now that I actually have a life, I have lots to write about.$h"
+,Indoor_Day_Sam,There's too much stuff I want to get done today... Maybe I'll just watch TV instead.
+,Indoor_Day_Emily,"By providing fresh, healthy produce to the community, we're doing a great service!"
+,Indoor_Day_Shane,It's just this old corn chip I put in my pocket a few weeks ago. *crunch*$bThere's something special in the air... *sniff*... what is that? Oh...
+,Indoor_Night_0,"I'm ready for bed whenever you are.$h$eI did some house chores... but now I'm so tired.$eDid you get everything done today, @?"
+,Indoor_Night_1,"Now you should just relax and kick back for the night.$h$eWow, you look like you did a lot of work today."
+,Indoor_Night_2,...$h$eI get kind of scared alone at night.$s^I get lonely at night...$s$eI'm glad you're home.
+,Indoor_Night_3,But if you're tired I understand.$eAre you done with your work for the day? I'm ready to have some fun.$h
+,Indoor_Night_4,"...$h$eSo, tell me about your day.$l$e*phew*! I just finished my chores. Now we can spend some time together.$h"
+,Indoor_Night_Maru,"*yawn*... To be honest, I'm kind of sleepy too.$eYou look like you're ready for bed, @. Should I lull you to sleep with the technical details of my latest project?$h"
+,Indoor_Night_Abigail,Are you ready for bed soon? I turned on the electric blanket for us...$l
+,Indoor_Night_Penny,"Hi there, honey. Ready to spend a quiet evening at home?"
+,Indoor_Night_Leah,It's so quiet and peaceful in the evening. Nothing to distract you from the experience of living.
+,Indoor_Night_Haley,"You look like you've been working hard, dear. Let me help you de-stress.$l"
+,Indoor_Night_Harvey,Doctor's orders... It's good for the circulation!$eYou look like you could use a good massage tonight.$l
+,Indoor_Night_Sebastian,"Hi, @. Good to see you. It's comforting when you're around.$h$eI may be a reclusive guy, but I'm always happy when you're around.$h$c .5"
+,Indoor_Night_Alex,"My arms feel a little restless... How about a nice, deep massage?$l^I feel exhausted... That's a good sign! It means I worked hard enough today.$h"
+,Indoor_Night_Elliott,"Come here, let me massage your back. You look tense.$l^You smell sweet, my dear. Like a cinnamon leaf floating in the summer breeze.$eYou always smell so good after a day of hard work. It's your natural musk!^You smell sweet, my dear. Like a honeycomb drifting on a pool of spice tea.$c .5"
+,Indoor_Night_Sam,"So, did you get everything done on the farm today? If you didn't I won't be mad!$eI wonder if the moon is visible tonight?$c .5"
+,Indoor_Night_Emily,It's a very cozy house... I like it.
+,Indoor_Night_Shane,How was your day? Mine actually went pretty well.
+,Outdoor_0,"Days like this make work a little more pleasant.$eIt's a beautiful day today, isn't it?$h"
+,Outdoor_1,"It's just such a nice-looking area.$h$eI'm just going to relax and inspect the farm today, okay?"
+,Outdoor_2,"I'll be thinking of you.$h$eHi, honey! If I knew more about farm work I'd help you out more. Sorry!"
+,Outdoor_3,"*phew*... it's hot out here.$eI'm just going to do some dusting over here. That should help you out, right?"
+,Outdoor_4,"Make sure and take a break every now and then, or get something to eat.$h$eDon't overwork yourself, dear."
+,Outdoor_Maru,I'm still hoping to come up with something to help you out in your work.$eI like being out here. It's a good place to think about new inventions.$h
+,Outdoor_Abigail,"There's a lot of interesting bugs and things out here. *chuckle*$h$eI'm just going to hang out here, okay?"
+,Outdoor_Haley,"Looks like a good day to work on my tan, don't you think, sweetheart?$h"
+,Outdoor_Leah,"This is the life I've always dreamed of.$l$eWow, this is great! I'm really starting to enjoy life on the farm, @.$h"
+,Outdoor_Penny,"I'm really happy on our little farm, @.$h"
+,Outdoor_Sebastian,"I feel like I really belong here.$l$eThis is so different from my old life, but I'm really starting to like it.$h"
+,Outdoor_Harvey,I love watching you on the farm... hehe$eThis is so much nicer than being cooped up in the clinic all day.$l
+,Outdoor_Elliott,"This is perfect.$l$eToday, I'm going to continue writing my new novel. What better place than our wonderful farm?$h"
+,Outdoor_Alex,I'm going to get a bunch of exercise today! Haha! I love living on a farm.$h
+,Outdoor_Sam,"I'm going to watch those for a while, if you don't mind.$eHey, look at those puffy clouds in the sky, honey!$h"
+,Outdoor_Shane,I dunno if my lungs can handle this freshness. I'm still used to JojaAir.
+,Outdoor_Emily,"You're doing great work, @. Keep it up."
+,jobLeave_Harvey,"I have to go into the clinic today. Have a nice day, okay?"
+,jobLeave_Penny,"I have to go into town today. Don't work too hard, and eat something good for lunch!$h"
+,jobLeave_Maru,I have to leave for work soon. I'll see you tonight. I'll be thinking of you!$h
+,jobReturn_Harvey,"My patients are still healthy, so it was a good day.$e*Phew*... I'm exhausted...$s$eHi, honey. How was your day?$c .5"
+,jobReturn_Penny,"Jas and Vincent weren't behaving very well today. I'm still all wound up...$eGood evening. My day was fine, thanks! How was yours?$h$c .5"
+,jobReturn_Maru,"I'm just looking forward to bed-time.$h$eWell, It's time to kick back and relax. Did you leave me any dinner?$c .5$eHey. Did you have a more exciting day than me? I hope so.$eWell, it was just another boring day at the clinic.$c .5"
+,OneKid_0,Have you spent any time with %kid1 today?
+,OneKid_1,I wonder if %kid1 will grow up to be a farmer like you?
+,OneKid_2,"Don't worry, I'll feed %kid1 today. You can just focus on running the farm."
+,OneKid_3,Life's a lot different now that we have a child.
+,TwoKids_0,I already gave %kid1 and %kid2 their breakfast. They were hungry!
+,TwoKids_1,We have to make sure and give %kid1 a lot of attention now that we have %kid2. We don't want any jealousy between them.
+,TwoKids_2,"You know, I think %kid2 has your nose."
+,TwoKids_3,"A nice house, two wonderful kids, and a beautiful plot of land. What's left?"
+,Good_0,It's hard to believe we're finally married...$l
+,Good_1,"You know, I always had a feeling we'd be together some day.$l"
+,Good_2,"I am.$l$eAre you enjoying the married life, @?"
+,Good_3,"Wow, you look really handsome today!$l^Wow, you look beautiful today.$l"
+,Good_4,This place is my home now... I'm happy here.$l
+,Good_5,I was just admiring my wedding amulet... The shell is flawless. It must have cost you a fortune!$l
+,Good_6,Be careful out there! Sometimes I worry about you falling into a mine shaft.
+,Good_7,@? I just want to say that I appreciate all the hard work you do for our household.$h
+,Good_8,Don't worry about me... I know you've got a lot of responsibilities outside of the house. I'm fine in here by myself!$l
+,Good_9,"It's a simple life, but I like it.$h$eOh, I'm not bored... I'm just enjoying what we have here."
+,Neutral_0,I hope you'll still like me when I'm old and gray.$s
+,Neutral_1,Do you think your grandpa would be proud of the work we've done?
+,Neutral_2,Taking a break? I guess being a farmer is easier than I thought...
+,Neutral_3,"If you go into town, make sure and say hi to everyone for me."
+,Neutral_4,I'll do the laundry tomorrow morning before you get up... that way you won't have any down-time.
+,Neutral_5,"Are we doing okay on money, @?"
+,Neutral_6,I wonder what everyone in town is doing today?
+,Neutral_7,I don't really feel like doing anything today.
+,Neutral_8,"I guess farms can be kind of dirty.$eNo matter how much I clean, the house keeps getting dirty again."
+,Neutral_9,I wonder if we'll live here our entire lives?
+,Bad_0,...Do you still love me?$s
+,Bad_1,*sigh*... Maybe we got married too young.$s
+,Bad_2,Are you still happy with me?s
+,Bad_3,Did I do something wrong? You've been acting different lately.$s
+,Bad_4,Do you ever wonder what else is out there?$s
+,Bad_5,I know I'm not as young as I used to be... is that what you married me for?$a$eYou used to be romantic... what happened?$s
+,Bad_6,We only have one short life to live... is this the best way to do it?$s
+,Bad_7,I used to be your sweetie... now you only seem to put up with me when I make a hot dinner.$s
+,Bad_8,You've been so cold to me lately...$s
+,Bad_9,I wonder if I could've done better.$s
+,spring_1,"I feel pretty hopeful.$eWell, a new year has arrived. Do you have a plan for what you want to accomplish this year?"
+,spring_8,"Now that winter's over, we've got lots of productive weather to look forward to."
+,spring_23,I hope you've been practicing your moves... tomorrow is the flower dance!
+,summer_1,"Drink plenty of water and don't overwork yourself.$eMake sure you don't get a heat stroke, dear."
+,summer_8,Sorry if I smell... I was sweating all night in the heat.
+,summer_15,"Don't worry, I'll take care of them.$eIt's summer... that means the house is full of flies."
+,fall_1,This weather feels pretty nice after the heat of summer.
+,fall_8,"Don't worry, I'll take care of it all.$eWinter's just around the corner. We need to double check the heating system, turn off the valves, and check all the insulation in the house."
+,fall_15,Have you figured out what you're going to use for our grange display tomorrow?
+,fall_26,Should we go to the Spirit's Eve festival tomorrow night?
+,winter_1,Brrr.... It's cold. I guess winter has arrived.
+,winter_7,Are you going to enter the fishing contest tomorrow?
+,winter_28,"Thanks for a great year, @. I'm excited to tackle next year together.$l"
+,spring_Maru,"I'm feeling excited for a new year of farming, @!$h"
+,spring_Abigail,"I may like the colder seasons, but by the end I'm always glad to see spring arrive."
+,spring_Haley,"Aren't you glad winter's over, honey? Things seem more hopeful now."
+,spring_Leah,"Don't forget to look for wild horseradish, leeks and dandelions while you're out there!"
+,spring_Penny,I'm so happy to see some greenery after that long white winter.
+,spring_Sebastian,"Wow, my skin is pale... I guess I'd better help you with some farm work this season."
+,spring_Harvey,Let's plant some healthy vegetables this spring.$h
+,spring_Elliott,I'm looking forward to a beautiful year on %farm farm.$h
+,spring_Alex,Hey @. Let's work hard today!
+,spring_Sam,*sniff* ... My doze is stubbed up... allergies.
+,spring_Shane,Maybe I'll learn a new skill this year...
+,summer_Maru,It's a good time of year to do some stargazing.
+,summer_Abigail,Oh man... I could go for some chocolate cake.
+,summer_Haley,You must know by now that summer is my favorite season.$h
+,summer_Leah,"Nothing pairs so well with summer like a nice sweet wine. Don't you think, honey?"
+,summer_Penny,Are you growing any melons this summer?
+,summer_Sebastian,I'm going to stay inside as much as possible this summer.
+,summer_Harvey,"Make sure you don't get sunburnt, honey... That can really damage your skin."
+,summer_Elliott,One of the main things I miss about the ocean is the fresh fish.
+,summer_Alex,I always have the most energy in the summer.
+,summer_Sam,Summer always makes me want to eat more barbecue.
+,summer_Emily,"Maybe we'll see some wild parrots today.$ePhew! It's hot but it feels great, doesn't it?"
+,summer_Shane,I think I see some spicy pretzel snacks and a couple of 'cold boys' on the horizon.$eWhat's on my agenda today... hmmm... 
+,fall_Maru,I'm glad I still work at the clinic... It's an important service for the community.
+,fall_Abigail,I hope we're growing pumpkins this year.$h
+,fall_Haley,But not just any cake... it has to be pink.$eI'm craving cake.
+,fall_Leah,Breathe deep... can you smell that? That tells me it's mushroom season.
+,fall_Penny,It's so peaceful out here on the farm. I never appreciated nature that much living in town.
+,fall_Sebastian,My mother used to always make this delicious pumpkin soup in the fall.
+,fall_Harvey,I could sure go for some wine.
+,fall_Elliott,"It's a beautiful time of year, don't you think?$eAh... Fall. The warm sun drifts low in the sky, casting long shadows over waving fields of gold."
+,fall_Alex,I feel weak... I need some protein.$s
+,fall_Sam,I wonder what's going on in the rest of the world? We're really secluded here.
+,fall_Emily,I drank a super-food smoothie this morning and I feel aaah-mazing!$h
+,fall_Shane,"Ah well, 'tis the season, right?$eI think there might be a new species of fungus growing behind my mini-fridge."
+,winter_Maru,Spring is coming soon. I'm really looking forward to having rhubarb pie.
+,winter_Abigail,"Remember when we played that 'Prairie King' game together, in my room? Those were good times.$h"
+,winter_Haley,We've come a long way since then.$l$eI was just thinking about the time you helped me open a jar of pickles.$h
+,winter_Leah,"I always start craving salad in the winter... Inconvenient, I know."
+,winter_Penny,I'm going to do a lot of reading this winter.
+,winter_Sebastian,I wonder what Sam's up to? We used to be really good friends.
+,winter_Harvey,"Winter is flu season, so work is probably going to be a lot more stressful. Sorry in advance if I'm grouchy."
+,winter_Elliott,"I think I might do some writing this winter. There's not much else to do, anyway."
+,winter_Alex,"I hope my grandparents are doing okay. They used to rely on my help quite a bit. You know, with lifting heavy objects or whatever."
+,winter_Sam,I've given up on being a musician. I'm a family man now!
+,winter_Emily,"Whoops, my hair is frozen solid again.$s"
+,winter_Shane,"There's a wide, wide world out there... but I'd rather stay in my room."
+,spouseRoom_Maru,"I hope you don't mind if I spend some time on my projects today, honey.$eI got up early to do a little star-gazing.$c .5"
+,spouseRoom_Abigail,I hope you don't mind the guinea pig smell.$eI got up a little before you and fed David Jr. He's very active this morning.$c .5
+,spouseRoom_Haley,"Have any plans for the day?$eGo ahead and start your day, honey. I'm just putting on my make-up.$c .5"
+,spouseRoom_Leah,"The view from this window is inspiring, don't you think?$eOne of these days I'll have to do your portrait.$c .5"
+,spouseRoom_Penny,I like to do a little reading first thing in the morning. It gets my brain into gear.$eI always wanted my very own library. This is so charming.$h$c .5
+,spouseRoom_Sebastian,"Hey, do we have any pizza in the freezer? I'm hungry.$eI'm debating whether I should work or just read comics all day.$c .5"
+,spouseRoom_Harvey,"I'm working on a new model plane. It's so much more relaxing here than in my old apartment.$eNo air-traffic this morning, honey. But it's still fun to break out the equipment now and then.$c .5"
+,spouseRoom_Elliott,Will you be okay without my help?$eI think I might do some writing today.$c .5
+,spouseRoom_Alex,There's lots of room here to do my exercises. I'm making more progress than ever!$eDon't ever let me get lazy. I want to stay in good shape for you!$c .5
+,spouseRoom_Sam,What's on your agenda today?$eThe old guitar... I don't have as much drive to play it anymore. That's fine.$c .5
+,spouseRoom_Emily,I'm going to spend some time with the parrot today. It breaks my heart that he'll never fly again.$u
+,spouseRoom_Shane,"Hi, @. I'll just hang out in here today and uh... maybe sweep the floor a little bit or something.$eBeer or cider? Sometimes life can be challenging.$c .5"
+,Rainy_Day_Krobus,"Ah, It's more humid today with the rain... I feel a lot more comfortable."
+,Rainy_Night_Krobus,"The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too.$eThe sound of the rain reminds me of the sewers... it's comforting."
+,Indoor_Day_Krobus,"I wish I could help you on the farm, but I can't go out in the sun..."
+,Indoor_Night_Krobus,"Hi, @. Welcome home. You look like you've been working hard out there!$h"
+,Outdoor_Krobus,"Just let me know if you see anyone coming, so I can hide.$u$bOn a day like this, I can enjoy the outdoors with you. This is really nice!$h"
+,NoBed_0,Where am I supposed to sleep...?$s
+,NoBed_1,I wasn't able to sleep well last night...$s
+,NoBed_2,I had to sleep on the floor last night...$s
+,NoBed_3,Did something happen to our bed...?$s
+NPCGiftTastes,Universal_Love,74 446 797 373 279
+NPCGiftTastes,Universal_Like,-2 -7 -26 -75 -80 72 395 613 634 635 636 637 638 724 459 873
+NPCGiftTastes,Universal_Neutral,194 216 262 304 815
+NPCGiftTastes,Universal_Dislike,-4 -8 -12 -15 -16 -19 -22 -24 -25 -28 -74 78 169 246 247 305 309 310 311 403 419 423 535 536 537 725 726 749 271
+NPCGiftTastes,Universal_Hate,0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203 308 265 909 910
+NPCGiftTastes,Robin,"This is for me? Wow, I absolutely love it!!/224 426 636/Thanks! This is really nice!/-6 -79 424 709/Um... why?/16 330/What the...? This is terrible!/2/Thank you. This might come in handy.//"
+NPCGiftTastes,Demetrius,You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/
+NPCGiftTastes,Maru,"Is that...? Oh wow, @! This is spectacular!/72 197 190 215 222 243 336 337 400 787 910/This is a super gift! Thank you!/-260 62 64 66 68 70 334 335 725 726 909/Oh... That's for me? I'll just put it over here.../-4 330 414 410 404 724/Yuck! You thought I would like this?/340 342 2 430 416/Thanks.//"
+NPCGiftTastes,Sebastian,"I really love this. How did you know?/84 227 236 575 305/Thanks, I like this./267 614 276/...?/-81 30 -80/...I hate this./-5 2 459 195 201 240 330 -26 873/...thanks./-4/"
+NPCGiftTastes,Linus,This is wonderful! You've really made my day special./88 90 234 242 280/This is a great gift. Thank you!/-5 -6 -79 -81/Hmm... This doesn't really do much for me./-2 330/Why would you give this to me? Do you think I like junk just because I live in a tent? That's terrible./2/A gift? How nice./-4/
+NPCGiftTastes,Pierre,"This is my all-time favorite! Thank you!/202/That's very kind of you. I like this./-5 -6 -7 18 22 402 418 259/This isn't exactly my favorite.../-2 -81 330/Please, never bring this to me again./167 -4 199 270 229 248/A present? Thanks!//"
+NPCGiftTastes,Caroline,"You're giving this... to me? I'm speechless./213 614 593 907/Oh, goodness! Are you sure?/-7 18 815 402 418/No, no, no.../-81 330 300 306 307/This is absolute junk. I'm offended./80 296/Oh, that's sweet. Thank you.//"
+NPCGiftTastes,Abigail,"I seriously love this! You're the best, @!/66 128 220 226 276 611 904/Hey, how'd you know I was hungry? This looks delicious!//What am I supposed to do with this?/-5 -75 -79 16 245 246/What were you thinking? This is awful!/330/You brought me a present? Thanks.//"
+NPCGiftTastes,Alex,"Hey, awesome! I love this stuff!/201 212 662 664/This is cool! Thanks./-5/Um... Okay. Thanks./16 330/Are you serious? This is garbage./80/Thanks!//"
+NPCGiftTastes,George,Do you want something in return?//$eThis is my favorite thing! Thank you./20 205/Thanks./18 195 199 200 214 219 223 231 233/That's a terrible gift./-80 16/This is probably the worst gift I've ever seen. Thanks a lot./22 80 330/A gift? Hmm...
+NPCGiftTastes,Evelyn,"You've made an old lady very happy./72 220 239 284 591 595/Oh my, it looks wonderful! That's very kind of you./-6 18 402 418/Um, Where will I put this?/16 80/...it smells awful./225 226 227 228 219 396 397 393 372 248 296 -4 330/How nice. Thank you, dear.//$e*gasp*... This is absolutely marvelous!$u"
+NPCGiftTastes,Lewis,"Wow, this is my favorite! Thank you!/200 208 235 614 260/Thanks, this is great!/-80 24 88 90 192 258 264 272 274 278/Well, I guess it's the thought that counts.../-6 16 330/This makes me sick. What a horrendous gift./80/That's very nice of you. Thanks.//"
+NPCGiftTastes,Clint,Yes! This is exactly what I've been looking for!/60 62 64 66 68 70 336 337 605 649 749/This is a fun gift. Thanks!/334 335/*Sigh*.../-80 2 16 80 /This makes me depressed./4/Thanks./-15/
+NPCGiftTastes,Penny,"Thank you! I really love this!/60 376 651 72 164 218 230 244 254/Thank you! This looks special./-6 20 22/Uh, it's for me? ...Thanks./-4 80 330 456 457 444 440 422 420/Ugh...I'm sorry, but I absolutely hate this./446 346 348 303 304 398 459 873/Thanks, this looks nice.//"
+NPCGiftTastes,Pam,"(Is this some kind of mean joke?)/149 151/Thanks, kid./-4/$eHey, hey! Now this is really something! Thanks a million, kid./24 90 199 208 303 346 459 873/You did good with this one, kid. Thanks!/-6 -75 -79 18 227 228 231 232 233 234 235 236 238 402 418/This just ain't my thing./-5 16 80 330/Now this is just absolutely despicable.$u"
+NPCGiftTastes,Emily,"This gift is fabulous! Thank you so much!/60 62 64 66 68 70 241 428 440/Thank you! I'm feeling a positive energy from this gift./18 82 84 86 196 200 207 230 235 402 418/Sorry, @. I don't like this./78 2 232 233 225 226/This gift has a strong negative energy. I can't stand it./212 213 227 228/Thanks!//"
+NPCGiftTastes,Haley,"Oh my god, this is my favorite thing!!/221 421 610 88/*gasp*...for me? Thank you!/18 60 62 64 70 88 222 223 232 233 234 402 418/Ugh...that's such a stupid gift./-5 -6 -75 -79 -81 80 -27/Gross!/-4 2 16 330 74/Thank you. I love presents.//"
+NPCGiftTastes,Jas,*gasp*...Wow!! Thank you!$h/221 595 604/I love presents! Thank you!/18 60 64 70 88 232 233 234 222 223 340 344 402 418 903/Is this a gift? Oh...$s/-5 -81 -75 -79 80/Ew. This is icky.$s/253 395 459 -26 2 16 330 873/Thank you!//
+NPCGiftTastes,Vincent,"Wow, thank you so much! This is terrific!/221 398 612 721 903/For me? Wow, thanks!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/This isn't very fun...$s/-5 -75 -79 -81 80/Yuck, what is this?$s/253 395 459 -26 2 16 330 873/Thanks!//"
+NPCGiftTastes,Jodi,"Oh, you're such a sweetheart! I really love this!/72 200 211 214 220 222 225 231/Thank you! This makes my day really special./-5 -6 -79 18 402 418/Hmm, well I guess I could always put this in the compost.../-81 80 248 330/*Blech*... I hate this.../18 22 396/That's so nice of you! Thanks.//"
+NPCGiftTastes,Kent,"Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you./607 649/Hey, now this is a really great gift. Thanks./-5 -79 18 402 418/Ah... It's a... what is this, exactly? Hmm.../80 330 416 873/This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*/-6 2 227 229 456/That's kind of you. The family will like this.//"
+NPCGiftTastes,Sam,"Aw, yea! This is my absolute favorite!/90 206 655 658 562 731/Thanks! I really like this./167 210 213 220 223 224 228 232 233 239 -5/Hmm.. this is... interesting./-81 80 152 330 -75/You really don't get it, huh?/306 307 342 -15 2/You got that for me? Thanks!//"
+NPCGiftTastes,Leah,"Oh! This is exactly what I wanted! Thank you!/196 200 348 606 651 650 426 430/This is a really nice gift! Thank you!/-5 -6 -79 -81 18 402 169 406 408 418 86/Hmm... I guess everyone has different tastes./-2 2 152 330 221 223 229 232 233 241 209 194/This is a pretty terrible gift, isn't it?/305 211 210 206 216/Thank you.//"
+NPCGiftTastes,Shane,"Oh wow, @! How'd you know this is my favorite?/206 215 260 346/This is great! Thanks!/-5 -79 303/I don't really like this./-81 152 330/Why are you giving me your garbage?/80 342/Oh, you got me something? Thanks!//"
+NPCGiftTastes,Marnie,This is an incredible gift! Thanks!!/72 221 240 608/Thank you!/-5 -6 402 418/Oh. I guess I'll take it./16 152/This is worthless. I don't understand you./330/Thank you! This looks nice.//
+NPCGiftTastes,Elliott,"@, this is a beautiful gift! Thank you!/715 732 218 444 637 814/This is for me? Marvelous!/727 728 -79 60 80 82 84 149 151 346 348 728/Hmm... I'm not a huge fan of this./16 206 330 -79 -81 -6/This item gives me a terrible feeling. I'll have to dispose of it./80 154 300 296/Oh, a present! Thank you!/-4/"
+NPCGiftTastes,Gus,"You're giving this... to me? I'm speechless./72 213 635 729 907/Oh, goodness! Are you sure?/348 303 -7 18/No, no, no.../16 330/This is absolute junk. I'm offended./80 167 648/Oh, that's sweet. Thank you.//"
+NPCGiftTastes,Dwarf,"Hey, I really love this stuff. You can find great things in the mines./554 60 62 64 66 68 70 749/Ah, this reminds me of home./78 82 84 86 96 97 98 99 121 122/Hmm... Is this what humans like?/-5 -6 16 -81 2 4 330/I don't care what species you are. This is worthless garbage.//An offering! Thank you./-28/"
+NPCGiftTastes,Wizard,"Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!/155 422 769 768/Many thanks. This item has some very interesting properties./-12 72 82 84/This?... I suppose I'll cast it into the flames and see what happens./-5 -6 -81 2 16 330 766/Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.//Thank you. This will prove useful, I think.//"
+NPCGiftTastes,Harvey,It's for me? This is my favorite stuff! It's like you read my mind./348 237 432 395 342/That's such a nice gift. Thank you!/-81 -79 -7 402 614 418 422 436 438 442 444 422/Hmm... Are you sure this is healthy?/-4 424 426 2 330 233 232 238 234 223 222 221 220 216 211 210 208 206 205/...I think I'm allergic to this./296 245 397 396 394 393 392/Thanks. That's very kind of you.//
+NPCGiftTastes,Sandy,Ooo! I absolutely love getting flowers from the valley. I'm so happy!~/18 402 418 905/This looks wonderful. Thanks so much!/-75 -79 88 428 436 438 440/Oh... Um. Thanks./-4 2 330/*sniff* ...what is it?//This is for me? Thank you!//
+NPCGiftTastes,Willy,This is great! If only me ol' Pappy was around. He'd go nuts for this./72 143 149 154 276 337 698 459/This looks great. Thank you!/66 336 340 699 707 198 202 209 212 213 214 219 225 727 730 728 732 265/Hmmm... You like stuff like this? Huh./-7 -81 2 4 330/... *sniff*... Well I guess I can toss it into the chum bucket.//A gift! Thanks./-4 227 228 242/
+NPCGiftTastes,Krobus,This is an amazing gift. For my people it is a great honor to receive something like this./72 16 276 337 305 308/Thank you very much./66 265 336 340/Humans have... interesting tastes./-7 -81 2 330/Oh... Um. I guess I'll accept it.//Thank you.//
+NPCGiftTastes,Leo,I love this. I'm going to put it in my nest./444 289 834 906/Are you sure? This is so nice.../852 396 392 394 397 905/Oh... I don't know if I can digest this.../-7 -81 2 330 303 459 342 346 348/*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?/257 253 247 271 283 304 303 346 873 348 459 167/I accept your gift./-4 395/
+rainy,Abigail,The valley looks more interesting in the rain... don't you think?
+rainy,Robin,Although soggy wood isn't a joy to work with.$s$eThe rain doesn't stop me from getting a job done!$h
+rainy,Demetrius,Greetings. Stay inside if you want to keep warm.
+rainy,Maru,"It must be kind of boring for you, though.$eWhen it rains I have a good excuse to work on my gadgets all day.$h"
+rainy,Sebastian,"If you're lucky, you might see a frog in this weather."
+rainy,Linus,A warm rain is a pleasant way to get clean.$h
+rainy,Pierre,Most people stay indoors on days like this... It's not good for business.$s
+rainy,Caroline,...and our water bill will be lower this month.$eMy garden is happy today.$h
+rainy,Alex,"Oh well, I can always lift weights inside.$h$eHmmph. This is not good weather for sports.$s"
+rainy,George,"It's awful cold, isn't it? What a rotten day."
+rainy,Evelyn,"In the old days, George would've scampered right up and fixed it... *sigh*$s$eWhen I woke up I heard dripping from somewhere... I think the roof might be leaking.$s"
+rainy,Lewis,"I hope the river doesn't overflow...$s$eHi there, @. Taking a break?"
+rainy,Clint,"Today would be a good day to explore the mines... Who knows, you might find some rare ores."
+rainy,Penny,"...It's soothing, though.$h$eThe raindrops are really loud on the metal roof of our trailer."
+rainy,Pam,"Howdy, kid. Stayin' dry?"
+rainy,Emily,I wish I could've visited her today.$s$eIt never rains in Calico Desert... That's where my friend Sandy lives.
+rainy,Haley,*sigh* ... Life is hard sometimes.$eI spent all morning doing my hair... now the rain could mess it up.$s
+rainy,Jodi,But you're always welcome in here! Heh.$h$eDid you wipe your boots off before coming in? Sorry... I just cleaned the floor.
+rainy,Sam,"Rain muffles sound, so I can play my guitar louder without my Mom getting mad. Hehe.$h"
+rainy,Leah,Maybe I should cook something new and exciting today. Something spicy.
+rainy,Shane,Hmm... this weather makes me thirsty.$s
+rainy,Marnie,Hi @. You look like you're soaked...you poor thing!$h
+rainy,Elliott,But when I look out the window I see only a curtain of gray.$bSometimes when I lay in bed I can hear a distant foghorn cut through the rain.
+rainy,Gus,"I love my job. Hehehe.$eThere's nothing like a glass of dry red wine on a day like this, huh?"
+rainy,Dwarf,Rain... It's almost mythical to us. Some of us dwarves live our entire lives without ever experiencing it.
+rainy,Wizard,I don't expect you to understand.$eStormy days are the only time I can commune with certain elementals.
+rainy,Harvey,"Heh. Well, um... I'll see you around then?$u$eHi @! Er... Read anything interesting in the library lately?"
+rainy,Sandy,"I kind of miss the rain, actually...$s$eI heard it's raining back home. Is that why you came here?$h"
+rainy,Krobus,"Ah, the sewers are flowing quickly today. It'll get nice and humid in here... Just how I like it."
+rainy,Leo,"To me... nature is someone I know, with different moods.$eThe valley is peaceful when it rains."
+Temp,decorate,"Interesting.$u""/faceDirection farmer 0/faceDirection Haley 2/showFrame Haley 22/pause 1000/end dialogue Haley ""Well, the dark room looks great now... Thanks, @.$u""$bUm, okay.$u""/faceDirection Haley 1/speak Haley ""So that's the best thing you can think of doing right now? Here... in this small, dark room with me?$u$bspeak Haley ""Decorate?$s"
+Temp,leave,"Well... alright. Bye.$s""/pause 500/move farmer 0 1 1/faceDirection Haley 2 true/move farmer 1 0 2/move farmer 0 1 2/playSound doorClose/warp farmer -1000 -1000/pause 1000/showFrame Haley 22/pause 1000/speak Haley ""Wow... I didn't think he was that dense.$s^Wow... I didn't think she was that dense.$s""/end dialogue Haley ""I thought you had something important to do...$u""$bspeak Haley ""Oh, you have to leave already?$s"
+Temp,tooBold,"showFrame 6/playMusic none/positionOffset farmer -8 0/positionOffset Elliott 8 0/showFrame Elliott 12/jump Elliott/pause 1000/faceDirection Elliott 1/pause 1000/end dialogue Elliott ""I'm so embarrassed...$8"""
+Temp,poppy,"But you should really be clapping for @! Without his help we'd never have decided what kind of music to make in the first place!^But you should really be clapping for @! Without her help we would've never decided what kind of music to make in the first place!""/faceDirection Sam 2/faceDirection Leah 3/faceDirection Penny 1/faceDirection farmer 3/speak Penny ""So you're like an honorary member of the band, then?$h""/pause 300/faceDirection Penny 0 true/faceDirection Leah 0/faceDirection farmer 0 true/move Sam -1 0 2/speak Sam ""Oh! And don't forget to pick up one of our demo cassettes on the way out... Only 10g!""/pause 1000/mail afterSamShow/globalFade/viewport -1000 -1000/pause 4000/speak Sam ""That went well! Thanks again for coming with us.$h""/end dialogue Sam ""Hey. The show was a great success! Thanks again, @.""$bI really loved that heavy breakdown at the end.|I really enjoyed that bass part.""/move Sam 1 0 2/speak Sam ""Thanks, everyone!$hThat was great! It's a new honky-tonk classic!|Nice work, guys!$h""/speak Shane ""$p 77Wow! Those electronic sounds were far out!$h|Woooh! That was great!$h""/speak Leah ""$p 79This song's about trains.|Here we go...$8""/playMusic samBand/animate Abigail false true 118 49 34 35 48/pause 1890/animate Sam false true 236 20 21/animate Sebastian false true 118 42 43 52 53/animate Vincent false true 236 20 8 21 8/animate Emily false true 236 16 17/animate Leah false true 236 30 31/animate Elliott false true 236 36 37/animate Maru false true 236 29 30/pause 31000/jump Sam/pause 400/animate Sam false true 236 22 23/pause 28500/stopAnimation Sam/stopAnimation Sebastian/stopAnimation Abigail/pause 800/stopAnimation Vincent/stopAnimation Elliott/stopAnimation Leah/stopAnimation Maru/stopAnimation Emily/speak Emily ""$p 78This song's about a city in the sea.|$p 8821This song's about Farming, mining, and chopping wood.|$p 8820pause 100/speak Sam ""Hi, everyone. We're from Pelican Town... Er... and we're called 'The Pelicans'$8""/speak Sam ""$p 20"
+Temp,heavy,"But you should really be clapping for @! Without his help we'd never have decided what kind of music to make in the first place!^But you should really be clapping for @! Without her help we would've never decided what kind of music to make in the first place!""/faceDirection Sam 2/faceDirection Leah 3/faceDirection Penny 1/faceDirection farmer 3/speak Penny ""So you're like an honorary member of the band, then?$h""/pause 300/faceDirection Penny 0 true/faceDirection Leah 0/faceDirection farmer 0 true/move Sam -1 0 2/speak Sam ""Oh! And don't forget to pick up one of our demo cassettes on the way out... Only 10g!""/pause 1000/mail afterSamShow/globalFade/viewport -1000 -1000/pause 4000/speak Sam ""That went well! Thanks again for coming with us.$h""/end dialogue Sam ""Hey. The show was a great success! Thanks again, @.""$bI really loved that heavy breakdown at the end.|I really enjoyed that bass part.""/move Sam 1 0 2/speak Sam ""Thanks, everyone!$hThat was great! It's a new honky-tonk classic!|Nice work, guys!$h""/speak Shane ""$p 77Wow! Those electronic sounds were far out!$h|Woooh! That was great!$h""/speak Leah ""$p 79This song's about trains.|Here we go...$8""/playMusic samBand/animate Abigail false true 125 49 34 35 48/pause 2500/animate Sam false true 250 20 21/animate Sebastian false true 125 42 43 52 53/animate Vincent false true 250 20 8 21 8/animate Emily false true 250 16 17/animate Leah false true 250 30 31/animate Elliott false true 250 36 37/animate Maru false true 250 29 30/pause 31500/jump Sam/pause 500/animate Sam false true 236 22 23/pause 15000/stopAnimation Sam/stopAnimation Sebastian/stopAnimation Abigail/pause 700/animate Abigail false true 250 49 34 35 48/animate Sam false true 500 20 21/animate Sebastian false true 250 42 43 52 53/pause 10000/stopAnimation Sam/stopAnimation Sebastian/stopAnimation Abigail/pause 800/stopAnimation Vincent/stopAnimation Elliott/stopAnimation Leah/stopAnimation Maru/stopAnimation Emily/speak Emily ""$p 78This song's about a city in the sea.|$p 8821This song's about Farming, mining, and chopping wood.|$p 8820pause 100/speak Sam ""Hi, everyone. We're from Pelican Town... Er... and we're called 'Goblin Destroyer'$8""/speak Sam ""$p 20"
+Temp,techno,"But you should really be clapping for @! Without his help we'd never have decided what kind of music to make in the first place!^But you should really be clapping for @! Without her help we would've never decided what kind of music to make in the first place!""/faceDirection Sam 2/faceDirection Leah 3/faceDirection Penny 1/faceDirection farmer 3/speak Penny ""So you're like an honorary member of the band, then?$h""/pause 300/faceDirection Penny 0 true/faceDirection Leah 0/faceDirection farmer 0 true/move Sam -1 0 2/speak Sam ""Oh! And don't forget to pick up one of our demo cassettes on the way out... Only 10g!""/pause 1000/mail afterSamShow/globalFade/viewport -1000 -1000/pause 4000/speak Sam ""That went well! Thanks again for coming with us.$h""/end dialogue Sam ""Hey. The show was a great success! Thanks again, @.""$bI really loved that heavy breakdown at the end.|I really enjoyed that bass part.""/move Sam 1 0 2/speak Sam ""Thanks, everyone!$hThat was great! It's a new honky-tonk classic!|Nice work, guys!$h""/speak Shane ""$p 77Wow! Those electronic sounds were far out!$h|Woooh! That was great!$h""/speak Leah ""$p 79This song's about trains.|Here we go...$8""/playMusic samBand/faceDirection Sam 1 true/pause 1200/animate Sebastian false true 158 42 43 52 53/pause 10100/animate Emily false true 316 16 17/animate Vincent false true 316 20 8 21 8/faceDirection Sam 3 true/animate Abigail false true 158 49 34 35 48/pause 9100/faceDirection Sam 2 true/showFrame Sam 20/pause 1000/animate Sam false true 316 20 21/animate Leah false true 316 30 31/animate Elliott false true 316 36 37/animate Maru false true 316 29 30/pause 20000/jump Sam/pause 400/animate Sam false true 316 22 23/pause 19000/stopAnimation Sam/stopAnimation Sebastian/stopAnimation Abigail/pause 800/stopAnimation Vincent/stopAnimation Elliott/stopAnimation Leah/stopAnimation Maru/stopAnimation Emily/speak Emily ""$p 78This song's about a city in the sea.|$p 8821This song's about Farming, mining, and chopping wood.|$p 8820pause 100/speak Sam ""Hi, everyone. We're from Pelican Town... Er... and we're called 'Xenon Chip 3.0'.$8""/speak Sam ""$p 20"
+Temp,honkytonk,"But you should really be clapping for @! Without his help we'd never have decided what kind of music to make in the first place!^But you should really be clapping for @! Without her help we would've never decided what kind of music to make in the first place!""/faceDirection Sam 2/faceDirection Leah 3/faceDirection Penny 1/faceDirection farmer 3/speak Penny ""So you're like an honorary member of the band, then?$h""/pause 300/faceDirection Penny 0 true/faceDirection Leah 0/faceDirection farmer 0 true/move Sam -1 0 2/speak Sam ""Oh! And don't forget to pick up one of our demo cassettes on the way out... Only 10g!""/pause 1000/mail afterSamShow/globalFade/viewport -1000 -1000/pause 4000/speak Sam ""That went well! Thanks again for coming with us.$h""/end dialogue Sam ""Hey. The show was a great success! Thanks again, @.""$bI really loved that heavy breakdown at the end.|I really enjoyed that bass part.""/move Sam 1 0 2/speak Sam ""Thanks, everyone!$hGood job! It's a new honky-tonk classic!|Nice work, guys!$h""/speak Shane ""$p 77Wow! Those electronic sounds were far out!$h|Woooh! That was great!$h""/speak Leah ""$p 79This song's about trains.|Here we go...$8""/playMusic samBand/pause 1200/pause 1666/animate Sebastian false true 104 42 43 52 53/pause 1666/animate Sam false true 208 20 21/animate Vincent false true 208 20 8 21 8/animate Emily false true 208 16 17/animate Leah false true 208 30 31/animate Elliott false true 208 36 37/animate Maru false true 208 29 30/pause 26000/animate Sam false true 208 22 23/pause 12500/animate Abigail false true 104 49 34 35 48/jump Sam/pause 400/animate Sam false true 208 20 21/pause 17500/stopAnimation Sam/stopAnimation Sebastian/stopAnimation Abigail/pause 800/stopAnimation Vincent/stopAnimation Elliott/stopAnimation Leah/stopAnimation Maru/stopAnimation Emily/speak Emily ""$p 78This song's about a city in the sea.|$p 8821This song's about Farming, mining, and chopping wood.|$p 8820pause 100/speak Sam ""Hi, everyone. We're from Pelican Town... Er... and we're called 'The Alfalfas'$8""/speak Sam ""$p 20"

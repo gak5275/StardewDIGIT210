@@ -1,0 +1,98 @@
+character,scene,dialogue
+NPCDispositions,Abigail,teen/rude/outgoing/neutral/female/datable/Sebastian/Town/fall 13/Caroline 'mom' Pierre 'dad'/SeedShop 1 9/Abigail
+NPCDispositions,Caroline,adult/polite/neutral/neutral/female/not-datable/Pierre/Town/winter 7/Pierre 'husband' Abigail ''/SeedShop 22 5/Caroline
+NPCDispositions,Clint,adult/rude/shy/negative/male/not-datable/Emily/Town/winter 26/Emily ''/Blacksmith 3 13/Clint
+NPCDispositions,Demetrius,adult/polite/neutral/positive/male/not-datable/Robin/Town/summer 19/Robin 'wife' Maru ''/ScienceHouse 19 4/Demetrius
+NPCDispositions,Willy,adult/neutral/neutral/neutral/male/not-datable/null/Town/summer 24/Elliott ''/FishShop 5 4/Willy
+NPCDispositions,Elliott,adult/polite/neutral/neutral/male/datable/Leah/Town/fall 5/Willy ''/ElliottHouse 1 5/Elliott
+NPCDispositions,Emily,adult/polite/outgoing/positive/female/datable/null/Town/spring 27/Haley 'sister'/HaleyHouse 16 5/Emily
+NPCDispositions,Evelyn,adult/polite/outgoing/positive/female/not-datable/George/Town/winter 20/George 'husband' Alex 'grandson'/JoshHouse 2 17/Evelyn
+NPCDispositions,George,adult/rude/neutral/negative/male/not-datable/Evelyn/Town/fall 24/Evelyn 'wife' Alex 'grandson'/JoshHouse 16 22/George
+NPCDispositions,Gus,adult/neutral/outgoing/positive/male/not-datable/null/Town/summer 8/Emily '' Pam ''/Saloon 18 6/Gus
+NPCDispositions,Haley,adult/rude/outgoing/neutral/female/datable/Alex/Town/spring 14/Emily 'sister'/HaleyHouse 8 7/Haley
+NPCDispositions,Harvey,adult/polite/shy/positive/male/datable/Maru/Town/winter 14//HarveyRoom 13 4/Harvey
+NPCDispositions,Jas,child/neutral/shy/positive/female/not-datable/Vincent/Town/summer 4/Vincent ''/AnimalShop 4 6/Jas
+NPCDispositions,Jodi,adult/polite/neutral/neutral/female/not-datable/Kent/Town/fall 11/Sam 'eldest_son' Vincent 'youngest_son' Kent 'husband'/SamHouse 4 5/Jodi
+NPCDispositions,Alex,adult/rude/outgoing/positive/male/datable/Haley/Town/summer 13/George 'grandpa' Evelyn 'grandma'/JoshHouse 19 5/Alex
+NPCDispositions,Kent,adult/neutral/shy/negative/male/not-datable/Jodi/Town/spring 4/Jodi 'wife' Sam 'eldest_son' Vincent 'youngest_boy'/SamHouse 22 5/Kent
+NPCDispositions,Leah,adult/polite/neutral/positive/female/datable/Elliott/Town/winter 23//LeahHouse 3 7/Leah
+NPCDispositions,Lewis,adult/neutral/outgoing/positive/male/not-datable/null/Town/spring 7/Marnie ''/ManorHouse 8 5/Lewis
+NPCDispositions,Linus,adult/neutral/shy/positive/male/not-datable/null/Town/winter 3//Tent 2 2/Linus
+NPCDispositions,Marlon,adult/neutral/outgoing/neutral/male/not-datable/Marnie/Town///AdventureGuild 5 11/Marlon
+NPCDispositions,Marnie,adult/polite/outgoing/positive/female/not-datable/Lewis/Town/fall 18/Lewis '' Shane 'nephew' Jas 'niece'/AnimalShop 12 14/Marnie
+NPCDispositions,Maru,teen/neutral/outgoing/positive/female/datable/Harvey/Town/summer 10/Robin 'mom' Demetrius 'dad' Sebastian 'half-brother'/ScienceHouse 2 4/Maru
+NPCDispositions,Pam,adult/rude/outgoing/negative/female/not-datable/Gus/Town/spring 18/Penny 'little_baby-girl' Gus ''/Trailer 15 4/Pam
+NPCDispositions,Penny,teen/polite/shy/positive/female/datable/Sam/Town/fall 2/Pam 'mother'/Trailer 4 9/Penny
+NPCDispositions,Pierre,adult/neutral/outgoing/positive/male/not-datable/Caroline/Town/spring 26/Abigail 'daughter' Caroline 'wife'/SeedShop 4 17/Pierre
+NPCDispositions,Robin,adult/neutral/outgoing/positive/female/not-datable/Demetrius/Town/fall 21/Demetrius 'husband' Maru 'daughter' Sebastian 'son'/ScienceHouse 21 4/Robin
+NPCDispositions,Sam,teen/neutral/outgoing/positive/male/datable/Penny/Town/summer 17/Vincent 'little_brother' Jodi 'mom' Kent 'dad' Sebastian ''/SamHouse 22 13/Sam
+NPCDispositions,Sebastian,teen/rude/shy/negative/male/datable/Abigail/Town/winter 10/Robin 'mom' Maru 'half-sister' Sam ''/SebastianRoom 10 9/Sebastian
+NPCDispositions,Shane,adult/rude/shy/negative/male/datable/null/Town/spring 20/Marnie 'aunt'/AnimalShop 25 6/Shane
+NPCDispositions,Vincent,child/neutral/outgoing/positive/male/not-datable/Jas/Town/spring 10/Jas ''/SamHouse 10 23/Vincent
+NPCDispositions,Wizard,adult/rude/neutral/negative/male/not-datable/null/Other/winter 17//WizardHouse 3 17/Wizard
+NPCDispositions,Dwarf,adult/neutral/outgoing/positive/undefined/not-datable/null/Other/summer 22//Mine 43 6/Dwarf
+NPCDispositions,Sandy,adult/neutral/outgoing/positive/female/not-datable/null/Desert/fall 15/Emily ''/SandyHouse 2 5/Sandy
+NPCDispositions,Krobus,adult/polite/shy/neutral/male/secret/null/Other/winter 1//Sewer 31 17/Krobus
+NPCDispositions,Leo,child/neutral/shy/neutral/male/not-datable/Leo/Other/summer 26//IslandHut 5 6/Leo
+Quests,1,Location/Meet The Wizard/You received a letter from the local wizard. He claims to have information regarding the old community center./Enter the wizard's tower./WizardHouse/-1/0/-1/false
+Quests,2,"Basic/The Mysterious Qi/Within a secret lock-box, you found a note with peculiar instructions. It's signed by a 'Mr. Qi'./Leave a rainbow shell in the box at the train platform./null/-1/0/-1/false"
+Quests,3,Basic/The Mysterious Qi/You've found another note written by 'Mr. Qi'. The request is even more unusual this time./Place 10 beets inside Mayor Lewis' fridge./null/-1/0/-1/false
+Quests,4,"Basic/The Mysterious Qi/You've found yet another strange note within the Mayor's fridge. This time, the instructions are more cryptic./""Give the sand dragon his final meal.""/null/-1/0/-1/false"
+Quests,5,Basic/The Mysterious Qi/You found another note in the sand dragon's eye. It seems Mr. Qi's strange scavenger hunt has come to an end./Inspect the lumber pile beside your house./null/-1/0/-1/false
+Quests,6,"ItemHarvest/Getting Started/If you want to become a farmer, you have to start with the basics. Use your hoe to till the soil, then use a seed packet on the tilled soil to sow a crop. Water every day until the crop is ready for harvest./Cultivate and harvest a parsnip./24/h7 8/100/-1/true"
+Quests,7,"Building/Raising Animals/Robin, the local carpenter, lives north of town. In exchange for raw materials and money, she'll construct new buildings on your farm. You'll need her to build a coop or barn so that you can raise animals./Build a Coop./Coop/-1/100/-1/true"
+Quests,8,"Crafting/Advancement/As you gain experience, you'll discover new crafting recipes to increase profit and make life easier. A scarecrow, for example, will prevent crows from snacking on your precious crops./Reach Farming level 1 and craft a scarecrow./8 true/-1/100/-1/true"
+Quests,9,Social/Introductions/It would be a nice gesture to introduce yourself around town. Some people might be anxious to meet the new farmer././null/25/0/-1/true
+Quests,10,"Basic/Copper Ore/You found a piece of copper ore. You're not sure what you can use it for, but the local blacksmith ought to know./Bring a piece of copper ore to Clint's blacksmith shop././-1/0/-1/false"
+Quests,11,"Crafting/Forging Ahead/If you're going to keep mining, you should build a furnace./Craft a Furnace./13 true/12/0/-1/true"
+Quests,12,"ItemHarvest/Smelting/Now that you've built a furnace, you can smelt some metal. According to Clint's instructions, if you place 5 copper ore and 1 piece of coal in the furnace, it should produce a copper bar./Use your furnace to smelt a Copper Bar./334 1/-1/0/-1/true"
+Quests,13,Basic/To The Beach/Someone named Willy invited you to visit the beach south of town. He says he has something to give you./Visit the beach south of town before 5:00pm./-1/-1/0/-1/true
+Quests,14,"Basic/Explore The Mine/There's an old mine shaft in the mountains north of town. There could be valuable minerals inside, but Marlon hinted that it might be dangerous./Reach level 5 in the mines./17/17/0/-1/false"
+Quests,15,"Monster/Initiation/If you can slay 10 slimes, you'll have earned your place in the Adventurer's Guild./0 of 10 slimes slain./Green_Slime 10/16/0/-1/false"
+Quests,16,Location/Initiation/You sucessfully dispatched 10 slimes. Now you can enter the Adventurer's Guild./Enter the Adventurer's Guild./AdventureGuild/-1/0/-1/false
+Quests,17,Basic/Deeper In The Mine/It seems that the mine elevator is still functional. It will allow you to quickly return to any elevator doors you've discovered. A deeper expedition might be in order./Reach level 40 in the mines./18/18/0/-1/false
+Quests,18,"Basic/To The Bottom?/So far, there's no sign of the bottom. How low does it go?/Reach the bottom of the mine./-1/-1/0/-1/false"
+Quests,19,Basic/The Skull Key/You found a strange looking key in the bottom of the mines./Discover the purpose of the Skull Key./-1/-1/0/-1/false
+Quests,20,Basic/Qi's Challenge/You've been challenged to reach level 25 in the skull cavern. You've been promised a substantial reward if you're successful./Reach level 25 in the Skull Cavern./-1/-1/0/-1/false
+Quests,21,"Basic/Marnie's Request/Marnie came by the farm and asked if you'd bring her a cave carrot. She's trying to train her goats to speak, and cave carrot is their favorite snack./Bring a Cave Carrot into Marnie's shop./-1/-1/0/-1/true"
+Quests,22,Basic/Fish Casserole/Jodi swung by the farm to ask you to dinner at 7:00 PM. Her only request was that you bring a largemouth bass for her fish casserole./Enter Jodi's house with a largemouth bass at 7:00 PM./-1/-1/0/-1/true
+Quests,23,"Location/Archaeology/You found an ancient-looking object. Could it be some kind of artifact from long ago? Perhaps Gunther, curator of the local museum, has the answer./Visit Gunther at the museum./ArchaeologyHouse/-1/0/-1/true"
+Quests,24,Basic/Archaeology/Gunther asked if you'd consider donating any new artifacts or minerals you find to the museum. He says he'll compensate you by way of occasional rare goods./Donate an artifact or a mineral to the museum./-1/-1/250/-1/true
+Quests,25,Basic/How To Win Friends/Giving gifts is a great way to build friendships. Learn each person's individual tastes and you'll be popular in no time./Give someone a gift./-1/-1/100/-1/true
+Quests,26,"Basic/""Rat Problem""/There's something odd going on in the Community Center.../Investigate the Community Center/-1/-1/0/-1/true"
+Quests,27,Basic/Goblin Problem/There's a goblin blocking the path to the Witch's hut. There must be some way to get him to move... Perhaps I should seek out more information on Goblins./Gain entrance to the Witch's hut./-1/-1/0/-1/true
+Quests,28,Basic/Dark Talisman/The Wizard asked me to retrieve the magic ink from his ex-wife's house... but to gain access I'll need a dark talisman./Enter the sewer and ask Krobus about the dark talisman./-1/-1/0/-1/false
+Quests,29,"Basic/Strange Note/You found a note, barely legible, asking you to bring ""may-pal serrup"" to the ""seecrit wuds""./Bring ""may-pal serrup"" to the ""seecrit wuds""/-1/-1/0/-1/true"
+Quests,30,"Basic/Cryptic Note/You found a note that reads, ""Someone is waiting for you on level 100 in the Skull Cavern""/Reach level 100 in the Skull Cavern/-1/-1/0/-1/true"
+Quests,31,"Basic/A Winter Mystery/You encountered a suspicious looking figure by the bus stop. When it saw you, it fled toward town. Could there be a clue to its whereabouts?/Find the shadowy figure./-1/-1/0/-1/true"
+Quests,100,"LostItem/Robin's Lost Axe/Robin lost her favorite axe. The last time she remembers using it, she was cutting wood south of Marnie's ranch./Find Robin's lost axe./Robin 788 Forest 110 81/-1/250/-1/true/Hey, you found my axe! What a relief... I almost chopped my toe off with the other one I was using. Thank you!"
+Quests,101,"ItemDelivery/Jodi's Request/Jodi needs a fresh cauliflower for a recipe she's making. She's asking you to bring her one./Bring Jodi a cauliflower./Jodi 190/-1/350/-1/true/Oh, that looks so delicious! Thank you, this is just what I wanted. It's going to be perfect for my yellow curry."
+Quests,102,"This stays between you and me. Got it?$u$bThere? I have no idea how they could've gotten there...*cough*$bLostItem/Mayor's ""Shorts""/Mayor Lewis has lost his purple ""shorts"". He's asking you to find and return them... Discreetly./Find and return Mayor Lewis' purple shorts./Lewis 789 AnimalShop 13 7/-1/750/-1/true/You found them... where? ...Oh!...Uhmm...Heh."
+Quests,103,"Thanks, kid. This means a lot to me. I knew I could count on you.$h$bIt's real nice and hoppy... notes of citrus and pine, but with a robust body to keep it grounded.$bItemDelivery/Pam Is Thirsty/Pam is hankerin' for a pale ale. Regular old beer won't do. You can brew one yourself if you have hops and a keg./Bring Pam a pale ale./Pam 303/-1/350/-1/true/Gimme that. *slurp*... Ahh, that's the stuff."
+Quests,104,ItemDelivery/Crop Research/Demetrius needs a fresh melon for his research./Bring Demetrius a melon./Demetrius 254/-1/550/-1/true/This is perfect! It's just what I need for my research. It's going to be hard not to eat it! Thanks a bunch.
+Quests,105,ItemDelivery/Knee Therapy/George needs a hot pepper to soothe his aching knee./Bring George a Hot Pepper./George 260/-1/200/-1/true/Took you long enough... hmmph... Well it's good and spicy at least. Thanks.
+Quests,106,"ItemDelivery/Cow's Delight/Marnie wants to give her cows a special treat. She's asking for a single bunch of amaranth./Bring Marnie one bunch of amaranth./Marnie 300/-1/500/-1/true/Oh, the amaranth I asked for! Thank you so much... my cows are going to love this!$h"
+Quests,107,"LostItem/Blackberry Basket/It's blackberry season, but Linus can't find his basket! He's asking you to help him find it. He has no idea where it is./Find Linus' basket and return it to him./Linus 790 Backwoods 27 27/-1/0/-1/true/My basket! Thank you. This means a lot to me.$h"
+Quests,108,"ItemDelivery/Carving Pumpkins/Caroline wants to carve a pumpkin with her daughter. She asked you to bring her one from the farm./Bring Caroline a pumpkin./Caroline 276/-1/500/-1/true/Oh, the pumpkin! It's a good one... Abigail will be so happy when she sees this. Thanks, @!$h"
+Quests,109,"Winter's a good time to break out the old fishing rod, isn't it?$bItemDelivery/Catch A Squid/Willy is challenging you to catch a squid. He says you can fish them from the ocean on winter nights./Bring Willy a squid./Willy 151/-1/800/-1/true/Hey, you did it! Not bad. Not bad at all. I'm impressed."
+Quests,110,"Oh, you got it at Clint's? Well I don't care where you got it from, it's beautiful! Thank you! *smooch*$h$bHuh? It's from who?$u$bItemDelivery/Clint's Attempt/Clint wants you to give Emily an amethyst. He wants you to tell her it's from him./Bring Emily an Amethyst./Emily 66/-1/0/-1/true/Oh, my favorite stone! You're so sweet!$h"
+Quests,111,"ItemDelivery/A Dark Reagent/The wizard wants you to descend into the mines and fetch him a Void Essence. He needs it for some kind of dark magic./Bring Wizard a Void Essence./Wizard 769/-1/1000/-1/true/Ah, you've brought it. You've earned my gratitude, and a 1000g reward. Now go."
+Quests,112,"Thanks, @. I appreciate this.$bItemDelivery/A Favor For Clint/Clint got a new hammer and he wants to test it out on a variety of metals./Bring Clint an Iron Bar./Clint 335/-1/500/-1/true/Hey, it's the iron bar I asked for. It looks strong... perfect."
+Quests,113,"Mmhmm... This wood is perfect. It's exactly what I need. Thanks!$bItemDelivery/Robin's Request/Robin wrote to you asking for some hardwood./Bring Robin 10 pieces of Hardwood./Robin 709 10/-1/500/-1/true/Oh, you brought it! I know I can always count on you, @.$h"
+Quests,114,"Aha! You brought it! Thanks a million!$bItemDelivery/Fish Stew/Gus wants to make fish stew, but he needs an albacore./Bring Gus an Albacore./Gus 705/-1/400/-1/true/*sniff*...*sniff*... What's that? Something smells like albacore!"
+Quests,115,"ItemDelivery/Fresh Fruit/Emily wants a taste of spring. She's asking for a fresh apricot./Bring Emily an Apricot./Emily 634/-1/600/-1/true/Oh... You followed through! Thanks, this looks delicious!$h"
+Quests,116,"He loves when I make eggs with leeks for breakfast.$bItemDelivery/Granny's Gift/Evelyn wants to surprise her husband with a gift./Bring Evelyn a Leek./Evelyn 20/-1/500/-1/true/Oh, thank you, dear. This leek looks delicious. George will be so happy."
+Quests,117,"Thanks, @.$h$bItemDelivery/Pierre's Notice/Pierre will pay ""top coin"" to whoever brings him a plate of sashimi. Apparently he's really craving the stuff./Bring Pierre some Sashimi./Pierre 227/-1/1000/-1/true/It's about time! I was starting to get the shakes, I wanted this fish so bad. *munch*... Mmm, now that's good."
+Quests,118,"ItemDelivery/Aquatic Research/Demetrius is studying the toxin levels of the local pufferfish. He'd like you to bring him one./Bring Demetrius a Pufferfish./Demetrius 128/-1/1000/-1/true/There you are. The specimen looks perfect. I'm going to get it on ice straight away. Thanks, @!"
+Quests,119,"Ah, this looks juicy. She'll love it. Thank you so much.$h$bItemDelivery/A Soldier's Star/Kent wants to give his wife a starfruit for their anniversary./Bring Kent a Starfruit./Kent 268/-1/500/-1/true/Hey. Shhh... Don't let Jodi see."
+Quests,120,It's high quality... very slick. Great. Thank you.$bItemDelivery/Mayor's Need/Mayor Lewis wants truffle oil. He won't explain what it's for. Maybe it's none of your business./Bring Lewis a bottle of Truffle Oil./Lewis 432/-1/750/-1/true/You got the oil? Let me see...
+Quests,121,"Take care, friend.$bItemDelivery/Wanted: Lobster/Gus put out a notice requesting a fresh lobster./Bring Gus a Lobster./Gus 715/-1/500/-1/true/Something smells like fresh lobster. Oh, that's good.$h"
+Quests,122,"ItemDelivery/Pam Needs Juice/Pam's TV Remote is dead. She's having a tough time going back and forth between the couch and the TV dial./Bring Pam a Battery Pack./Pam 787/-1/400/-1/true/Hey, you pulled through with the battery pack! Thanks, kid... You're a life-saver!$h"
+Quests,123,"ItemDelivery/Staff Of Power/The Wizard is creating a staff of phenomenal power. Who knows what it's for. He needs an iridium bar to finish it./Bring Wizard an Iridium Bar./Wizard 337/-1/5000/-1/true/Ah, precious iridium. You've done well, @. You have my gratitude. Now, leave."
+Quests,124,"ItemDelivery/Catch a Lingcod/Willy is challenging you to catch a Lingcod./Bring Willy a Lingcod./Willy 707/-1/550/-1/true/Hey, that's a real lunker! You've certainly got the angler's blood in you.$h"
+Quests,125,"It's going to be perfect for my coco-no-no. Thanks!$bItemDelivery/Exotic Spirits/Gus wants to make a Coco-no-no, but he's missing the main ingredient./Bring Gus a Coconut./Gus 88/-1/600/-1/true/Coconut! Now there's a soothing sight for my winter eyes.$h"
+Quests,126,"Now, I've got my work cut out for me. It'll be a few more days before it's ready...$bItemDelivery/Errand for your Wife/Your wife asked you to bring her 200 pieces of fiber for a secret project./Bring Emily 200 fiber./Emily 771 200/-1/0/-1/false/Oh, this looks perfect... and it's sustainably sourced, too! Thanks so much, @.$h"
+Quests,127,Basic/Haley's Cake-Walk/Your wife is organizing a charity cake-walk in the town square. She asked you to bring a chocolate cake./Enter Town on a sunny morning with a chocolate cake./-1/-1/0/-1/true
+Quests,128,"Well, thanks for bringing it to me, @. My mom will never know...$h$bSecretLostItem/.../.../.../Abigail 191 100 129/-1/0/-1/false/That necklace! Where did you find it?$7"
+Quests,129,"That's strange, I didn't even notice it was missing... Well, thanks for bringing it back, @.$h$bSecretLostItem/.../.../.../Caroline 191 50 128/-1/0/-1/false/What's this? My old necklace?$s"
+Quests,130,"Basic/The Pirate's Wife/An old lady living on Ginger Island is asking you to find a keepsake of her husband's. She gave you an old photograph of a soldier that washed up on shore, hoping it would help in some way./Find a keepsake that belonged to Birdie's husband./-1/-1/0/-1/false"
