@@ -77,3 +77,6 @@ plt.figure(figsize=(8, 4))
 plt.imshow(wordcloud, interpolation='bilInear')
 plt.axis('off')
 plt.show()
+
+# save the word cloud as a PNG image
+plt.savefig("wordcloud.png", dpi=300)
