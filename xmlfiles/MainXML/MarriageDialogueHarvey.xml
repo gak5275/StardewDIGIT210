@@ -1,4 +1,5 @@
 
+<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><metadata>xnbData: 
 target: "w"
 compressed: true
