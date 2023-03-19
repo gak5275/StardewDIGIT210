@@ -319,3 +319,5 @@ You've used a sword before, haven't you?
 "Okay, my dad won't find us here...\"
 "*sigh*... Can you believe my parents were ever young? They don't understand my perspective at all.$8#$b#I know, I know... they grew up in a different era, with different values. It still ticks me off sometimes, okay?$u\"
 "Well, thanks for hearing me out @.#$b#Um, now could you help untangle my hair from this bush?$h\"
+
+"It's sweaty in here...\"

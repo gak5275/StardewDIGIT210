@@ -5,8 +5,8 @@
 "Call me a silly old fool... but I think I have an idea who paid for Pam's new house... *wink*" 
 "Oh my! That's so kind of you, dear. Why yes... I'd love to go to the movies!$h#$b#You go on ahead, and I'll meet you at the theater." 
 "Oh my! What a lovely day.$u" 
-he really likes leeks! You can find them in the mountains this time of year." 
-"#$1 evelynGarden1#I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday.$k#$e#The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for weeks, so don't step on them!" 
+"Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year." 
+"I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday.$k#$e#The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for weeks, so don't step on them!" 
 "I'll be baking cookies today. I like to make flower shapes in the spring.$h#$e#Maybe I'll tell you my recipe one of these days." 
 "George spends the whole day in front of that darned television set.#$e#I wish he'd go outside more. Some fresh air would do him good." 
 "I used to love looking at the clouds, but I have trouble seeing them these days.#$e# My eyes just don't work as well as they used to.$s" 
@@ -66,3 +66,5 @@ he really likes leeks! You can find them in the mountains this time of year."
 "Here, why don't you try one?\"
 Well, what do you think?
 "I think I've come to know you well enough to give you my recipe. Just make sure to keep it a secret.$h\"
+
+“Could you check his lungs? He's been wheezing lately.”
