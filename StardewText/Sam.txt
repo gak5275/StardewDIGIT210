@@ -17,7 +17,7 @@
 "I'll tell you a secret... my name 'Sam' is short for 'Samson'.$10#$e#Most people don't know that so keep it on mute." 
 "Oh, hi! It's good to see you again.#$e#Take it easy." 
 "Hi, @. Do you want to hang out or something?#$e#Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster." 
-"I'm trying to come up with a new song for my band, but I'm blanking...#$q 19/20 Wed_old#Hey.. What do you think my new song should be about?#$r 20 30 Wed_20#Farming, mining, and chopping wood.#$r 8820 30 Wed_20#A city in the sea.#$r 8821 30 Wed_20#Trains.#$r 19 -50 Wed_19#Choose anything. It'll still be a horrible song." 
+"I'm trying to come up with a new song for my band, but I'm blanking... Hey.. What do you think my new song should be about?
 "$p 19#But I already know what you think about it.$a|Thanks to your help I'm already done with the lyrics!$h" 
 "Hey, man... what the heck is your problem? Sorry I asked.$a" 
 "Hey, you know what? That sounds perfect. Thanks!$h" 

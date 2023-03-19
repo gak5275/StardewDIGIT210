@@ -15,7 +15,7 @@
 "I can't bear to see you...$s" 
 "...Please, leave me alone.$s" 
 "You've left a permanent scar on my heart, @. Still... I'm ready to speak to you again.$s" 
-"*sigh*... My mother definitely has a problem with going to the saloon too much.$s#$q 7/8 Mon_old#But it's best not to dwell on bad things, right?#$r 7 50 Mon_7#Right. It's best to be positive!#$r 8 10 Mon_8#I think it's good to be realistic." 
+"*sigh*... My mother definitely has a problem with going to the saloon too much. But it's best not to dwell on bad things, right?
 "#$p 7#But if I keep trying I think I can get her to change.|I guess it makes sense. There's not much I can do to change it, anyway." 
 "That's how I feel. I'm just going to focus on making the future better." 
 "Maybe you're right. It's better to cope with reality.$u" 

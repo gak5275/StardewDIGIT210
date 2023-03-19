@@ -52,7 +52,7 @@
 "Do you have baby bunnies on your farm? Bunnies are SO cute! <" 
 "If you stay in the sun a lot it'll make your hair lighter.#$e#It's a good thing to know!" 
 "I wonder what Alex is doing today...#$e#Huh? I didn't notice you standing there." 
-"Farming sounds so boring...#$q 42/43 summer_Sat_old#What do you even do all day?#$r 42 10 summer_Sat_12#Care for plants#$r 42 10 summer_Sat_12#Explore the caves#$r 43 -10 summer_Sat_13#Snoop around in your room#$r 42 10 summer_Sat_12#Dig for treasure" 
+"Farming sounds so boring... What do you even do all day?#
 "#$p 43#Hey, you better not be snooping around in my room anymore!$a|But I guess it could get you in pretty good shape." 
 "Hmm... sounds like a lot of work." 
 "What? You'd better not be doing that!$a" 
@@ -73,7 +73,7 @@
 "Oh, hi. Did you want something?" 
 "I feel the urge to go shopping. *sigh*" 
 "Is that a grass stain on your knee?#$e#Sorry, I'm allergic to grass." 
-"It's too cold to go to the beach anymore.#$q 44 fall_Sat_old#*sigh*...what do you think I should do today?#$r 44 10 fall_Sat_12#Watercolor painting#$r 44 20 fall_Sat_12#Relax and read a magazine#$r 44 -30 fall_Sat_13#Stop being a selfish crybaby" 
+"It's too cold to go to the beach anymore. *sigh*...what do you think I should do today?
 "I'll probably take a nap later." 
 "Hmm... That's a pretty good idea, actually." 
 "Get away from me, you stupid jerk.$a" 

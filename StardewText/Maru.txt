@@ -17,7 +17,7 @@
 "I plan on spending a lot of time with my telescope this summer." 
 "Do you know my Dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory." 
 "Hey, sorry if I seem cranky... I'm a little sore from work yesterday.#$c .5# I had to carry ten boxes of medical files to the attic!#$e#I had to sort patient records for four hours straight! " 
-"Hi!#$q 3/4 Sun_01_old#Do you have fun working on the farm?#$r 3 0 Sun_01_01#Yes.#$r 4 0 Sun_01_02#No." 
+"Hi! Do you have fun working on the farm?
 "$p 3#Hey, you've made another week of progress on the farm! It seems like things are going well for you.$h|Another tiring week on the farm, huh? It must really be a lot of work...$s" 
 "Well that's good, isn't it?$h" 
 "Yikes! I'm sorry. Have you ever thought of doing something different...?$s" 
@@ -46,7 +46,7 @@
 "Sebastian is my half-brother, if you didn't know already.#$e#We look totally different." 
 "Sebastian hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one." 
 "Are you enjoying the season?#$e#It's been so warm this year.$h" 
-"Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you#$r 36 -50 Thu_01_01#You should be more realistic#$r 35 40 Thu_01_02#It sounds challenging" 
+"Sorry, I was just thinking about some gadgets I'm making. I've decided I'm going to build a robot someday.
 "See you later." 
 "Really? Are you sure you're not just trying to flatter me?" 
 "You don't think I could do it?$s" 

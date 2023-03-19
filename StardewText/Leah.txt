@@ -13,7 +13,7 @@
 "I don't want to see you for a while...$s" 
 "You caused a lot of grief with what you did... but I'm ready to put the past behind us.$s" 
 "I came for the sound of the ocean. Beautiful, isn't it?" 
-"The trees look nice today, don't they?#$q 21/22/211132 Mon_old#So why did you become a farmer?#$r 21 -5 Mon_21#I want to make tons of money.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 211132 5 Mon_211132#To follow in grandpa's footsteps.#$r 22 5 Mon_22#I wanted to escape my old life." 
+"The trees look nice today, don't they? So why did you become a farmer?
 "$p 21#So are you making as much money as you hoped?|Spending time in nature is very rewarding." 
 "Hmm. That seems kind of shallow, doesn't it?$s" 
 "That's pretty much the reason I came here, too!$h" 

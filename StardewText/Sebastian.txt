@@ -27,7 +27,7 @@
 "Could you picture someone like me living on a farm? It seems ridiculous.$h" 
 "Could you picture me living on a farm?#$e#It seems ridiculous, but I have been thinking about it lately." 
 "Uh... I don't really know you." 
-"*sigh*... If gas wasn't so expensive I'd ride my motorcycle to the city today.#$e#$q 15/16 Fri_old#So what do you do when you aren't working?#$r 15 0 Fri_bad#More Farming#$r 16 30 Fri_good#Comic books#$r 15 -30 Fri_bad#Shopping#$r 15 -30 Fri_bad#Sports" 
+"*sigh*... If gas wasn't so expensive I'd ride my motorcycle to the city today. So what do you do when you aren't working?
 "$p 16#Hey, if you're bored feel free to hang out in my room...$h|You probably prefer the small-town life, huh?" 
 "Oh yeah? Well, did you read the new 'Cave Saga X'? I won't spoil it for you, but oh man...$h" 
 "Oh yea? Hmm... Not really my thing, but everyone's different I guess.$u" 
@@ -77,7 +77,7 @@
 "*yawn*... what time is it? I think I slept too much last night." 
 "I'm glad you showed up. I was starting to get bored.#$e#Now I feel a lot more energetic, believe it or not." 
 "My room might be a little less depressing if I had a window...$s" 
-"*yawn*... I was up until 3 reading this new book...#$q 62/63 fall_Fri_old#Do you read, @?#$r 62 -30 Fri_bad#Yep. The classics.#$r 63 30 Fri_good#Only Sci-fi and Fantasy#$r 62 0 Fri_bad#I like a good Romance#$r 63 -30 Fri_bad#No, I don't read books" 
+"*yawn*... I was up until 3 reading this new book... Do you read, @?
 "$p 62#You probably wouldn't like it.$s|I think you'd like it." 
 "Hey, me too. There's nothing like a good fiction to push the boundaries of the imagination.$h" 
 "Huh. Sounds boring." 
