@@ -1,21 +1,3 @@
-
-
-"w"
-true
-true
-
-        - 
-"Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-0
-
-        - 
-"Microsoft.Xna.Framework.Content.StringReader"
-0
-
-
-0
-
- #!Dictionary<String,String>
 "A Stardew Valley rose? That's so lovely! Thank you!$h#$b#Whenever I miss the valley, I'll smell this rose. Hehe.$h#$b#Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!" 
 "Hello hello, sweetie!#$b#I'm so glad that the bus is back in service. It was starting to get lonely out here.#$e#...I almost went out of business.$s#$e#Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?$h" 
 "You can find coconuts and cactus fruits outside. Feel free to take as many as you can find.#$e#They're oooh-yummy, too. Heeee!~$h" 
@@ -32,3 +14,15 @@ true
 "Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't get depressed.$h" 
 "Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?" 
 
+"I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s"
+
+"What happened? You're a club member?!"
+
+"Ooo! I absolutely love getting flowers from the valley. I'm so happy!~/18 402 418 905/This looks wonderful. Thanks so much!/-75 -79 88 428 436 438 440/Oh... Um. Thanks./-4 2 330/*sniff* ...what is it?//This is for me? Thank you!//"
+
+"Greetings from Calico Desert!^Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person!
+"Dear @,^I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon!
+
+"A... customer?\"
+"Hi! Welcome to 'Sandy's Oasis'!#$b#Hey, you look just like the new farmer that Emily wrote to me about!#$b#Then... the bus line to Stardew Valley is back in service!$h#$b#Oh, I'm so happy!$h\"
+"Please visit again soon, I get so bored out here.\"

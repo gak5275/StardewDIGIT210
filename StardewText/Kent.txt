@@ -1,21 +1,3 @@
-
-
-"w"
-true
-true
-
-        - 
-"Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-0
-
-        - 
-"Microsoft.Xna.Framework.Content.StringReader"
-0
-
-
-0
-
- #!Dictionary<String,String>
 "Hello, farmer.#$e#I've been gone so long... I feel like a stranger." 
 "Hey, @. Nice to see you." 
 "Time to head home." 
@@ -42,3 +24,33 @@ true
 "...$s#$b#You're absolutely right, @.$s" 
 "Don't lie to me! I hate lies more than anything!$u" 
 
+"I'm waiting for this clown to start doing something funny.#$e#Pretty disappointing."
+"Hey, @. Nice evening, isn't it?"
+"I'm not a big fan of eggs, to tell you the truth."
+"This open field... it makes me nervous.#$e#*whisper* Happy thoughts, Kent. Happy Thoughts."
+"Hey, good to see you."
+"Good evening, @. Hope you can find some time to relax before the harvest season."
+"Good afternoon, @. Happy Feasting."
+"I like winter. It's peaceful."
+
+"Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you./607 649/Hey, now this is a really great gift. Thanks./-5 -79 18 402 418/Ah... It's a... what is this, exactly? Hmm.../80 330 416 873/This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*/-6 2 227 229 456/That's kind of you. The family will like this.//"
+
+"Hello, @.^This item was collecting dust in the toolshed. I figured you might be able to use it.
+"Picked up this recipe overseas. Enjoy.^Want to say thanks for making me feel welcome.
+"Dear Farmer @,^I'd like to give my wife a starfruit for our anniversary. Are you growing any on your farm? If you brought me one, I'd be very grateful.
+
+"Um, hello there. My name's Kent. I just got back last night... from overseas. My wife told me that a new farmer had moved in while I was gone.\"
+"Well, I just wanted to introduce myself... I'll see you around.\"
+
+"I'm happy for an excuse to get out of the house, and take my mind off things.\"
+
+"Hi @. Please, come in.\"
+"Heh heh.$h\"
+
+"AAAAAHHHHHHH!!!$u\"
+"That sound...$s\"
+"You should've known that sound would remind me of the war!$u\"
+"...I lost a lot of good friends in those bloody trenches.$s\"
+"...Things have changed.\"
+"...$s#$b#I'm sorry, honey. You couldn't have known the sound of popcorn would make me upset.\"
+"I'm glad you're a friend of the family, @. Sorry about my behavior before.\"
