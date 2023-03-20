@@ -1,21 +1,3 @@
-
-
-"w"
-true
-true
-
-        - 
-"Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-0
-
-        - 
-"Microsoft.Xna.Framework.Content.StringReader"
-0
-
-
-0
-
- #!Dictionary<String,String>
 "Oh, a stranger! My name's Vincent.#$b#Momma says not to talk to strangers... But you seem okay." 
 "That was fun! I wanna be a boat captain some day!" 
 "I wanna come back soon!" 
@@ -23,7 +5,7 @@ true
 "If you look close, you can see little bugs jumping out of the sand.$h" 
 "Oooh! Nice find!#$b#Mom wouldn't let me keep him, though...$s" 
 "I wanna be just like my big brother when I grow up!$h#$e#Okay! Bye!" 
-"$d kent#I'm glad Dad's back... but he's different than I remember...$s|Dad's not around much... I miss playing with him.$s" 
+"I'm glad Dad's back... but he's different than I remember...$s|Dad's not around much... I miss playing with him.$s" 
 "*sigh*... Mom won't let me have any more gummies today.$s" 
 "Can you keep a secret, mister?^Can you keep a secret, miss?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u" 
 "I wanna look for bugs, but Mom gets mad when I'm all dirty.$u#$b#It's a tough choice." 
@@ -36,3 +18,47 @@ true
 "Hi there, mister!^Hi there, miss." 
 "Hi Uncle @!^Hi Auntie @!#$e#Don't tell Mom... but you're my favorite grown-up.$h" 
 
+"Moooo!"
+"Mother won't let me go in the maze. *sob*$s"
+"When does the egg hunt start?! I'm so excited!!$h"
+"I want to live inside a big egg!"
+"That's not fair... Why can't I be the flower queen?"
+"I'm bored..."
+"I wanna see the rare green jelly!"
+"Can we open presents now?!"
+"I saw a big fish down there!"
+
+"Wow, thank you so much! This is terrific!/221 398 612 721 903/For me? Wow, thanks!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/This isn't very fun...$s/-5 -75 -79 -81 80/Yuck, what is this?$s/253 395 459 -26 2 16 330 873/Thanks!//"
+
+"Sam...?$u\"
+"Is Dad ever going to come home?$s\"
+"But I heard some grown-ups saying that... that all of our troops are getting shot to pieces.$s\"
+"Okay!\"
+
+"I'm really excited, Sam!\"
+"OK!\"
+"Me too!\"
+
+"Mr. @, are you going to marry Miss Penny?$s^Ms. @... Um, do you have a boyfriend?\"
+"Um, Farmer @? If I eat your veggies will I grow up strong like my big brother Sam?#$b#He's so strong, I saw him lift Miss Penny clear off the ground last night when they were climbing into a tree.$h\"
+"Farmer @? Can I put a saddle on one of your cows and ride it into town? I wanna be a real cowboy!\"
+"Farmer @? Is it true that goblins live deep in the caves... and that they like to kidnap little girls for their dinner?\"
+
+"...$s#$b#Why is it locked? I wanna explore the sewers!$s\"
+"Professor Gunther? The man who runs the museum? Why do you think he has it?$u\"
+
+"Hiya, mister @!^Hiya, miss @!\"
+"Sp..spwing onion. Mom sends me out to pick these sometimes...\"
+"You're really nice for a grown-up... so I'm going to show you a secret.$h\"
+"When you see it like this, it looks good, right?\"
+"But if you peel it a little bit...\"
+"...It's full of bugs!$s\"
+"Cool, huh?$h\"
+"Usually I just squash 'em!\"
+"Does this mean I don't have to do my homework?$h\"
+
+“*sob*... I have to get my shots today.”
+“*gulp*... Mommy, don't make me do it.”
+“Do I get a lollipop for being so brave?”
+
+“I wanna ride the boat!!”

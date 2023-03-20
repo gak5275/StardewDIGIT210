@@ -68,3 +68,5 @@ Well, what do you think?
 "I think I've come to know you well enough to give you my recipe. Just make sure to keep it a secret.$h\"
 
 “Could you check his lungs? He's been wheezing lately.”
+
+“This is one of the newer traditions in Pelican Town... but we've taken to it rather quickly. Haven't we, George?”

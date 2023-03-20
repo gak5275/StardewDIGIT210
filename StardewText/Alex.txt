@@ -267,3 +267,5 @@ I'm worthless...
 "Oh... I was talking to Dusty.#$b#He and I have a lot in common, actually.$s\"
 "I don't usually like to talk about it... But we've been friends for a while now and I think I can trust you.$s\"
 "You know what? There's no sense dwelling on this stuff... I don't want any sympathy from anyone.#$b#You have to look on the positive side of things... My childhood wasn't great, but it did make me strong. I had to be.\"
+
+“Have you seen the mermaid show? It's my favorite...”

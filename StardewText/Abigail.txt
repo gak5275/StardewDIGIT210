@@ -321,3 +321,5 @@ You've used a sword before, haven't you?
 "Well, thanks for hearing me out @.#$b#Um, now could you help untangle my hair from this bush?$h\"
 
 "It's sweaty in here...\"
+
+“This is so mysterious... I love it!”

@@ -265,3 +265,5 @@ Wait. I propose a toast! To...
 "For once, I'm at a loss for words... $a\"
 "Absolutely.$a\"
 "Don't blame others for your mistakes! You're just losing more respect with us...$a\"
+
+“A fleet of exotic merchants, traveling the world in search of riches beyond imagination... what an adventure!”
