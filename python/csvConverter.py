@@ -2,10 +2,14 @@ import yaml
 import csv
 import glob
 import os
+import re
+
+placeholder = re.compile(r'\$\w')
+onomatopoeia = re.compile(r'\*.+?\*') # still not sure if onomatopoeia should be removed
 
 def converter(directory):
     # convert yaml files to csv files
-    yamlFiles = glob.glob('..\\StardewText\\RawYAMLFiles\\'+ directory +'\\*.yaml')
+    yamlFiles = glob.glob('..\\RawYAMLFiles\\'+ directory +'\\*.yaml')
     rows = []
     for eachFile in yamlFiles:
         with open(eachFile, encoding = 'utf8') as yamlFile:
@@ -17,6 +21,7 @@ def converter(directory):
             for key, value in data['content'].items():
                 scene = key
                 dialogue = ''.join(str(element) for element in value.split('#')[::-1])
+                dialogue = placeholder.sub(' ',dialogue) # remove placeholder such as $e, $8...
                 row = {'character':character, 'scene':scene, 'dialogue':dialogue}
                 rows.append(row)
                 # print(row)
@@ -29,6 +34,10 @@ def converter(directory):
         csv_writer.writeheader()
         csv_writer.writerows(rows)
 
+
+print(">>>Start to convert YAML files to CSV files<<<")
 directoryList= ['ExtraFiles\\MinorYAML','ExtraFiles\\NonDialogueYAML','FestivalsYAML','LocationsYAML','MainYAML','MajorYAML','MiscYAML']
 for directory in directoryList:
     converter(directory)
+    print(directory.split('\\')[-1], "is done.")
+print(">>>Converting is completed!<<<")
