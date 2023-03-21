@@ -56,7 +56,7 @@ wordcloud = WordCloud(stopwords = STOP_WORDS, background_color='white',
                       collocation_threshold=10).generate(text)
 # count the frequency of words in the WordCloud
 text1_dict = Counter(wordcloud.process_text(text))
-# Count the frequency of words in the original dialogue column
+# count the frequency of words in the original dialogue column
 text2_dict = Counter(df.loc[:4000]['dialogue'].str.lower().str.split(expand=True).stack().value_counts())
 
 # find the most common word frequency from the first dictionary
@@ -76,7 +76,7 @@ wordcloud = generate_wordcloud(full_dict)
 plt.figure(figsize=(8, 4))
 plt.imshow(wordcloud, interpolation='bilInear')
 plt.axis('off')
-plt.show()
+# plt.show()
 
 # save the word cloud as a PNG image
-plt.savefig("wordcloud.png", dpi=300)
+plt.savefig("../dataviz/wordcloud2.png", dpi=300)
