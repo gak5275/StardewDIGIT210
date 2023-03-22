@@ -29,7 +29,7 @@
 "$d Joja#What's the point of life if all you do is work?|I haven't been able to pay my rent, but Marnie's letting me stay anyway. I'm lucky." 
 "I'll definitely be going to the saloon tonight. What else is there to do?" 
 "Why are you bothering me? I want to be alone." 
-"#$1 ShaneJOSH#I'm surprised that you're still trying to make friends with me. Haven't I been rude enough to you yet?#$e#*sigh*...$s" 
+"I'm surprised that you're still trying to make friends with me. Haven't I been rude enough to you yet?#$e#*sigh*...$s" 
 "$d Joja#I'm renting my room from Marnie at a really good price. It's small but I can't complain.|If I could reset my life maybe I'd start a chicken farm. Only free-range eggs of course." 
 "I've really grown attached to Marnie's chickens.$h" 
 "I'm busy, can't you tell?" 

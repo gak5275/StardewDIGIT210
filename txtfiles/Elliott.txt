@@ -21,7 +21,7 @@
 "I can't seem to find the inspiration to begin writing my novel...$s" 
 "I've been feeling hopeful lately. Perhaps the weather is changing." 
 "Sometimes I wonder if I might just have an inflated self-image and no real skills...$s#$e#No, no... I'm not fishing for compliments. Though they are appreciated..." 
-"#$1 elliottApol#It's a little lonely out here on the beach... so I apologize if I was ever a little too forward with you when we first met. I was just eager to have a friend.$k#$e#It feels good to have a close friend like you." 
+"It's a little lonely out here on the beach... so I apologize if I was ever a little too forward with you when we first met. I was just eager to have a friend.$k#$e#It feels good to have a close friend like you." 
 "Hello, @.#$e#Are you well?" 
 "The fresh air of this valley is good for body and mind.#$e#A quick stroll outdoors always invigorates me." 
 "Ah... do not get too close to my hair with a torch...$8" 

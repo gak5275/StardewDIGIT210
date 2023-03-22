@@ -20,7 +20,7 @@
 "That's very sweet to honor your grandfather like that." 
 "Hi. Oh, you want to talk?#$e#The landscape around here gives me a lot of ideas. The terrain is almost like a sculpture itself.#$e#I don't make art for money. It's just an urge that I have.#$e#Farming seems like a very rewarding profession. You get to create delicious food for everyone!$h#$e#You're probably busy. Sorry." 
 "Hello, neighbor.#$e#We both live outside of town. Does that mean something?" 
-"#$1 LeahBug#This morning I accidentally stepped on a bug.$s#$e#Sometimes I think it's impossible to live without destroying nature in some way." 
+"This morning I accidentally stepped on a bug.$s#$e#Sometimes I think it's impossible to live without destroying nature in some way." 
 "I love being around animals. They're so innocent.#$e#Farm animals are wonderful, too.$h" 
 "Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?$l" 
 "There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h" 

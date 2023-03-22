@@ -18,7 +18,7 @@
 "You can use a scythe to cut feed from grass.#$e#Or you can buy it from me, of course!$h#$e#I could use the cash...$u#$e#Adios." 
 "Hi. Need something?#$e#I might be getting some different kinds of animals in the future.#$e#Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first.#$e#Just keep treating your animals with respect and good things will happen." 
 "You can catch me at the saloon most nights.#$e#Animals are great company, but I need to spend time with people, too." 
-"#$1 marnieLike#I think someone in town has taken a liking to me. *teehee*$k$h#$e#I would be so lonely if Shane ever moved out." 
+"I think someone in town has taken a liking to me. *teehee*$k$h#$e#I would be so lonely if Shane ever moved out." 
 "I wonder if Mr. Lewis gets lonely in that big house of his... $s#$e#It seems so empty in there, doesn't it?" 
 "Have you been to that strange tower west of my house?#$e#One time I heard this terrible, otherworldly noise coming from there.$s#$e#I would avoid that place if I were you..." 
 "Hey there, it's good to see ya!#$e#Feel free to visit us any time you please." 
@@ -100,3 +100,11 @@
 
 "Um... Haley? When do we stop? M... My legs... *pant* *pant*$s\"
 "Yep\"
+
+“Oohh... Fine purple silk. You can't find that at JojaMart!”
+
+“That was some strange-looking purple lettuce in your grange display! I swear, It looked just like Mayor Lewis' special und... Oh!... heh... nevermind!”
+
+“Erm... Doctor Harvey? This is completely confidential, right?”
+
+“*sigh*... When the door opened I thought it might be Lewis.”

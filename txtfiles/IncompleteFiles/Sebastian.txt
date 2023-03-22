@@ -21,7 +21,7 @@
 "Sam is probably my only friend in this town, anymore..." 
 "You and Sam are probably my only friends in this town.$s" 
 "Um... You're single, right?#$e#Just wondering!$l" 
-"#$1 Sebastian1#I snuck into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay?#$e#Hi.#$e#...want something?" 
+"I snuck into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay?#$e#Hi.#$e#...want something?" 
 "I come here for the peace and quiet." 
 "Why does everyone like Maru so much? Sure, she's smart and friendly, but don't they realize it's all just an attention-grabbing scam?#$e#Sorry...$s" 
 "Could you picture someone like me living on a farm? It seems ridiculous.$h" 

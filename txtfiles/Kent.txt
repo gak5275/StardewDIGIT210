@@ -13,7 +13,7 @@
 "Things haven't changed much since I've been gone.#$e#Except that we have a new farmer in town.$h" 
 "...I lost a lot of friends in battle.$s#$e#What's sad is that I can't even remember their faces.#$e#..." 
 "You've been here a while now, haven't you? Your farm must be thriving." 
-"#$1 Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. He's a man now.#$e#I wish I could've been there for him.$s" 
+"I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. He's a man now.#$e#I wish I could've been there for him.$s" 
 "Are you friends with my son?#$e#You probably know him better than I do...$s" 
 "Hey, @. Are you enjoying the married lifestyle?" 
 "It looks like a decent day for fishing, doesn't it?" 
