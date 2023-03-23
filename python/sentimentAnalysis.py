@@ -35,7 +35,7 @@ sns.histplot(compound_scores, bins=15, kde=True, edgecolor='none')
 # Plot the fitted normal distribution as a line
 plt.plot(x, y, lw=2)
 
-plt.title("Sentiment Analysis Results")
+plt.title("Sentiment Analysis")
 plt.xlabel("Sentiment Score\n(-1: negative, 0: neutral, 1: positive)")
 plt.ylabel("Frequency")
 # plt.show()
