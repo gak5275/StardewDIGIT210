@@ -50,3 +50,26 @@ lda_model = gensim.models.LdaModel(corpus,
 for idx, topic in lda_model.print_topics(-1):
     print("Topic: {} \nWords: {}".format(idx, topic ))
     print("\n")
+
+'''
+
+Topic: 0 
+Words: 0.002*"like" + 0.002*"good" + 0.001*"think" + 0.001*"today" + 0.001*"feel" + 0.001*"look" + 0.001*"know" + 0.001*"guess" + 0.001*"time" + 0.001*"want"
+
+
+Topic: 1 
+Words: 0.025*"like" + 0.016*"good" + 0.015*"think" + 0.014*"know" + 0.014*"look" + 0.013*"feel" + 0.012*"today" + 0.011*"want" + 0.010*"time" + 0.009*"guess"
+
+
+Topic: 2 
+Words: 0.001*"like" + 0.001*"think" + 0.001*"know" + 0.001*"good" + 0.001*"look" + 0.001*"today" + 0.001*"maybe" + 0.001*"time" + 0.001*"want" + 0.001*"feel"
+
+
+Topic: 3 
+Words: 0.001*"like" + 0.001*"think" + 0.001*"know" + 0.001*"look" + 0.001*"feel" + 0.001*"good" + 0.001*"want" + 0.001*"today" + 0.001*"time" + 0.001*"guess"
+
+
+Topic: 4 
+Words: 0.001*"like" + 0.001*"good" + 0.001*"know" + 0.001*"feel" + 0.001*"look" + 0.001*"think" + 0.001*"tell" + 0.001*"want" + 0.001*"little" + 0.001*"need"
+
+'''
