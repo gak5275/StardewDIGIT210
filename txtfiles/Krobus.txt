@@ -1,21 +1,3 @@
-
-
-"w"
-true
-true
-
-        - 
-"Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-0
-
-        - 
-"Microsoft.Xna.Framework.Content.StringReader"
-0
-
-
-0
-
- #!Dictionary<String,String>
 "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?" 
 "A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides." 
 "Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin." 
@@ -125,3 +107,26 @@ true
 "It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'fall', correct?" 
 "The darkness this time of year is very soothing. If only it were warmer!" 
 
+"If you dwarves hadn't driven us from our ancestral home, we'd never have had to resort to violence!#$b#I'm sorry about your family.\"
+"Come and get it, shrimpy.\"
+"...And I'm truly sorry about the past, Dwarf. I have no personal gripe with you.\"
+
+"@... I'm afraid we'll have to keep this a secret... Neither my people nor yours would accept us living together."
+"You know I'll be a very strange person to live with, right? I won't be able to leave the house..."
+
+"Ah, It's more humid today with the rain... I feel a lot more comfortable."
+"The sound of the rain reminds me of the sewers... it's comforting.#$e#The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too."
+"I wish I could help you on the farm, but I can't go out in the sun..."
+"Hi, @. Welcome home. You look like you've been working hard out there!$h"
+"On a day like this, I can enjoy the outdoors with you. This is really nice!$h#$b#Just let me know if you see anyone coming, so I can hide.$u"
+
+"This is an amazing gift. For my people it is a great honor to receive something like this./72 16 276 337 305 308/Thank you very much./66 265 336 340/Humans have... interesting tastes./-7 -81 2 330/Oh... Um. I guess I'll accept it.//Thank you.//"
+
+"@, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.^^I hope you are doing okay.^^I wanted to share this with you... it's notes on how my people build a certain item.
+
+"Ah, the sewers are flowing quickly today. It'll get nice and humid in here... Just how I like it."
+
+“A human visitor? This is most unusual...
+I'm Krobus, merchant of rare and exotic goods.”
+
+“You were gone so long I started to get worried about you! I started crying when I saw your limp body...”
