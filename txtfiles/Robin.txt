@@ -1,0 +1,150 @@
+"Have you met everyone in town yet? That sounds exhausting." 
+"Wow, look at these structures!$h#$b#I can tell they were made by a master builder. I'm really impressed!" 
+"That was fun!$h" 
+"Hey, look! I can see another island from here." 
+"Hey @. You know, I was just thinking about how far the town has come since you first moved here.#$b#You should really be proud of all you've done!$h" 
+"This is so relaxing..." 
+"Veggie salt? Sounds good, but I don't need it." 
+"Hmm... when I think of flowers, I think of Evelyn. Maybe show this to her?" 
+"Our little plan worked out well, don't you think? Pam and Penny seem really happy." 
+"Our little plan worked out well, don't you think? Pam and Penny seem really happy." 
+"Ooh... Two tickets for tonight's show, huh? Sounds good! I'll meet you there.$h" 
+"Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired!#$b#It's a miracle of woodworking!" 
+"I knew it from the moment you stepped off that bus, @... you were destined to be a town hero!$h" 
+"Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!" 
+"Have I told you that I built our house from the ground up?#$e#It's definitely been the highlight of my career so far." 
+"Hey, if you need any materials or blueprints, my shop is the place you're looking for!#$e#Plus, your business supports the local economy.$h" 
+"Hey there, @.#$e#I was just daydreaming about some new carpentry projects.#$e#Are you doing OK at your place? How's the woodwork in your cottage holding up?" 
+"You're always welcome to visit us, even if you aren't shopping, you know.$h#$e#It can get pretty lonely up here in the mountains." 
+"You've met my son Sebastian, right? He lives downstairs.#$e#He's a little shy, but I'm sure he'll warm up to you if you're nice to him." 
+"I miss my Sebby... he was always a little misunderstood, but I believed in him." 
+"I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?#$e#Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much...#$e#I would talk to him about it but he never opens up to me." 
+"Sebastian told me he's trying to quit smoking! I'm really proud of him." 
+"Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains." 
+"I hope Demetrius doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants." 
+"My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place.$u#$e#Sorry if it smells weird in here, @. It's my husband's bizarre science project..." 
+"Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?" 
+"Great, then this blueprint should be a piece of cake for you!$h" 
+"Well, then I have the perfect blueprint to get you started!" 
+"Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character!" 
+"If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h" 
+"We're pretty insulated from the rest of the world here in Stardew Valley.#$e#It has its pros and cons." 
+"Maru likes gems. She uses them in her inventions.#$e#So how are you and Maru getting along?" 
+"You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains." 
+"Have you met the wild man that lives behind our house?$s#$e#I guess I don't really mind, as long as he doesn't bother us." 
+"Hey, it's a perfect time of year to gather wood.#$e#Maybe you can collect enough to upgrade your house!" 
+"My parents were bewildered when I told them I wanted to be a carpenter.#$e#They were pretty old-fashioned." 
+"I think the farm life is really healthy for Sebby." 
+"Our house is in such a beautiful area, don't you think?#$e#Everything looks still after a fresh snow." 
+
+"Woodworking is an ancient tradition that I'm very proud to be a part of.
+"Well, winter's almost here. It's a great time to stockpile wood and stone."
+"Spring is a busy time of year... so it's nice to have a day off to catch up with friends."
+"It feels great to be outside again after that long, cold winter, doesn't it?"
+"Ahh... The air smells so sweet with all these flowers.
+"Ow... you stepped on my foot, dear."
+"*yawn*... It's past my bed-time.$s#$e#Hey, did you see that candle-boat? I crafted it myself.
+"Hiya, @. You're welcome to join our family table if you need company.
+"I'm sorry, but carving ice parapets requires my undivided attention!"
+
+"Your new {0} will be finished tomorrow! Are you excited?"
+"Your new {0} will be ready in {1} days. Just pretend I'm not here."
+"Your new {0} will be ready in {1} days. I'm going to be working on this thing day and night!"
+"Thank you! I'll get started tomorrow. I should be finished in around three days."
+"That's so generous of you! I'll start working on the upgrade tomorrow. It should take around three days."
+"...I found you unconscious in the mines. I almost mistook you for a piece of exotic wood!#$b#Be a little more careful next time, okay?
+"Okay, I'll start working on your {1} upgrade the day after tomorrow. I always take festivals off.
+"Okay, I'll start working on your {1} upgrade first thing tomorrow morning!
+"Okay, I'll start working on your new {0} the day after tomorrow. I always take festivals off.
+"Okay, I'll start working on your new {0} first thing tomorrow morning!
+"This {0} is pre-fabricated, so there's no construction time! Convenient, isn't it?
+
+"Sorry! Shop's closed for the day... I'm at Caroline's place for aerobics club.
+"I'm on the island today, but you can still buy something. It's an honor system!
+
+"This is for me? Wow, I absolutely love it!!/224 426 636/Thanks! This is really nice!/-6 -79 424 709/Um... why?/16 330/What the...? This is terrible!/2/Thank you. This might come in handy.//"
+
+"Hey there!^I had some extra wood lying around... I thought maybe you could use it. Take care!
+"Dear @,^here is an old recipe that my grandma passed down to me. Enjoy!
+"Dear Farmer @,^^I'd like to apologize for joking about your Grandpa's old cottage when we first met. It's really a nice little house!^^However, you might need some more space someday. That's where I can help. If you bring me some raw materials and pay a fee, I can expand your house.^^^The first expansion I offer includes a kitchen. With a kitchen, you'll be able to cook any recipes you've learned!^^Anyway, I hope you're starting to feel at home in Stardew Valley!^^    Your local carpenter,
+"Robin here!^I know there's a lot of stone scattered around your farm.^If you have a surplus, you might consider having me build a well for you.^Wells can be placed all over your farm, and serve as convenient places to refill your watering can.^^Just swing by my shop with 75 stones and 1000g when you're ready for it.
+"Dear @,^^Thank you for purchasing a coop upgrade! In addition to doubling the capacity of your coop, I've taken the liberty of installing an incubator. ^To use the incubator, simply place an egg inside. If you have space left in your coop, the egg will hatch in several days!^^As always, thanks for your business.
+I lost my favorite Axe! If you find it, please return ASAP. I'm having a tough time without it. There's 250g in it for whoever finds the thing.
+"@-^How are you doing? Hope the winter hasn't been too hard on you.^Anyway, I'm writing to ask you for some hardwood. I need about ten pieces, if you've got it.^If not, no worries. Take Care!
+"Hey @,^^Just wanted to let you know about a new item I'm carrying... it's called a 'Wood Chipper'.^^You can use it to break hardwood into several pieces of regular wood!^^I know wood can be hard to come by in the winter, so if your supply gets low, consider picking one up.
+"Hey @,^^Congratulations on completing my little challenge. I'm impressed!^^As an added bonus, I've included the blueprints for a new type of chest. Enjoy!^^^^^^P.S. -- Now that you have all those resources laying around, why not swing by for some construction work?
+
+Hello! You must be @.#$b#I'm Robin, the local carpenter. Mayor Lewis sent me here to fetch you and show you the way to your new home. He's there right now, tidying things up for your arrival.#$b#The farm's right over here, if you'll follow me.
+This is % farm.
+What's the matter?#$b#Sure, it's a bit overgrown, but there's some good soil underneath that mess!#$b#With a little dedication you'll have it cleaned up in no time.
+...And here we are, your new home.
+Rustic? That's one way to put it... $4#$b#'Crusty' might be a little more apt, though.
+Hmmph.
+
+Wow...
+
+Eep!
+Oh... It's Linus, right?
+Are you hungry? I could make you some lunch... How about some leftover cave carrot stew?
+Heh... okay.
+@? You look like you have something to say...
+Wow!
+That's really generous! What a great idea! I can build a real cozy house for you, Linus.
+You'll finally have running water, heat, a roof over your head... just like the rest of us! Isn't that wonderful, Linus?
+Whaa..?
+I guess I never thought about it that way...
+Aww.. What a sweetheart...
+
+These eggs are so rich and yellow... Marnie, are these from your place?
+
+Demetrius, I didn't tell you to get tomatoes. I said to get fruit.
+When a normal person says they want fruit, they NEVER mean tomatoes. It doesn't matter what the scientific classification is.
+
+Hi @. I was just cleaning some dust off my saw.
+Have you ever made anything out of wood, @?
+I think we've become good enough friends that I can trust you with my carpentry secrets!$h#$b#Here, let me show you the blueprints.
+You can use these to get creative on your farm. #$b#It feels good to be able to decorate your house with things you've made yourself!
+
+Voila! My newest creation.$h#$b#It's a deluxe four poster bed, crafted from the finest local hardwood.
+It's called 'beauty', bud... you know, that thing that most people find enjoyable?
+You know, sometimes it feels like you're being deliberately obtuse, just to irritate me. Is that what you're doing?
+Hey @... Come in.
+Check this out... It's the bed I was able to make thanks to all the wood you gathered.
+So, what do you think?
+Whatever.$3#$b#Moving on...
+Now that I have a prototype, I can start selling them in the shop.
+Hey... these might look good in your place, @! What do you say... can we pencil you in for a half dozen?
+
+Oh, hi @.
+Sebby, I know you don't like it when I come in here... but I ran into Abigail at the store and she said she was looking for you.
+I did... but she said she'd probably stop by anyway.
+
+Great use of wood!
+
+Mmmmm...
+No More Joja!
+
+Hey @! So... what do you think?
+I feel pretty good about it...#$b#In fact, it might be my finest work yet!
+Notice the round window... very very difficult to bend the frame like that.#$b#Oh, and the intricate carvings on the door. Took me forever. Did you notice that?
+Oh... heh. I guess I'm rambling about wood again... huh?
+Anyway, I'm going to go talk to them... But first I have to ask...
+Okay... you stay here, then.
+Hi there, neighbors... that's a nice new house you got there!
+Hey, don't thank me! Someone else came up with the idea... and they paid for everything, too.
+I can't say... They insisted on remaining anonymous.
+Well, I wouldn't go *that* far...
+Okay... let's go.
+Hi there, neighbors... that's a nice new house you got there!
+Hey, don't thank me! This was @'s idea... And he paid for the whole thing, too!^Hey don't thank me! This was @'s idea... And she paid for the whole thing, too!
+What, you didn't tell your wife about this, @?
+@ came up with this idea and paid for the whole thing!
+
+Hey Lewis... since we're funding education without touching the town's coffers, you'll be lowering our business tax, right?
+
+Um... Lewis? All you did was hold the nails.
+Yeah... for example, I plan on requesting some hardwood for a bed I want to make.$h#$b#I won't put you on the spot, but if you want to help me out you can just accept the job from this board.#$b#Who knows, maybe if the bed turns out well I'll start selling them in my shop!
+So, can we say that you're... --On Board--?
+It's fine, Lewis... there's no pressure to help out.$5#$b#Maybe I can get Sebastian to help. He could use some work away from the computer.
+
+“My favorite thing is seeing the boats. The creaking sound of the wood is strangely comforting.”
