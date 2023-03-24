@@ -115,3 +115,30 @@
 "Extreme temperatures can put your body under a lot of stress, so make sure to bundle up!#$e#Oh, and enjoy the festival!$h"
 "I'm feeling a little overwhelmed... thank goodness for this crisp air...$l"
 "I'm thankful there were no medical emergencies this year!"
+
+"Oh my goodness! I have so much to prepare before the wedding! I'm nervous.$l#$e#I'll be relieved after we're all settled in on your farm.$h"
+"I'm really happy.$h#$e#This was always my secret wish.$l"
+
+"When I'm next to you, I'm not even scared of falling off this cliff and dashing onto the sharp rocks below...
+I... I love and admire you very much, @...
+
+"Make sure you stay dry today, dear. I don't want you to become hypothermic."
+"Hi. It's good to see you.$h#$e#I spent the day skimming through some medical journals."
+"The sky looks great today... so clear!#$e#From now on, I'm only going to go into the clinic when I have appointments. Otherwise I can just work from home!"
+"You look like you could use a good massage tonight.$l#$e#Doctor's orders... It's good for the circulation!"
+"This is so much nicer than being cooped up in the clinic all day.$l#$e#I love watching you on the farm... hehe"
+"I have to go into the clinic today. Have a nice day, okay?"
+"#$c .5#Hi, honey. How was your day?#$e#*Phew*... I'm exhausted...$s#$e#My patients are still healthy, so it was a good day."
+"Let's plant some healthy vegetables this spring.$h"
+"Make sure you don't get sunburnt, honey... That can really damage your skin."
+"I could sure go for some wine."
+"Winter is flu season, so work is probably going to be a lot more stressful. Sorry in advance if I'm grouchy."
+No air-traffic this morning, honey. But it's still fun to break out the equipment now and then.#$e#I'm working on a new model plane. It's so much more relaxing here than in my old apartment.
+
+"It's for me? This is my favorite stuff! It's like you read my mind./348 237 432 395 342/That's such a nice gift. Thank you!/-81 -79 -7 402 614 418 422 436 438 442 444 422/Hmm... Are you sure this is healthy?/-4 424 426 2 330 233 232 238 234 223 222 221 220 216 211 210 208 206 205/...I think I'm allergic to this./296 245 397 396 394 393 392/Thanks. That's very kind of you.//"
+
+"@,^I have a surprise for you. Meet me by the railroad tracks.
+"@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^I've billed you {0}g to cover your medical expenses.
+"@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^Since you have no money, I provided your medical care free of charge.
+
+"Hi @! Er... Read anything interesting in the library lately?#$e#Heh. Well, um... I'll see you around then?$u"
