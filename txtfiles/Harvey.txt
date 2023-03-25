@@ -82,7 +82,7 @@
 "My life is devoted to you and the children now, and I'm very happy about it. I always dreamed of having a wonderful family.$l#$e#I had nightmares of being a bachelor forever.... I love you so much.$l" 
 "@...I still can't believe we're married...$l" 
 "You rescued me from a life of loneliness, and filled the emptiness in my heart. Thank you.$l" 
-"I knew you were the one from the moment you moved here... $l^I knew you were the one from the moment you moved here...$l" 
+"I knew you were the one from the moment you moved here..." 
 "Wow, you look really handsome today! Did you shave?$l^Oh, my... you look beautiful today.$l" 
 "Be careful out there! I have nightmares about your limp body being wheeled into the emergency room.$7" 
 "I think I'll take a little walk today. I need to unwind." 
@@ -142,3 +142,118 @@ No air-traffic this morning, honey. But it's still fun to break out the equipmen
 "@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^Since you have no money, I provided your medical care free of charge.
 
 "Hi @! Er... Read anything interesting in the library lately?#$e#Heh. Well, um... I'll see you around then?$u"
+
+Needs salt...
+It's burning!
+Hmm...
+A little bit of this...
+Some of this...
+Presto!
+Ah... You're right on time, @!$h#$b#Let me just set the table...
+You've been working so hard on the farm... I wanted to make you a special dinner.
+It's my very own 'angel hair pasta primavera'... with clams!
+Heavenly, huh? That must be the 'angel hair'!$h#$b#I'm glad you like it! You deserve the best.
+Oh yes, I forgot to mention... it's 'whole wheat' pasta. And it's brimming with fresh vegetables.#$b#It's important that you eat healthy food! I want you to live forever...
+Oh... I see. I knew I needed to add more salt.$s#$b#Well, at least you'll be well hydrated.
+Oh... I thought I gave myself the burnt one.$s#$b#Um, I lost track of one the pans and it caught fire... Sorry, dear.
+Uhhh...! Heh. I guess a piece of my moustache may have fallen into the pasta...$8#$b#Well! Extra fiber, right? Heh... (sorry honey)
+Oh! Eh... Must've been the truffle oil I drizzled on top...$8#$b#You meant delicious, edible fungus... right honey? Of course... Heh.
+So, tell me about your day...
+Yes, I can still see the dirt in your hair! I really appreciate all the hard work you do, honey.
+That sounds dangerous... are you sure that's safe?$8#$b#I don't want to see you on the operating table anytime soon...$s#$b#Although I have to say, I like how courageous you are...
+A peaceful day by the water, huh? That sounds very relaxing.#$b#I'm glad you're having fun out there!
+Ah, that's good. Having an active social life is healthy for the brain.#$b#But remember, I'm always here for you if you need someone to talk to!
+That makes sense. There's lots to do in this valley! ...And I know how hard you work.#$b#Just remember to take breaks! When you're so busy, it's easy to get burnt out from exhaustion.
+Ah... I have that problem, too. The boundary between days can blur together... it's hard to keep track of everything!
+Took the day off, huh? I'm glad to hear it.#$b#Well, with a day off and a hearty dinner you'll be fully re-charged for tomorrow.
+Whew... I'm stuffed! That was great...
+I'll take care of the dishes...
+Don't feel bad... I like to do nice things for you! It makes me happy.
+I know I say this a lot, but... marrying you was the best thing that ever happened to me!
+That was filling. I'm gonna sleep well...
+
+...I've pumped his stomach and re-hydrated his body. He's going to be okay.#$b#It's good that you brought him in, though.
+Too much alcohol is terrible for the body... but right now I'm most worried about his mental health...$s#$b#When he comes to, I'll have a chat with him about his treatment options. I know an excellent counselor in Zuzu City...
+Life can be painful, sometimes...#$b#But there's always hope for a better future. You've got to believe in that.
+
+Sorry I'm all disheveled... I didn't know you were coming over.
+Hey, I think I hear a plane overhead...
+@, get over here!
+Look!
+As a kid, my dream was always to be a pilot.
+...But with my bad eyesight and a crippling fear of heights, that dream started to fade away.
+It's okay... don't be sad.#$b#I've grown to accept my station in life. Not everyone can achieve their dreams... that's just the way the world is.
+Hey, let me show you my model airplanes. I just finished the new TR-Starbird deluxe set.
+
+What happened? I heard something break.
+You shouldn't blame others for your own problems, Maru.
+*sigh*... I'll have to call the patient back in to recollect this sample.$s#$b#This'll probably put us in the red for another month...
+Thanks for telling me the truth, Maru.#$b#Don't worry about the sample, we'll just get another one.
+Of course... you've been a big help around here. I don't know what I'd do without you!
+@? You look a little pale... are you feeling okay?
+
+Ah, @! I was just about to write you a letter.
+You see, my records indicate that you're due for your annual checkup!
+Now, now... There's no need to worry. It'll be quick and painless. Please follow me.
+Hmm... Okay. Hold still, please.
+Say 'ahhh...'
+Okay, you can stop.
+I just need to check your vitals.
+Hmm... Your pulse is high.
+Well, then! You seem very healthy, @.#$b#Just make sure not to overwork yourself on that farm!
+Thanks for stopping in.
+
+Hello? Hello? Is anyone out there?
+This is Dr. H at... 52 North 43.5 East... Seeking aerial response...Anyone out there?
+Someone's there!?$10#$b#Er... I mean!... Standard ground report: Wind at 3 Clicks, 36 Degrees North of West. Ground Temperature at 42 Kraggs. Humidity 53%. Dr. H out!
+Yikes, my pulse is soaring...
+@!
+Ah, well... You see, I was just on my radio here... and I made contact with a real pilot!
+As a matter of fact, we can probably see him flying overhead right now!
+Quick, get over here!
+
+Someone found you unconscious and battered... I had to perform an emergency surgery on you!#$b#Be a little more careful next time, okay?
+
+Okay, George. I want you take a deep breath for me.
+Mmhmm... turn around, please.
+George, I'll be honest with you. You need to make some changes in your lifestyle if you want to stay healthy.#$b#I'd like you to reduce your sodium intake, and try to get some moderate exercise with your arms.
+I'm your doctor, George. That's who I am...#$b#And I went to school for 8 years so I could learn how to help people stay healthy.
+Oh!#$b#I'm sorry, but you shouldn't be here... these check-ups are supposed to be private.
+Very well...
+@, what do you think George should do?
+Thanks for your help, @. I appreciate it.$h|It's better not to give my patients mixed messages, @. Please remember that in the future.
+
+There you are... just in time!
+Look, here it comes!
+I saw an ad in the paper for these balloon rides and I knew I had to surprise you with one.
+Okay... you first.
+We... We're up so high... *gulp*
+I wanted to impress you with this... but look at me. I'm a trembling coward.
+Well, you've got more than enough courage to make up for me, @... that's... that's part of why I like you.
+Okay, I'm going to open my eyes and look down... don't let go of my hand.
+I... I think I can do it now.
+Hey, this is incredible! I think I can see Mayor Lewis standing in the town square!
+Oh dear... our time's almost up.
+Um... @? We've known each other for a while now and... I... er...
+...
+Whoops... Our time was up half an hour ago. We'd better touch down.
+I haven't had such a wonderful day for as long as I can remember.
+I am... yeah.$s#$b#But I'm determined to not let that stop me from doing what I want... and experiencing this with you.$l#$b#I'll try not to get scared.
+
+You showed up just in time for the first ever Pelican Town 8-ball tournament!
+
+You tricked all of us into thinking we loved you...$s^@... I thought you wanted to get married and start a family with me... What did I do wrong?
+...yes.
+That's not going to work! You won't be preying on our sympathies this time!
+
+*pant*...*pant*...Yes.
+@! You were watching me?$8#$b#...How embarrassing... I didn't want anyone to know. Least of all you.
+I'm just trying to stay healthy. As you get older, it requires more effort.#$b#I'm not in very good shape, though... I can hardly keep up with them.
+Look... Don't tell everyone in town that I'm doing dance aerobics, okay?
+Wow, that was quite a workout...
+
+“Now just hold still... Take a deep breath for me.”
+
+“Oh! I'm sorry... I, er... have plans to ask someone else.”
+
+“I've been looking forward to it all afternoon! You look radiant in the fresh spring air, my dear.”
