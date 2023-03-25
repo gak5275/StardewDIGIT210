@@ -31,4 +31,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    Thu:</context> <dialogue>"You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you."</dialogue> #!String</p>
 <p><context>    Fri_2:</context> <dialogue>"Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."</dialogue> #!String</p>
 
+
 </xml>

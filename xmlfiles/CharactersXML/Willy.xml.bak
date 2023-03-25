@@ -35,4 +35,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    Sun:</context> <dialogue>"If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.#$b#Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.#$e#There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while."</dialogue> #!String</p>
 <p><context>    Sun10:</context> <dialogue>"Hey, it's my skipper, @!$h#$e#I'd give you a discount on bait if I could afford it.$s"</dialogue> #!String</p>
 
+
 </xml>

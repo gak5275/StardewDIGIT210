@@ -74,4 +74,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    winter_Fri6:</context> <dialogue>"I've never been married. I have no family. All I live for is to be Mayor.$s#$e#Is it worth it?$s#$e#...*sigh*...$s"</dialogue> #!String</p>
 <p><context>    winter_Sun:</context> <dialogue>"Hi there, @! How're you doing today?$h#$e#If you see Marnie, tell her I say 'hi'."</dialogue> #!String</p>
 
+
 </xml>

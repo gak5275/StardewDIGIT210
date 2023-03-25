@@ -65,4 +65,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    winter_Sun:</context> <dialogue>"Feel free to harvest as much lumber and stone from this area as you please."</dialogue> #!String</p>
 <p><context>    winter_Fri4:</context> <dialogue>"Thanks for stopping by. I need to think about something other than legumes for a while.#$e#So, what have you been doing lately?#$e#That sounds interesting."</dialogue> #!String</p>
 
+
 </xml>

@@ -49,4 +49,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    summer_Wed6:</context> <dialogue>"Oh, hi @! Sorry If I look a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?"</dialogue> #!String</p>
 <p><context>    summer_Thu:</context> <dialogue>"Business has been slow lately.#$e#You should upgrade your tools. I could use the cash."</dialogue> #!String</p>
 
+
 </xml>

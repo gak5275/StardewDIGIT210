@@ -34,4 +34,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    Wed10:</context> <dialogue>"Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't get depressed.$h"</dialogue> #!String</p>
 <p><context>    Tue10:</context> <dialogue>"Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?"</dialogue> #!String</p>
 
+
 </xml>

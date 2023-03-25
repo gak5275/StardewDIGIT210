@@ -56,4 +56,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    winter_Sat:</context> <dialogue>"Don't you think Abby would look better with her natural hair color?#$e#She used to have light chestnut-colored hair."</dialogue> #!String</p>
 <p><context>    winter_Wed6:</context> <dialogue>"Are you excited for the new year?#$e#I predict that you'll be super-successful on your farm.$h"</dialogue> #!String</p>
 
+
 </xml>

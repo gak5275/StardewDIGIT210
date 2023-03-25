@@ -44,4 +44,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>    event_popcorn2:</context> <dialogue>"...$s#$b#You're absolutely right, @.$s"</dialogue> #!String</p>
 <p><context>    event_popcorn3:</context> <dialogue>"Don't lie to me! I hate lies more than anything!$u"</dialogue> #!String</p>
 
+
 </xml>
