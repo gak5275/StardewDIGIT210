@@ -32,7 +32,7 @@
 "If you dig in the dirt you can find some interesting things.#$e#One time I found a really old piece of pottery. I brought it to Gunther and he said it was over a thousand years old." 
 "Dishes, dishes, dishes. Ugh... If my mother wasn't always nursing a headache from her late nights at the saloon, maybe she could help around the house a little.$s" 
 "This is such a small town. You can't avoid meeting everyone.#$e#I wonder what it's like to live in the city?" 
-"$d Joja#Things changed a lot after the JojaMart went up. It's been really bad for Pierre's shop. Mom loves JojaMart, though. The prices are cheap, so she can afford a lot more there than she ever could at Pierre's.|Mom's been complaining ever since JojaMart closed down. I think it's good for her, though. Maybe she'll drink less Joja Cola now." 
+"Things changed a lot after the JojaMart went up. It's been really bad for Pierre's shop. Mom loves JojaMart, though. The prices are cheap, so she can afford a lot more there than she ever could at Pierre's.|Mom's been complaining ever since JojaMart closed down. I think it's good for her, though. Maybe she'll drink less Joja Cola now." 
 "Hello. Ummm...$u#$b#The weather's interesting today, don't you think?#$e#Sorry...$u" 
 "I've been trying to keep our place clean, but it always gets messy again.$s#$e#It's hard to run a household all by yourself.$u" 
 "Oh no?$l#$b#Well, I guess that makes sense... you're busy with other things right now." 
@@ -153,3 +153,45 @@
 	Um, okay... I think I might stick with something more conventional.'"
 "I'm thankful to have met you...$l"
 "What a beautiful tree.$h"
+
+"@.. I'm a little scared. This is such a big change!#$e#Don't worry, I'm really happy, too.$h"
+"We're going to have a little farm family, soon.$l#$e#I'm so glad you feel this way about me.
+
+"We have a beautiful home and a thriving family... it's all I've ever dreamed of, and more.
+
+"I think I might do some baking today.
+"Oh... the smell? I tried to do some baking... It didn't work out too well.
+"This place is so big compared to the trailer, I feel overwhelmed... In a good way!
+"Hi there, honey. Ready to spend a quiet evening at home?"
+"I'm really happy on our little farm, @.
+"I have to go into town today. Don't work too hard, and eat something good for lunch!
+Good evening. My day was fine, thanks! How was yours?$h#$e#Jas and Vincent weren't behaving very well today. I'm still all wound up...
+"I'm so happy to see some greenery after that long white winter."
+"Are you growing any melons this summer?"
+"It's so peaceful out here on the farm. I never appreciated nature that much living in town."
+"I'm going to do a lot of reading this winter."
+I always wanted my very own library. This is so charming.$h#$e#I like to do a little reading first thing in the morning. It gets my brain into gear.
+
+"Thank you! I really love this!/60 376 651 72 164 218 230 244 254/Thank you! This looks special./-6 20 22/Uh, it's for me? ...Thanks./-4 80 330 456 457 444 440 422 420/Ugh...I'm sorry, but I absolutely hate this./446 346 348 303 304 398 459 873/Thanks, this looks nice.
+
+"So you're like an honorary member of the band, then?
+
+"Sorry about what happened at my place yesterday... My mom can get into bad moods sometimes.^Please just forget it happened.
+"Meet me in the bath house after dark.
+
+"The raindrops are really loud on the metal roof of our trailer.#$e#...It's soothing, though.
+
+“A word of warning, my mother really hates ''. Just the thought of it can make her depressed.”
+“	“Did you know that my mother hates ''? She finds it absolutely awful. I'm not sure why.”
+“	“If you want my mother to dislike you, give her ''. She hates it with a passion. I think she might be allergic.”
+
+“I'm going to go inside, I just wanted a quiet moment.”
+
+“	“I have an appointment at the clinic this afternoon.”
+“	“Hey! A little privacy, please?”
+
+“Can you smell that? The air is so spicy here...”
+
+“Oh... No, thanks.”
+
+There you are... I was worried you didn't get my note.$6\It looks like we're alone.$8\The water feels so good after being out in the cold of night, doesn't it?$6\$q Do you know why I asked you here tonight?Um, how do I say this...$8\I've been meaning to tell you for a while now... about how I feel.$8#$b#I can't stop thinking about you...$8#$b#I've never felt this way about anyone.$8\$q ... Welcome home, honey... How was your day?\Just business as usual, huh?#$b#Well, I've got a zesty new recipe in the oven, so maybe things will get a little more exciting!$h\Oh, I'm sorry!$s#$b#Well, you're back now... I'll do my best to make you feel better.\That's great! I'm glad you enjoy your work so much.$h\I'm happy you're home.$l\Oh, you smell like the outdoors...$l#$b#It's nice...$11\You know... I really appreciate the hard work you do for the family.#$b#So it's important to me that when you come home, the house is nice and cozy, and everything's in order!\So I was thinking... I'd like to re-decorate the bedroom with some of my own hand-made decor!#$b#But first, I have to ask you...$11\Ah... something soothing. Okay!#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\Something warm and inviting, huh? That works for me!#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\Heh... Okay. Whatever you like, honey.$h#$b#Just give me a few days, then.#$b#I won't touch any of your chests, but it would be nice if you could move them out of the bedroom.\Oh! Okay... I won't worry about it, then.$s\Oh! The pop-overs are ready.\Make yourself comfortable, dear.\@... Good morning...$11\Notice anything unusually soft? I quilted this custom bedspread by hand.$11\So, what do you think?$11\I'm glad you like it. The house is starting to look really cozy, isn't it?$h\Oh.. okay.$s#$b#I put the old furniture in a chest... feel free to change it back...$s\Oh, @! It's perfect timing that you showed up.\I brought the children on a little field trip into the countryside.#$b#You know all about life in the country, right?$h\$q So I was thinking... could you be my guest speaker today?Jas! Vincent! May I have your attention please!\I have a very special guest here to talk to you today... our very own local farmer, @.#$b#He has first-hand experience living in the countryside... so he knows all about the valley's 'natural resources'!^She has first-hand experience living in the countryside... so she knows all about the valley's 'natural resources'!\Can anyone tell me what a 'natural resource' is?\Jas?\Very good! That's worth two star points, Jas.\Okay, now let's give @ our full attention.\Yes, Vincent?\Vincent! That's not an appropriate question! Behave yourself, or I'll have to take away all your star points for the day.$a\Yes, Vincent?\Vincent! It's not good to gossip!$a\Yes, Vincent?\Vincent! Behave yourself. Mr. @ makes his living working on the farm! It's not a playground.$h^Vincent! Behave yourself. Ms. @ makes her living working on the farm! It's not a playground.$h\Yes, Vincent?\Vincent! You're scaring Jas. Let's not talk about monsters.$a\Well, that's probably enough for today. You two run along and play.\It's a lot of work to take care of these kids...$u#$b#But I don't really mind. I enjoy seeing them learn... and hopefully I can help them grow up to be good people.\$q Would you ever want to be a parent, @?Well, I'm glad you showed up, @. I think the kids had a great time.$h\Thanks for making my field trip a success today.\I can't believe you refused to help me out.$a\Personally, I don't think there's anything fishy going on between them...\How could you do this to us, @?$s\...yes.$s\...yes.$s\Hmmph! I don't know what's considered 'normal' in Zuzu City, but I'm definitely not okay with this arrangement!$a\...yes.$s\Good answer, Leo!\Here, let me help you, Mr. Mullner!\There you go!$h\$q @? You were watching us?That's okay, Mr. Mullner. I understand.\$q It must be difficult to grow old...Well, it was interesting talking to you, @. I should go.$u\Thanks for doing this!$h\Robin, thank you so much...$s\Then... who?$s\Robin, thank you so much...$s\@... This is absolutely incredible...$7#$b#I... I don't know what else to say...$s\Mom...$s\Don't worry... I understand why you get angry sometimes. Your life hasn't been so easy...$s\Mom...$s\Don't worry... @ just wants to make us happy. No one in Pelican Town looks down on us for being poor.$s\Robin, thank you so much...$s\Then... who?$s\@? What are you doing here?\@... you didn't need to do this...#$b#But, thank you. This means a lot to me.$s\Mom...$s\Don't worry... I understand why you get angry sometimes. Your life hasn't been so easy...$s\Mom...$s\Don't worry, Mom... we just want to make you happy. No one in Pelican Town looks down on us for being poor.$s\Let me see...$s\Oh no... Your books are falling apart...$s#$b#They're just too old.$s\...But new books are expensive, so we'll just have to make do with what we have...$s\New books!\Did you hear that, kids? You're getting brand new school books!\I don't know what to say... Thank you so much.$h#$b#...to both of you!$h\Ughh... It's so dirty in here.$s\@! Um... Sorry that it's such a mess. I was about to clean up.$u\You'll help me? You really mean it?$h\Okay, you can get started over there. I'll clean the kitchen.\Mom, the house is a total mess. @ and I were just trying to tidy things up a bit.#$b#*sniff* *sniff*... Were you at the saloon just now? You smell like beer...$s\It IS my business! I don't want you destroying yourself!$a#$b#Don't you realize your choices have an effect on me? Stop being so selfish!$a\...Yes, mother.$s\@, you came at a good time!#$b#I'm just about finished cooking a new recipe I invented!$h\Let me just finish up real quick.\Here, give that a little taste.\$q ...well? Hey, since you're the first person to try it, I'm going to name this one 'Chili de @'.$h|Well, I guess this recipe was a failure...$s\Um... so how about we watch a movie or something?\Thanks for being my taste-tester.$h\

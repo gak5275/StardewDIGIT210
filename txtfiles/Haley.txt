@@ -164,3 +164,45 @@
 "I guess Winter isn't all bad... playing in the snow can be fun!"
 "Me?... Oh, I'm thankful for... how about I just show you when we get home tonight?$l"
 "I hope there's a new camera for me under the spirit tree!"
+
+"I'm so happy!$h#$e#It's just like I always dreamed.
+"It's okay. I know we can't have a honeymoon, since your farm needs to be taken care of.#$e#I'm a farmer now, too!"
+
+"Emily tried to serve me {1} {2} for dinner last night... I threw it away when she wasn't looking.#$e#I don't like health food...
+
+"*giggle*... "Oh, it's just that...#$b#As a little girl, I always dreamed that one day, I would climb to the summit with my true love, and share a kiss.
+
+"Hmmph. If this weather keeps up I'll get too pale.
+"Hi, honey. I'm so glad you're home. I was starting to get kind of lonely.
+"I always feel happy on a sunny day.
+"You look like you've been working hard, dear. Let me help you de-stress.
+"Looks like a good day to work on my tan, don't you think, sweetheart?
+"Aren't you glad winter's over, honey? Things seem more hopeful now."
+"You must know by now that summer is my favorite season.
+"I'm craving cake.#$e#But not just any cake... it has to be pink."
+"I was just thinking about the time you helped me open a jar of pickles.$h#$e#We've come a long way since then.
+Go ahead and start your day, honey. I'm just putting on my make-up.#$e#Have any plans for the day?"
+
+"Oh my god, this is my favorite thing!!/221 421 610 88/*gasp*...for me? Thank you!/18 60 62 64 70 88 222 223 232 233 234 402 418/Ugh...that's such a stupid gift./-5 -6 -75 -79 -81 80 -27/Gross!/-4 2 16 330 74/Thank you. I love presents.
+
+"Decorate?$s#$b#Um, okay.
+"So that's the best thing you can think of doing right now? Here... in this small, dark room with me?$u#$b#Interesting.
+"Well, the dark room looks great now... Thanks, @.
+"Oh, you have to leave already?$s#$b#Well... alright. Bye.
+"Wow... I didn't think he/she was that dense.
+"I thought you had something important to do...
+
+"@,^I thought it would be fun to write you a note.^ I had so much fun with the cows yesterday... I'm starting to understand why you chose the farmer's life! Hope to see you soon.
+
+"I spent all morning doing my hair... now the rain could mess it up.$s#$e#*sigh* ... Life is hard sometimes."
+
+“It's nothing serious... I'm just here for my annual check-up.”
+“	“Well... my nose has been a little runny, Doctor. But otherwise I'm doing fine!”
+
+“Brrr.... I'm not dressed for this...”
+
+“Ew... No.”
+
+“The weather's too horrible to get out of bed.”
+
+@! Come here, quick!$s\My bracelet is gone! I know I had it on when I got here... $s#$b#But now it's gone and I can't find it anywhere...$s\$q I'll never find another one like it...Sorry, Great-Grandma. I lost your precious bracelet. Please forgive me.$s\Is that...?$8\You found it!$h\Thank you so much, @. You're a lifesaver.\I won't forget what you did for me here.$l\I really owe you one, @.\Hi, honey.#$b#Hey... I have an idea... I want to get everyone together for a charity cake-walk.\Uh... It's kind of like musical chairs, but everyone wins and gets cake! You'll see...$h#$b#It'll be on the next sunny day in the town square.#$b#Um... would you mind bringing a chocolate cake?\Great! I'll meet you in the town square tomorrow, weather permitting.$h\What's up with the snarky attitude?$3#$b#Fine. You're going to show up tomorrow with a chocolate cake, or else you're in the dog house. You like that better?$3\I'm bringing a pink cake.\Oh! @.$8\The lighting is so nice right now... I had to come out and take some nature shots.\I've been trying to connect with the outdoors a little more...#$b#I wanna know what it's like, being a farmer. It's a way of life I've never really thought about.#$b#Well, until now...$l\Heh, these cows are so cute...\Hey, I have an idea!$h\Let's take some pictures with these cows! You can show me how to approach one.$h#$b#I'll just set it to shoot on a timer.\...geh...$9\*giggle*$10#$b#That was fun, @! ...And these photos are hilarious!$10\I'm gonna go home and take a shower now...$10\Well, that was the dirtiest I've ever been.$h\Urgghh! I always clean under the cushions! It's YOUR turn this week!$a\Oh, it's that new farm boy.$7^Oh, it's that new girl from the farm.$7\Hey, I bet you'll understand my point of view here.\$q It's only because I cleaned them last week!Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it.$u\Nnnnnghhh... I just can't get this jar open!$a#$b#...$s\Oh! It's you...@, right?\$q Say... you're pretty strong, aren't you?Hey, you did it! You're stronger than you look!$h\Thanks!$h\Come in! Just make sure to close the door quickly behind you!\@, you're here!\Welcome to my brand new dark room!$h\$q So... what do you think?Um... so, anyway... what do you want to do?$s\Oh, @... I've been waiting so long for you to do that.$11\One moment...$l\That was nice...$l\Hi!\Hah! Were you born yesterday?$h\Not so fast!\Well, us women stick together! And we're not going to put up with this!$a^Well, we're not going to put up with your abuse any longer!$a\...so we've come to a decision... isn't that right, girls?$u\I doubt it...\Liar!\...I think we've come to a decision... isn't that right, girls?I've been thinking about cake a lot lately...\Hey! Oh, good, you brought the cake!...\Seems really moist. Thanks, @.\It's a pretty good turnout, huh?\Whoops! Forgot to blow the whistle.$h\Alright! Everyone should be standing on a numbered square.\Your number determines which cake you win!#$b#Okay, let's see who gets what...\Okay, Let's see here... #$b#Caroline, what number are you? Okay... you've won...#$b#Mayor Lewis' cave carrot loaf... with extra fiber!\Emily, you've got...#$b#Pam's chocolate stout cupcakes, with aged bourbon buttercream.\Next... Jas, you've got...#$b#Clint's wild horseradish cobbler.\Uh, Okay... Next up is Vincent. We've got...#$b# Robin's Triple syrup n' cream strawberry sugar log!\Next up, Jodi. You're gonna take home...#$b# Emily's organic red velvet cake... colored with beets!\...and last, but not least: Pam! You're the lucky winner of my husband's deluxe chocolate cake.^...and last, but not least: Pam! You're the lucky winner of my wife's deluxe chocolate cake.\Thanks everyone for joining in. We raised over 5,000g!\Actually... it's for Penny.\Penny, the other day I overheard you talking with Jas and Vincent about their school books. It sounded like you could use some help...\It was a big success! Thanks for helping out, honey.\

@@ -157,3 +157,31 @@
 "I'm not very creative when it comes to snowmen.$s"
 "Hey, @. I'm ready to head home whenever you are."
 "Hi, @.$h"
+
+Hi Honey.#$b#Tomorrow night, there's a rare astronomical event happening... A comet is passing very close to our planet!#$b#I was thinking... maybe we should observe it together?$l\Great!$h#$b#Meet me in the mountains at midnight tomorrow night.#$b#If it rains, we'll do it on the next night... the comet is here for a few days.\You think you're real smooth, don't you? Thought you'd sample the whole 'buffet', huh? What a sleeze...$a\Hmmph...\We're all gonna give you the cold shoulder!$a\Yeah, right!\We're all gonna give you the cold shoulder!$a\It's not a 'choice' if none of us even know about it!$a\We're all gonna give you the cold shoulder!$a\*sigh*... I'm so sick of preparing these samples...$s\Agh! Oh no!... $4\The whole sample is ruined... Harvey's going to kill me...$s\$q @, what should I do?I accidentally dropped one of the samples... I'm so sorry.$s|@ came in and slammed the door so loud I dropped this sample.$u\Thanks for being patient with me, Doctor Harvey.\@! I'm surprised to see you here so late.\The night sky looks amazing right now.\Come over here, I want to show you something.\Here, take a peek.\$q What do you see?\By the time any of these stars are visited, you and I will be long gone...$8\I guess that's the trouble with being human, huh?\@, um...$8\Nevermind...$s\Here, let me show you a binary star system...\$q You must have a good reason for saying that...Well, I should go. Thanks for sticking with me today, @.$8\Hey, @. You made it just in time... The comet's about to appear.\Beautiful night, isn't it?\Remember the first time we did this? It was a while ago...\I almost revealed my true feelings on that night... but I was afraid you'd reject me.\Who knew we'd be married so soon after!$h\Oh! It's time...\Wow!\Take a look!\After seeing a comet, it's customary to make a wish...\Oh! We can certainly try...$l\That's... really sweet!$l#$b#I have the same wish.$l\Money? Oh...$s#$b$Well I guess that would be practical...$8\My wish is a little more romantic...\Oh, hello there!\My Dad and I are just testing some soil samples.\Don't be shy! We could use a hand, actually.$h\Could you watch this beaker for me? I'm gonna grab the last batch of samples.#$b#I'll be right back.\Hey, sorry about that. I hope you found something to talk about while I was gone.\Okay! Here, @... let me show you how to use the equipment.\Huh? What did you say to him, Dad?$a^Huh? What did you say to her, Dad?$a\That's okay, Dad. I understand.#$b#We should get back to work before these samples crystallize.\@, hi! Come in.\I've been working on a new project... something big.\This is just one component... let me show you a little demonstration.\Just put your hand here...\And now I'm going to flip this switch...\Oh my god, are you alright?!$9\Here, let me apply this burn cream.$8\$q I'm so sorry.That kind of ruined the moment, huh? *sigh*$s\Hey, I was hoping you'd come by.#$b#Remember when I told you about the new project I'm working on? The big one?\Well, It's finally done... and I want to show you.\Follow me.\And here it is... Maru's Interactive Laboratory Device Alpha ... Or as I like to call her, 'MarILDA'.\I've been working on her for months...#$b#I was waiting for you to be here when I activate her.$l\Well, here goes nothing...\Dad, calm down. This is my latest invention, 'MarILDA'.$8\Dad! I've been making this robot for you and Mom!$a#$b#MarILDA's designed to assist you in the laboratory and Mom at the carpentry table... so when I'm not living here anymore it won't be such a burden on you guys.$8\What!? Wait!$9\...$8\Okay, MarILDA. Let's get you out of this stuffy hole.\Look at her go...$8\$q Well, what do you think, @?\Mom!\
+
+"I'm really excited.$h#$b#I'm going to be your wife. Hehe.$l"
+"I need to get mentally prepared for being a farmer's wife.
+
+"...I found you unconscious in the mines. You were gone so long I started to get worried about you!#$b#Be a little more careful next time, okay?$s"
+"...I found you unconscious in the mines. I was hunting for minerals and I almost stepped on your head!#$b#Be a little more careful next time, okay?$s"
+
+"You've really accomplished a lot since you moved here, @. It's incredible. I think it's safe to say that you were meant to be a farmer!$h"
+
+"Despite all the technology we have, a rainy day is still the best tool for watering crops."
+"Were you able to accomplish much today, hun?#$e#I tried to fix up some things around the house... you know, just little stuff."
+"If you ever want to talk about how to maximize crop yield or anything... I'm open to that!"
+"You look like you're ready for bed, @. Should I lull you to sleep with the technical details of my latest project?$h#$e#*yawn*... To be honest, I'm kind of sleepy too."
+"I like being out here. It's a good place to think about new inventions.$h#$e#I'm still hoping to come up with something to help you out in your work."
+"I have to leave for work soon. I'll see you tonight. I'll be thinking of you!$h"
+"Well, it was just another boring day at the clinic.#$e#Hey. Did you have a more exciting day than me? I hope so.#$e#$c .5#Well, It's time to kick back and relax. Did you leave me any dinner?#$e#I'm just looking forward to bed-time.$h"
+"I'm feeling excited for a new year of farming, @!
+"It's a good time of year to do some stargazing."
+"I'm glad I still work at the clinic... It's an important service for the community."
+"Spring is coming soon. I'm really looking forward to having rhubarb pie."
+
+"Is that...? Oh wow, @! This is spectacular!/72 197 190 215 222 243 336 337 400 787 910/This is a super gift! Thank you!/-260 62 64 66 68 70 334 335 725 726 909/Oh... That's for me? I'll just put it over here.../-4 330 414 410 404 724/Yuck! You thought I would like this?/340 342 2 430 416/Thanks.
+
+"When it rains I have a good excuse to work on my gadgets all day.$h#$e#It must be kind of boring for you, though."
+
+“Wow, the tech on this thing is amazing!”
