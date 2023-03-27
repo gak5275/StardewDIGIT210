@@ -1,3 +1,4 @@
+<?xml-model href="LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
     2794460/f Sebastian 500/p Sebastian: "Hospital_Ambient/-1000 -1000/farmer 1 1 2 Sebastian 9 4 3 Robin -100 -100 2/skippable/doAction 1 3/removeTile 1 3 Buildings/removeTile 1 2 Front/playSound keyboardTyping/showFrame Sebastian 24/animate Sebastian false true 100 26 27 26 27 26 27 26/viewport 6 6 true/move farmer 0 4 1/move farmer 5 0 1/pause 1000/<dialogue who="Sebastian">Oh, hey. Gimme one sec.\</dialogue>/pause 500/playSound keyboardTyping/pause 1000/question fork1 \"#He's busy... I should leave.#Stay put.\"/fork didntLeave/move farmer -2 0 3/<dialogue who="Sebastian">Where are you going?$u\</dialogue>/pause 300/faceDirection farmer 1/stopAnimation Sebastian/<dialogue who="Sebastian">Sorry... I had to finish this line before I lost my train of thought.\</dialogue>/pause 500/move farmer 2 0 1/switchEvent sebastianRoom" #!String
