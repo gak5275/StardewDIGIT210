@@ -86,7 +86,7 @@
 "Hi... Cold, isn't it?" 
 "Oh, hi! It's good to see you again.#$e#Take it easy." 
 "Hi, @. Do you want to hang out or something?#$e#Well, it's a good time of year to catch up on all the sleep I've missed.$h" 
-"$d Joja#I hate working at JojaMart, but how else am I going to make money in this town?|I'm glad I work at the museum now. It's way more interesting than that depressing JojaMart ever was." 
+"I hate working at JojaMart, but how else am I going to make money in this town?|I'm glad I work at the museum now. It's way more interesting than that depressing JojaMart ever was." 
 "I think my Dad is coming back this spring.#$e#It's been 3 years since I've seen him. This is going to be strange." 
 "Dad's been back for a while now. I guess I'm finally getting used to it." 
 "My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He's coming back soon, though." 
@@ -164,3 +164,59 @@
 "Hey, @. Are you gonna enter the ice fishing competition?#$e#Oh, not me. I don't know how to fish."
 "*yawn*... I'm here for the gifts and the cookies.$h"
 "I'm thankful for my guitar and my skateboard. Oh, and my family I guess."
+
+"I'm going to be really happy as your husband, @.$l#$e#I'm excited."
+"I never dreamed this would happen. I'm so lucky.$l#$e#I can't wait till the wedding.
+
+"Hey, don't look in there!
+
+"I feel like I've changed a lot from when we first met... you know?#$b#...you might call it 'maturity'... hehe.$10#$b#But I'm at a place, now, where I'm actually really excited about our future together...$l#$b#Even if that means just doing normal stuff, like... uh... buying groceries and changing diapers... hah...
+
+"I might spend some time today fixing any leaks in the roof or the windows."
+"Vincent called. He said he misses me and also to tell you hi.
+"There's too much stuff I want to get done today... Maybe I'll just watch TV instead."
+I wonder if the moon is visible tonight?#$e#So, did you get everything done on the farm today? If you didn't I won't be mad!"
+"Hey, look at those puffy clouds in the sky, honey!$h#$e#I'm going to watch those for a while, if you don't mind."
+"*sniff* ... My doze is stubbed up... allergies."
+"Summer always makes me want to eat more barbecue."
+"I wonder what's going on in the rest of the world? We're really secluded here."
+"I've given up on being a musician. I'm a family man now!"
+The old guitar... I don't have as much drive to play it anymore. That's fine.#$e#What's on your agenda today?"
+
+"Aw, yea! This is my absolute favorite!/90 206 655 658 562 731/Thanks! I really like this./167 210 213 220 223 224 228 232 233 239 -5/Hmm.. this is... interesting./-81 80 152 330 -75/You really don't get it, huh?/306 307 342 -15 2/You got that for me? Thanks!//"
+
+"Hi, everyone. We're from Pelican Town... Er... and we're called 'The Pelicans'
+This song's about Farming, mining, and chopping wood.|$p 8820#This song's about a city in the sea.|$p 8821#This song's about trains.|Here we go...
+"Thanks, everyone!$h#$b#But you should really be clapping for @! Without his/her help we'd never have decided what kind of music to make in the first place!
+"Oh! And don't forget to pick up one of our demo cassettes on the way out... Only 10g!\"
+"That went well! Thanks again for coming with us.
+"Hey. The show was a great success! Thanks again, @.
+'Goblin Destroyer'
+'Xenon Chip 3.0'
+'The Alfalfas'
+
+"@,^the show was a rockin' success! I wanted to say thanks again for all your help in creating this amazing band. We couldn't have done it without you!
+"@,^meet me in front of my house tonight after dark.
+
+"Rain muffles sound, so I can play my guitar louder without my Mom getting mad. Hehe.
+
+“Hmm.. if I give the cue ball a bit of a top spin, maybe I could
+*Sigh* I'm not very good.”
+
+“Hmm... I dunno. Maybe next year.”
+“You want to be my partner for the flower dance?" ... "Okay. I look forward to it.”
+
+“Maybe if all else fails, I'll become a submarine captain. That might be cool.”
+
+“Nnnghh... what is it? Make your own breakfast.”
+“	“Nghh... what is it? I'm trying to sleep.”
+
+“	“*Sigh*… I’m never gonna land this trick…”
+
+“	“I’m gonna visit the family today, okay? I’ll be home in the evening.”
+
+“	“Don't tell my mom... but I really just came over for a free lunch.”
+
+“	“Seeing family is nice, but it’s also kind of depressing in a weird way. Like… our lives are totally separate now, and everything feels more formal than it used to.”
+
+Hello @. Nice day, isn't it?\I'm just keeping an eye on my little brother. It's good for him to get some fresh air on a day like this.\Our Dad used to take us to the beach on sunny days like this.$h\Of course, Vince. Dad's going to come back as soon as he possibly can.$7\Don't believe everything you hear!$8\Don't you remember how strong Dad is? He'd never let a pathetic Gotoro grunt get him like that! Don't you worry!$a#$b#And always remember that Mom and I are here to play with you if you ever feel lonely.\To be honest, I have no idea if my old man will come back... We've all read the reports. Our soldiers are falling by the thousands.$s#$b#But what am I going to say to Vincent?$7\Hey did I tell you the band's starting to come together?#$b#Yeah! It turns out Abigail's a pretty good drummer. And Sebastian seemed to really want her in the band...$h\Hi @. Thanks for coming.\Well, our gear's loaded already... Looks like everything's set.\Alright, everyone... let's get in the bus!$u\*gulp*... I'm starting to get really nervous.$8\Okay, here we are... wish me luck!$u\Hey. The show was a great success! Thanks again, @.\Hi @. Guess what? My band is playing a show tonight, in Zuzu City!#$b#Meet me at the bus stop around 4:00 this afternoon to leave for the show. You better be there!\I'm excited and a little nervous for the show tonight. I'm sure everything will turn out okay.\Oh, hey @. You look like you've been working hard out there!\Hey, I was just thinking...$s#$b#You know, I really like living here with you. I mean... I love it!#$b#But, I feel like I've gotten really lazy. I just bum around aimlessly every day.$s\Oh, I know you don't mind! You make enough money on the farm that I don't really need to work, and I really appreciate that!#$b#But I want to feel like I'm contributing to something... know what I mean?\So... I think I'm gonna try to find some work... something to do with music.#$b#That's always been what I love the most!$h#$b#Oh, uh... besides you, of course!$8#$b#Heh...$10\Anyway... I'll let you know how it goes!\Hey @, listen to this!$8\'Dear Sam, we are pleased to offer you a position as 'junior composer' at Zuzu Broadcasting Group, TV division...'$6#$b#Wow! Music for a TV show! How cool is that?!$h\Oh...\Oh... Hold on...$s#$b#... It's a TV show for little kids... 'The Happy Junimo Show'$s\Not exactly what I had in mind...$s\Hmm... Yeah, I guess that's one way to look at it.$7\I mean... you're right, someone's gotta make children's music. But it's not exactly a 'dream job'...$7\Ah well... that's okay. I'll make the best of it, like I always do.$7\I guess I'd better start 'thinking like a kid'...\Hey!\Hmm... That's not a bad idea. At the very least, I could play him my songs and see if he likes them.#$b#Thanks for the advice, @.$10\I'll be working on this for a few days.\Hey, @. I'm making progress on the song... check it out.\It's kinda bare-bones right now... but when I add in all the different instruments, it'll come together. You'll see.\You know... I'm not too upset about this kid's show idea anymore.#$b#You gotta start somewhere, right?#$b#And hey, maybe I'll be a big hit in the children's concert circuit!$h\I'll have the finished song ready soon. I hope they're happy with it!\Okay, okay, Vince... I'm gonna put the song on right away.$h#$b#Now, you gotta listen really close, so you can tell me if you like it afterwards. Okay?\Wow! I wasn't expecting such an overwhelming response!$8#$b#That's great! This is really fun!$h\Hey, thanks for all the support with this.#$b#You know... I kind of like making children's music. It's not very glamorous, but I'm making these kids really happy. That's important!$h\Here, I wanted to give you this. It's a boombox with the song on it... So you can listen to it whenever you want.\I'm just glad to know that my music makes people happy...\Hey!\Not so fast!\Never thought you'd find all your 'boyfriends' in one room, huh @?$a\Well, we're not going to put up with your abuse any longer!$a^We all know the truth, now! And we're not going to tolerate this!$a\...so we've come to a decision... isn't that right, fellas?$u\We're all giving you the cold shoulder!$a\Liar!\...I think we've come to a decision... isn't that right, boys?$u\We're all giving you the cold shoulder!$a\...I think we've come to a decision... isn't that right, boys?$u\We're all giving you the cold shoulder!$a\...Yes, ma'am.$a\...Yes, ma'am.$a\Oh, hi @! Sebastian and I were just having a little 'jam session'.\We're trying to start a band, but we still don't know what kind of music to make. There's too many possibilities.\#$q Say, @... what kind of music do you like? What do you say, Sebastian? Should we do this?\Thanks for the help, @. With my guitar skills, and Sebastian's wizardry on the synthesizer, we're gonna be a screaming success. I'm convinced of it!$h\Now I just need to find someone to play drums...$u\Oh, hi @. I was just about to have a snack.\Here, let me get something for you.\Oh no... What a mess.$s\$q ...Tell her, @. I'm sorry about this, mom. I'll clean it up.$s\$p 81#I'm angry at you. I have no idea why you lied like that.$s|Sorry about what happened earlier.\I always knew there was something special between us...$l\I'm going to be thinking about this night for a long time...$l\...$l\I see...$s\I'm sorry... I had the wrong idea. I'll see you around.$7\...$s\Cool... @, are you ready to choose your character?\Cool. Warrior's my favorite anyway.\I guess I'm stuck with the healer.$s\Cool. Warrior's my favorite anyway.\...$s\Thanks, @.\Uh... Er... I... I'm sorry, sir.$8\Yes, sir.$7\...Did you see that trick, though? That was rad.$u\Hi @.#$b#I wanted to talk to you in private...\It's kinda cold out here though... let's sneak into my room.$u\So... @.$10#$b#I know I've been talking about nothing but the band for a while now... But I don't want you to think that's all I'm interested in.#$b#Um... Er... What I mean is...$8#$b#Well, I'm really happy that we've grown so close... Heh.$10\@... do you think of me as... just a friend?$l\Quick! Hide in the bed!$8\No Mom! I was just... doing push-ups! I wanna beat Dad at arm-wrestling some day! ...heh.$8\Goodnight, Mom.$10\Whew... That was close.$h\...@?\Earlier, I was trying to say... that I really like you, @. I think we could really have something special together... Know what I mean?\Alright, I said it.$7\I'm going to be thinking about this night for a long time...\...$l\
