@@ -1,4 +1,5 @@
 
+<xml>
 <metadata>xnbData: 
 target: "w"
 compressed: true
@@ -64,4 +65,4 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>Marlon:</context> <dialogue who="Marlon">Clint's blades get sharper every year.#$e#So do his prices...</dialogue> #!String</p>
 <p><context>Willy:</context> <dialogue who="Willy">Are you setting up a grange display, @? It's your chance to show off all the good produce from %farm!</dialogue> #!String</p>
 <p><context>Leo:</context> <dialogue who="Leo">Haha! I've never seen anything like this before...$h</dialogue> #!String</p>
-
+</xml>

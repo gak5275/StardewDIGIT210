@@ -1,3 +1,4 @@
+<xml>
 
 <metadata>xnbData: 
 target: "w"
@@ -64,3 +65,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>Marlon:</context> <dialogue who="Marlon">Don't get too close to the cage.</dialogue> #!String</p>
 <p><context>Leo:</context> <dialogue who="Leo">%Leo's unblinking eyes are glued to the screen. You're unable to get his attention.</dialogue> #!String</p>
 
+
+</xml>

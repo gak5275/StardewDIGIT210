@@ -1,3 +1,4 @@
+<xml>
 
 <metadata>xnbData: 
 target: "w"
@@ -57,3 +58,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>Willy:</context> <dialogue who="Willy">I should've brought my fishing pole.</dialogue> #!String</p>
 <p><context>Leo:</context> <dialogue who="Leo">The flowers here are nice, but they aren't as colorful as back home!$h#$e#I wonder if I'll ever have to get up there and dance...$u</dialogue> #!String</p>
 
+
+</xml>

@@ -1,3 +1,4 @@
+<xml>
 
 <metadata>xnbData: 
 target: "w"
@@ -97,3 +98,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>Vincent_y2:</context> <dialogue who="Vincent">I want to live inside a big egg!</dialogue> #!String</p>
 <p><context>Willy_y2:</context> <dialogue who="Willy">Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!</dialogue> #!String</p>
 
+
+</xml>

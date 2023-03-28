@@ -1,52 +1,52 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><metadata>xnbData: 
-    target: "w"
-    compressed: true
-    hiDef: true
-    readerData: 
-        - 
-            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-            version: 0
+target: "w"
+compressed: true
+hiDef: true
+readerData: 
+- 
+type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+version: 0
 
-        - 
-            type: "Microsoft.Xna.Framework.Content.StringReader"
-            version: 0
+- 
+type: "Microsoft.Xna.Framework.Content.StringReader"
+version: 0
 
 
-    numSharedResources: 0
+numSharedResources: 0
 
 content:  #!Dictionary&lt;String,String&gt;
 </metadata>
-<p><context>    Introduction:</context> <dialogue>"Er... hi. I'm Clint.#$e#I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy."</dialogue> #!String</p>
-<p><context>    Resort_Entering:</context> <dialogue>"I'm gonna put on my special red trunks. They're supposed to be really eye-catching."</dialogue> #!String</p>
-<p><context>    Resort_Leaving:</context> <dialogue>"Well, that didn't turn out like I was imagining..."</dialogue> #!String</p>
-<p><context>    Resort_Shore:</context> <dialogue>"Oh no... I forgot to clip my toenails.$s"</dialogue> #!String</p>
-<p><context>    Resort_Shore_2:</context> <dialogue>"I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could.$s#$e#I hope no one noticed...#$e#%Clint's body is glistening..."</dialogue> #!String</p>
-<p><context>    Resort_Chair:</context> <dialogue>"Ow... my whole torso is burnt to a crisp.$s"</dialogue> #!String</p>
-<p><context>    Resort_Bar:</context> <dialogue>"I'm hungry...$s"</dialogue> #!String</p>
-<p><context>    Resort:</context> <dialogue>"*sigh*... We're all at the beach but I still feel so alone...$s"</dialogue> #!String</p>
-<p><context>    reject_868:</context> <dialogue>"Hmm... That's an interesting stone, like nothing I've ever seen before.#$b#I wouldn't know what to do with it, though. I deal in the mundane, not the magical..."</dialogue> #!String</p>
-<p><context>    cc_Minecart:</context> <dialogue>"Somehow, the old town minecart system started working again. It's very convenient for getting to and from the mines.#$b#Don't get too cozy, though... if it can start up so suddenly, it could just as well shut down..."</dialogue> #!String</p>
-<p><context>    Mon:</context> <dialogue>"Yep. I'm a blacksmith.#$e#My father was also a blacksmith.#$e#My grandfather was a blacksmith as well.$u#$q 9/9 Mon_old#I bet you can't guess what my great-grandfather was...#$r 9 30 Mon_9#A blacksmith.#$r 9 50 Mon_clown#A silly clown.#$r 9 -50 Mon_rude#A sarcastic jerk."</dialogue> #!String</p>
-<p><context>    Mon_old:</context> <dialogue>"And yes, my great-grandfather was also a blacksmith."</dialogue> #!String</p>
-<p><context>    Mon_9:</context> <dialogue>"How'd you know?$u"</dialogue> #!String</p>
-<p><context>    Mon_clown:</context> <dialogue>"Hahahaha. Good one.$h"</dialogue> #!String</p>
-<p><context>    Mon_rude:</context> <dialogue>"Wow. That was rude. I was just being funny and you took it to a whole new level."</dialogue> #!String</p>
-<p><context>    Mon4:</context> <dialogue>"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day.#$e#I'm only a blacksmith because my father pushed me into it."</dialogue> #!String</p>
-<p><context>    Tue:</context> <dialogue>"If you want me to upgrade your tools you'll have to give me the correct ore.#$e#And you'll have to pay me a fee, of course."</dialogue> #!String</p>
-<p><context>    Wed:</context> <dialogue>"Hey. What do you need?"</dialogue> #!String</p>
-<p><context>    Wed6:</context> <dialogue>"Oh, hi @. Sorry If I look a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?"</dialogue> #!String</p>
-<p><context>    Thu:</context> <dialogue>"Business has been slow lately.#$e#You should upgrade your tools. I could use the cash."</dialogue> #!String</p>
-<p><context>    Fri:</context> <dialogue>"The weather doesn't really matter to me. I typically stay near my shop year-round.#$e#Depressing, huh?"</dialogue> #!String</p>
-<p><context>    Sat:</context> <dialogue>"Sometimes I wonder how I ended up in this town.$u"</dialogue> #!String</p>
-<p><context>    Sat6:</context> <dialogue>"Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work."</dialogue> #!String</p>
-<p><context>    Sun:</context> <dialogue>"Don't you have work to do?"</dialogue> #!String</p>
-<p><context>    Sun4:</context> <dialogue>"So how are your tools holding up?"</dialogue> #!String</p>
-<p><context>    event_advice1:</context> <dialogue>"Okay... I'll keep that in mind."</dialogue> #!String</p>
-<p><context>    event_advice2:</context> <dialogue>"That's the problem... I do act natural... but I never have any success.$s"</dialogue> #!String</p>
-<p><context>    summer_Mon4:</context> <dialogue>"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day.#$e#I'm only a blacksmith because my father pushed me into it."</dialogue> #!String</p>
-<p><context>    summer_Wed6:</context> <dialogue>"Oh, hi @! Sorry If I look a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?"</dialogue> #!String</p>
-<p><context>    summer_Thu:</context> <dialogue>"Business has been slow lately.#$e#You should upgrade your tools. I could use the cash."</dialogue> #!String</p>
+<p><context>Introduction:</context> <dialogue>"Er... hi. I'm Clint.#$e#I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy."</dialogue> #!String</p>
+<p><context>Resort_Entering:</context> <dialogue>"I'm gonna put on my special red trunks. They're supposed to be really eye-catching."</dialogue> #!String</p>
+<p><context>Resort_Leaving:</context> <dialogue>"Well, that didn't turn out like I was imagining..."</dialogue> #!String</p>
+<p><context>Resort_Shore:</context> <dialogue>"Oh no... I forgot to clip my toenails.$s"</dialogue> #!String</p>
+<p><context>Resort_Shore_2:</context> <dialogue>"I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could.$s#$e#I hope no one noticed...#$e#%Clint's body is glistening..."</dialogue> #!String</p>
+<p><context>Resort_Chair:</context> <dialogue>"Ow... my whole torso is burnt to a crisp.$s"</dialogue> #!String</p>
+<p><context>Resort_Bar:</context> <dialogue>"I'm hungry...$s"</dialogue> #!String</p>
+<p><context>Resort:</context> <dialogue>"*sigh*... We're all at the beach but I still feel so alone...$s"</dialogue> #!String</p>
+<p><context>reject_868:</context> <dialogue>"Hmm... That's an interesting stone, like nothing I've ever seen before.#$b#I wouldn't know what to do with it, though. I deal in the mundane, not the magical..."</dialogue> #!String</p>
+<p><context>cc_Minecart:</context> <dialogue>"Somehow, the old town minecart system started working again. It's very convenient for getting to and from the mines.#$b#Don't get too cozy, though... if it can start up so suddenly, it could just as well shut down..."</dialogue> #!String</p>
+<p><context>Mon:</context> <dialogue>"Yep. I'm a blacksmith.#$e#My father was also a blacksmith.#$e#My grandfather was a blacksmith as well.$u#$q 9/9 Mon_old#I bet you can't guess what my great-grandfather was...#$r 9 30 Mon_9#A blacksmith.#$r 9 50 Mon_clown#A silly clown.#$r 9 -50 Mon_rude#A sarcastic jerk."</dialogue> #!String</p>
+<p><context>Mon_old:</context> <dialogue>"And yes, my great-grandfather was also a blacksmith."</dialogue> #!String</p>
+<p><context>Mon_9:</context> <dialogue>"How'd you know?$u"</dialogue> #!String</p>
+<p><context>Mon_clown:</context> <dialogue>"Hahahaha. Good one.$h"</dialogue> #!String</p>
+<p><context>Mon_rude:</context> <dialogue>"Wow. That was rude. I was just being funny and you took it to a whole new level."</dialogue> #!String</p>
+<p><context>Mon4:</context> <dialogue>"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day.#$e#I'm only a blacksmith because my father pushed me into it."</dialogue> #!String</p>
+<p><context>Tue:</context> <dialogue>"If you want me to upgrade your tools you'll have to give me the correct ore.#$e#And you'll have to pay me a fee, of course."</dialogue> #!String</p>
+<p><context>Wed:</context> <dialogue>"Hey. What do you need?"</dialogue> #!String</p>
+<p><context>Wed6:</context> <dialogue>"Oh, hi @. Sorry If I look a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?"</dialogue> #!String</p>
+<p><context>Thu:</context> <dialogue>"Business has been slow lately.#$e#You should upgrade your tools. I could use the cash."</dialogue> #!String</p>
+<p><context>Fri:</context> <dialogue>"The weather doesn't really matter to me. I typically stay near my shop year-round.#$e#Depressing, huh?"</dialogue> #!String</p>
+<p><context>Sat:</context> <dialogue>"Sometimes I wonder how I ended up in this town.$u"</dialogue> #!String</p>
+<p><context>Sat6:</context> <dialogue>"Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work."</dialogue> #!String</p>
+<p><context>Sun:</context> <dialogue>"Don't you have work to do?"</dialogue> #!String</p>
+<p><context>Sun4:</context> <dialogue>"So how are your tools holding up?"</dialogue> #!String</p>
+<p><context>event_advice1:</context> <dialogue>"Okay... I'll keep that in mind."</dialogue> #!String</p>
+<p><context>event_advice2:</context> <dialogue>"That's the problem... I do act natural... but I never have any success.$s"</dialogue> #!String</p>
+<p><context>summer_Mon4:</context> <dialogue>"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day.#$e#I'm only a blacksmith because my father pushed me into it."</dialogue> #!String</p>
+<p><context>summer_Wed6:</context> <dialogue>"Oh, hi @! Sorry If I look a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?"</dialogue> #!String</p>
+<p><context>summer_Thu:</context> <dialogue>"Business has been slow lately.#$e#You should upgrade your tools. I could use the cash."</dialogue> #!String</p>
 
 </xml>

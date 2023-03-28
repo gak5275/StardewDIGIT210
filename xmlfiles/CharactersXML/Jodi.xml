@@ -1,61 +1,61 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml><metadata>xnbData: 
-    target: "w"
-    compressed: true
-    hiDef: true
-    readerData: 
-        - 
-            type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-            version: 0
+target: "w"
+compressed: true
+hiDef: true
+readerData: 
+- 
+type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+version: 0
 
-        - 
-            type: "Microsoft.Xna.Framework.Content.StringReader"
-            version: 0
+- 
+type: "Microsoft.Xna.Framework.Content.StringReader"
+version: 0
 
 
-    numSharedResources: 0
+numSharedResources: 0
 
 content:  #!Dictionary&lt;String,String&gt;
 </metadata>
-<p><context>    Introduction:</context> <dialogue>"Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.#$e#It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things."</dialogue> #!String</p>
-<p><context>    Resort_Entering:</context> <dialogue>"What a treat!"</dialogue> #!String</p>
-<p><context>    Resort_Leaving:</context> <dialogue>"I think I'll make seafood tonight.$h"</dialogue> #!String</p>
-<p><context>    Resort:</context> <dialogue>"The view is breathtaking! Deep blue as far as the eye can see..."</dialogue> #!String</p>
-<p><context>    Resort_Bar:</context> <dialogue>"We all love it when Gus shows up."</dialogue> #!String</p>
-<p><context>    reject_864:</context> <dialogue>"What's this? It looks like one of Kent's buddies from the war. Maybe you should show it to him?"</dialogue> #!String</p>
-<p><context>    Mon:</context> <dialogue>"Maintaining a household is difficult work... but somebody has to do it.#$e#Yes?"</dialogue> #!String</p>
-<p><context>    Mon6:</context> <dialogue>"It's nice to have a family... but I'd be lying if I said I never miss the freedom of being young...$s"</dialogue> #!String</p>
-<p><context>    2_1:</context> <dialogue>"My husband Kent is a soldier, working overseas. That's why he's not here right now.#$b#I know he'll come back safe once his tour is over!!#$e#Need something?"</dialogue> #!String</p>
-<p><context>    Tue:</context> <dialogue>"Exercise is important for staying healthy. I always make sure to set aside some time for it.#$e#As a parent, I don't have much time to devote to myself. So I try and make every minute count."</dialogue> #!String</p>
-<p><context>    Wed4:</context> <dialogue>"I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!"</dialogue> #!String</p>
-<p><context>    Wed:</context> <dialogue>"What did you say? It's %time already? My goodness!#$e#I still have tons of work to do!$s"</dialogue> #!String</p>
-<p><context>    Thu6:</context> <dialogue>"Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?"</dialogue> #!String</p>
-<p><context>    Thu:</context> <dialogue>"So you're a farmer, huh? Interesting.#$c .5#I've never met a farmer before.$k#$e#Maybe some day you can teach me how to grow vegetables.$h"</dialogue> #!String</p>
-<p><context>    Fri:</context> <dialogue>"$d Joja#The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!|The food at Pierre's is so much fresher and healthier than anything I ever bought at JojaMart. I do miss those cheap Joja prices, though."</dialogue> #!String</p>
-<p><context>    Sat:</context> <dialogue>"Hi.#$e#Need something?"</dialogue> #!String</p>
-<p><context>    Sat4:</context> <dialogue>"I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye."</dialogue> #!String</p>
-<p><context>    Mon2:</context> <dialogue>"$d kent#Yesterday I visited Yoba's Altar to give thanks for my husband's safe return.|Yesterday I visited Yoba's Altar to ask for my husband's safe return.#$e#I'm trying to stay positive, but it's hard sometimes.$s"</dialogue> #!String</p>
-<p><context>    Sun:</context> <dialogue>"#$c .5#I'm taking a break from house chores today.$h#$e#I'm taking the day off.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft."</dialogue> #!String</p>
-<p><context>    Sun8:</context> <dialogue>"I had a dream that I had complete freedom, no obligation to anyone but myself...#$b#...Then I woke up and realized I had a full day of house chores ahead of me...$s#$e#But I don't regret having a family, @... Sam and Vincent mean everything to me!"</dialogue> #!String</p>
-<p><context>    summer_Mon:</context> <dialogue>"Summer is nice, but it also means more work.#$e#I'll have to keep the garden in shape on top of working in the house!"</dialogue> #!String</p>
-<p><context>    summer_Tue:</context> <dialogue>"Hello.#$e#Do you need something? I'm a little busy."</dialogue> #!String</p>
-<p><context>    summer_Tue_inlaw_Sam:</context> <dialogue>"How's my little Sammy doing on the old farm?$h"</dialogue> #!String</p>
-<p><context>    summer_Thu:</context> <dialogue>"Housework is frustrating because you're never finished.#$e#The day after I sweep the floor, it's dirty again."</dialogue> #!String</p>
-<p><context>    summer_Sun:</context> <dialogue>"What in the world am I going to make for dinner?#$e#*sigh*..."</dialogue> #!String</p>
-<p><context>    fall_Thu:</context> <dialogue>"Maybe I've spoiled the boys a bit. They've never had to do any chores.#$e#I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though.#$b#I hope he hasn't grow up to be lazy. That won't do.$s#$e#Being a parent isn't very easy."</dialogue> #!String</p>
-<p><context>    fall_Thu_inlaw_Sam:</context> <dialogue>"Is Sam just bumming around the farm, or is he contributing?"</dialogue> #!String</p>
-<p><context>    fall_Sun:</context> <dialogue>"Caroline and I are good friends. I tell her everything."</dialogue> #!String</p>
-<p><context>    fall_Sun2:</context> <dialogue>"When you become a parent, you have to leave your old lifestyle behind.#$e#Maybe that's not entirely true... but if you're not careful, it will happen."</dialogue> #!String</p>
-<p><context>    winter_Mon:</context> <dialogue>"I loved playing in the snow when I was a kid. The great thing about being a mother is that I get to enjoy it again.$h"</dialogue> #!String</p>
-<p><context>    winter_Tue:</context> <dialogue>"Hi. Do you get tired of people asking about your farm all the time?#$e#I think I would."</dialogue> #!String</p>
-<p><context>    winter_Tue6:</context> <dialogue>"*sigh*... Sometimes I dream about life on my own... without a family to look after. Is that horrible?$s#$e#Don't tell anyone.$4"</dialogue> #!String</p>
-<p><context>    winter_Wed2:</context> <dialogue>"What do I do for fun? Hmm... That's a good question.#$e#I like sleeping.$s"</dialogue> #!String</p>
-<p><context>    winter_Wed4_2:</context> <dialogue>"Kent has been home for a while now, but he still seems uneasy.$s"</dialogue> #!String</p>
-<p><context>    winter_Thu:</context> <dialogue>"Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors."</dialogue> #!String</p>
-<p><context>    winter_Thu_inlaw_Sam:</context> <dialogue>"How's Sam doing? I have to admit, there's less cooking and cleaning to do since he moved out..."</dialogue> #!String</p>
-<p><context>    winter_Thu8:</context> <dialogue>"We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back.$s#$e#I can't believe I'm saying this to you.$4"</dialogue> #!String</p>
-<p><context>    winter_Fri:</context> <dialogue>"It would be nice to take a vacation once in a while...$s"</dialogue> #!String</p>
-<p><context>    winter_Sun:</context> <dialogue>"If I was rich the first thing I'd do would be to hire a maid and a chef.#$e#My goodness, that would be nice!$h"</dialogue> #!String</p>
+<p><context>Introduction:</context> <dialogue>"Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.#$e#It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things."</dialogue> #!String</p>
+<p><context>Resort_Entering:</context> <dialogue>"What a treat!"</dialogue> #!String</p>
+<p><context>Resort_Leaving:</context> <dialogue>"I think I'll make seafood tonight.$h"</dialogue> #!String</p>
+<p><context>Resort:</context> <dialogue>"The view is breathtaking! Deep blue as far as the eye can see..."</dialogue> #!String</p>
+<p><context>Resort_Bar:</context> <dialogue>"We all love it when Gus shows up."</dialogue> #!String</p>
+<p><context>reject_864:</context> <dialogue>"What's this? It looks like one of Kent's buddies from the war. Maybe you should show it to him?"</dialogue> #!String</p>
+<p><context>Mon:</context> <dialogue>"Maintaining a household is difficult work... but somebody has to do it.#$e#Yes?"</dialogue> #!String</p>
+<p><context>Mon6:</context> <dialogue>"It's nice to have a family... but I'd be lying if I said I never miss the freedom of being young...$s"</dialogue> #!String</p>
+<p><context>2_1:</context> <dialogue>"My husband Kent is a soldier, working overseas. That's why he's not here right now.#$b#I know he'll come back safe once his tour is over!!#$e#Need something?"</dialogue> #!String</p>
+<p><context>Tue:</context> <dialogue>"Exercise is important for staying healthy. I always make sure to set aside some time for it.#$e#As a parent, I don't have much time to devote to myself. So I try and make every minute count."</dialogue> #!String</p>
+<p><context>Wed4:</context> <dialogue>"I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!"</dialogue> #!String</p>
+<p><context>Wed:</context> <dialogue>"What did you say? It's %time already? My goodness!#$e#I still have tons of work to do!$s"</dialogue> #!String</p>
+<p><context>Thu6:</context> <dialogue>"Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?"</dialogue> #!String</p>
+<p><context>Thu:</context> <dialogue>"So you're a farmer, huh? Interesting.#$c .5#I've never met a farmer before.$k#$e#Maybe some day you can teach me how to grow vegetables.$h"</dialogue> #!String</p>
+<p><context>Fri:</context> <dialogue>"$d Joja#The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!|The food at Pierre's is so much fresher and healthier than anything I ever bought at JojaMart. I do miss those cheap Joja prices, though."</dialogue> #!String</p>
+<p><context>Sat:</context> <dialogue>"Hi.#$e#Need something?"</dialogue> #!String</p>
+<p><context>Sat4:</context> <dialogue>"I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye."</dialogue> #!String</p>
+<p><context>Mon2:</context> <dialogue>"$d kent#Yesterday I visited Yoba's Altar to give thanks for my husband's safe return.|Yesterday I visited Yoba's Altar to ask for my husband's safe return.#$e#I'm trying to stay positive, but it's hard sometimes.$s"</dialogue> #!String</p>
+<p><context>Sun:</context> <dialogue>"#$c .5#I'm taking a break from house chores today.$h#$e#I'm taking the day off.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft."</dialogue> #!String</p>
+<p><context>Sun8:</context> <dialogue>"I had a dream that I had complete freedom, no obligation to anyone but myself...#$b#...Then I woke up and realized I had a full day of house chores ahead of me...$s#$e#But I don't regret having a family, @... Sam and Vincent mean everything to me!"</dialogue> #!String</p>
+<p><context>summer_Mon:</context> <dialogue>"Summer is nice, but it also means more work.#$e#I'll have to keep the garden in shape on top of working in the house!"</dialogue> #!String</p>
+<p><context>summer_Tue:</context> <dialogue>"Hello.#$e#Do you need something? I'm a little busy."</dialogue> #!String</p>
+<p><context>summer_Tue_inlaw_Sam:</context> <dialogue>"How's my little Sammy doing on the old farm?$h"</dialogue> #!String</p>
+<p><context>summer_Thu:</context> <dialogue>"Housework is frustrating because you're never finished.#$e#The day after I sweep the floor, it's dirty again."</dialogue> #!String</p>
+<p><context>summer_Sun:</context> <dialogue>"What in the world am I going to make for dinner?#$e#*sigh*..."</dialogue> #!String</p>
+<p><context>fall_Thu:</context> <dialogue>"Maybe I've spoiled the boys a bit. They've never had to do any chores.#$e#I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though.#$b#I hope he hasn't grow up to be lazy. That won't do.$s#$e#Being a parent isn't very easy."</dialogue> #!String</p>
+<p><context>fall_Thu_inlaw_Sam:</context> <dialogue>"Is Sam just bumming around the farm, or is he contributing?"</dialogue> #!String</p>
+<p><context>fall_Sun:</context> <dialogue>"Caroline and I are good friends. I tell her everything."</dialogue> #!String</p>
+<p><context>fall_Sun2:</context> <dialogue>"When you become a parent, you have to leave your old lifestyle behind.#$e#Maybe that's not entirely true... but if you're not careful, it will happen."</dialogue> #!String</p>
+<p><context>winter_Mon:</context> <dialogue>"I loved playing in the snow when I was a kid. The great thing about being a mother is that I get to enjoy it again.$h"</dialogue> #!String</p>
+<p><context>winter_Tue:</context> <dialogue>"Hi. Do you get tired of people asking about your farm all the time?#$e#I think I would."</dialogue> #!String</p>
+<p><context>winter_Tue6:</context> <dialogue>"*sigh*... Sometimes I dream about life on my own... without a family to look after. Is that horrible?$s#$e#Don't tell anyone.$4"</dialogue> #!String</p>
+<p><context>winter_Wed2:</context> <dialogue>"What do I do for fun? Hmm... That's a good question.#$e#I like sleeping.$s"</dialogue> #!String</p>
+<p><context>winter_Wed4_2:</context> <dialogue>"Kent has been home for a while now, but he still seems uneasy.$s"</dialogue> #!String</p>
+<p><context>winter_Thu:</context> <dialogue>"Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors."</dialogue> #!String</p>
+<p><context>winter_Thu_inlaw_Sam:</context> <dialogue>"How's Sam doing? I have to admit, there's less cooking and cleaning to do since he moved out..."</dialogue> #!String</p>
+<p><context>winter_Thu8:</context> <dialogue>"We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back.$s#$e#I can't believe I'm saying this to you.$4"</dialogue> #!String</p>
+<p><context>winter_Fri:</context> <dialogue>"It would be nice to take a vacation once in a while...$s"</dialogue> #!String</p>
+<p><context>winter_Sun:</context> <dialogue>"If I was rich the first thing I'd do would be to hire a maid and a chef.#$e#My goodness, that would be nice!$h"</dialogue> #!String</p>
 
 </xml>

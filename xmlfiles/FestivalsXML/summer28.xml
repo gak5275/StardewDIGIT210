@@ -1,3 +1,4 @@
+<xml>
 
 <metadata>xnbData: 
 target: "w"
@@ -57,3 +58,5 @@ content:  #!Dictionary&lt;String,String&gt;
 <p><context>Willy:</context> <dialogue who="Willy">Most night-fish would be scared of the light... these are strange ones.</dialogue> #!String</p>
 <p><context>Leo:</context> <dialogue who="Leo">The moonlight jellies are my old friends... they come to the island every year, too.</dialogue> #!String</p>
 
+
+</xml>
