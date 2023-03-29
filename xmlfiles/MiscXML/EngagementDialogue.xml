@@ -1,4 +1,5 @@
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Maru0:</context> <dialogue who="Maru">I'm really excited.$h#$b#I'm going to be your wife. Hehe.$l</dialogue> #!String</p>
 <p><context>Maru1:</context> <dialogue who="Maru">I need to get mentally prepared for being a farmer's wife.</dialogue> #!String</p>

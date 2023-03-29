@@ -1,4 +1,5 @@
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Universal_Love:</context> "74 446 797 373 279" #!String</p>
 <p><context>Universal_Like:</context> "-2 -7 -26 -75 -80 72 395 613 634 635 636 637 638 724 459 873" #!String</p>
