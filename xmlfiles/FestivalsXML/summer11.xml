@@ -1,23 +1,6 @@
 <xml>
 
-<metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
 
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
 <p><context>name:</context> <dialogue>Luau</dialogue> #!String</p>
 <p><context>conditions:</context> <dialogue>Beach/900 1400</dialogue> #!String</p>
 <p><context>shop:</context> <dialogue who="shop">F 2654 1000 -1 F 2627 800 -1 F 2628 800 -1 F 2629 800 -1 F 2630 800 -1 F 1817 400 -1 F 1818 400 -1 F 1819 400 -1 F 1295 1000 -1 O 268 3000 1 F 2397 700 -1</dialogue> #!String</p>

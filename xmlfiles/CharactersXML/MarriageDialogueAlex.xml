@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"With all this space, I can really achieve a full body workout."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"I never had many friends in town... I sometimes wonder how I'd end up if you never moved here.$9"</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Aw... I was gonna do some jogging outside. But I can't really do it in this weather."</dialogue> #!String</p>

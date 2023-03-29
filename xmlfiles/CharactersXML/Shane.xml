@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Mon:</context> <dialogue>"I don't know you. Why are you talking to me?"</dialogue> #!String</p>
 <p><context>Resort_Entering:</context> <dialogue>"Buh... hope the bar's open."</dialogue> #!String</p>
 <p><context>Resort_Leaving:</context> <dialogue>"Welp... got my year's supply of Vitamin D. Now I can play video games with the blinds shut the rest of the year."</dialogue> #!String</p>

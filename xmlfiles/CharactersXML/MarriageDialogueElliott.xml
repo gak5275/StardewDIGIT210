@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"I feel inspired today... I think I'll do some writing."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"The sound of rain, in some tiny way, reminds me of my cabin by the beach.#$e#The farm is wonderful, but I do miss the sound of the ocean."</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"I got up early and made coffee.[395]#$e#I find that a cup of this exquisite brew makes the early morning a lot more pleasant."</dialogue> #!String</p>

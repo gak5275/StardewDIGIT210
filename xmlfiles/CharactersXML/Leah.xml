@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Hello, it's nice to meet you. $h#$e#You picked a good time to move here... The spring is lovely."</dialogue> #!String</p>
 <p><context>Resort_Entering:</context> <dialogue>"Don't tell anyone, but Willy let me steer the boat for a few minutes.$h"</dialogue> #!String</p>
 <p><context>Resort_Leaving:</context> <dialogue>"Well, that was deeply relaxing."</dialogue> #!String</p>

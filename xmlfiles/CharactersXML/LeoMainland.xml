@@ -1,23 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<xml>
 <p><context>4:</context> <dialogue>"I saw a big mango floating in the sky. Linus told me it was a hot-air balloon!$u#$b#I thought only birds could fly..."</dialogue> #!String</p>
 <p><context>18:</context> <dialogue>"When I first arrived, Linus made me a suit out of leaves, like his...#$b#But I looked funny... like a fuzzy mango!$h#$e#I think I'll stick to my feathers."</dialogue> #!String</p>
 <p><context>LeoDeparture:</context> <dialogue>"I need to find some place to live...$s#$b#But I have a plan... I'm going to rely on my friends."</dialogue> #!String</p>

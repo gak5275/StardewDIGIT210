@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"It's a myth that rainy weather causes the flu. However, take care that you don't slip on the mud!#$e#I often worry about you."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"It was so incredibly lonely living above the clinic by myself... I'm much happier now.$h"</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"I woke up early, but I made sure not to wake you. You looked so peaceful."</dialogue> #!String</p>

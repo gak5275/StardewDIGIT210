@@ -1,23 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"Do you like rainy days as much as I do, @?"</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"We're different in so many ways... but that's alright."</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Good morning, @. I went out early and found this for you. [305 308 203 795 397]#$e#I hope it's not too strange."</dialogue> #!String</p>

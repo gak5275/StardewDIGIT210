@@ -1,23 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine."</dialogue> #!String</p>
 <p><context>Resort_Shore:</context> <dialogue>"Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!"</dialogue> #!String</p>
 <p><context>Resort:</context> <dialogue>"Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!"</dialogue> #!String</p>

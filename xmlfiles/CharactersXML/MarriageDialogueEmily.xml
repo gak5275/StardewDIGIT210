@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"I wonder where the flying insects go when it rains? Don't they get hit by the raindrops?"</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"A day like this is a blessing from mother nature."</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Good morning... I got this gift for you. Don't worry, I already purified it with sage incense. [428 440 444 338 207]"</dialogue> #!String</p>

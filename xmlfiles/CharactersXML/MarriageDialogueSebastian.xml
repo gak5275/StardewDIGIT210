@@ -1,22 +1,6 @@
 
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"Finally... some heavy rain. I get bored of sunny weather easily."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"Hey. I was just thinking about my old room in the basement. I felt comfortable there, but this is a lot more interesting. And I don't miss the smell...#$e#I felt kind of embarrassed living in my mom's house for so long."</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Hey. I couldn't sleep last night so I took a walk to the caves. I found this... want it?[575 769 767 84 66 78]#$e#I just have trouble sleeping sometimes, it has nothing to do with you. I love you.$7"</dialogue> #!String</p>

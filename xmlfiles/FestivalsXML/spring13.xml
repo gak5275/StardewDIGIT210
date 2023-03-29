@@ -1,23 +1,6 @@
 <xml>
 
-<metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
 
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
 <p><context>name:</context> <dialogue>Egg Festival</dialogue> #!String</p>
 <p><context>conditions:</context> <dialogue>Town/900 1400</dialogue> #!String</p>
 <p><context>shop:</context> <dialogue who="shop">BO 36 400 -1 BO 107 2000 1 O 745 100 -1 BO 184 350 -1 BO 188 350 -1 F 1684 500 -1 F 2624 1000 -1 F 2632 1000 -1</dialogue> #!String</p>
