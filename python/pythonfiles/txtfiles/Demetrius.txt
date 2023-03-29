@@ -1,0 +1,102 @@
+"Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself!#$e#I'm studying the local plants and animals from my home laboratory.#$b#Have you met my daughter Maru? She's interested to meet you." 
+"I already spotted a rare crab. This place is great.$h" 
+"I'll be analyzing this data for months." 
+"*crunch*... whoops, there goes an endangered crab species...$s#$b#...#$b#Oh, nevermind. It was just the empty shell! I can sleep tonight." 
+"Are you having fun, @? You need to remember to take breaks now and then too!" 
+"I usually don't partake... but I'm usually not on a tropical island, either. Hahaha.$h" 
+"Can you believe this place? It's teeming with exotic life!" 
+"It's a good specimen, but a very common species. You can keep it." 
+"Fruit and salt? What an odd combination...$s" 
+"Robin won't even tell *me* who paid for Pam's new house!#$e#I pretend I'm mad at her but secretly I'm glad she's so loyal to her word...$h" 
+"Maru helps me out in the lab sometimes... She's a good kid." 
+"It's hard to do good science without Maru's help...#$b#But her happiness is much more important than my experiment!" 
+"This valley has a very vibrant and diverse ecosystem. That's one reason I was excited to move here." 
+"You're probably growing a lot of interesting plants on your farm, huh?#$e#Maybe I'll stop by your place some day and check it out." 
+"How's the farming business going? It's parsnip season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." 
+"Robin has a hot temper. It's better to stay on her good side.#$e#Don't tell her I said that.$h" 
+"Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" 
+"It's good to take a break from work every now and then.#$e#I guess that's kind of difficult when you live on a farm, though.#$e#Hey, at least in the winter you don't have to worry about crops." 
+"Robin has a hot temper. It's better to stay on her good side.#$e#...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u" 
+"Hi @! How are you doing today?#$e#I wish I could make your farming job easier somehow." 
+"Really? I figured a farmer would know the correct answer...$s" 
+"See? @ agrees with me." 
+"Well, we'd better titrate this solution before it crystallizes on us." 
+"*sigh*... $4" 
+"Sorry, I'm really busy.#$e#There's so many plants to study right now." 
+"Make sure to water your plants every day.#$e#Although, if you're using water retaining soil you don't need to worry about watering as often.#$e#It's pretty convenient." 
+"How's the farming business going? It's tomato season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." 
+"$p 40#So I heard Maru had you look through that telescope out back.|If you and Maru become friends, I'm sure she'll show you how to use that telescope out back.#$e#Pretty exciting, huh?" 
+"I hope my daughter's keeping up on her math and science!" 
+"Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth?$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" 
+"I became a scientist because I wanted to contribute to the progression of our species.#$e#Of course, none of this would be possible without farmers such as yourself.$h" 
+"During this time of year I divert my attentions to fungi." 
+"We know a lot about nature thanks to science.#$e#But there's always a lot more to learn." 
+"How's the farming business going? It's corn season, isn't it?#$e#I can imagine it being pretty peaceful, working outdoors with plants all day." 
+"Maru sure spends a lot of time working on those gadgets of hers.#$e#I'm glad she's so dedicated." 
+"I'm still flabbergasted about Maru's secret robot... was it all a dream?" 
+"Let's see... perhaps the nitrogen fixation level is affected by nematode secretions...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?" 
+"Hi @. I'm always glad when you come for a visit.#$e#It's nice to have some company after all this lonely lab-work." 
+"I'm taking a break from my research right now." 
+"Talk to my wife if you want to increase the size of your house." 
+"Do you have a kitchen in your house yet?#$e#Cooking is kind of like doing lab work." 
+"Do you have any animals on your farm?" 
+"Hello.
+"Let's see... if seasonal nitrogen levels could be modeled by a piecewise function...$u#$b#Oh! Sorry. I was analyzing data and I didn't notice you there.#$e#Do you need anything?" 
+"Feel free to harvest as much lumber and stone from this area as you please." 
+"Thanks for stopping by. I need to think about something other than legumes for a while.#$e#So, what have you been doing lately?#$e#That sounds interesting." 
+
+"Robin really works hard on her carpentry stuff... she deserves a little recognition now and then."
+"I haven't seen Maru in hours... I hope she's alright."
+"Egg... what a strange thing to eat."
+"Hey @, did you get a taste of my carp roe pie?#$b#...What? It is the 'egg' festival, isn't it?"
+"These springtime dances can be traced back to ancient fertility rituals.#$e#Hey... You should know about this stuff, farmer."
+"This is tiring, honey. Are you ready to visit the buffet soon? *pant*"
+"The 'Moonlight Jelly'... what a remarkable species! We're very lucky that they stop here on their long journey south.#$e#It's unknown why they are attracted to light... very curious."
+"I'll probably get another tool set this year... *sigh*"
+"You know what? I probably should've worn a jacket."
+
+"You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/"
+"Dear @,^I was conducting a field study the other day, and I found this specimen. ^I hope you find it as interesting as I did.
+"I wanted to say 'thanks' for taking an interest in my work. Here's a cooking recipe that I like.
+"Dear @,^Tonight at around 10 o'clock PM, a rare and beautiful event will take place.^^The moonlight jellies will be passing by Pelican Town on their long journey south for the winter.^^We're all gathering at the beach to watch. You don't want to miss this!^See you tonight,
+"@-^I'm gathering data on the correlation between soil alkalinity and crop fructose levels. Long story short, I need a fresh melon from your farm. If you brought me one I'd be very grateful.
+1000g
+"Hi @,^^Thanks for your help with the fish.^Nature is usually good at keeping things balanced, but sometimes artificial factors can cause an imbalance.^^I've enclosed a blueprint from a science magazine that you might find interesting.
+"Greetings. Stay inside if you want to keep warm."
+
+"Hi @! I have some good news for you. A few days ago I made a breakthrough in my research on the local environment.$h#$b#I'll spare you the technical details and get to the point... You know that empty cave over there, a little ways to the west? Well, I have a way to turn it into something useful... for both of us.#$b#I'd like to set up the cave to attract some local species. That way I can observe them in a more controlled environment. And you can harvest whatever products they produce.#$b#I can either set up the cave to attract mushrooms or fruit bats. The bats will sometimes leave fruit for you to collect.\"
+"Alright! I'll go set it up for you right now! It shouldn't take any time at all.$h#$b#Thanks for letting me do this.\"
+"I'm excited to see what happens with that cave. Aren't you?#$e#I hope you're pleased with the work I did.\"
+
+"Thanks for helping out, @.\"
+"Maru's a good kid. She's my special little girl...\"
+"I wouldn't want anything getting in the way of her bright future, know what I mean?$5\"
+"Just some food for thought... *chuckle*$h\"
+"...I was just telling @ about the soil samples we're testing.\"
+Right, @?
+"Okay, okay... we were talking about you, sweetie.$5#$b#I wanted to say a few things to @ about you... but I didn't want to embarrass you. I shouldn't have lied about it.$s\"
+
+"I don't understand. Tomatoes are fruits!\"
+"@! I'm glad you're here. You'll be able to put this argument to rest.\"
+How would you classify a tomato?
+"I just want you to understand my point of view.#$b#It's hard for me to know exactly what assumptions I should make when you tell me something.\"
+"But I'll try to get better at it.\"
+"Thanks for your help, @.$h\"
+
+"Ah Ha! I knew it!$4\"
+"Agh! What is it?!$6\"
+"Sweet Yoba... it talks!$6\"
+"This is why you've locked yourself in your room the last few months?$5\"
+"...and I thought you were down here fooling around with @...$s\"
+"It's okay, Maru. Let MarILDA go free.$5#$b#Your mother and I can take care of ourselves. I know you're ready to start a life of your own, and I've come to terms with the thought of not having you around anymore.#$b#Besides, this... creation of yours seems pretty advanced. It wouldn't feel right to keep her as a servant.\"
+"@, I'm sorry I mistrusted you. You're a good guy.$5^@, I'm sorry I mistrusted you. You're a fine young woman.$5#$b#I've never seen Maru so lively and creative... and I've never been more proud of her. If you've had a hand in that, then you have my gratitude.\"
+
+"Um... Robin? What's the point of the four posts? It seems like an inefficient use of materials.$s\"
+"Hmm, I see your point.. But we can't let that outweigh the utility and efficiency of the sleep receptacle.\"
+"*ahem*... Well... If anyone needs me, I'll be in the doghouse...$5\"
+"Great minds think alike...$h\"
+
+"I love your art, Leah! 'Post-Dimensional Nullspace' is my favorite.$h\"
+"I'm in.\"
+
+“I highly recommend the submarine tour. There are some very fascinating creatures living in the deep ocean.”

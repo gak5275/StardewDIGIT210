@@ -1,0 +1,110 @@
+"Ah, Mayor Lewis told me you just arrived. I'm Marnie!#$e#I sell livestock and animal care products at my ranch. You should swing by some time.$h" 
+"Hehe... finally a chance to show off all my hard work at aerobics club.$h" 
+"I feel warm." 
+"Hee hee... It's interesting to see everyone in their bathing suits." 
+"Ew... the chair's wet." 
+"Phew... It's hot!$s" 
+"Gah!$4#$b#...Um... What? Heh.. I don't know what that is...$3" 
+"I love animals, Mr. @. If you treat yours well I'm sure we'll become good friends!^I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!" 
+"Animals are so innocent, so sweet. And If I don't look after them, who will?$s#$e#I just hope my chickens aren't too upset when I take their eggs.$s" 
+"You've been here a while, now... how's your farm doing?#$e#Taking care of animals is easy as long as you don't forget about them!$h" 
+"Now that I'm here I can finally relax and socialize a bit." 
+"There aren't very many people here today...$s" 
+"I spilled a whole bucket of milk on the floor today, it was horrible. And such a waste of my poor Belinda's hard work.$k$s#$e#It's nice of you to show up! It's a little more lively now." 
+"Phew! It sure feels good to kick back after a hard day's work." 
+"*sigh*... I wasn't very productive today." 
+"I always see Clint here but he won't talk to anyone. He just glances over his shoulder now and then.$s" 
+"My nephew Shane has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining." 
+"You can use a scythe to cut feed from grass.#$e#Or you can buy it from me, of course!$h#$e#I could use the cash...$u#$e#Adios." 
+"Hi. Need something?#$e#I might be getting some different kinds of animals in the future.#$e#Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first.#$e#Just keep treating your animals with respect and good things will happen." 
+"You can catch me at the saloon most nights.#$e#Animals are great company, but I need to spend time with people, too." 
+"I think someone in town has taken a liking to me. *teehee*$k$h#$e#I would be so lonely if Shane ever moved out." 
+"I wonder if Mr. Lewis gets lonely in that big house of his... $s#$e#It seems so empty in there, doesn't it?" 
+"Have you been to that strange tower west of my house?#$e#One time I heard this terrible, otherworldly noise coming from there.$s#$e#I would avoid that place if I were you..." 
+"Hey there, it's good to see ya!#$e#Feel free to visit us any time you please." 
+"Hi @!$h#$e#I'm glad we've become friends. I know I can trust you to take care of my dear animals." 
+
+"I tried my best, but my display is pretty weak compared to Pierre's.$s#$e#Well, maybe the judges will give me bonus points for the massive cheese wheel."
+"Hi, @. Have you had a productive fall?#$e#It's starting to get quite cold... crops won't hold out for much longer."
+"Welcome to the Egg Festival... complements of my wonderful brood of hens."
+"Hens lay the eggs, but roosters play an important role, too... they protect the hens and prevent them from fighting with each other!#$b#That means happier hens and better eggs...$h"
+"*sigh*... Love is in the air... And I'm still single.$s"
+"If you brought something for the soup, climb the stairs on the other side and throw it in."
+"That's a heavy load of people for an ancient wooden dock! I'll stay over here near the beach."
+"Welcome to the Feast of the Winter Star!$h"
+"I feel bad for all the poor, cold animals out there.$s"
+
+"Why are you looking through my trash can?$s"
+
+"I'm visiting the island today. If you need to buy anything, just leave the money in this box!^
+
+"This is an incredible gift! Thanks!!/72 221 240 608/Thank you!/-5 -6 402 418/Oh. I guess I'll take it./16 152/This is worthless. I don't understand you./330/Thank you! This looks nice.//"
+
+",^You're such a good neighbor I thought I'd send over some animal feed to make your job easier. Keep it up!
+",^You've proven your ability to raise chickens, so I'm now selling ducks at my shop!
+",^I now have rabbits in the animal shop! They will provide you with fluffy wool ...and more!
+",^You've proven your ability to raise cows, so I'm now selling sheep at my shop!
+",^I now have goats available for purchase at the animal shop. You've done well so far!
+",^You've come a long way since you first arrived. As a result, I've decided to start selling pigs at my shop. These pigs are trained at finding gourmet truffles!
+"Dear neighbor,^when I'm not taking care of animals I like to experiment in the kitchen. Since we've become friends I want to share some recipes with you.^I hope you like this!
+"@,^I've got a new item in stock... It's called the \"Auto-Grabber\".^^This thing can milk your cows and goats, shear your sheep, gather eggs, and pluck your wooly rabbits... all on its own!^^It's considered a 'luxury item', so I'm charging 25,000g.
+"Dear @,^I'd like to give my cows a special treat. They're such good girls and hungry, too. Could you bring me one bunch of amaranth? They love the stuff. ^Thanks, Dear.
+
+"Hi @. You look like you're soaked...you poor thing!$h"
+
+"Oh! You brought the cave carrot! Thank you so much, Mr. @.$h^Ms. @.$h\"
+"This looks great... I almost want to eat it myself!$h#$b#...almost.\"
+"I hope it wasn't too much trouble... I really do appreciate it.\"
+"Thanks again for helping me out.$h#$e#...and my goats say 'thanks' too.\"
+
+"Shane?\"
+"Oh dear...\"
+"@... Can you do something? He's out cold.$s\"
+"Shane! What's the matter with you? All you do anymore is mope around your room and drink beer!$s\"
+"I'm worried...\"
+"What's your plan? Don't you ever think about the future?\"
+
+"Hi Shane... you look unusually happy today.\"
+"Let me guess... Gus had a clearance sale on canned beer?$u\"
+"He looks sharp!\"
+
+"Hello @!$h#$b#You see this cat/dog here?\"
+"I found it sitting outside the entrance to your farm! I think it's a stray... poor little thing.$s\"
+"I think it likes this place! Hey, um.... Don't you think this farm could use a good cat/dog?$h\"
+"Well, little %... You be a good kitty/pooch now... okay?\"
+
+"Good morning, Mr. @!$h^Ms. @!$h#$b#I came by to ask you a favor, since you're such a kind neighbor.#$b#You see, I'm trying to train my goats to say 'hello'... but they simply won't pay attention to me unless I have their favorite treat, cave carrots!$u#$b#So... since I'm scared of the mines... I thought, well, maybe you would bring me a cave carrot when you have the chance?#$b#There's no pressure... but if you want to, just swing by my house between 9:00 AM and 5:00 PM with a cave carrot. You'll make an old girl very happy. Bye.\"
+
+"My goats go wild over cave carrot... I can't imagine why.\"
+
+"Um... Leah? How much longer will this be?$s#$b#...My knees are quivering, my thighs are whimpering, and I've lost all sensation in my foot.$s\"
+"Make me look good!\"
+"Oooh!\"
+"I love it! That's going up in my room...$h\"
+"Let me see\"
+"Em... @, why don't you go ahead and keep yours? It might be nice to, uh... own your first-ever painting... ya know?$s\"
+
+"I do!\"
+"Mmmm... % eggs.\"
+
+"You care too much about your job, Lewis. There are other things to life, you know.$u\"
+"...but yes, I understand. I guess we'll have to keep...us...a secret.$s\"
+"Gahh!$4\"
+"Why were you hiding there, anyway?$u\"
+
+"Oh no... this doesn't look good.$s\"
+"@? You'd better keep your eye on him... next time you catch him coming out of the Saloon, you should say something...$s\"
+"Alright... we've caught him in the act. Now let's confront him. Take a deep breath... $s\"
+"Shane... this is what you've been doing in here?$s\"
+"But... these cans...$s\"
+
+"Um... Haley? When do we stop? M... My legs... *pant* *pant*$s\"
+"Yep\"
+
+“Oohh... Fine purple silk. You can't find that at JojaMart!”
+
+“That was some strange-looking purple lettuce in your grange display! I swear, It looked just like Mayor Lewis' special und... Oh!... heh... nevermind!”
+
+“Erm... Doctor Harvey? This is completely confidential, right?”
+
+“*sigh*... When the door opened I thought it might be Lewis.”

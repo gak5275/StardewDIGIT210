@@ -1,0 +1,122 @@
+"Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days." 
+"Ah... That's the perfect bait for a catfish I've been tryin' to catch!#$b#Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago.#$b#Somethin' tells me you could use it, lad.^Somethin' tells me you could use it, miss." 
+"*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya?#$b#Yer a man after me own heart, @. Hah!$h^Yer a lady after me own heart, @. Hah!$h#$b#Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast! [797]" 
+"Ah... a movie. That's kind of ye, lad.^Ah... a movie. That's kind of ye, miss.#$b#I'll just finish me pipe, and head over." 
+"Ahoy there, son.^Ahoy there, lass.#$b#Looks like decent weather for fishing, eh?" 
+"Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it." 
+"A true angler has respect for the water... don't you forget that." 
+"The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch.#$e#The fishing life is tough, but there's something about it that keeps you goin'." 
+"Some fish come and go with the seasons. Others only come out at night or in the rain." 
+"*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret." 
+"There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them.#$e#You'll need the finest bait you can get if you want a rare fish to bite." 
+"If you really want to get the fish biting, make sure you put some bait on your hook." 
+"If the local fishing scene got a bit more lively, I might expand the shop's stock." 
+"How's the fishing life going for ya?#$e#I try to fish as often as possible, but it's not easy when you've got a shop to run." 
+"If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.#$b#Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.#$e#There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while." 
+"Hey, it's my skipper, @!$h#$e#I'd give you a discount on bait if I could afford it.$s" 
+
+"Are you setting up a grange display, @? It's your chance to show off all the good produce from %!"
+"Sometimes I'll hide an egg too well and no one finds it...#$b#Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe. $h"
+"Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!"
+"I should've brought my fishing pole."
+"Hi there, @. Taking a breather?#$e#To tell you the truth, I'd rather be fishing right now."
+"Most night-fish would be scared of the light... these are strange ones."
+"$y 'Do you want to hear the Legend of the Winter Star?__In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as =Stardrop is connected to the Winter Star in some way.__Suit yourself.'"
+"$y 'Hey, @. Ready for some ice fishing?__That's the spirit!$h__We'll see.$h__Well, then think of it as good practice!$h'"
+
+"Ahoy... you know that {2} you sold me the other day? Well, I sizzled it up in me cabin last night...#$b#T'was the mealiest fish I've ever set me gums on...$s"
+"Ahoy! Remember that {2} you brought in the other day? Well, I sizzled it up in me cabin last night...#$b#T'was the finest fish I've had since I was a wee lad!$h"
+
+"Are you okay? I found you washed up on the shore, lad.$s^miss.$s#$b#You really had me worried... I thought you were a goner! Be a little more careful out there...$s#$b#The island can be a dangerous place."
+
+"She looks good as new!"
+"Sorry if I smell like fish, heh!"
+"Ahoy!"
+
+"This is great! If only me ol' Pappy was around. He'd go nuts for this./72 143 149 154 276 337 698 459/This looks great. Thank you!/66 336 340 699 707 198 202 209 212 213 214 219 225 727 730 728 732 265/Hmmm... You like stuff like this? Huh./-7 -81 2 4 330/... *sniff*... Well I guess I can toss it into the chum bucket.//A gift! Thanks./-4 227 228 242/"
+
+"Dear @,^I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH.
+"Dear @,^ Your angling skills surpass even my ol' Pappy's... I'm impressed. ^ This stardrop's been passed down from Willy Sr. to Willy Jr. for... oh, heck. Prob'ly a thousand years.^Seein' as I don't have any kids... I want you to have it.
+"I've got some new items in stock...^A deluxe fishing pole and some bait that you can attach to it!^You can use bait to make fish bite faster. Hope to see you soon!
+"Come by the shop and check out the new rods I'm selling.^They're the best money can buy... and you can customize them with different kinds of tackle!^Hope to see you soon!
+"Hello there,^Just got back from a fishing trip. You should come down to the beach some time.^I've got something for ya.
+"Hey, I've got a little challenge for you:^    Catch me a squid.^You can fish them from the ocean at night. They only show up in the winter, though.
+"I've got another challenge for you: Catch me a Lingcod.^They don't go down easy, but I know you can do it.
+"@,^^I've unlocked the back room of the shop.^Come by when you have a chance.^There's something I want to show you.
+"Good news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 8AM every day, so you can get an early start.
+"@,^^Congrats on a successful island fishing trip. I'm proud of ya!^^Here, take this special fish tank. It'll make a great piece in your house.
+"@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater shrimp...
+
+"Ahoy there, son.$u^Ahoy there, miss.$u#$b#Heard there was a newcomer in town... Good to finally meet ya.$u\"
+"Ah... I'm still tryin' to unwind from a month out on the salty seas...$h#$b#It was a big haul! I sold a lot of good fish.#$b#Finally saved enough to buy me a new rod.$h\"
+"Here, I want you to have my old fishing rod.$h#$b#It's important to me that the art o' fishing stays alive. And hey, maybe you'll buy somethin' from the shop once in a while.$h\"
+"There's good water here in the valley. All kinds o' fish.\"
+"Oh yeah. My shop's back open now, so come by if you need supplies.$h#$b#I'll also buy anything you catch.#$b#'If it smells, it sells'. Heh heh. That's what my ol' Pappy used to say, anyway.$h\"
+
+"Ah... it's a good thing you turned up, lad.^miss.#$b#I've got a... a bit of a problem I could use a hand with...\"
+"Er... It'd be best if I just showed ya...\"
+"Take a deep breath, now.\"
+"As you can see...#$b#And smell... heh...#$b#The old girls 'ran wild' last night... heh...$h#$b#My experiment needs a little work...\"
+"Aye...\"
+"Aye... These are the finest, meatiest crabs you'll ever set yer eyes on.$h#$b#They be a little too feisty, though...$s\"
+"Goodbye, me sweet ladies...$s\"
+
+"Hehe... they love it... Look at 'em go!$h\"
+"Ahoy!\"
+"I was just thinkin' of you, lad.^miss.#$b#This bug meat you found is perfect!#$b#Hehe... When I said 'fresh', I didn't expect it to still be wrigglin'!#$b#But I'm not complaining! The fish love it...  Hehehe...$h\"
+"As a way of saying 'thanks', I wanted to teach you an old fisherman's secret... My ol' Pappy taught me this on a fishing trip many years ago.\"
+"Using that bobber will attract higher quality fish.#$b#That means more money in yer pocket, lad^lass. Hehe...$h
+"Got one!\"
+
+"Aye... a sad sight, isn't she?\"
+"She was me father's boat... Served him well for over 50 years.#$b#But now she can barely stay afloat.$s\"
+"I'd repair her myself, but I don't have the right materials, lad.^miss.
+"Aye... 200 pieces of hardwood to patch the hull would be a good start.#$b#But we'll also need to get the ticket machine back up, and the iridium anchor repaired.\"
+"If I could get me hands on the right materials, and repair the ol' girl... well, then I could take you to the Fern Islands.\"
+"Volcanic islands full of strange parrots, they say...\"
+"Aye... I thought you would, lad.^miss.
+"I'll leave this door unlocked for ya... you can come drop off the materials whenever you like.\"
+"Alright, suit yourself...$s#$b#If you have a change of heart, you can always come back and help out. I'll leave this door unlocked, anyhow.\"
+
+"Ahoy!\"
+"Come in... make yourself at home...\"
+"Aye... that's good stuff, there. The fish go crazy for it.#$b#Just... eh... make sure to wash yer hands good after dipping them in those juices...$s\"
+"The aroma has been known to linger for up to seven weeks, lad...^miss...
+"So... you been catching a lot o' fish?\"
+"Aha! A man after me own heart...$h^Aha! A lady after me own heart...$h\"
+"You can always trust a fisherman...^You can always count on a lady who fishes...\"
+"That's what me ol' Pappy used to say, at least. haha!$h#$b#Well, keep it goin'... if you can catch every fish in these waters, I've got a special prize waitin' for ye...\"
+"Not the fishin' type, eh? That's too bad...$s\"
+"Yes, it's a difficult sport... especially for a beginner.#$b#Have you tried the 'Training Rod'? I sell them right here, at a very low price.#$b#You should try using a 'Training Rod' until you get a little more experienced.\"
+"Aye... well, business has been tough, lately.$s#$b#It all started about the same time that old community center fell to ruin... me fish just don't sell like they used to...#$b#I've been working double-time just to make ends meet!\"
+"No time for me own projects...$s#$b#But, if things picked back up around here, I might have the time to show ya somethin'...\"
+"Heh heh... yep. She's back there... an 'old friend' that's seen better days...$h\"
+"Some day, lad^miss... you'll see what I mean.
+
+"Aye, lad... Linus lives on the mainland with the rest of us.#$b#After hearing your story... I wanted to help. So, I talked to Linus here and hatched a little plan.$h\"
+"Go on, Linus... tell him.\"
+"I can take you back for a visit any time!$h#$b#But, lad.... You can't live here forever...#$b#You know, there are other children back home, too. I'm sure they'd love to meet ya...\"
+"What do you think, @?\"
+
+"Poor lad...$s\"
+"I wonder if there's some way to help...$s\"
+
+"Hi, @.\"
+"It's odd... I'm not sure what caused this boulder to disappear.\"
+"This stream is flowing from deep within the mountain.\"
+"Hey! Do you see that glistening in the water?\"
+"Yes... that's quality ore!$h\"
+"The flow of water must be carrying it out of the mountain.\"
+"You know what this means, right?\"
+"It means we can start panning for ore!$h\"
+"Here, I've got an extra pan in my backpack... why don't you take it?\"
+"If you ever see ore glistening in the water, use that pan and see what you find.\"
+
+"Got one, lad!\"
+
+"Hmm...\"
+"The mushrooms are a tad chewier than last year...\"
+"Aye, lad\"
+
+"Me?\"
+"Hehe... That I do. We showed up one morning and the place was crawlin' with 'em.$h\"

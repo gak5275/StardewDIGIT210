@@ -1,0 +1,102 @@
+"Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.#$e#It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things." 
+"What a treat!" 
+"I think I'll make seafood tonight.$h" 
+"The view is breathtaking! Deep blue as far as the eye can see..." 
+"We all love it when Gus shows up." 
+"What's this? It looks like one of Kent's buddies from the war. Maybe you should show it to him?" 
+"Maintaining a household is difficult work... but somebody has to do it.#$e#Yes?" 
+"It's nice to have a family... but I'd be lying if I said I never miss the freedom of being young...$s" 
+"My husband Kent is a soldier, working overseas. That's why he's not here right now.#$b#I know he'll come back safe once his tour is over!!#$e#Need something?" 
+"Exercise is important for staying healthy. I always make sure to set aside some time for it.#$e#As a parent, I don't have much time to devote to myself. So I try and make every minute count." 
+"I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my hands soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!" 
+"What did you say? It's already? My goodness!#$e#I still have tons of work to do!$s" 
+"Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?" 
+"So you're a farmer, huh? Interesting.#$c .5#I've never met a farmer before.$k#$e#Maybe some day you can teach me how to grow vegetables.$h" 
+"The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!|The food at Pierre's is so much fresher and healthier than anything I ever bought at JojaMart. I do miss those cheap Joja prices, though." 
+"Hi.#$e#Need something?" 
+"I'm so glad you're trying to improve that old farm.#$e#Once you've got everything in order, it's going to add a lot to our community!$h#$e#It's going to be a lot of work for you, though.#$e#Bye." 
+"Yesterday I visited Yoba's Altar to give thanks for my husband's safe return.|Yesterday I visited Yoba's Altar to ask for my husband's safe return.#$e#I'm trying to stay positive, but it's hard sometimes.$s" 
+"#$c .5#I'm taking a break from house chores today.$h#$e#I'm taking the day off.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft." 
+"I had a dream that I had complete freedom, no obligation to anyone but myself...#$b#...Then I woke up and realized I had a full day of house chores ahead of me...$s#$e#But I don't regret having a family, @... Sam and Vincent mean everything to me!" 
+"Summer is nice, but it also means more work.#$e#I'll have to keep the garden in shape on top of working in the house!" 
+"Hello.#$e#Do you need something? I'm a little busy." 
+"How's my little Sammy doing on the old farm?$h" 
+"Housework is frustrating because you're never finished.#$e#The day after I sweep the floor, it's dirty again." 
+"What in the world am I going to make for dinner?#$e#*sigh*..." 
+"Maybe I've spoiled the boys a bit. They've never had to do any chores.#$e#I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though.#$b#I hope he hasn't grow up to be lazy. That won't do.$s#$e#Being a parent isn't very easy." 
+"Is Sam just bumming around the farm, or is he contributing?" 
+"Caroline and I are good friends. I tell her everything." 
+"When you become a parent, you have to leave your old lifestyle behind.#$e#Maybe that's not entirely true... but if you're not careful, it will happen." 
+"I loved playing in the snow when I was a kid. The great thing about being a mother is that I get to enjoy it again.$h" 
+"Hi. Do you get tired of people asking about your farm all the time?#$e#I think I would." 
+"*sigh*... Sometimes I dream about life on my own... without a family to look after. Is that horrible?$s#$e#Don't tell anyone.$4" 
+"What do I do for fun? Hmm... That's a good question.#$e#I like sleeping.$s" 
+"Kent has been home for a while now, but he still seems uneasy.$s" 
+"Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors." 
+"How's Sam doing? I have to admit, there's less cooking and cleaning to do since he moved out..." 
+"We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back.$s#$e#I can't believe I'm saying this to you.$4" 
+"It would be nice to take a vacation once in a while...$s" 
+"If I was rich the first thing I'd do would be to hire a maid and a chef.#$e#My goodness, that would be nice!$h" 
+
+"He doesn't look very happy... I guess Mayor Lewis had to cut costs with a budget clown this year."
+"Vincent's upset that I won't let him go into the haunted maze... but he's just a little boy!"
+"Vincent loves this festival... it's a joy to see him so happy."
+"Kent always seems a little antsy during big gatherings like this..."
+"Are you going to be dancing today, @?$h"
+"I hope the soup is good this year."
+"There! I just saw something glowing!#$b#Oh... It's gone.$s"
+"It's not a good time of year for a diet...$s"
+"The forest looks beautiful in the winter, doesn't it?"
+
+"Hi... did you sell {1} {2} to the general store the other day? I think I bought it...#$e#It was pretty high-quality stuff. As soon as I smelled it I was back in Granny's old cottage..."
+"Hi... did you sell {1} {2} to the fish shop the other day? I think I bought it...#$e#It was pretty high-quality stuff. Very firm meat."
+
+"Oh, you're such a sweetheart! I really love this!/72 200 211 214 220 222 225 231/Thank you! This makes my day really special./-5 -6 -79 18 402 418/Hmm, well I guess I could always put this in the compost.../-81 80 248 330/*Blech*... I hate this.../18 22 396/That's so nice of you! Thanks.//"
+
+"Dear @,^I ordered too much fertilizer for the garden!! I bet you can put it to some good use. Take care!
+"@,^this recipe of mine won 1st place in a cooking competition! I hope you like it. Thanks for being a friend!
+"Farmer @-^I have a request for you. I need fresh cauliflower for a recipe I want to make. Could you bring me one?
+
+"Did you wipe your boots off before coming in? Sorry... I just cleaned the floor.#$e#But you're always welcome in here! Heh.$h"
+
+"*puff* ...hi @! *pant* Whew... that was quite a workout, walking all the way up here.$h\"
+"Anyway... I came by to ask if you wanted to have dinner with us tonight!#$b#You don't have to... but if you decide to come, could you please bring a largemouth bass with you?#$b#...that's right. One of those big, slimy fish from the lake. I need one for the casserole I'm making.$h#$b#Okay, well... it'll be at our house at around 7:00 PM tonight... don't forget the largemouth bass! Bye.\"
+"Fish casserole always hits the spot.\"
+
+"Ah, I'm so glad you came, @! And you brought the fish! Wonderful.\"
+"Sam! Could you come in here and help clean this fish?\"
+"Wow, it looks wonderful... and it smells so fresh! Thanks so much for doing this, @.#$b#Kent caught a fish, too, but he eats about a whole fish to himself!$u\"
+
+"Oh hi, @! Come in! Do I smell fresh fish?\"
+"Sam! Could you come in here and help with dinner?\"
+"Wow, this looks like quality bass, @. Thanks so much for bringing this.$h\"
+
+"What was that sound?\"
+"*gasp*$s\"
+"This is absolutely terrible! What happened?$u\"
+"$p 80#Thanks for telling me the truth, @. It's not such a big deal.|You did WHAT, Sam?! What's gotten into you?!$u\"
+"Thanks, honey.$h\"
+
+"Hi, @! I'm just making some popcorn.$h\"
+"But, dear... popcorn was always your favorite before you left.$s\"
+"*whisper* @... can you say something to him?$s\"
+"It's okay, dear.$s#$b#The last thing I want to do is make you upset. I'll do my best to keep your spirits up from now on.\"
+
+"I overheard the price... that's outrageous! You should be ashamed.$3\"
+"No way!\"
+"Your veggies look great, @. It's Pierre's price that turned us away.\"
+
+"Sam? I'm coming in!\"
+"What's wrong, Honey? Were you doing something... bad?#$b#I thought I heard some weird sounds coming from your room...\"
+"Oh! *giggle*... That explains why you're all red and sweaty.$h#$b#Okay, well good luck. I'll see you in the morning.\"
+
+"Boycott!\"
+
+"Oh no...\"
+"Yum!\"
+
+“It must be so thrilling to travel the world like they do... *sigh*...”
+
+“Vincent hates going to the doctor more than anything, but he'll just have to deal with it.”
+“Be brave, Vincent. Think of your father.”
+“Doctor Harvey? I'm worried about Vincent's height. Isn't he a little short for his age?”

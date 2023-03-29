@@ -1,0 +1,56 @@
+"Hello, farmer.#$e#I've been gone so long... I feel like a stranger." 
+"Hey, @. Nice to see you." 
+"Time to head home." 
+"Standing on this beach... I feel a rare sense of peace.$h#$e#The ocean is a very special thing." 
+"This is a great place to bond with the family. I really appreciate you fixing it up." 
+"Just getting some water." 
+"The boat ride was fun. I even got to use some of my nautical training to help navigate.$h" 
+"Erm... okay. Thank you. I'll meet you there.$h" 
+"...!$4#$b#...Where did you find this?$4#$b#...$5#$b#This man... We fought together in the war, @. He was like a brother to me. #$b#But... only one of us made it back.$5#$b#He never lost his courage, though. Even in the face of death. A true hero... I'll never forget him.#$b#Thanks for bringing me this... It means a lot to me.#$b#Here, take this. It's been sitting in the back of our cupboard for years, and we've never used it." 
+"Yep... It's been tightly sealed, so the flavor should still be really potent." 
+"I don't know if I'll ever get used to being back home.#$e#The peacefulness of the town feels like a mask. That's probably just me though." 
+"Things haven't changed much since I've been gone.#$e#Well, except that you're here." 
+"Things haven't changed much since I've been gone.#$e#Except that we have a new farmer in town.$h" 
+"...I lost a lot of friends in battle.$s#$e#What's sad is that I can't even remember their faces.#$e#..." 
+"You've been here a while now, haven't you? Your farm must be thriving." 
+"I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. He's a man now.#$e#I wish I could've been there for him.$s" 
+"Are you friends with my son?#$e#You probably know him better than I do...$s" 
+"Hey, @. Are you enjoying the married lifestyle?" 
+"It looks like a decent day for fishing, doesn't it?" 
+"Jodi tells me you've really become a part of this community. I'm glad to hear it." 
+"I have trouble sleeping, so please excuse me if I seem tired.#$e#I'm sure you can understand." 
+"I don't know what to do with myself now that I'm back.#$e#I'm used to having more structure in my day." 
+"You keep quiet! Stop trying to turn me against my wife.$u" 
+"...$s#$b#You're absolutely right, @.$s" 
+"Don't lie to me! I hate lies more than anything!$u" 
+
+"I'm waiting for this clown to start doing something funny.#$e#Pretty disappointing."
+"Hey, @. Nice evening, isn't it?"
+"I'm not a big fan of eggs, to tell you the truth."
+"This open field... it makes me nervous.#$e#*whisper* Happy thoughts, Kent. Happy Thoughts."
+"Hey, good to see you."
+"Good evening, @. Hope you can find some time to relax before the harvest season."
+"Good afternoon, @. Happy Feasting."
+"I like winter. It's peaceful."
+
+"Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you./607 649/Hey, now this is a really great gift. Thanks./-5 -79 18 402 418/Ah... It's a... what is this, exactly? Hmm.../80 330 416 873/This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*/-6 2 227 229 456/That's kind of you. The family will like this.//"
+
+"Hello, @.^This item was collecting dust in the toolshed. I figured you might be able to use it.
+"Picked up this recipe overseas. Enjoy.^Want to say thanks for making me feel welcome.
+"Dear Farmer @,^I'd like to give my wife a starfruit for our anniversary. Are you growing any on your farm? If you brought me one, I'd be very grateful.
+
+"Um, hello there. My name's Kent. I just got back last night... from overseas. My wife told me that a new farmer had moved in while I was gone.\"
+"Well, I just wanted to introduce myself... I'll see you around.\"
+
+"I'm happy for an excuse to get out of the house, and take my mind off things.\"
+
+"Hi @. Please, come in.\"
+"Heh heh.$h\"
+
+"AAAAAHHHHHHH!!!$u\"
+"That sound...$s\"
+"You should've known that sound would remind me of the war!$u\"
+"...I lost a lot of good friends in those bloody trenches.$s\"
+"...Things have changed.\"
+"...$s#$b#I'm sorry, honey. You couldn't have known the sound of popcorn would make me upset.\"
+"I'm glad you're a friend of the family, @. Sorry about my behavior before.\"
