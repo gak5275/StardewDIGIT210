@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue>"Hmmph... It's irritating to have to meet all these new people, huh?#$b#Name's George, by the way. Now buzz off... Hmmph."</dialogue> #!String</p>
 <p><context>accept_867:</context> <dialogue>"What's this?#$b#Hmmph... so you push this button first? What's this button do? Hmmph... *grumble*#$b#Hehe! Well, how about that! It's a new channel!$h#$b#Here, take this. It's a stone I found when I was a coal miner back in the day. Funny thing, it's glowed blue and stayed cold for over forty years. Like magic!"</dialogue> #!String</p>

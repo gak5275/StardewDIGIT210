@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"Might be a good day to sit back and jam on the guitar...#$e#Hey, you can relax too if you want."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"Do you think Sebastian and Abigail will ever hook up?#$e#Heh... now that I'm married I'm trying to get everyone else married too."</dialogue> #!String</p>

@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue>"Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine."</dialogue> #!String</p>
 <p><context>Resort_Shore:</context> <dialogue>"Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!"</dialogue> #!String</p>

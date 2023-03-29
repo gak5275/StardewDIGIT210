@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue>"Hello! You must be @, the new farmer. I'm Caroline.#$e#My husband runs the general store here. And have you met my daughter, Abigail? She's the pale one with the purple hair."</dialogue> #!String</p>
 <p><context>Resort_Entering:</context> <dialogue>"Willy gave us each a piece of his fish jerky. I'm still chewing on it."</dialogue> #!String</p>

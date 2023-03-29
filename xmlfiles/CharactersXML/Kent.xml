@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Mon:</context> <dialogue>"Hello, farmer.#$e#I've been gone so long... I feel like a stranger."</dialogue> #!String</p>
 <p><context>Resort_Entering:</context> <dialogue>"Hey, @. Nice to see you."</dialogue> #!String</p>

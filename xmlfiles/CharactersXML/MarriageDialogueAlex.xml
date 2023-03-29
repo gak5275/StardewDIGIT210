@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"With all this space, I can really achieve a full body workout."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"I never had many friends in town... I sometimes wonder how I'd end up if you never moved here.$9"</dialogue> #!String</p>

@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>10:</context> <dialogue>"Did you watch the game last night?#$b#Or wait, do you even have a TV set...?"</dialogue> #!String</p>
 <p><context>14:</context> <dialogue>"Ugh, I stepped in something gross earlier... and I just bought these shoes.$s"</dialogue> #!String</p>

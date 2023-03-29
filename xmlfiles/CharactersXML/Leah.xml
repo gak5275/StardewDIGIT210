@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue>"Hello, it's nice to meet you. $h#$e#You picked a good time to move here... The spring is lovely."</dialogue> #!String</p>
 <p><context>Resort_Entering:</context> <dialogue>"Don't tell anyone, but Willy let me steer the boat for a few minutes.$h"</dialogue> #!String</p>

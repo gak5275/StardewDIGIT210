@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue>"Why, hello and welcome to our little community, dear! #$b#You can call me 'Granny' if you like.$h"</dialogue> #!String</p>
 <p><context>reject_867:</context> <dialogue>"Oh, I'm sure George would be interested in that!"</dialogue> #!String</p>

@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>accept_866:</context> <dialogue>"A Stardew Valley rose? That's so lovely! Thank you!$h#$b#Whenever I miss the valley, I'll smell this rose. Hehe.$h#$b#Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!"</dialogue> #!String</p>
 <p><context>Mon:</context> <dialogue>"Hello hello, sweetie!#$b#I'm so glad that the bus is back in service. It was starting to get lonely out here.#$e#...I almost went out of business.$s#$e#Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?$h"</dialogue> #!String</p>

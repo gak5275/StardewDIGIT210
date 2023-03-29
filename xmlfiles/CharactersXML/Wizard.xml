@@ -1,5 +1,5 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue>"Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands."</dialogue> #!String</p>
 <p><context>accept_868:</context> <dialogue>"Ah... an arctic shard.#$b#A most powerful substance, indeed, and potently infused with the element of ice.#$b#I'll take it, if you don't mind.#$b#...#$b#...Erm...You're still here. Oh. You want something?#$b#...Take this."</dialogue> #!String</p>
