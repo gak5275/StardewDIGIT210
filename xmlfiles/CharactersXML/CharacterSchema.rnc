@@ -1,11 +1,11 @@
 start = xml
-xml = element xml {metadata, p+}
+xml = element xml {p+}
 
-metadata = element metadata {text}
 p = element p {context, dialogue, text}
 context = element context {text, event?, date?}
-dialogue = element dialogue {text}
+dialogue = element dialogue {who?, text}
 event = element event {text}
 date = element date {season, text}
 
+who = attribute who {xsd:string}
 season = attribute season {xsd:string}
