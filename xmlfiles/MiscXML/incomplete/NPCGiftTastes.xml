@@ -1,11 +1,6 @@
 
 <?xml-model href="../../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Universal_Love:</context> "74 446 797 373 279" #!String</p>
-<p><context>Universal_Like:</context> "-2 -7 -26 -75 -80 72 395 613 634 635 636 637 638 724 459 873" #!String</p>
-<p><context>Universal_Neutral:</context> "194 216 262 304 815" #!String</p>
-<p><context>Universal_Dislike:</context> "-4 -8 -12 -15 -16 -19 -22 -24 -25 -28 -74 78 169 246 247 305 309 310 311 403 419 423 535 536 537 725 726 749 271" #!String</p>
-<p><context>Universal_Hate:</context> "0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203 308 265 909 910" #!String</p>
 <p><context>Robin:</context> <dialogue who="Robin">This is for me? Wow, I absolutely love it!!/224 426 636/Thanks! This is really nice!/-6 -79 424 709/Um... why?/16 330/What the...? This is terrible!/2/Thank you. This might come in handy.//</dialogue> #!String</p>
 <p><context>Demetrius:</context> <dialogue who="Demetrius">You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/</dialogue> #!String</p>
 <p><context>Maru:</context> <dialogue who="Maru">Is that...? Oh wow, @! This is spectacular!/72 197 190 215 222 243 336 337 400 787 910/This is a super gift! Thank you!/-260 62 64 66 68 70 334 335 725 726 909/Oh... That's for me? I'll just put it over here.../-4 330 414 410 404 724/Yuck! You thought I would like this?/340 342 2 430 416/Thanks.//</dialogue> #!String</p>
