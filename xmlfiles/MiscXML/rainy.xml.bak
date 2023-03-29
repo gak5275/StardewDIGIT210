@@ -1,5 +1,22 @@
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml>
+<xml><metadata>xnbData: 
+target: "w"
+compressed: true
+hiDef: true
+readerData: 
+- 
+type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+version: 0
+
+- 
+type: "Microsoft.Xna.Framework.Content.StringReader"
+version: 0
+
+
+numSharedResources: 0
+
+content:  #!Dictionary&lt;String,String&gt;
+</metadata>
 <p><context>Abigail:</context> <dialogue who="Abigail">The valley looks more interesting in the rain... don't you think?</dialogue> #!String</p>
 <p><context>Robin:</context> <dialogue who="Robin">The rain doesn't stop me from getting a job done!$h#$e#Although soggy wood isn't a joy to work with.$s</dialogue> #!String</p>
 <p><context>Demetrius:</context> <dialogue who="Demetrius">Greetings. Stay inside if you want to keep warm.</dialogue> #!String</p>

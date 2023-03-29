@@ -1,5 +1,23 @@
 <?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
+<metadata>xnbData: 
+target: "w"
+compressed: true
+hiDef: true
+readerData: 
+- 
+type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+version: 0
+
+- 
+type: "Microsoft.Xna.Framework.Content.StringReader"
+version: 0
+
+
+numSharedResources: 0
+
+content:  #!Dictionary&lt;String,String&gt;
+</metadata>
 <p><context>Maru0:</context> <dialogue who="Maru">I'm really excited.$h#$b#I'm going to be your wife. Hehe.$l</dialogue> #!String</p>
 <p><context>Maru1:</context> <dialogue who="Maru">I need to get mentally prepared for being a farmer's wife.</dialogue> #!String</p>
 <p><context>Leah0:</context> <dialogue who="Leah">...$l#$e#I'm a little nervous. But happy.$h</dialogue> #!String</p>
@@ -26,4 +44,5 @@
 <p><context>Emily1:</context> <dialogue who="Emily">I always knew something important would happen between us... I just never thought it would be this!$h#$e#The parrot is excited too.</dialogue> #!String</p>
 <p><context>Krobus0:</context> <dialogue who="Krobus">@... I'm afraid we'll have to keep this a secret... Neither my people nor yours would accept us living together.</dialogue> #!String</p>
 <p><context>Krobus1:</context> <dialogue who="Krobus">You know I'll be a very strange person to live with, right? I won't be able to leave the house...</dialogue> #!String</p>
+
 </xml>
