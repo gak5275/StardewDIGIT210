@@ -1,5 +1,5 @@
 start = xml
 xml = element xml {(text | dialogue)+}
 
-dialogue = element dialogue {who, text}
+dialogue = element dialogue {who?, text}
 who = attribute who {xsd:string}
