@@ -1,122 +1,122 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>4:</context> <dialogue>"Oh, hi."</dialogue> #!String</p>
-<p><context>Introduction:</context> <dialogue>"Oh, that's right... I heard someone new was moving onto that old farm.#$e#It's kind of a shame, really. I always enjoyed exploring those overgrown fields by myself.$9"</dialogue> #!String</p>
-<p><context>Resort_Entering:</context> <dialogue>"I hope a mermaid visits the beach."</dialogue> #!String</p>
-<p><context>Resort_Leaving:</context> <dialogue>"I'm gonna ask Willy if we can take the scenic route back."</dialogue> #!String</p>
-<p><context>Resort_Leaving_2:</context> <dialogue>"Maybe we'll see a sea monster on the way back."</dialogue> #!String</p>
-<p><context>Resort_Shore:</context> <dialogue>"The beach is okay, but it gets boring pretty quick. I'd rather check out that dark jungle, or the volcano!"</dialogue> #!String</p>
-<p><context>Resort_Shore_2:</context> <dialogue>"Hmm, you think I could sneak my guinea pig onto the island?#$e#Nah, David's probably not much of a swimmer anyways.$h"</dialogue> #!String</p>
-<p><context>Resort_Umbrella:</context> <dialogue>"My skin gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy."</dialogue> #!String</p>
-<p><context>Resort_Umbrella_2:</context> <dialogue>"Hey @, want to build a sand castle with me?#$e#Actually, a sand dungeon might be cooler!$h"</dialogue> #!String</p>
-<p><context>Resort_Umbrella_3:</context> <dialogue>"Hey @, you think you could build a raft?#$e#I saw a few cool islands on the way here I want to visit."</dialogue> #!String</p>
-<p><context>Resort_Wander:</context> <dialogue>"An island this big has got to be hiding some buried treasure.#$e#Quick, get me a shovel!#$e#Relax, I'm just kidding.$h"</dialogue> #!String</p>
-<p><context>Resort_Bar:</context> <dialogue>"Gus made me a dark purple refresher, to match my hair. It tastes great!$h"</dialogue> #!String</p>
-<p><context>Resort:</context> <dialogue>"Bummer... Willy says we have to stay on the beach...$s#$b#And I brought my sword and everything...$s"</dialogue> #!String</p>
-<p><context>danceRejection:</context> <dialogue>"That's flattering... but I'm gonna have to say no. Sorry."</dialogue> #!String</p>
-<p><context>divorced:</context> <dialogue>"What are you doing here? Just leave me alone!$a"</dialogue> #!String</p>
-<p><context>dumped_Girls:</context> <dialogue>"Don't talk to me!$a"</dialogue> #!String</p>
-<p><context>secondChance_Girls:</context> <dialogue>"*sigh*... I can't stay mad at you anymore, @. Let's just move on with our lives.$s"</dialogue> #!String</p>
-<p><context>breakUp:</context> <dialogue>"Oh... I... I understand. You see me as just a friend...$s#$b#I guess we weren't really a good match...$s"</dialogue> #!String</p>
-<p><context>Mon:</context> <dialogue>"Oh, hey. Taking a break from work?"</dialogue> #!String</p>
-<p><context>Mon2:</context> <dialogue>"Oh, hi!#$e#Do you ever hang out at the cemetery? It's a peaceful place to spend some time alone."</dialogue> #!String</p>
-<p><context>Tue:</context> <dialogue>"Ugh... I'm not in a good mood right now.$s#$e#I said I'm not in a good mood... what do you want?$a"</dialogue> #!String</p>
-<p><context>Tue2:</context> <dialogue>"...*sigh*...$s#$e#I know my parents mean well, but sometimes they just cannot understand my point of view. Weren't they ever young?"</dialogue> #!String</p>
-<p><context>Wed:</context> <dialogue>"Hey. Sorry in advance if I say anything rude. I didn't get much sleep last night.#$e#What do you want?"</dialogue> #!String</p>
-<p><context>Thu:</context> <dialogue>"#$1 Abigail1#Oh no, I think my Dad's going to cook dinner tonight...$s#$e#I don't feel like doing anything today...$u"</dialogue> #!String</p>
-<p><context>Fri:</context> <dialogue>"Wow, I just realized it's Friday. $u#$e#Sometimes I totally lose track of time."</dialogue> #!String</p>
-<p><context>Fri2:</context> <dialogue>"We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess."</dialogue> #!String</p>
-<p><context>Sat:</context> <dialogue>"The fresh mountain air is nice on a day like this.$h#$e#I wonder if the frogs will make an appearance soon."</dialogue> #!String</p>
-<p><context>Sun:</context> <dialogue>"Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter...$s"</dialogue> #!String</p>
-<p><context>Sun2:</context> <dialogue>"I wonder what would happen if I spent all night in the graveyard?#$q 17/18 Sun_old#@, What do you think happens to us after we die?#$r 17 0 Sun_17#I have no idea.#$r 18 40 Sun_18#We come back as spooky ghosts.#$r 17 0 Sun_17#We go to Heaven.#$r 18 0 Sun_17#Our energy bodies enter the astral plane.#$r 17 30 Sun_nothing#Nothing. We just cease to exist."</dialogue> #!String</p>
-<p><context>Sun_old:</context> <dialogue>"$p 17#I guess you think nothing would happen, right?$u|Maybe a wicked ghost would appear!"</dialogue> #!String</p>
-<p><context>Sun_17:</context> <dialogue>"Hmm, interesting..."</dialogue> #!String</p>
-<p><context>Sun_18:</context> <dialogue>"Well that's an interesting theory!$h"</dialogue> #!String</p>
-<p><context>Sun_nothing:</context> <dialogue>"You know, that wouldn't be so bad.$8"</dialogue> #!String</p>
-<p><context>Wed2:</context> <dialogue>"Oh, hi @. Taking a break from your work?#$e#Me too. Oh! Nothing physical... just some online classes I'm taking."</dialogue> #!String</p>
-<p><context>Tue4:</context> <dialogue>"Hi, I'm glad to see you.$h#$e#I want to take my mind off things for a while... how is your day going?"</dialogue> #!String</p>
-<p><context>Sat6:</context> <dialogue>"You came all this way to visit me? That's nice.$h#$e#So have you been exploring the mountain caves at all?#$e#Interesting. I'd like to go there myself one of these days.$l"</dialogue> #!String</p>
-<p><context>Mon8:</context> <dialogue>"...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *giggle* $h"</dialogue> #!String</p>
-<p><context>Thu10:</context> <dialogue>"Hi.$l#$e#Do you feel like everything seems unreal lately?$l#$b#Not in a bad way, though.$h"</dialogue> #!String</p>
-<p><context>Fri6:</context> <dialogue>"The birds were happily chirping today. They're too simple to understand the future.#$e#It's better to be like them, isn't it?"</dialogue> #!String</p>
-<p><context><event>Event_VideoGame_Yes:</event></context> <dialogue>"Great! I'm sure you'll be able to beat this level with ease.$h"</dialogue> #!String</p>
-<p><context><event>Event_VideoGame_No:</event></context> <dialogue>"Oh? *sigh*... I guess I'll never get past this level, then...$s"</dialogue> #!String</p>
-<p><context><event>Event_Grave1:</event></context> <dialogue>"See? You understand why I'm out here, then.#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> #!String</p>
-<p><context><event>Event_Grave2:</event></context> <dialogue>"Sure. I don't want to kill anything, either. I just want to do a little exploring without risking my neck!#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> #!String</p>
-<p><context><event>Event_Grave3:</event></context> <dialogue>"Oh, it's because I'm a girl... isn't it? Ugh...$u^Why? I'm just as strong as you!$a#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> #!String</p>
-<p><context><event>Event_Grave4:</event></context> <dialogue>"Really? That's surprising.$8#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> #!String</p>
-<p><context><event>Event_Rain_1:</event></context> <dialogue>"I see...$8"</dialogue> #!String</p>
-<p><context><event>Event_Rain_2:</event></context> <dialogue>"Yea... I guess you would be one to appreciate this somber ambience."</dialogue> #!String</p>
-<p><context><event>Event_Rain_3:</event></context> <dialogue>"...That's true.$8"</dialogue> #!String</p>
-<p><context><event>Event_Tragic_1:</event></context> <dialogue>"Yeah... I guess my own life is okay...$s"</dialogue> #!String</p>
-<p><context><event>Event_Tragic_2:</event></context> <dialogue>"...!$h"</dialogue> #!String</p>
-<p><context><event>Event_Tragic_3:</event></context> <dialogue>"I would feel better if I could believe that...#$b#But I don't.$s"</dialogue> #!String</p>
-<p><context><event>Event_Cave2_1:</event></context> <dialogue>"@...$8"</dialogue> #!String</p>
-<p><context><event>Event_Cave2_2:</event></context> <dialogue>"@... I'm alright.$8"</dialogue> #!String</p>
-<p><context><event>Event_Cave_1:</event></context> <dialogue>"...okay.$8"</dialogue> #!String</p>
-<p><context><event>Event_Cave_2:</event></context> <dialogue>"I guess when you have something to lose, it's normal to be afraid...$l"</dialogue> #!String</p>
-<p><context><event>Event_Cave_3:</event></context> <dialogue>"...Um, okay. Sorry.$9"</dialogue> #!String</p>
-<p><context><date season="summer">summer_1:</date></context> <dialogue>"Summer's here. It's not really my favorite season.#$e#The air is so muggy I feel like I'm floating in soup."</dialogue> #!String</p>
-<p><context>summer_Mon:</context> <dialogue>"My pet guinea pig, David, just hates this hot weather. He's fussy."</dialogue> #!String</p>
-<p><context>summer_Tue:</context> <dialogue>"The air is so thick with honey and nectar all summer. I almost feel dizzy.$u"</dialogue> #!String</p>
-<p><context>summer_Wed:</context> <dialogue>"Have you decorated your house at all? That's what I'd be doing if I had a house."</dialogue> #!String</p>
-<p><context><date season="summer">summer_6:</date></context> <dialogue>"I went to the beach last night, after dark... Sometimes you can see strange lights bobbing over the sea.#$e#Or maybe that was just a dream I had... It doesn't feel real anymore."</dialogue> #!String</p>
-<p><context>summer_Thu:</context> <dialogue>"If I knew how to use a sword I would be exploring those caves by the mountain lake right now. It's probably nice and cool in there."</dialogue> #!String</p>
-<p><context><date season="summer">summer_Thu4:</date></context> <dialogue>"Ew, I hope I don't get a tan this summer.$s"</dialogue> #!String</p>
-<p><context>summer_Fri:</context> <dialogue>"I kind of wish I had a cat. Unfortunately, my Dad is allergic to pretty much everything."</dialogue> #!String</p>
-<p><context>summer_Sat:</context> <dialogue>"I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*"</dialogue> #!String</p>
-<p><context>summer_Sun:</context> <dialogue>"Do you ever get an urge to go exploring, @?#$q 25/26 summer_Sun_old#Okay... pretend you just won a free vacation. Where would you go?#$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#In a dark cave#$r 26 30 Sun_26#The old, gnarled forest#$r 25 0 Sun_25#Joja Mega-Mall"</dialogue> #!String</p>
-<p><context>summer_Sun_old:</context> <dialogue>"$p 25#I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. I think we both have similar, weird tastes.$h"</dialogue> #!String</p>
-<p><context>Sun_25:</context> <dialogue>"Huh. I think that would get old fast."</dialogue> #!String</p>
-<p><context>Sun_26:</context> <dialogue>"Yea! That sounds wonderful.$h"</dialogue> #!String</p>
-<p><context><date season="summer">summer_Wed2:</date></context> <dialogue>"I would love to live in an old farmhouse like you.#$b#The creak of a floorboard, the slow plumes of dust whispering through the rafters... There's something special about an old building, isn't there?"</dialogue> #!String</p>
-<p><context><date season="summer">summer_Tue4:</date></context> <dialogue>"You're an interesting guy, @. I'm glad you moved here.$h^You're an interesting lady, @. I'm glad you moved here.$h"</dialogue> #!String</p>
-<p><context><date season="summer">summer_Sat6:</date></context> <dialogue>"I'm actually enjoying myself this summer.$h#$e#It's funny how quickly one's outlook can change."</dialogue> #!String</p>
-<p><context><date season="summer">summer_Mon8:</date></context> <dialogue>"I used to think Pelican Town was kinda drab, but lately I'm starting to love some things about it.$h"</dialogue> #!String</p>
-<p><context><date season="summer">summer_Thu10:</date></context> <dialogue>"Wow, you look nice today.#$e#I mean, that summer air is really good for the complexion, isn't it?... heh...$l"</dialogue> #!String</p>
-<p><context><date season="summer">summer_Fri10:</date></context> <dialogue>"Do you ever get lonely on your farm?"</dialogue> #!String</p>
-<p><context><date season="fall">fall_1:</date></context> <dialogue>"Ah... Fall's here!$h#$e#I was getting so tired of summer."</dialogue> #!String</p>
-<p><context>fall_Mon:</context> <dialogue>"I need to stretch my legs and get some fresh air today."</dialogue> #!String</p>
-<p><context>fall_Tue:</context> <dialogue>"$d joja#I try to help out in the shop on most days. Business has been pretty bad since the Joja Mart opened, though.|Ever since Joja Mart shut down we've been doing great at the shop!$h"</dialogue> #!String</p>
-<p><context>fall_Wed:</context> <dialogue>"I can't wait to see some pumpkins this year.$h#$e#The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun."</dialogue> #!String</p>
-<p><context>fall_Thu:</context> <dialogue>"#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now."</dialogue> #!String</p>
-<p><context>fall_Sat:</context> <dialogue>"$d cc#I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?"</dialogue> #!String</p>
-<p><context>fall_Sun:</context> <dialogue>"Hmm... what should I do tonight?#$q 27/28 fall_Sun_old#I was thinking about dyeing my hair again... what do you think?#$r 27 10 Sun_27#Dye it black.#$r 27 10 Sun_27#Why not blonde?#$r 27 20 Sun_WildColor#How about bubblegum pink?#$r 28 0 Sun_28#I like your hair just the way it is!"</dialogue> #!String</p>
-<p><context>fall_Sun_old:</context> <dialogue>"$p 27#I was going to dye my hair but then I decided against it.|Yes? What is it?"</dialogue> #!String</p>
-<p><context>Sun_27:</context> <dialogue>"I guess that's a pretty safe choice, huh?#$e#I'll think about it."</dialogue> #!String</p>
-<p><context>Sun_28:</context> <dialogue>"Of course that's what you'd say.$u"</dialogue> #!String</p>
-<p><context>Sun_WildColor:</context> <dialogue>"You're always good for a laugh.$h"</dialogue> #!String</p>
-<p><context><date season="fall">fall_Wed2:</date></context> <dialogue>"Are you growing pumpkins on your farm this year?#$e#Save one for me!$h"</dialogue> #!String</p>
-<p><context><date season="fall">fall_Tue4:</date></context> <dialogue>"I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.$s#$b#I dunno why I'm saying this to you. Don't tell anyone.$8"</dialogue> #!String</p>
-<p><context><date season="fall">fall_Sat6:</date></context> <dialogue>"Hi.$h#$e#Your hair looks cool today... did you do something different?"</dialogue> #!String</p>
-<p><context><date season="fall">fall_Mon8:</date></context> <dialogue>"You know, I could actually see myself becoming a farmer some day...#$e#But how would that ever happen? *chuckle*$l"</dialogue> #!String</p>
-<p><context><date season="fall">fall_Thu10:</date></context> <dialogue>"I had an interesting dream last night, with you in it.#$e#It was a good dream.$h"</dialogue> #!String</p>
-<p><context><date season="fall">fall_Fri6:</date></context> <dialogue>"I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a kid again."</dialogue> #!String</p>
-<p><context><date season="fall">fall_Fri10:</date></context> <dialogue>"I usually feel lonely this time of year, but not anymore.$l#$e#@, what are your plans for the future?"</dialogue> #!String</p>
-<p><context><date season="winter">winter_1:</date></context> <dialogue>"Well, fall is over...$s#$e#But I like winter, too!$h"</dialogue> #!String</p>
-<p><context>winter_Mon:</context> <dialogue>"It's just too cold to go outside much.#$e#But I do enjoy building a snowgoon.$h"</dialogue> #!String</p>
-<p><context>winter_Tue:</context> <dialogue>"Doesn't a steaming hot cup of cocoa sound good right now?"</dialogue> #!String</p>
-<p><context>winter_Wed:</context> <dialogue>"Hi. Is it boring to be a farmer during the winter?"</dialogue> #!String</p>
-<p><context><date season="spring">spring_12:</date></context> <dialogue>"I'm definitely going to enter the egg hunt tomorrow. Are you?"</dialogue> #!String</p>
-<p><context><date season="spring">spring_23:</date></context> <dialogue>"Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid white dress...$s"</dialogue> #!String</p>
-<p><context><date season="winter">winter_7:</date></context> <dialogue>"I'm looking forward to making a snow man tomorrow."</dialogue> #!String</p>
-<p><context><date season="fall">fall_26:</date></context> <dialogue>"Will I see you tomorrow at the Spirit's Eve festival? Look for me in the haunted maze.$h"</dialogue> #!String</p>
-<p><context><date season="summer">summer_10:</date></context> <dialogue>"Everyone's excited for the Luau tomorrow. Maybe a little nervous, too, considering the Governor will be here."</dialogue> #!String</p>
-<p><context><date season="summer">summer_27:</date></context> <dialogue>"You can't miss tomorrow's festival. It's one of the most beautiful wonders of the valley."</dialogue> #!String</p>
-<p><context><date season="winter">winter_24:</date></context> <dialogue>"I'm going to eat so much cranberry sauce tomorrow.$h"</dialogue> #!String</p>
-<p><context>winter_Thu:</context> <dialogue>"Another year is almost over.#$e#It goes by so fast, doesn't it?$s"</dialogue> #!String</p>
-<p><context>winter_Fri:</context> <dialogue>"One thing I've learned living here... everyone stares at you if you look different."</dialogue> #!String</p>
-<p><context>winter_Sat:</context> <dialogue>"It's the weekend!#$e#That means I can play twice as many video games.$h#$e#Bye."</dialogue> #!String</p>
-<p><context>winter_Sun:</context> <dialogue>"Oh, hello.#$q 29/30 winter_Sun_old#I made these two drawings. What do you think?#$r 29 20 Sun_29#I like the jungle island and the tiger.#$r 30 5 Sun_30#I like the orc with the battleaxe.#$r 29 -50 Sun_Bad#I don't like either of them."</dialogue> #!String</p>
-<p><context>winter_Sun_old:</context> <dialogue>"$p 29#Remember those drawings I showed you a while ago? I accidentally threw them away.$s|Remember that drawing I showed you with the orc? I entered it into an online contest and won 50g!$h"</dialogue> #!String</p>
-<p><context>Sun_29:</context> <dialogue>"Oh yeah? I guess that makes sense."</dialogue> #!String</p>
-<p><context>Sun_30:</context> <dialogue>"I'm glad. It's embarrassing to share your art with others. But I think you and I are on the same page."</dialogue> #!String</p>
-<p><context>Sun_Bad:</context> <dialogue>"Rude! Why would you hurt my feelings like that? You're so insensitive!$s"</dialogue> #!String</p>
-<p><context><date season="winter">winter_Wed2:</date></context> <dialogue>"Hi. If you're ever bored, you can always hang out in my room.#$e#As long as I'm not changing, of course!"</dialogue> #!String</p>
-<p><context><date season="winter">winter_Tue4:</date></context> <dialogue>"It's so cold, I wish we had a hot cup of cocoa to share.$h"</dialogue> #!String</p>
-<p><context><date season="winter">winter_Sat6:</date></context> <dialogue>"I've been daydreaming a lot lately...#$e#Oh! You want to know what it's about? Well...$u#$b#...It's a secret.$h"</dialogue> #!String</p>
-<p><context><date season="winter">winter_Thu10:</date></context> <dialogue>"Another year is almost over...#$b#But this was a really good year, don't you think?$h"</dialogue> #!String</p>
-<p><context><date season="winter">winter_Wed6:</date></context> <dialogue>"It must be nice not having crops to worry about this time of year.#$e#And that means you can hang out with me more often!$h"</dialogue> #!String</p>
-<p><context><date season="winter">winter_Fri10:</date></context> <dialogue>"@, there's something I want to tell you...#$e#It's just... um... well... your boots! They, uh...look really clean... *gulp*#$e#That's all... *sigh*$s"</dialogue> #!String</p>
+<p><context>4:</context> <dialogue>"Oh, hi."</dialogue> </p>
+<p><context>Introduction:</context> <dialogue>"Oh, that's right... I heard someone new was moving onto that old farm.#$e#It's kind of a shame, really. I always enjoyed exploring those overgrown fields by myself.$9"</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue>"I hope a mermaid visits the beach."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue>"I'm gonna ask Willy if we can take the scenic route back."</dialogue> </p>
+<p><context>Resort_Leaving_2:</context> <dialogue>"Maybe we'll see a sea monster on the way back."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue>"The beach is okay, but it gets boring pretty quick. I'd rather check out that dark jungle, or the volcano!"</dialogue> </p>
+<p><context>Resort_Shore_2:</context> <dialogue>"Hmm, you think I could sneak my guinea pig onto the island?#$e#Nah, David's probably not much of a swimmer anyways.$h"</dialogue> </p>
+<p><context>Resort_Umbrella:</context> <dialogue>"My skin gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy."</dialogue> </p>
+<p><context>Resort_Umbrella_2:</context> <dialogue>"Hey @, want to build a sand castle with me?#$e#Actually, a sand dungeon might be cooler!$h"</dialogue> </p>
+<p><context>Resort_Umbrella_3:</context> <dialogue>"Hey @, you think you could build a raft?#$e#I saw a few cool islands on the way here I want to visit."</dialogue> </p>
+<p><context>Resort_Wander:</context> <dialogue>"An island this big has got to be hiding some buried treasure.#$e#Quick, get me a shovel!#$e#Relax, I'm just kidding.$h"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue>"Gus made me a dark purple refresher, to match my hair. It tastes great!$h"</dialogue> </p>
+<p><context>Resort:</context> <dialogue>"Bummer... Willy says we have to stay on the beach...$s#$b#And I brought my sword and everything...$s"</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue>"That's flattering... but I'm gonna have to say no. Sorry."</dialogue> </p>
+<p><context>divorced:</context> <dialogue>"What are you doing here? Just leave me alone!$a"</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue>"Don't talk to me!$a"</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue>"*sigh*... I can't stay mad at you anymore, @. Let's just move on with our lives.$s"</dialogue> </p>
+<p><context>breakUp:</context> <dialogue>"Oh... I... I understand. You see me as just a friend...$s#$b#I guess we weren't really a good match...$s"</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"Oh, hey. Taking a break from work?"</dialogue> </p>
+<p><context>Mon2:</context> <dialogue>"Oh, hi!#$e#Do you ever hang out at the cemetery? It's a peaceful place to spend some time alone."</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"Ugh... I'm not in a good mood right now.$s#$e#I said I'm not in a good mood... what do you want?$a"</dialogue> </p>
+<p><context>Tue2:</context> <dialogue>"...*sigh*...$s#$e#I know my parents mean well, but sometimes they just cannot understand my point of view. Weren't they ever young?"</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"Hey. Sorry in advance if I say anything rude. I didn't get much sleep last night.#$e#What do you want?"</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"#$1 Abigail1#Oh no, I think my Dad's going to cook dinner tonight...$s#$e#I don't feel like doing anything today...$u"</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"Wow, I just realized it's Friday. $u#$e#Sometimes I totally lose track of time."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue>"We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess."</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"The fresh mountain air is nice on a day like this.$h#$e#I wonder if the frogs will make an appearance soon."</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter...$s"</dialogue> </p>
+<p><context>Sun2:</context> <dialogue>"I wonder what would happen if I spent all night in the graveyard?#$q 17/18 Sun_old#@, What do you think happens to us after we die?#$r 17 0 Sun_17#I have no idea.#$r 18 40 Sun_18#We come back as spooky ghosts.#$r 17 0 Sun_17#We go to Heaven.#$r 18 0 Sun_17#Our energy bodies enter the astral plane.#$r 17 30 Sun_nothing#Nothing. We just cease to exist."</dialogue> </p>
+<p><context>Sun_old:</context> <dialogue>"$p 17#I guess you think nothing would happen, right?$u|Maybe a wicked ghost would appear!"</dialogue> </p>
+<p><context>Sun_17:</context> <dialogue>"Hmm, interesting..."</dialogue> </p>
+<p><context>Sun_18:</context> <dialogue>"Well that's an interesting theory!$h"</dialogue> </p>
+<p><context>Sun_nothing:</context> <dialogue>"You know, that wouldn't be so bad.$8"</dialogue> </p>
+<p><context>Wed2:</context> <dialogue>"Oh, hi @. Taking a break from your work?#$e#Me too. Oh! Nothing physical... just some online classes I'm taking."</dialogue> </p>
+<p><context>Tue4:</context> <dialogue>"Hi, I'm glad to see you.$h#$e#I want to take my mind off things for a while... how is your day going?"</dialogue> </p>
+<p><context>Sat6:</context> <dialogue>"You came all this way to visit me? That's nice.$h#$e#So have you been exploring the mountain caves at all?#$e#Interesting. I'd like to go there myself one of these days.$l"</dialogue> </p>
+<p><context>Mon8:</context> <dialogue>"...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *giggle* $h"</dialogue> </p>
+<p><context>Thu10:</context> <dialogue>"Hi.$l#$e#Do you feel like everything seems unreal lately?$l#$b#Not in a bad way, though.$h"</dialogue> </p>
+<p><context>Fri6:</context> <dialogue>"The birds were happily chirping today. They're too simple to understand the future.#$e#It's better to be like them, isn't it?"</dialogue> </p>
+<p><context><event>Event_VideoGame_Yes:</event></context> <dialogue>"Great! I'm sure you'll be able to beat this level with ease.$h"</dialogue> </p>
+<p><context><event>Event_VideoGame_No:</event></context> <dialogue>"Oh? *sigh*... I guess I'll never get past this level, then...$s"</dialogue> </p>
+<p><context><event>Event_Grave1:</event></context> <dialogue>"See? You understand why I'm out here, then.#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> </p>
+<p><context><event>Event_Grave2:</event></context> <dialogue>"Sure. I don't want to kill anything, either. I just want to do a little exploring without risking my neck!#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> </p>
+<p><context><event>Event_Grave3:</event></context> <dialogue>"Oh, it's because I'm a girl... isn't it? Ugh...$u^Why? I'm just as strong as you!$a#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> </p>
+<p><context><event>Event_Grave4:</event></context> <dialogue>"Really? That's surprising.$8#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8"</dialogue> </p>
+<p><context><event>Event_Rain_1:</event></context> <dialogue>"I see...$8"</dialogue> </p>
+<p><context><event>Event_Rain_2:</event></context> <dialogue>"Yea... I guess you would be one to appreciate this somber ambience."</dialogue> </p>
+<p><context><event>Event_Rain_3:</event></context> <dialogue>"...That's true.$8"</dialogue> </p>
+<p><context><event>Event_Tragic_1:</event></context> <dialogue>"Yeah... I guess my own life is okay...$s"</dialogue> </p>
+<p><context><event>Event_Tragic_2:</event></context> <dialogue>"...!$h"</dialogue> </p>
+<p><context><event>Event_Tragic_3:</event></context> <dialogue>"I would feel better if I could believe that...#$b#But I don't.$s"</dialogue> </p>
+<p><context><event>Event_Cave2_1:</event></context> <dialogue>"@...$8"</dialogue> </p>
+<p><context><event>Event_Cave2_2:</event></context> <dialogue>"@... I'm alright.$8"</dialogue> </p>
+<p><context><event>Event_Cave_1:</event></context> <dialogue>"...okay.$8"</dialogue> </p>
+<p><context><event>Event_Cave_2:</event></context> <dialogue>"I guess when you have something to lose, it's normal to be afraid...$l"</dialogue> </p>
+<p><context><event>Event_Cave_3:</event></context> <dialogue>"...Um, okay. Sorry.$9"</dialogue> </p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue>"Summer's here. It's not really my favorite season.#$e#The air is so muggy I feel like I'm floating in soup."</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue>"My pet guinea pig, David, just hates this hot weather. He's fussy."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue>"The air is so thick with honey and nectar all summer. I almost feel dizzy.$u"</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue>"Have you decorated your house at all? That's what I'd be doing if I had a house."</dialogue> </p>
+<p><context><date season="summer">summer_6:</date></context> <dialogue>"I went to the beach last night, after dark... Sometimes you can see strange lights bobbing over the sea.#$e#Or maybe that was just a dream I had... It doesn't feel real anymore."</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue>"If I knew how to use a sword I would be exploring those caves by the mountain lake right now. It's probably nice and cool in there."</dialogue> </p>
+<p><context><date season="summer">summer_Thu4:</date></context> <dialogue>"Ew, I hope I don't get a tan this summer.$s"</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue>"I kind of wish I had a cat. Unfortunately, my Dad is allergic to pretty much everything."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue>"I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*"</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue>"Do you ever get an urge to go exploring, @?#$q 25/26 summer_Sun_old#Okay... pretend you just won a free vacation. Where would you go?#$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#In a dark cave#$r 26 30 Sun_26#The old, gnarled forest#$r 25 0 Sun_25#Joja Mega-Mall"</dialogue> </p>
+<p><context>summer_Sun_old:</context> <dialogue>"$p 25#I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. I think we both have similar, weird tastes.$h"</dialogue> </p>
+<p><context>Sun_25:</context> <dialogue>"Huh. I think that would get old fast."</dialogue> </p>
+<p><context>Sun_26:</context> <dialogue>"Yea! That sounds wonderful.$h"</dialogue> </p>
+<p><context><date season="summer">summer_Wed2:</date></context> <dialogue>"I would love to live in an old farmhouse like you.#$b#The creak of a floorboard, the slow plumes of dust whispering through the rafters... There's something special about an old building, isn't there?"</dialogue> </p>
+<p><context><date season="summer">summer_Tue4:</date></context> <dialogue>"You're an interesting guy, @. I'm glad you moved here.$h^You're an interesting lady, @. I'm glad you moved here.$h"</dialogue> </p>
+<p><context><date season="summer">summer_Sat6:</date></context> <dialogue>"I'm actually enjoying myself this summer.$h#$e#It's funny how quickly one's outlook can change."</dialogue> </p>
+<p><context><date season="summer">summer_Mon8:</date></context> <dialogue>"I used to think Pelican Town was kinda drab, but lately I'm starting to love some things about it.$h"</dialogue> </p>
+<p><context><date season="summer">summer_Thu10:</date></context> <dialogue>"Wow, you look nice today.#$e#I mean, that summer air is really good for the complexion, isn't it?... heh...$l"</dialogue> </p>
+<p><context><date season="summer">summer_Fri10:</date></context> <dialogue>"Do you ever get lonely on your farm?"</dialogue> </p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue>"Ah... Fall's here!$h#$e#I was getting so tired of summer."</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue>"I need to stretch my legs and get some fresh air today."</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue>"$d joja#I try to help out in the shop on most days. Business has been pretty bad since the Joja Mart opened, though.|Ever since Joja Mart shut down we've been doing great at the shop!$h"</dialogue> </p>
+<p><context>fall_Wed:</context> <dialogue>"I can't wait to see some pumpkins this year.$h#$e#The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun."</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue>"#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now."</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue>"$d cc#I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?"</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue>"Hmm... what should I do tonight?#$q 27/28 fall_Sun_old#I was thinking about dyeing my hair again... what do you think?#$r 27 10 Sun_27#Dye it black.#$r 27 10 Sun_27#Why not blonde?#$r 27 20 Sun_WildColor#How about bubblegum pink?#$r 28 0 Sun_28#I like your hair just the way it is!"</dialogue> </p>
+<p><context>fall_Sun_old:</context> <dialogue>"$p 27#I was going to dye my hair but then I decided against it.|Yes? What is it?"</dialogue> </p>
+<p><context>Sun_27:</context> <dialogue>"I guess that's a pretty safe choice, huh?#$e#I'll think about it."</dialogue> </p>
+<p><context>Sun_28:</context> <dialogue>"Of course that's what you'd say.$u"</dialogue> </p>
+<p><context>Sun_WildColor:</context> <dialogue>"You're always good for a laugh.$h"</dialogue> </p>
+<p><context><date season="fall">fall_Wed2:</date></context> <dialogue>"Are you growing pumpkins on your farm this year?#$e#Save one for me!$h"</dialogue> </p>
+<p><context><date season="fall">fall_Tue4:</date></context> <dialogue>"I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.$s#$b#I dunno why I'm saying this to you. Don't tell anyone.$8"</dialogue> </p>
+<p><context><date season="fall">fall_Sat6:</date></context> <dialogue>"Hi.$h#$e#Your hair looks cool today... did you do something different?"</dialogue> </p>
+<p><context><date season="fall">fall_Mon8:</date></context> <dialogue>"You know, I could actually see myself becoming a farmer some day...#$e#But how would that ever happen? *chuckle*$l"</dialogue> </p>
+<p><context><date season="fall">fall_Thu10:</date></context> <dialogue>"I had an interesting dream last night, with you in it.#$e#It was a good dream.$h"</dialogue> </p>
+<p><context><date season="fall">fall_Fri6:</date></context> <dialogue>"I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a kid again."</dialogue> </p>
+<p><context><date season="fall">fall_Fri10:</date></context> <dialogue>"I usually feel lonely this time of year, but not anymore.$l#$e#@, what are your plans for the future?"</dialogue> </p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue>"Well, fall is over...$s#$e#But I like winter, too!$h"</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue>"It's just too cold to go outside much.#$e#But I do enjoy building a snowgoon.$h"</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue>"Doesn't a steaming hot cup of cocoa sound good right now?"</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue>"Hi. Is it boring to be a farmer during the winter?"</dialogue> </p>
+<p><context><date season="spring">spring_12:</date></context> <dialogue>"I'm definitely going to enter the egg hunt tomorrow. Are you?"</dialogue> </p>
+<p><context><date season="spring">spring_23:</date></context> <dialogue>"Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid white dress...$s"</dialogue> </p>
+<p><context><date season="winter">winter_7:</date></context> <dialogue>"I'm looking forward to making a snow man tomorrow."</dialogue> </p>
+<p><context><date season="fall">fall_26:</date></context> <dialogue>"Will I see you tomorrow at the Spirit's Eve festival? Look for me in the haunted maze.$h"</dialogue> </p>
+<p><context><date season="summer">summer_10:</date></context> <dialogue>"Everyone's excited for the Luau tomorrow. Maybe a little nervous, too, considering the Governor will be here."</dialogue> </p>
+<p><context><date season="summer">summer_27:</date></context> <dialogue>"You can't miss tomorrow's festival. It's one of the most beautiful wonders of the valley."</dialogue> </p>
+<p><context><date season="winter">winter_24:</date></context> <dialogue>"I'm going to eat so much cranberry sauce tomorrow.$h"</dialogue> </p>
+<p><context>winter_Thu:</context> <dialogue>"Another year is almost over.#$e#It goes by so fast, doesn't it?$s"</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue>"One thing I've learned living here... everyone stares at you if you look different."</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue>"It's the weekend!#$e#That means I can play twice as many video games.$h#$e#Bye."</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue>"Oh, hello.#$q 29/30 winter_Sun_old#I made these two drawings. What do you think?#$r 29 20 Sun_29#I like the jungle island and the tiger.#$r 30 5 Sun_30#I like the orc with the battleaxe.#$r 29 -50 Sun_Bad#I don't like either of them."</dialogue> </p>
+<p><context>winter_Sun_old:</context> <dialogue>"$p 29#Remember those drawings I showed you a while ago? I accidentally threw them away.$s|Remember that drawing I showed you with the orc? I entered it into an online contest and won 50g!$h"</dialogue> </p>
+<p><context>Sun_29:</context> <dialogue>"Oh yeah? I guess that makes sense."</dialogue> </p>
+<p><context>Sun_30:</context> <dialogue>"I'm glad. It's embarrassing to share your art with others. But I think you and I are on the same page."</dialogue> </p>
+<p><context>Sun_Bad:</context> <dialogue>"Rude! Why would you hurt my feelings like that? You're so insensitive!$s"</dialogue> </p>
+<p><context><date season="winter">winter_Wed2:</date></context> <dialogue>"Hi. If you're ever bored, you can always hang out in my room.#$e#As long as I'm not changing, of course!"</dialogue> </p>
+<p><context><date season="winter">winter_Tue4:</date></context> <dialogue>"It's so cold, I wish we had a hot cup of cocoa to share.$h"</dialogue> </p>
+<p><context><date season="winter">winter_Sat6:</date></context> <dialogue>"I've been daydreaming a lot lately...#$e#Oh! You want to know what it's about? Well...$u#$b#...It's a secret.$h"</dialogue> </p>
+<p><context><date season="winter">winter_Thu10:</date></context> <dialogue>"Another year is almost over...#$b#But this was a really good year, don't you think?$h"</dialogue> </p>
+<p><context><date season="winter">winter_Wed6:</date></context> <dialogue>"It must be nice not having crops to worry about this time of year.#$e#And that means you can hang out with me more often!$h"</dialogue> </p>
+<p><context><date season="winter">winter_Fri10:</date></context> <dialogue>"@, there's something I want to tell you...#$e#It's just... um... well... your boots! They, uh...look really clean... *gulp*#$e#That's all... *sigh*$s"</dialogue> </p>
 </xml>

@@ -1,57 +1,57 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Rainy_Day_0:</context> <dialogue>"On rainy days my thoughts always drift toward cinnamon and cookies."</dialogue> #!String</p>
-<p><context>Rainy_Day_1:</context> <dialogue>"I wonder if Maru and Dr. Harvey will ever get together? I'm sure Harvey likes her...#$e#I think Maru will have to make the first move, though.$h"</dialogue> #!String</p>
-<p><context>Rainy_Day_2:</context> <dialogue>"Hi, honey! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of the those.$11"</dialogue> #!String</p>
-<p><context>Rainy_Day_3:</context> <dialogue>"Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, honey?#$e#What was it called... 'Chili de @'?"</dialogue> #!String</p>
-<p><context>Rainy_Day_4:</context> <dialogue>"On days like this, I love to curl up with a good book."</dialogue> #!String</p>
-<p><context>Rainy_Night_0:</context> <dialogue>"How was your day, honey? I spent my afternoon reading a novel."</dialogue> #!String</p>
-<p><context>patio_Penny:</context> <dialogue>"This is a lot more peaceful than my old spot in town. I'm very happy here."</dialogue> #!String</p>
-<p><context>Rainy_Night_1:</context> <dialogue>"I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands."</dialogue> #!String</p>
-<p><context>Rainy_Night_2:</context> <dialogue>"I was just thinking about that night we met in the bathhouse.$l#$e#I'll never forget that night...$l"</dialogue> #!String</p>
-<p><context>Rainy_Night_3:</context> <dialogue>"The sound of rain used to bother me, when I lived in that old metal trailer. But it's quite soothing here."</dialogue> #!String</p>
-<p><context>Rainy_Night_4:</context> <dialogue>"I felt like making a nice dinner. I hope you like it. [212 214 225 209 200]$h"</dialogue> #!String</p>
-<p><context>Indoor_Day_0:</context> <dialogue>"It's so peaceful here. I used to have the most horrific nightmares, but now I sleep like a baby."</dialogue> #!String</p>
-<p><context>Indoor_Day_1:</context> <dialogue>"Good morning, @! I made you a hot breakfast.[195 210 211]#$e#It's important to me that you leave here with a full belly.$h"</dialogue> #!String</p>
-<p><context>Indoor_Day_2:</context> <dialogue>"You know, I think I'll read a book today. I picked up something new from the library last time I was there.#$e#Gunther asked me to say hi."</dialogue> #!String</p>
-<p><context>Indoor_Day_3:</context> <dialogue>"I love to hear about all the artifacts you've found. Archaeology is fascinating!#$e#To think... there may have been farmers at this very spot 10,000 years ago."</dialogue> #!String</p>
-<p><context>Indoor_Day_4:</context> <dialogue>"Was I shy when we first met? It's funny to think about, now that we've come so far.$h"</dialogue> #!String</p>
-<p><context>Indoor_Night_0:</context> <dialogue>"Good evening, honey. Did you accomplish everything you wanted to today?#$e#If not, that's okay. We've got all the time in the world!"</dialogue> #!String</p>
-<p><context>Indoor_Night_1:</context> <dialogue>"Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt."</dialogue> #!String</p>
-<p><context>Indoor_Night_2:</context> <dialogue>"We have it good here. We should always try and remember those less fortunate than us.#$e#I'm just very grateful for what we have."</dialogue> #!String</p>
-<p><context>Indoor_Night_3:</context> <dialogue>"Mom's probably pretty lonely now that I'm gone. I just hope she doesn't visit the saloon more to make up for it.#$e#You shouldn't feel bad! Mom has to solve her own problems. "</dialogue> #!String</p>
-<p><context>Indoor_Night_4:</context> <dialogue>"Ready to tuck in? I made the bed and everything...$11"</dialogue> #!String</p>
-<p><context>Outdoor_0:</context> <dialogue>"I only ever dreamed of living in such a beautiful place, and now it's come true.#$e#I was so miserable back home.$s"</dialogue> #!String</p>
-<p><context>Outdoor_1:</context> <dialogue>"Isn't this a perfect place to raise children?#$e#I would've been so happy growing up on a farm."</dialogue> #!String</p>
-<p><context>Outdoor_2:</context> <dialogue>"Hi, honey! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h"</dialogue> #!String</p>
-<p><context>Outdoor_3:</context> <dialogue>"I just saw a songbird flying due west. In Stardew Valley that's a very good omen.$h"</dialogue> #!String</p>
-<p><context>Outdoor_4:</context> <dialogue>"Ahh... It feels great to be outside. I could spend all day right here, observing every little thing."</dialogue> #!String</p>
-<p><context>OneKid_0:</context> <dialogue>"Have you had any time to play with %kid1 today? Maybe a second child will make things better."</dialogue> #!String</p>
-<p><context>OneKid_1:</context> <dialogue>"Little %kid1 is going to have such a great childhood here."</dialogue> #!String</p>
-<p><context>OneKid_3:</context> <dialogue>"I feel a lot older now that we have a child. Maybe it's just this new responsibility weighing on me.#$e#It's not bad! I've wanted this for a long time.$11"</dialogue> #!String</p>
-<p><context>TwoKids_0:</context> <dialogue>"I already gave %kid1 and %kid2 their food. They're such hungry children!"</dialogue> #!String</p>
-<p><context>TwoKids_1:</context> <dialogue>"We have to make sure and give %kid1 a lot of attention now that we have %kid2. We don't want any jealousy between them."</dialogue> #!String</p>
-<p><context>TwoKids_2:</context> <dialogue>"I've had this dream that %kid2 grew wings and flew into the night sky. What does it mean?"</dialogue> #!String</p>
-<p><context>TwoKids_3:</context> <dialogue>"A nice house, two wonderful kids, and a beautiful plot of land. We're so very fortunate."</dialogue> #!String</p>
-<p><context>Good_0:</context> <dialogue>"@...I still can't believe we're married...$l"</dialogue> #!String</p>
-<p><context>Good_1:</context> <dialogue>"I had dreams of marrying you for such a long time.$l"</dialogue> #!String</p>
-<p><context>Good_2:</context> <dialogue>"I knew you were the one from the moment you moved here...$l"</dialogue> #!String</p>
-<p><context>Good_3:</context> <dialogue>"Wow, you look really handsome today! Did you shave?$l^Wow, you look beautiful today. Did you do something different with your hair?$l"</dialogue> #!String</p>
-<p><context>Good_4:</context> <dialogue>"This place is really starting to feel like home.$l"</dialogue> #!String</p>
-<p><context>Good_6:</context> <dialogue>"Be careful out there! Sometimes I worry that you aren't eating enough wholesome food."</dialogue> #!String</p>
-<p><context>funLeave_Penny:</context> <dialogue>"I'm going to head into town today, just for fun. I'll be back in a while!"</dialogue> #!String</p>
-<p><context>funReturn_Penny:</context> <dialogue>"I had a nice time... It's good to stay in contact with everyone. Tell me about your day."</dialogue> #!String</p>
-<p><context><date season="spring">spring_8:</date></context> <dialogue>"Spring is probably my favorite season. There's a certain freshness in the air that fills me with hope."</dialogue> #!String</p>
-<p><context><date season="spring">spring_1:</date></context> <dialogue>"We've got a long, warm year to look forward to. Let's make it a productive one."</dialogue> #!String</p>
-<p><context><date season="spring">spring_15:</date></context> <dialogue>"Ah, the 'spring cleaning'... I'm actually going to enjoy this."</dialogue> #!String</p>
-<p><context><date season="summer">summer_16:</date></context> <dialogue>"*phew*... I need to eat more melon to combat this heat!"</dialogue> #!String</p>
-<p><context><date season="summer">summer_1:</date></context> <dialogue>"Summer may be searing hot, but the humidity feels great on the skin."</dialogue> #!String</p>
-<p><context><date season="summer">summer_2:</date></context> <dialogue>"In summer, the ants become very active. I could watch them for hours... they have a pretty complex civilization from the looks of it!"</dialogue> #!String</p>
-<p><context><date season="fall">fall_5:</date></context> <dialogue>"The smell of fall reminds me of the smell of books... weird, isn't it?"</dialogue> #!String</p>
-<p><context><date season="fall">fall_1:</date></context> <dialogue>"Fall... It makes me think of colored paper and glue. Maybe I'm spending too much time with the children.$h"</dialogue> #!String</p>
-<p><context><date season="fall">fall_2:</date></context> <dialogue>"Will you grow any giant pumpkins this year?$11"</dialogue> #!String</p>
-<p><context><date season="winter">winter_1:</date></context> <dialogue>"Winter's a good time to unwind a bit. You deserve it after the long year!"</dialogue> #!String</p>
-<p><context><date season="winter">winter_6:</date></context> <dialogue>"The falling snow reminds me of grandma, rocking by the fire. I have this vivid memory of her shadow, flickering against the orange wood... That was long ago."</dialogue> #!String</p>
-<p><context><date season="winter">winter_3:</date></context> <dialogue>"How will we stay afloat this winter? Oh, you don't have to tell me... I trust you to make the right decisions."</dialogue> #!String</p>
+<p><context>Rainy_Day_0:</context> <dialogue>"On rainy days my thoughts always drift toward cinnamon and cookies."</dialogue> </p>
+<p><context>Rainy_Day_1:</context> <dialogue>"I wonder if Maru and Dr. Harvey will ever get together? I'm sure Harvey likes her...#$e#I think Maru will have to make the first move, though.$h"</dialogue> </p>
+<p><context>Rainy_Day_2:</context> <dialogue>"Hi, honey! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of the those.$11"</dialogue> </p>
+<p><context>Rainy_Day_3:</context> <dialogue>"Hmm... maybe I should experiment with a new recipe. You liked the last recipe I made, didn't you, honey?#$e#What was it called... 'Chili de @'?"</dialogue> </p>
+<p><context>Rainy_Day_4:</context> <dialogue>"On days like this, I love to curl up with a good book."</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue>"How was your day, honey? I spent my afternoon reading a novel."</dialogue> </p>
+<p><context>patio_Penny:</context> <dialogue>"This is a lot more peaceful than my old spot in town. I'm very happy here."</dialogue> </p>
+<p><context>Rainy_Night_1:</context> <dialogue>"I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my hands."</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue>"I was just thinking about that night we met in the bathhouse.$l#$e#I'll never forget that night...$l"</dialogue> </p>
+<p><context>Rainy_Night_3:</context> <dialogue>"The sound of rain used to bother me, when I lived in that old metal trailer. But it's quite soothing here."</dialogue> </p>
+<p><context>Rainy_Night_4:</context> <dialogue>"I felt like making a nice dinner. I hope you like it. [212 214 225 209 200]$h"</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue>"It's so peaceful here. I used to have the most horrific nightmares, but now I sleep like a baby."</dialogue> </p>
+<p><context>Indoor_Day_1:</context> <dialogue>"Good morning, @! I made you a hot breakfast.[195 210 211]#$e#It's important to me that you leave here with a full belly.$h"</dialogue> </p>
+<p><context>Indoor_Day_2:</context> <dialogue>"You know, I think I'll read a book today. I picked up something new from the library last time I was there.#$e#Gunther asked me to say hi."</dialogue> </p>
+<p><context>Indoor_Day_3:</context> <dialogue>"I love to hear about all the artifacts you've found. Archaeology is fascinating!#$e#To think... there may have been farmers at this very spot 10,000 years ago."</dialogue> </p>
+<p><context>Indoor_Day_4:</context> <dialogue>"Was I shy when we first met? It's funny to think about, now that we've come so far.$h"</dialogue> </p>
+<p><context>Indoor_Night_0:</context> <dialogue>"Good evening, honey. Did you accomplish everything you wanted to today?#$e#If not, that's okay. We've got all the time in the world!"</dialogue> </p>
+<p><context>Indoor_Night_1:</context> <dialogue>"Hmm... skirt or pants tomorrow? Oh, who am I kidding... I always go with the skirt."</dialogue> </p>
+<p><context>Indoor_Night_2:</context> <dialogue>"We have it good here. We should always try and remember those less fortunate than us.#$e#I'm just very grateful for what we have."</dialogue> </p>
+<p><context>Indoor_Night_3:</context> <dialogue>"Mom's probably pretty lonely now that I'm gone. I just hope she doesn't visit the saloon more to make up for it.#$e#You shouldn't feel bad! Mom has to solve her own problems. "</dialogue> </p>
+<p><context>Indoor_Night_4:</context> <dialogue>"Ready to tuck in? I made the bed and everything...$11"</dialogue> </p>
+<p><context>Outdoor_0:</context> <dialogue>"I only ever dreamed of living in such a beautiful place, and now it's come true.#$e#I was so miserable back home.$s"</dialogue> </p>
+<p><context>Outdoor_1:</context> <dialogue>"Isn't this a perfect place to raise children?#$e#I would've been so happy growing up on a farm."</dialogue> </p>
+<p><context>Outdoor_2:</context> <dialogue>"Hi, honey! If I knew more about farm work I'd help you out more. Sorry!#$e#I'll be thinking of you.$h"</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue>"I just saw a songbird flying due west. In Stardew Valley that's a very good omen.$h"</dialogue> </p>
+<p><context>Outdoor_4:</context> <dialogue>"Ahh... It feels great to be outside. I could spend all day right here, observing every little thing."</dialogue> </p>
+<p><context>OneKid_0:</context> <dialogue>"Have you had any time to play with %kid1 today? Maybe a second child will make things better."</dialogue> </p>
+<p><context>OneKid_1:</context> <dialogue>"Little %kid1 is going to have such a great childhood here."</dialogue> </p>
+<p><context>OneKid_3:</context> <dialogue>"I feel a lot older now that we have a child. Maybe it's just this new responsibility weighing on me.#$e#It's not bad! I've wanted this for a long time.$11"</dialogue> </p>
+<p><context>TwoKids_0:</context> <dialogue>"I already gave %kid1 and %kid2 their food. They're such hungry children!"</dialogue> </p>
+<p><context>TwoKids_1:</context> <dialogue>"We have to make sure and give %kid1 a lot of attention now that we have %kid2. We don't want any jealousy between them."</dialogue> </p>
+<p><context>TwoKids_2:</context> <dialogue>"I've had this dream that %kid2 grew wings and flew into the night sky. What does it mean?"</dialogue> </p>
+<p><context>TwoKids_3:</context> <dialogue>"A nice house, two wonderful kids, and a beautiful plot of land. We're so very fortunate."</dialogue> </p>
+<p><context>Good_0:</context> <dialogue>"@...I still can't believe we're married...$l"</dialogue> </p>
+<p><context>Good_1:</context> <dialogue>"I had dreams of marrying you for such a long time.$l"</dialogue> </p>
+<p><context>Good_2:</context> <dialogue>"I knew you were the one from the moment you moved here...$l"</dialogue> </p>
+<p><context>Good_3:</context> <dialogue>"Wow, you look really handsome today! Did you shave?$l^Wow, you look beautiful today. Did you do something different with your hair?$l"</dialogue> </p>
+<p><context>Good_4:</context> <dialogue>"This place is really starting to feel like home.$l"</dialogue> </p>
+<p><context>Good_6:</context> <dialogue>"Be careful out there! Sometimes I worry that you aren't eating enough wholesome food."</dialogue> </p>
+<p><context>funLeave_Penny:</context> <dialogue>"I'm going to head into town today, just for fun. I'll be back in a while!"</dialogue> </p>
+<p><context>funReturn_Penny:</context> <dialogue>"I had a nice time... It's good to stay in contact with everyone. Tell me about your day."</dialogue> </p>
+<p><context><date season="spring">spring_8:</date></context> <dialogue>"Spring is probably my favorite season. There's a certain freshness in the air that fills me with hope."</dialogue> </p>
+<p><context><date season="spring">spring_1:</date></context> <dialogue>"We've got a long, warm year to look forward to. Let's make it a productive one."</dialogue> </p>
+<p><context><date season="spring">spring_15:</date></context> <dialogue>"Ah, the 'spring cleaning'... I'm actually going to enjoy this."</dialogue> </p>
+<p><context><date season="summer">summer_16:</date></context> <dialogue>"*phew*... I need to eat more melon to combat this heat!"</dialogue> </p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue>"Summer may be searing hot, but the humidity feels great on the skin."</dialogue> </p>
+<p><context><date season="summer">summer_2:</date></context> <dialogue>"In summer, the ants become very active. I could watch them for hours... they have a pretty complex civilization from the looks of it!"</dialogue> </p>
+<p><context><date season="fall">fall_5:</date></context> <dialogue>"The smell of fall reminds me of the smell of books... weird, isn't it?"</dialogue> </p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue>"Fall... It makes me think of colored paper and glue. Maybe I'm spending too much time with the children.$h"</dialogue> </p>
+<p><context><date season="fall">fall_2:</date></context> <dialogue>"Will you grow any giant pumpkins this year?$11"</dialogue> </p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue>"Winter's a good time to unwind a bit. You deserve it after the long year!"</dialogue> </p>
+<p><context><date season="winter">winter_6:</date></context> <dialogue>"The falling snow reminds me of grandma, rocking by the fire. I have this vivid memory of her shadow, flickering against the orange wood... That was long ago."</dialogue> </p>
+<p><context><date season="winter">winter_3:</date></context> <dialogue>"How will we stay afloat this winter? Oh, you don't have to tell me... I trust you to make the right decisions."</dialogue> </p>
 </xml>

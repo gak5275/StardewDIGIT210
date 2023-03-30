@@ -1,17 +1,17 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"Hey, you're pretty good at mining, for a human."</dialogue> #!String</p>
-<p><context>Mon:</context> <dialogue>"I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?"</dialogue> #!String</p>
-<p><context>Tue:</context> <dialogue>"Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?"</dialogue> #!String</p>
-<p><context>Wed:</context> <dialogue>"Hey, wanna buy something?"</dialogue> #!String</p>
-<p><context>Wed_6:</context> <dialogue>"Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered..."</dialogue> #!String</p>
-<p><context>Thu_4:</context> <dialogue>"I feel most comfortable underground.#$e#The deeper underground the better."</dialogue> #!String</p>
-<p><context>Fri:</context> <dialogue>"You've never seen a dwarf before, have you?"</dialogue> #!String</p>
-<p><context>Sat_8:</context> <dialogue>"The mines can be a treacherous place. Be careful, friend."</dialogue> #!String</p>
-<p><context>Sat:</context> <dialogue>"It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?"</dialogue> #!String</p>
-<p><context>Sun:</context> <dialogue>"One day you'll have to tell me about this beverage you call \"milk\"."</dialogue> #!String</p>
-<p><context>Thu:</context> <dialogue>"You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you."</dialogue> #!String</p>
-<p><context>Fri_2:</context> <dialogue>"Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."</dialogue> #!String</p>
+<p><context>Introduction:</context> <dialogue>"Hey, you're pretty good at mining, for a human."</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?"</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?"</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"Hey, wanna buy something?"</dialogue> </p>
+<p><context>Wed_6:</context> <dialogue>"Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered..."</dialogue> </p>
+<p><context>Thu_4:</context> <dialogue>"I feel most comfortable underground.#$e#The deeper underground the better."</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"You've never seen a dwarf before, have you?"</dialogue> </p>
+<p><context>Sat_8:</context> <dialogue>"The mines can be a treacherous place. Be careful, friend."</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?"</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"One day you'll have to tell me about this beverage you call \"milk\"."</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you."</dialogue> </p>
+<p><context>Fri_2:</context> <dialogue>"Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."</dialogue> </p>
 
 </xml>

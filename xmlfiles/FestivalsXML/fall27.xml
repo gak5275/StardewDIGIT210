@@ -1,52 +1,52 @@
 <xml>
 
 
-<p><context>name:</context> <dialogue>Spirit's Eve</dialogue> #!String</p>
-<p><context>conditions:</context> <dialogue>Town/2200 2350</dialogue> #!String</p>
-<p><context>shop:</context> <dialogue who="shop">BO 113 5000 1 O 746 750 5 BL 746 2000 1 BO 47 350 -1 F 2870 4000 -1</dialogue> #!String</p>
-<p><context>set-up:</context> <dialogue>spirits_eve/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Maru true 0 2 2 0 0 3 -11 0 0 -7 5 0 0 2 4 0/advancedMove Alex true -4 0 4 4000 4 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Pam true 0 1 1 5000 0 -1 1 5000/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/playerControl halloween</dialogue> #!String</p>
-<p><context>Abigail_spouse:</context> <dialogue who="Abigail">You'll have to tell me what's beyond, I can't go on... spiders...$s</dialogue> #!String</p>
-<p><context>Leah_spouse:</context> <dialogue who="Leah">I may have had a little too much pumpkin ale...</dialogue> #!String</p>
-<p><context>Maru_spouse:</context> <dialogue who="Maru">I'm confused... you go on ahead and let me figure this out.</dialogue> #!String</p>
-<p><context>Penny_spouse:</context> <dialogue who="Penny">Oh... These vapors... Hmmm... You look nice tonight.$l</dialogue> #!String</p>
-<p><context>Haley_spouse:</context> <dialogue who="Haley">I get scared easily... I think I'm just going to stay right here.$s</dialogue> #!String</p>
-<p><context>Sebastian_spouse:</context> <dialogue who="Sebastian">It would be interesting to have one of these on the farm.</dialogue> #!String</p>
-<p><context>Sam_spouse:</context> <dialogue who="Sam">Hey, I was wondering when you'd show up!$h</dialogue> #!String</p>
-<p><context>Harvey_spouse:</context> <dialogue who="Harvey">Hi... I was hoping you'd find me here...$l</dialogue> #!String</p>
-<p><context>Elliott_spouse:</context> <dialogue who="Elliott">Mmph... I believe I've eaten a few too many slices of pumpkin pie.</dialogue> #!String</p>
-<p><context>Abigail:</context> <dialogue who="Abigail">I can't go on... spiders...$s</dialogue> #!String</p>
-<p><context>Robin:</context> <dialogue who="Robin">Well, winter's almost here. It's a great time to stockpile wood and stone.</dialogue> #!String</p>
-<p><context>Demetrius:</context> <dialogue who="Demetrius">I haven't seen Maru in hours... I hope she's alright.</dialogue> #!String</p>
-<p><context>Maru:</context> <dialogue who="Maru">I think I've already been this way... no, wait...$s#$e#I'm lost...$s</dialogue> #!String</p>
-<p><context>Sebastian:</context> <dialogue who="Sebastian">I have no idea how these skeletons are walking... creepy.#$e#It's pretty cool though.</dialogue> #!String</p>
-<p><context>Pierre:</context> <dialogue who="Pierre">??</dialogue> #!String</p>
-<p><context>Caroline:</context> <dialogue who="Caroline">I get scared very easily. I'll leave the haunted maze to the younger people.</dialogue> #!String</p>
-<p><context>Linus:</context> <dialogue who="Linus">Good show, old friend.</dialogue> #!String</p>
-<p><context>Alex:</context> <dialogue who="Alex">There's something weird over there. But how do I get to it?#$e#There's gotta be a secret passage somewhere around here.</dialogue> #!String</p>
-<p><context>George:</context> <dialogue who="George">Hmm... smoked turkey haunch? I guess this festival isn't all bad.$h</dialogue> #!String</p>
-<p><context>Evelyn:</context> <dialogue who="Evelyn">I wish Gus would include a vegetarian option. Some zucchini skewers, maybe?</dialogue> #!String</p>
-<p><context>Lewis:</context> <dialogue who="Lewis">Good evening, @. Have you ventured into the haunted maze yet? It's quite spooky.#$e#That strange man who lives in the tower set it all up himself. He wouldn't let anyone near while he was working on it.</dialogue> #!String</p>
-<p><context>Clint:</context> <dialogue who="Clint">One of my iridium-infused maces would make quick work of these things.</dialogue> #!String</p>
-<p><context>Emily:</context> <dialogue who="Emily">Do you like the jack-o-lanterns? I carved them myself.</dialogue> #!String</p>
-<p><context>Penny:</context> <dialogue who="Penny">The vapor from this cauldron... it's making my head spin, but I can't seem to leave...$u</dialogue> #!String</p>
-<p><context>Pam:</context> <dialogue who="Pam">I'll come to any event with free grub! You won't see me in the haunted maze, though.</dialogue> #!String</p>
-<p><context>Haley:</context> <dialogue who="Haley">Eek! I'm too scared.$s</dialogue> #!String</p>
-<p><context>Jodi:</context> <dialogue who="Jodi">Vincent's upset that I won't let him go into the haunted maze... but he's just a little boy!</dialogue> #!String</p>
-<p><context>Kent:</context> <dialogue who="Kent">Hey, @. Nice evening, isn't it?</dialogue> #!String</p>
-<p><context>Sam:</context> <dialogue who="Sam">That's odd... It's just a dead end up ahead.#$e#I could've sworn there was someone ahead of me when I went through the maze, though. Where'd they go?</dialogue> #!String</p>
-<p><context>Leah:</context> <dialogue who="Leah">Mm, hi. Sorry... mouth full of blackberries.</dialogue> #!String</p>
-<p><context>Marnie:</context> <dialogue who="Marnie">Hi, @. Have you had a productive fall?#$e#It's starting to get quite cold... crops won't hold out for much longer.</dialogue> #!String</p>
-<p><context>Elliott:</context> <dialogue who="Elliott">Why, hello @. It's chilly, isn't it?</dialogue> #!String</p>
-<p><context>Gus:</context> <dialogue who="Gus">It's a lot of fun to cook with pumpkin. Such an interesting fruit.</dialogue> #!String</p>
-<p><context>Dwarf:</context> <dialogue who="Dwarf">You say it's raining up above? *gasp*#$e#Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.</dialogue> #!String</p>
-<p><context>Wizard:</context> <dialogue who="Wizard">The affairs of mundane folk matter little to me, but the elementals like a chance to see you up close.#$e#It was for them that I created this silly maze.</dialogue> #!String</p>
-<p><context>Harvey:</context> <dialogue who="Harvey">Oh! You found me...$8#$b#The truth is, I got too scared so I came here to hide. Don't tell anyone.$s</dialogue> #!String</p>
-<p><context>Shane:</context> <dialogue who="Shane">Why is there no more pumpkin ale?</dialogue> #!String</p>
-<p><context>Sandy:</context> <dialogue who="Sandy">I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s</dialogue> #!String</p>
-<p><context>Jas:</context> <dialogue who="Jas">But Aunt Marnie! I wanna go in the maze! I'm not scared!$s</dialogue> #!String</p>
-<p><context>Vincent:</context> <dialogue who="Vincent">Mother won't let me go in the maze. *sob*$s</dialogue> #!String</p>
-<p><context>Marlon:</context> <dialogue who="Marlon">Don't get too close to the cage.</dialogue> #!String</p>
-<p><context>Leo:</context> <dialogue who="Leo">%Leo's unblinking eyes are glued to the screen. You're unable to get his attention.</dialogue> #!String</p>
+<p><context>name:</context> <dialogue>Spirit's Eve</dialogue> </p>
+<p><context>conditions:</context> <dialogue>Town/2200 2350</dialogue> </p>
+<p><context>shop:</context> <dialogue who="shop">BO 113 5000 1 O 746 750 5 BL 746 2000 1 BO 47 350 -1 F 2870 4000 -1</dialogue> </p>
+<p><context>set-up:</context> <dialogue>spirits_eve/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Maru true 0 2 2 0 0 3 -11 0 0 -7 5 0 0 2 4 0/advancedMove Alex true -4 0 4 4000 4 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Pam true 0 1 1 5000 0 -1 1 5000/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/playerControl halloween</dialogue> </p>
+<p><context>Abigail_spouse:</context> <dialogue who="Abigail">You'll have to tell me what's beyond, I can't go on... spiders...$s</dialogue> </p>
+<p><context>Leah_spouse:</context> <dialogue who="Leah">I may have had a little too much pumpkin ale...</dialogue> </p>
+<p><context>Maru_spouse:</context> <dialogue who="Maru">I'm confused... you go on ahead and let me figure this out.</dialogue> </p>
+<p><context>Penny_spouse:</context> <dialogue who="Penny">Oh... These vapors... Hmmm... You look nice tonight.$l</dialogue> </p>
+<p><context>Haley_spouse:</context> <dialogue who="Haley">I get scared easily... I think I'm just going to stay right here.$s</dialogue> </p>
+<p><context>Sebastian_spouse:</context> <dialogue who="Sebastian">It would be interesting to have one of these on the farm.</dialogue> </p>
+<p><context>Sam_spouse:</context> <dialogue who="Sam">Hey, I was wondering when you'd show up!$h</dialogue> </p>
+<p><context>Harvey_spouse:</context> <dialogue who="Harvey">Hi... I was hoping you'd find me here...$l</dialogue> </p>
+<p><context>Elliott_spouse:</context> <dialogue who="Elliott">Mmph... I believe I've eaten a few too many slices of pumpkin pie.</dialogue> </p>
+<p><context>Abigail:</context> <dialogue who="Abigail">I can't go on... spiders...$s</dialogue> </p>
+<p><context>Robin:</context> <dialogue who="Robin">Well, winter's almost here. It's a great time to stockpile wood and stone.</dialogue> </p>
+<p><context>Demetrius:</context> <dialogue who="Demetrius">I haven't seen Maru in hours... I hope she's alright.</dialogue> </p>
+<p><context>Maru:</context> <dialogue who="Maru">I think I've already been this way... no, wait...$s#$e#I'm lost...$s</dialogue> </p>
+<p><context>Sebastian:</context> <dialogue who="Sebastian">I have no idea how these skeletons are walking... creepy.#$e#It's pretty cool though.</dialogue> </p>
+<p><context>Pierre:</context> <dialogue who="Pierre">??</dialogue> </p>
+<p><context>Caroline:</context> <dialogue who="Caroline">I get scared very easily. I'll leave the haunted maze to the younger people.</dialogue> </p>
+<p><context>Linus:</context> <dialogue who="Linus">Good show, old friend.</dialogue> </p>
+<p><context>Alex:</context> <dialogue who="Alex">There's something weird over there. But how do I get to it?#$e#There's gotta be a secret passage somewhere around here.</dialogue> </p>
+<p><context>George:</context> <dialogue who="George">Hmm... smoked turkey haunch? I guess this festival isn't all bad.$h</dialogue> </p>
+<p><context>Evelyn:</context> <dialogue who="Evelyn">I wish Gus would include a vegetarian option. Some zucchini skewers, maybe?</dialogue> </p>
+<p><context>Lewis:</context> <dialogue who="Lewis">Good evening, @. Have you ventured into the haunted maze yet? It's quite spooky.#$e#That strange man who lives in the tower set it all up himself. He wouldn't let anyone near while he was working on it.</dialogue> </p>
+<p><context>Clint:</context> <dialogue who="Clint">One of my iridium-infused maces would make quick work of these things.</dialogue> </p>
+<p><context>Emily:</context> <dialogue who="Emily">Do you like the jack-o-lanterns? I carved them myself.</dialogue> </p>
+<p><context>Penny:</context> <dialogue who="Penny">The vapor from this cauldron... it's making my head spin, but I can't seem to leave...$u</dialogue> </p>
+<p><context>Pam:</context> <dialogue who="Pam">I'll come to any event with free grub! You won't see me in the haunted maze, though.</dialogue> </p>
+<p><context>Haley:</context> <dialogue who="Haley">Eek! I'm too scared.$s</dialogue> </p>
+<p><context>Jodi:</context> <dialogue who="Jodi">Vincent's upset that I won't let him go into the haunted maze... but he's just a little boy!</dialogue> </p>
+<p><context>Kent:</context> <dialogue who="Kent">Hey, @. Nice evening, isn't it?</dialogue> </p>
+<p><context>Sam:</context> <dialogue who="Sam">That's odd... It's just a dead end up ahead.#$e#I could've sworn there was someone ahead of me when I went through the maze, though. Where'd they go?</dialogue> </p>
+<p><context>Leah:</context> <dialogue who="Leah">Mm, hi. Sorry... mouth full of blackberries.</dialogue> </p>
+<p><context>Marnie:</context> <dialogue who="Marnie">Hi, @. Have you had a productive fall?#$e#It's starting to get quite cold... crops won't hold out for much longer.</dialogue> </p>
+<p><context>Elliott:</context> <dialogue who="Elliott">Why, hello @. It's chilly, isn't it?</dialogue> </p>
+<p><context>Gus:</context> <dialogue who="Gus">It's a lot of fun to cook with pumpkin. Such an interesting fruit.</dialogue> </p>
+<p><context>Dwarf:</context> <dialogue who="Dwarf">You say it's raining up above? *gasp*#$e#Rain... It's almost mythical to us. Some of us live our entire lives without ever experiencing it.</dialogue> </p>
+<p><context>Wizard:</context> <dialogue who="Wizard">The affairs of mundane folk matter little to me, but the elementals like a chance to see you up close.#$e#It was for them that I created this silly maze.</dialogue> </p>
+<p><context>Harvey:</context> <dialogue who="Harvey">Oh! You found me...$8#$b#The truth is, I got too scared so I came here to hide. Don't tell anyone.$s</dialogue> </p>
+<p><context>Shane:</context> <dialogue who="Shane">Why is there no more pumpkin ale?</dialogue> </p>
+<p><context>Sandy:</context> <dialogue who="Sandy">I heard it's raining back home. Is that why you came here?$h#$e#I kind of miss the rain, actually...$s</dialogue> </p>
+<p><context>Jas:</context> <dialogue who="Jas">But Aunt Marnie! I wanna go in the maze! I'm not scared!$s</dialogue> </p>
+<p><context>Vincent:</context> <dialogue who="Vincent">Mother won't let me go in the maze. *sob*$s</dialogue> </p>
+<p><context>Marlon:</context> <dialogue who="Marlon">Don't get too close to the cage.</dialogue> </p>
+<p><context>Leo:</context> <dialogue who="Leo">%Leo's unblinking eyes are glued to the screen. You're unable to get his attention.</dialogue> </p>
 
 
 </xml>

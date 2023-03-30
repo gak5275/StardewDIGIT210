@@ -1,412 +1,412 @@
 <?xml-model href="../../LocationsXML/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-AdventureGuild_KillList_Header: <dialogue>------------------------------\n\t\t\t --Monster Eradication Goals--\n             \"Help us keep the valley safe.\"\n------------------------------</dialogue> #!String
-AdventureGuild_KillList_LineFormat: <dialogue>{0}/{1} {2}</dialogue> #!String
-AdventureGuild_KillList_LineFormat_None: <dialogue>{0}/{1} ????</dialogue> #!String
-AdventureGuild_KillList_LineFormat_OverTarget: <dialogue>{0} {2} *</dialogue> #!String
-AdventureGuild_KillList_Slimes: <dialogue>Slimes</dialogue> #!String
-AdventureGuild_KillList_VoidSpirits: <dialogue>Void Spirits</dialogue> #!String
-AdventureGuild_KillList_Bats: <dialogue>Bats</dialogue> #!String
-AdventureGuild_KillList_Skeletons: <dialogue>Skeletons</dialogue> #!String
-AdventureGuild_KillList_CaveInsects: <dialogue>Cave Insects</dialogue> #!String
-AdventureGuild_KillList_Duggies: <dialogue>Duggies</dialogue> #!String
-AdventureGuild_KillList_DustSprites: <dialogue>Dust Sprites</dialogue> #!String
-AdventureGuild_KillList_RockCrabs: <dialogue>Rock Crabs</dialogue> #!String
-AdventureGuild_KillList_Mummies: <dialogue>Mummies</dialogue> #!String
-AdventureGuild_KillList_PepperRex: <dialogue>Pepper Rex</dialogue> #!String
-AdventureGuild_KillList_Serpent: <dialogue>Serpents</dialogue> #!String
-AdventureGuild_KillList_Footer: <dialogue>\n  -See Gil to claim your rewards.</dialogue> #!String
-AnimalHouse_Incubator_RemoveEgg_Question: <dialogue>Remove the egg?</dialogue> #!String
-AnimalHouse_Incubator_Hatch_VoidEgg: <dialogue>A new chick hatched... It looks odd.</dialogue> #!String
-AnimalHouse_Incubator_Hatch_RegularEgg: <dialogue>A new baby chick hatched!</dialogue> #!String
-AnimalHouse_Incubator_Hatch_DuckEgg: <dialogue>A new baby duckling hatched!</dialogue> #!String
-AnimalHouse_Incubator_Hatch_DinosaurEgg: <dialogue>A new baby ...lizard?... hatched.</dialogue> #!String
-BeachNightMarket_Closed: <dialogue>Opens at 5pm.</dialogue> #!String
-BeachNightMarket_SubmarineInUse: <dialogue>The submarine is currently in use. Come back later.</dialogue> #!String
-BeachNightMarket_GiftGiverClosed: <dialogue>Merchant: The night market starts at 5pm... visit me then for a free cup of coffee! </dialogue> #!String
-BeachNightMarket_GiftGiverQuestion: <dialogue>Merchant: Hello there! Care for a cup of coffee?</dialogue> #!String
-BeachNightMarket_GiftGiverEnjoy: <dialogue>Merchant: Mmm... smells great, doesn't it?</dialogue> #!String
-BeachNightMarket_PainterClosed: <dialogue>Famous Painter Lupini: Come back when the market opens, if you wish to purchase my fine work.</dialogue> #!String
-BeachNightMarket_PainterQuestion: <dialogue>Famous Painter Lupini: I'm selling this painting for 1200g. What do you say?</dialogue> #!String
-BeachNightMarket_PainterSold: <dialogue>Famous Painter Lupini: My apologies... I have no more paintings to sell today.</dialogue> #!String
-BeachNightMarket_WarperQuestion: <dialogue>Shrouded Figure: I can send you home for 250g.</dialogue> #!String
-Beach_FixBridge_Question: <dialogue>Use 300 pieces of wood to fix the bridge?</dialogue> #!String
-Beach_FixBridge_Hint: <dialogue>Hmmm... With 300 pieces of wood this could be fixed.</dialogue> #!String
-Beach_GoneFishingMessage: <dialogue>    Gone fishing.\n\n   I'll be back tomorrow.</dialogue> #!String
-Beach_Mariner_Player_Male: <dialogue>lad</dialogue> #!String
-Beach_Mariner_Player_Female: <dialogue>miss</dialogue> #!String
-Beach_Mariner_PlayerMarried: <dialogue>Old Mariner: Glad the amulet worked out for ye, {0}.</dialogue> #!String
-Beach_Mariner_PlayerHasItem: <dialogue>Old Mariner: Don't be shy, now. Show that amulet to the one you intend to marry.</dialogue> #!String
-Beach_Mariner_PlayerNotUpgradedHouse: <dialogue>Old Mariner: I can see that sparkle in yer eye, {0}. Ye must be head over heels in love. But I'm afraid a bigger house is essential for a happy marriage.</dialogue> #!String
-Beach_Mariner_PlayerBuyItem_Question: <dialogue>Old Mariner: Ah, I can see it in yer eyes... There be a special someone in yer heart. Just so happens I'm sellin' a 'Mermaid's Pendant'. Give that to yer intended and they'll know exactly what you mean.</dialogue> #!String
-Beach_Mariner_PlayerBuyItem_AnswerYes: <dialogue>Buy (5000g)</dialogue> #!String
-Beach_Mariner_PlayerBuyItem_AnswerNo: <dialogue>Not now...</dialogue> #!String
-Beach_Mariner_PlayerNoRelationship: <dialogue>Old Mariner: I've got this old amulet to sell... but somethin' tells me yer not ready for it, {0}.</dialogue> #!String
-BuildableLocation_CantUpgrade_SomeoneInside: <dialogue>Can't upgrade while someone's inside.</dialogue> #!String
-BuildableLocation_CantUpgrade_IncorrectBuildingType: <dialogue>Incorrect Building Type</dialogue> #!String
-MineCart_Destination_Mines: <dialogue>Mines</dialogue> #!String
-MineCart_Destination_Town: <dialogue>Town</dialogue> #!String
-MineCart_Destination_BusStop: <dialogue>Bus Stop</dialogue> #!String
-MineCart_Destination_Quarry: <dialogue>Quarry</dialogue> #!String
-MineCart_Destination_Cancel: <dialogue>Cancel</dialogue> #!String
-MineCart_ChooseDestination: <dialogue>Choose destination:</dialogue> #!String
-MineCart_OutOfOrder: <dialogue>Out of order</dialogue> #!String
-BusStop_BuyTicketToDesert: <dialogue>Buy a ticket to Calico Desert for 500g?</dialogue> #!String
-BusStop_DesertOutOfService: <dialogue>The bus to Calico Desert is out of service.</dialogue> #!String
-BusStop_NotEnoughMoneyForTicket: <dialogue>You don't have enough money.</dialogue> #!String
-BusStop_NoDriver: <dialogue>Please return when a bus driver is present.</dialogue> #!String
-BusStop_ReturnToHorse1: <dialogue>{0} is wondering where you've been.</dialogue> #!String
-BusStop_ReturnToHorse2: <dialogue>Your loyal horse waits patiently for your return.</dialogue> #!String
-Club_Bouncer_TextAboveHead1: <dialogue>Now I'm angry!</dialogue> #!String
-Club_Bouncer_TextAboveHead2: <dialogue>You little punk...</dialogue> #!String
-CommunityCenter_AreaCompletion1: <dialogue>We are the Junimos... Keepers of the forest.</dialogue> #!String
-CommunityCenter_AreaCompletion2: <dialogue>This house was empty for years... The trees moved in and so did we.</dialogue> #!String
-CommunityCenter_AreaCompletion3: <dialogue>We're happy to help... It's not our house, after all.</dialogue> #!String
-CommunityCenter_AreaCompletion4: <dialogue>So many wonderful bundles... thank you! Thank you!</dialogue> #!String
-CommunityCenter_AreaCompletion5: <dialogue>When we're done here, we'll return to the other world.</dialogue> #!String
-CommunityCenter_AreaCompletion6: <dialogue>The last bundle... Farewell... {0}.</dialogue> #!String
-CommunityCenter_AreaRestored: <dialogue>The {0} has been restored!</dialogue> #!String
-CommunityCenter_JunimosReturned: <dialogue>The Junimos have returned to the spirit world.</dialogue> #!String
-CommunityCenter_AreaName_BoilerRoom: <dialogue>Boiler Room</dialogue> #!String
-CommunityCenter_AreaName_BulletinBoard: <dialogue>Bulletin Board</dialogue> #!String
-CommunityCenter_AreaName_CraftsRoom: <dialogue>Crafts Room</dialogue> #!String
-CommunityCenter_AreaName_FishTank: <dialogue>Fish Tank</dialogue> #!String
-CommunityCenter_AreaName_Pantry: <dialogue>Pantry</dialogue> #!String
-CommunityCenter_AreaName_Vault: <dialogue>Vault</dialogue> #!String
-CommunityCenter_AreaName_AbandonedJojaMart: <dialogue>Abandoned JojaMart</dialogue> #!String
-Desert_Return_Question: <dialogue>Return to Stardew Valley?</dialogue> #!String
-Desert_Return_Yes: <dialogue>Yes</dialogue> #!String
-Desert_Return_No: <dialogue>Not yet</dialogue> #!String
-Farm_1SlimeEscaped: <dialogue>A slime escaped during the night.</dialogue> #!String
-Farm_NSlimesEscaped: <dialogue>{0} slimes escaped during the night.</dialogue> #!String
-Farm_GrandpaNote: <dialogue>{0}-\n\nWait for my return on the dawn of your third year.\n\n-Grandpa</dialogue> #!String
-Farm_GrandpaShrine_PlaceDiamond: <dialogue>You place the diamond on Grandpa's Shrine.</dialogue> #!String
-Farm_GrandpaShrine_DiamondSlot: <dialogue>There's a diamond-shaped slot in the shrine... was that always there?</dialogue> #!String
-FarmHouse_SpouseAttacked1: <dialogue>What the...?</dialogue> #!String
-FarmHouse_SpouseAttacked2: <dialogue>Ahh!!</dialogue> #!String
-FarmHouse_SpouseAttacked3: <dialogue>&amp;@#$!!</dialogue> #!String
-FarmHouse_SpouseAttacked4: <dialogue>Aiii!</dialogue> #!String
-FarmHouse_SpouseAttacked5: <dialogue>Die!</dialogue> #!String
-FarmHouse_SpouseAttacked6: <dialogue>Get out!</dialogue> #!String
-FarmHouse_SpouseAttacked7: <dialogue>Yuck!</dialogue> #!String
-FarmHouse_SpouseAttacked8: <dialogue>Take that!</dialogue> #!String
-FarmHouse_SpouseAttacked9: <dialogue>Help!</dialogue> #!String
-FarmHouse_SpouseAttacked10: <dialogue>Get your sword!</dialogue> #!String
-FarmHouse_SpouseAttacked11: <dialogue>Agh!</dialogue> #!String
-FarmHouse_SpouseAttacked12: <dialogue>Gahh!</dialogue> #!String
-Forest_WizardTower_Locked: <dialogue>It's locked. You can hear someone inside, though.</dialogue> #!String
-Forest_OpenedSewer: <dialogue>You unlock the sewer hatch with the Rusty Key!</dialogue> #!String
-Forest_HatMouseStore_Abandoned: <dialogue>It looks abandoned...</dialogue> #!String
-Desert_BusArrived: <dialogue>Alright, kid. Just get back on the bus when you're ready to go home.</dialogue> #!String
-Bus_NoDriver: <dialogue>You'll have to wait until Pam's on duty to ride the bus.</dialogue> #!String
-DoorUnlock_NotFriend_Male: <dialogue>You're not good enough friends with {0} to enter his bedroom.</dialogue> #!String
-DoorUnlock_NotFriend_Female: <dialogue>You're not good enough friends with {0} to enter her bedroom.</dialogue> #!String
-DoorUnlock_NotFriend_Couple: <dialogue>You're not good enough friends with {0} or {1} to enter their bedroom.</dialogue> #!String
-FarmHouse_Bed_GoToSleep: <dialogue>Go to sleep for the night?</dialogue> #!String
-MensLocker_WrongGender: <dialogue>That's the men's locker room... you can't go in there!</dialogue> #!String
-WomensLocker_WrongGender: <dialogue>That's the women's locker room... you can't go in there!</dialogue> #!String
-Saloon_ColaMachine_Question: <dialogue>Buy a Joja Cola for 75g?</dialogue> #!String
-IceCreamStand_ComeBackLater: <dialogue>Come back when someone's working.</dialogue> #!String
-IceCreamStand_NotSummer: <dialogue>Closed until summer.</dialogue> #!String
-WizardTower_WizardShrine: <dialogue>           The Shrine Of Illusions  \nMake an offering of 500g to change your appearance?</dialogue> #!String
-SeedShop_BuyBackpack_Response2000: <dialogue>Purchase (2,000g)</dialogue> #!String
-SeedShop_BuyBackpack_Response10000: <dialogue>Purchase (10,000g)</dialogue> #!String
-SeedShop_BuyBackpack_ResponseNo: <dialogue>Not now</dialogue> #!String
-SeedShop_BuyBackpack_Question24: <dialogue>Backpack Upgrade -- 24 slots</dialogue> #!String
-SeedShop_BuyBackpack_Question36: <dialogue>Backpack Upgrade -- 36 slots</dialogue> #!String
-Club_Buy100Coins: <dialogue>Buy 100 Qi Coins for 1,000g?</dialogue> #!String
-Desert_SandDragon_Initial: <dialogue>Its maw gapes at the desert sun. Even in death, it yearns for a taste.</dialogue> #!String
-Desert_SandDragon_ConsumeEssence: <dialogue>You place the essence in the dragon's maw. Only then do you notice a note hidden in the eye socket:</dialogue> #!String
-Desert_SandDragon_MrQiNote: <dialogue>'You've proven yourself, kid. Check out the pile of lumber next to your house. -Mr. Qi'</dialogue> #!String
-Railroad_Box_Initial: <dialogue>It's an empty box.</dialogue> #!String
-Railroad_Box_ConsumeShell: <dialogue>You throw the shell into the box. Immediately, a note falls down from the rafters above:</dialogue> #!String
-Railroad_Box_MrQiNote: <dialogue>'Well done. Your next task: Place 10 beets inside Mayor's fridge. -Mr. Qi'</dialogue> #!String
-ManorHouse_LedgerBook_Singleplayer: <dialogue>Pelican Town Ledger Book... It looks like the mayor uses this to keep track of finances.</dialogue> #!String
-ManorHouse_LedgerBook_NoFarmhands: <dialogue>If any farmhands join your farm, you can transfer money to each other.</dialogue> #!String
-ManorHouse_LedgerBook_SharedWallets_Client: <dialogue>Pelican Town Ledger Book... The owner of the farm can request the mayor to split the funds of the farmhands.</dialogue> #!String
-ManorHouse_LedgerBook_SharedWallets_SeparateQuestion: <dialogue>Split the funds of each farmer? Tonight, the money will be divided evenly. If you change your mind, come back here before night's end.</dialogue> #!String
-ManorHouse_LedgerBook_SharedWallets_CancelQuestion: <dialogue>Cancel splitting up funds?</dialogue> #!String
-ManorHouse_LedgerBook_SeparateWallets_HostQuestion: <dialogue>It's the mayor's ledger book. What would you like to do?</dialogue> #!String
-ManorHouse_LedgerBook_SendMoney: <dialogue>Send Money</dialogue> #!String
-ManorHouse_LedgerBook_MergeWallets: <dialogue>Merge Funds</dialogue> #!String
-ManorHouse_LedgerBook_CancelMerge: <dialogue>Cancel Merging Funds</dialogue> #!String
-ManorHouse_LedgerBook_Leave: <dialogue>Leave</dialogue> #!String
-ManorHouse_LedgerBook_TransferCancel: <dialogue>Cancel</dialogue> #!String
-ManorHouse_LedgerBook_SeparateWallets_MergeQuestion: <dialogue>Merge the funds of each farmer? Tonight, everyone's money will be combined. If you change your mind, come back here before night's end.</dialogue> #!String
-ManorHouse_LedgerBook_SeparateWallets_CancelQuestion: <dialogue>Cancel merging funds?</dialogue> #!String
-ManorHouse_LedgerBook_SeparateWallets_TransferQuestion: <dialogue>Who would you like to send money to?</dialogue> #!String
-ManorHouse_LedgerBook_SeparateWallets_HowMuchQuestion: <dialogue>How much money would you like to send?</dialogue> #!String
-ManorHouse_DivorceBook_NoSpouse: <dialogue>Pelican Town Marriage Log... After marriage, you may file for divorce here. Let's hope that isn't necessary!</dialogue> #!String
-ManorHouse_DivorceBook_Question: <dialogue>File for divorce? There is a 50,000g fee.</dialogue> #!String
-ManorHouse_DivorceBook_CancelQuestion: <dialogue>Cancel your divorce?</dialogue> #!String
-ManorHouse_DivorceBook_Cancelled: <dialogue>Your divorce request has been cancelled.</dialogue> #!String
-ManorHouse_DivorceBook_Filed: <dialogue>Your divorce papers have been filed, but your spouse won't know until tomorrow morning. If you change your mind, come back here before night's end.</dialogue> #!String
-ManorHouse_MayorFridge_Initial: <dialogue>It's the mayor's fridge. It's mostly full of milk and iced tea.</dialogue> #!String
-ManorHouse_MayorFridge_ConsumeBeets: <dialogue>You quickly place the beets in the fridge. Wait a sec... there's a note taped to the milk. It's addressed to you:</dialogue> #!String
-ManorHouse_MayorFridge_MrQiNote: <dialogue>'Good job, kid. Your final task: Give the sand dragon his last meal. -Mr. Qi'</dialogue> #!String
-Tunnel_TunnelSafe_Initial: <dialogue>It's a battery powered lock-box. Unfortunately, there's no battery in it.</dialogue> #!String
-Tunnel_TunnelSafe_ConsumeBattery: <dialogue>It worked! The lock-box swings open. Inside, there's a note:</dialogue> #!String
-Tunnel_TunnelSafe_MrQiNote: <dialogue>'Your first task: Bring a rainbow shell to the train platform. Leave it in the box. -Mr. Qi'</dialogue> #!String
-SkullCave_SkullDoor_Locked: <dialogue>The door is locked.</dialogue> #!String
-SkullCave_SkullDoor_Unlock: <dialogue>You insert the skull key into the keyhole. It's a perfect fit!</dialogue> #!String
-FarmHouse_Crib_NewbornSleeping: <dialogue>{0} is sleeping.</dialogue> #!String
-Farm_GreenhouseRuins: <dialogue>Whatever this once was, it's now in ruins.</dialogue> #!String
-Saloon_Arcade_Minecart_Menu: <dialogue>= Junimo Kart =</dialogue> #!String
-Saloon_Arcade_Minecart_ProgressMode: <dialogue>Progress Mode</dialogue> #!String
-Saloon_Arcade_Minecart_EndlessMode: <dialogue>Endless Mode</dialogue> #!String
-Saloon_Arcade_Minecart_Exit: <dialogue>Exit</dialogue> #!String
-Saloon_Arcade_PK_NewGame+: <dialogue>Press button for a more difficult journey...</dialogue> #!String
-Saloon_Arcade_Minecart_Inactive: <dialogue>There's a skull-shaped keyhole...</dialogue> #!String
-AnimalShop_Marnie_Trash: <dialogue>Mostly empty pizza cartons.</dialogue> #!String
-JoshHouse_Alex_Trash: <dialogue>There's a bunch of protein bar wrappers.</dialogue> #!String
-SamHouse_Sam_Trash: <dialogue>Looks like Sam cleans his trash bin regularly.</dialogue> #!String
-SeedShop_Abigail_Drawers: <dialogue>It's full of clothes... wait. There's a sword hidden under the clothes.</dialogue> #!String
-Submarine_SubmergeQuestion: <dialogue>Captain: Ahoy there! Want to take the deep-sea fishing tour? It'll cost ya 1,000g.</dialogue> #!String
-Submarine_AscendQuestion: <dialogue>Captain: Shall I take us back up?</dialogue> #!String
-Submarine_Done: <dialogue>Captain: We're back! Make sure not to leave any fish lying around.</dialogue> #!String
-Mines_MineElevator_NotWorking: <dialogue>It doesn't seem to be working...</dialogue> #!String
-Mines_LeaveMine: <dialogue>Leave the mine</dialogue> #!String
-Mines_GoUp: <dialogue>Go up one level</dialogue> #!String
-Mines_DoNothing: <dialogue>Do nothing</dialogue> #!String
-Mines_ResetMine: <dialogue>Reset your progress in the mine?\n(You'll be back at mine level 1).</dialogue> #!String
-RemoveChest: <dialogue>You remove the empty chest.</dialogue> #!String
-Club_CalicoJack_HS: <dialogue>This table's for the big shots. It's a 1000 coin bet.</dialogue> #!String
-Club_CalicoJack: <dialogue>Wanna play some CalicoJack? This is the 100 coin table.</dialogue> #!String
-Club_CalicoJack_Play: <dialogue>Play</dialogue> #!String
-Club_CalicoJack_Leave: <dialogue>Leave</dialogue> #!String
-Club_CalicoJack_Rules: <dialogue>Rules</dialogue> #!String
-Club_QiCoins: <dialogue>You have {0} Club Coins.</dialogue> #!String
-Club_QiCoins_BuyStarter: <dialogue>You have 0 Club Coins. Buy a starter pack for 1000g?</dialogue> #!String
-Club_QiCoins_NotEnoughMoney: <dialogue>Error: Not enough money.</dialogue> #!String
-Club_ClubSeller: <dialogue>Psst... I have a 'Statue of Endless Fortune' for sale... only 1,000,000g. What do you say?</dialogue> #!String
-Club_ClubSeller_Yes: <dialogue>I'll take it.</dialogue> #!String
-Club_ClubSeller_No: <dialogue>No way!</dialogue> #!String
-Club_ClubSeller_NotEnoughMoney: <dialogue>Hey, I said 1,000,000g! This isn't gonna cut it.</dialogue> #!String
-Secret_Note_Name: <dialogue>Secret Note</dialogue> #!String
-Town_DwarfGrave_Translated: <dialogue>     You translate the dwarvish:     \n\nStand between the pillars three\nWith gift as precious as the sky:\nA rainbow forged from land, not sea\nThen galaxies will heed your cry.\n</dialogue> #!String
-Town_mgThiefMessage: <dialogue>Shadow Guy: Eeeeep! You caught me! I'm sorry! Take it! Take it! It looked so valuable, I couldn't help myself...</dialogue> #!String
-Town_SpecialCharmQuestion: <dialogue>Driver: Hey kid... I need a lucky break... why don't 'cha bring me a 'rabbit's foot'? I'll make it worth your while.</dialogue> #!String
-Town_specialCharmNoFoot: <dialogue>Driver: Come back when you got a 'rabbit's foot' on ya, kid.</dialogue> #!String
-SeedShop_Yoba: <dialogue>Altar of Yoba</dialogue> #!String
-ElliottHouse_ElliottBook_Blank: <dialogue>Blank book</dialogue> #!String
-ElliottHouse_ElliottBook_Filled: <dialogue>'{0}' by Elliott ... Dedicated to {1}</dialogue> #!String
-FestivalDay_DoorLocked: <dialogue>It's locked...</dialogue> #!String
-SeedShop_LockedWed: <dialogue>Closed on Wednesdays.</dialogue> #!String
-LockedDoor: <dialogue>It's locked...</dialogue> #!String
-LockedDoor_OpenRange: <dialogue>It's locked... (Open {0} - {1})</dialogue> #!String
-LockedDoor_FriendsOnly: <dialogue>It's locked... Only {0}'s friends can enter uninvited.</dialogue> #!String
-ScienceHouse_CarpenterMenu: <dialogue>What can I do for you?</dialogue> #!String
-ScienceHouse_CarpenterMenu_Shop: <dialogue>Shop</dialogue> #!String
-ScienceHouse_CarpenterMenu_UpgradeHouse: <dialogue>Upgrade House</dialogue> #!String
-ScienceHouse_CarpenterMenu_CommunityUpgrade: <dialogue>Community Upgrade</dialogue> #!String
-ScienceHouse_CarpenterMenu_Construct: <dialogue>Construct Farm Buildings</dialogue> #!String
-ScienceHouse_CarpenterMenu_Leave: <dialogue>Leave</dialogue> #!String
-ScienceHouse_RobinAbsent: <dialogue>Sorry! Shop's closed for the day... I'm at Caroline's place for aerobics club.\n\n-Robin</dialogue> #!String
-Blacksmith_Clint_Shop: <dialogue>Shop</dialogue> #!String
-Blacksmith_Clint_Upgrade: <dialogue>Upgrade Tools</dialogue> #!String
-Blacksmith_Clint_Leave: <dialogue>Leave</dialogue> #!String
-Blacksmith_Clint_Geodes: <dialogue>Process Geodes</dialogue> #!String
-AnimalShop_Marnie_Supplies: <dialogue>Supplies Shop</dialogue> #!String
-AnimalShop_Marnie_Animals: <dialogue>Purchase Animals</dialogue> #!String
-AnimalShop_Marnie_Leave: <dialogue>Leave</dialogue> #!String
-AnimalShop_Marnie_Absent: <dialogue>Closed for the day.\n\n-Marnie</dialogue> #!String
-ArchaeologyHouse_Gunther_Donate: <dialogue>Donate To Museum</dialogue> #!String
-ArchaeologyHouse_Gunther_Collect: <dialogue>Collect Rewards</dialogue> #!String
-ArchaeologyHouse_Gunther_Leave: <dialogue>Leave</dialogue> #!String
-ArchaeologyHouse_Rearrange: <dialogue>Would you like to rearrange the museum's collection?</dialogue> #!String
-HaleyHouse_EmilyRoomObject: <dialogue>There's a tape inside:'Freeform Dance Rhythyms'</dialogue> #!String
-Club_Bouncer_PlayerClubMember: <dialogue>You may enter.</dialogue> #!String
-Club_CalicoJack_Rules1: <dialogue>The objective is to get as close to 21 as possible. Cards range from 1 to 9, except for the first card which can be as high as 11. Each player starts with two cards, but the dealer's first card remains hidden. Each turn you can choose to draw a random number between 1 and 9 or pass.</dialogue> #!String
-Club_CalicoJack_Rules2: <dialogue>Once you pass, the dealer's hidden card is revealed. She must draw until her total reaches or exceeds 18. If either player exceeds 21 on their turn, they lose. If the dealer passes, then all cards are revealed and the highest score wins.</dialogue> #!String
-Club_CalicoJackHS_NotEnoughCoins: <dialogue>You need at least 1000 coins to play here.</dialogue> #!String
-Club_CalicoJack_NotEnoughCoins: <dialogue>Hey, the betting's fixed at 100 coins. You don't have enough. Go buy some coins from the machine if you want to play.</dialogue> #!String
-ScienceHouse_Carpenter_UpgradeHouse1: <dialogue>I can increase the size of your house and add a kitchen. It will cost 10,000g and you'll also need to provide me with 450 pieces of wood. Are you interested?</dialogue> #!String
-ScienceHouse_Carpenter_UpgradeHouse2: <dialogue>I can increase the size of your house and add a nursery. It will cost 50,000g and you'll also need to provide me with 150 pieces of hardwood. Are you interested?</dialogue> #!String
-ScienceHouse_Carpenter_UpgradeHouse3: <dialogue>I can add a cellar to your house. The cellar can be used to age certain products, like wine and cheese. It will cost 100,000g. Are you interested?</dialogue> #!String
-ScienceHouse_Carpenter_CommunityUpgrade1: <dialogue>...What's that? You want to build Pam a house? That's a great idea!^I'll just need 950 wood and 500,000g...</dialogue> #!String
-ScienceHouse_Carpenter_NotEnoughWood1: <dialogue>Sorry... You have the money, but I also need 450 pieces of wood.</dialogue> #!String
-ScienceHouse_Carpenter_NotEnoughWood2: <dialogue>Sorry... You have the money, but I also need 150 pieces of hardwood.</dialogue> #!String
-ScienceHouse_Carpenter_NotEnoughWood3: <dialogue>Sorry... You have the money, but I also need 950 pieces of wood.</dialogue> #!String
-Farm_WeedsDestruction: <dialogue>The spreading weeds have caused damage to your farm.</dialogue> #!String
-JojaMart_SignUp: <dialogue>If you become a Joja Member, the community center will become a Joja Warehouse, and you will no longer be able to refurbish it. However, Joja will provide an alternative means to improving the town. Are you sure you want to join?</dialogue> #!String
-Mines_Infested: <dialogue>This area is infested...</dialogue> #!String
-Mines_Overrun: <dialogue>This area is overrun with monsters.</dialogue> #!String
-Mines_Fallen: <dialogue>You fell {0} levels.</dialogue> #!String
-Mines_FallenFar: <dialogue>You fell {0} levels. Ouch!</dialogue> #!String
-Mines_ShaftJumpIn: <dialogue>Jump In</dialogue> #!String
-Mines_Shaft: <dialogue>There's a shaft leading down.</dialogue> #!String
-Mountain_AdventurersGuildNote: <dialogue>      * Adventurer's Guild *\n\n    Proven adventurers only.</dialogue> #!String
-Railroad_TrainComing: <dialogue>A train is passing through Stardew Valley</dialogue> #!String
-Town_SeedShopSign: <dialogue>- Pierre's General Store -\nNow open 7 days a week From 9am-5pm!</dialogue> #!String
-Town_JojaSign_Destroyed: <dialogue>Out of Business.</dialogue> #!String
-Town_PickupTruck: <dialogue>It's just the back of Lewis' old pickup truck...</dialogue> #!String
-Sewer_DogStatue: <dialogue>-Statue Of Uncertainty-^The statue can help you change professions.^Make an offering of 10,000g?</dialogue> #!String
-Sewer_DogStatueCancel: <dialogue>None, I changed my mind...</dialogue> #!String
-Sewer_DogStatueQuestion: <dialogue>Which skill's professions would you like to change?</dialogue> #!String
-Sewer_DogStatueAlready: <dialogue>This skill is already being altered tonight. Come back tomorrow...</dialogue> #!String
-Sewer_DogStatueFinished: <dialogue>*woof* *woof* (It's done... now go to sleep...)</dialogue> #!String
-WitchHut_EvilShrineLeft: <dialogue>-Dark Shrine of Selfishness-^Your children will turn into doves and fly away...^Make an offering of one Prismatic Shard?</dialogue> #!String
-WitchHut_EvilShrineLeftInactive: <dialogue>-Dark Shrine of Selfishness-^The statue stares through you...\n      </dialogue> #!String
-WitchHut_EvilShrineCenter: <dialogue>-Dark Shrine of Memory-^The relationship between you and your ex-spouses will be wiped from memory. It will be like you've never met.^Make an offering of 30,000g?\n      </dialogue> #!String
-WitchHut_Goodbye: <dialogue>Goodbye, {0}.</dialogue> #!String
-WitchHut_EvilShrineCenterInactive: <dialogue>-Dark Shrine of Memory-^The statue stares through you...\n      </dialogue> #!String
-WitchHut_EvilShrineRightActivate: <dialogue>-Dark Shrine of Night Terrors-^The ancient magi-seal of protection will be lifted, allowing monsters to appear on your farm at night.^Make an offering of one Strange Bun?\n      </dialogue> #!String
-WitchHut_EvilShrineRightDeActivate: <dialogue>\n        -Dark Shrine of Night Terrors-^The ancient magi-seal of protection will be restored, preventing monsters from appearing on your farm at night.^Make an offering of one Strange Bun?\n      </dialogue> #!String
-WitchHut_NoOffering: <dialogue>You don't have the necessary offering.</dialogue> #!String
-Sewer_MagicSeal: <dialogue>There's some kind of force-field blocking your path.</dialogue> #!String
-Woods_Statue: <dialogue>--Old Master Cannoli--\n...Still searching for the sweetest taste...</dialogue> #!String
-ScienceHouse_CarpenterMenu_UpgradeCabin: <dialogue>Upgrade Cabin</dialogue> #!String
-AdventureGuild_ItemRecovery: <dialogue>Item Recovery Service</dialogue> #!String
-AdventureGuild_Greeting: <dialogue>Need something?</dialogue> #!String
-ManorHouse_DivorceBook_Question_Krobus: <dialogue>Kick {0} out of your house?</dialogue> #!String
-ManorHouse_DivorceBook_CancelQuestion_Krobus: <dialogue>Cancel your eviction?</dialogue> #!String
-ManorHouse_DivorceBook_Cancelled_Krobus: <dialogue>You've changed your mind about kicking {0} out.</dialogue> #!String
-ManorHouse_DivorceBook_Filed_Krobus: <dialogue>You've decided to kick {0} out of the house. If you change your mind, come back here before night's end.</dialogue> #!String
-Theater_Poster_0: <dialogue>Now Playing: \"{0}.\"</dialogue> #!String
-Theater_Poster_1: <dialogue>\"{0}\"</dialogue> #!String
-Theater_Poster_Coming_Soon: <dialogue>Coming soon: \"{0}.\"</dialogue> #!String
-Theater_MovieEnd: <dialogue>The movie has concluded for tonight. We hope you enjoyed the show!</dialogue> #!String
-Theater_MovieEndReEntry: <dialogue>The movie has concluded.</dialogue> #!String
-HaleyHouse_SewingMachine: <dialogue>It's a sewing machine... But I'm not sure how to use it.</dialogue> #!String
-HaleyHouse_DyePot: <dialogue>An array of brightly colored dyes.</dialogue> #!String
-Caroline_Sunroom_Door: <dialogue>Caroline only lets her friends enter here...</dialogue> #!String
-Caroline_Tea_Event1: <dialogue>When I'm alone with relaxing tea...</dialogue> #!String
-Caroline_Tea_Event2: <dialogue>My mind is empty and free to wander...</dialogue> #!String
-Caroline_Tea_Event3: <dialogue>Who knows what might appear?</dialogue> #!String
-Desert_Trader_Closed: <dialogue>Closed until the 18th for the Pelican Town night market.</dialogue> #!String
-Farm_OtherPlayerMailbox: <dialogue>That's not your mailbox.</dialogue> #!String
-BoatTunnel_BuyTicket: <dialogue>Buy a ticket for {0}g?</dialogue> #!String
-IslandNorth_CaveHelp_0: <dialogue>Help!</dialogue> #!String
-IslandNorth_CaveHelp_1: <dialogue>Anyone there?</dialogue> #!String
-IslandNorth_CaveHelp_2: <dialogue>I'm stuck!</dialogue> #!String
-IslandNorth_CaveHelp_3: <dialogue>Over here!</dialogue> #!String
-IslandNorth_CaveTool_0: <dialogue>That won't work.</dialogue> #!String
-IslandNorth_CaveTool_1: <dialogue>It's too weak.</dialogue> #!String
-IslandNorth_CaveTool_2: <dialogue>Hmm...</dialogue> #!String
-IslandNorth_CaveTool_3: <dialogue>Try something else.</dialogue> #!String
-    IslandNorth_Event_SafariManAppear: tropical_island_day_ambient/-1000 -100/farmer 20 48 1/skippable/pause 1000/viewport 21 47 true/pause 1000/playSound thudStep/addTemporaryActor SafariGuy 16 32 22 45 2 true ???/move SafariGuy 0 3 3/pause 1000/speak SafariGuy \<dialogue>Thank you! I thought I was done for... $h#$b#I've been stuck in this cave for months!\</dialogue>/pause 500/faceDirection SafariGuy 2/pause 300/showFrame SafariGuy 16/pause 600/emote SafariGuy 28/speak SafariGuy \<dialogue>...One more cave mushroom salad and I would've gone off the deep end... *shudder* ...so rubbery...$s\</dialogue>/pause 500/showFrame SafariGuy 0/pause 500/faceDirection SafariGuy 3/pause 500/changeName SafariGuy Professor_Snail/speak SafariGuy \<dialogue>Anyway... I'm Professor Snail.#$b#I've been conducting a survey of this island's flora and fauna for the last year. Truly a remarkable place!\</dialogue>/pause 400/faceDirection SafariGuy 2/pause 250/faceDirection SafariGuy 3/speak SafariGuy \<dialogue>Well, I think I'll go back to my tent and freshen up a little. I'm afraid I smell like mushrooms...$s#$b#Hey... you should stop by the tent sometime! An enterprising individual like yourself could be a major asset in my projects... hee hee! Farewell.$h\</dialogue>/pause 200/showFrame SafariGuy 17/pause 800/showFrame SafariGuy 12/pause 200/advancedMove SafariGuy true 1 0 0 4/pause 250/end position 20 48 #!String
-IslandFieldOffice_Welcome_0: <dialogue>Greetings!</dialogue> #!String
-IslandFieldOffice_Welcome_1: <dialogue>Hello!</dialogue> #!String
-IslandFieldOffice_Welcome_2: <dialogue>Hey!</dialogue> #!String
-IslandFieldOffice_Welcome_3: <dialogue>Welcome!</dialogue> #!String
-IslandFieldOffice_Survey_Yes: <dialogue>Ready to report</dialogue> #!String
-IslandFieldOffice_Survey_Notyet: <dialogue>Not ready</dialogue> #!String
-IslandFieldOffice_Survey_Prompt_LeftPlant: <dialogue>Island Survey -- Please report the number of purple flowers present on the island.</dialogue> #!String
-IslandFieldOffice_Survey_PurpleFlower_Question: <dialogue>How many purple flowers can be found on the island?</dialogue> #!String
-IslandFieldOffice_Survey_PurpleFlower_Wrong: <dialogue>Hmm... That number doesn't fit my models at all... Maybe you should give it another shot tomorrow.$s</dialogue> #!String
-IslandFieldOffice_Survey_PurpleFlower_Correct: <dialogue>Yes, yes... that seems very accurate. Thank you!$h</dialogue> #!String
-IslandFieldOffice_Survey_Prompt_RightPlant: <dialogue>Island Survey -- Please report the number of purple starfish present on the island.</dialogue> #!String
-IslandFieldOffice_Survey_PurpleStarfish_Question: <dialogue>How many purple starfish can be found on the island?</dialogue> #!String
-IslandFieldOffice_Survey_Failed: <dialogue>Hmm... I think you should take a break and try doing the survey again tomorrow...</dialogue> #!String
-    IslandFieldOffice_Intro_Event: fieldofficeTentMusic/-1000 -1000/farmer 4 10 0/skippable/addTemporaryActor SafariGuy 16 32 5 4 0 true Professor_Snail/viewport 4 6 true/move farmer 0 -2 0/pause 1000/faceDirection SafariGuy 1 true/pause 50/faceDirection SafariGuy 2 true/pause 500/speak SafariGuy \<dialogue>Ah... Come in!\</dialogue>/move farmer 2 0 0/move farmer 0 -4 3/faceDirection SafariGuy 1/pause 500/speak SafariGuy \<dialogue>Welcome to my field office.\</dialogue>/faceDirection SafariGuy 2/faceDirection farmer 2/showFrame SafariGuy 16/emote SafariGuy 28/pause 500/speak SafariGuy \<dialogue>As you can see... it's quite empty.$s#$b#Getting stuck in that cave was a huge setback to my project.$s\</dialogue>/pause 50/showFrame SafariGuy 0/pause 200/faceDirection SafariGuy 1/pause 100/speak SafariGuy \<dialogue>But that's where you come in! Hee hee...$h\</dialogue>/faceDirection farmer 3/emote farmer 8/speak SafariGuy \<dialogue>I'm in the bone business, you see...#$b#Ancient bones, in particular... And this island is full of them.#$b#So if you ever encounter any bones, fossils, or mummified specimens on this island, bring them to my desk, okay? I'll make it worth your while!$h\</dialogue>/pause 200/faceDirection SafariGuy 1/end #!String
-ScienceHouse_CarpenterMenu_RenovateHouse: <dialogue>Make House Renovations</dialogue> #!String
-ScienceHouse_CarpenterMenu_RenovateCabin: <dialogue>Make Cabin Renovations</dialogue> #!String
-ScienceHouse_Renovation_RemoveCrib: <dialogue>Remove Crib/Remove the crib from your home./Select a crib to remove.</dialogue> #!String
-ScienceHouse_Renovation_BuildCrib: <dialogue>Build Crib/Builds a crib in your home./Select a location for the crib.</dialogue> #!String
-ScienceHouse_Renovation_OpenBedroom: <dialogue>Open Bedroom/Removes the wall separating your bedroom and the entrance room./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_CloseBedroom: <dialogue>Close Bedroom/Builds a wall separating your bedroom and the entrance room./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_AddSouthernRoom: <dialogue>Add Southern Room/Adds a room to the south of your bedroom./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_RemoveSouthernRoom: <dialogue>Remove Southern Room/Removes the room to the south of your bedroom./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_AddCornerRoom: <dialogue>Add Corner Room/Adds a room in the northeast corner of the house./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_RemoveCornerRoom: <dialogue>Remove Corner Room/Removes the room in the northeast corner of the house./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_AddCornerStairs: <dialogue>Add Corner Stairs/Adds a staircase from your bedroom to the corner room./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_RemoveCornerStairs: <dialogue>Remove Corner Stairs/Removes the staircase from your bedroom to the corner room./Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_AddStairs: <dialogue>Add Stairs/Adds a staircase in one of several locations/Select an area for the renovation.</dialogue> #!String
-ScienceHouse_Renovation_RemoveStairs: <dialogue>Remove Stairs/Remove a staircase./Select an area for the renovation.</dialogue> #!String
-Journal_Name: <dialogue>Journal Scrap</dialogue> #!String
-IslandFarmhouse_Drawer: <dialogue>You open the drawer and find a tattered journal...</dialogue> #!String
-Gourmand_Intro: <dialogue>Kribbibbit... Whooo? You da farmer who tend-a da land outside me house, bub?</dialogue> #!String
-Gourmand_RequestIntro: <dialogue>Gurrp... Dah land once teemed wis fresh, fresh fooda... *sigh*... me wish ta seein' da teemin' once more.</dialogue> #!String
-Gourmand_RequestQuestion: <dialogue>You be growin' da thing outside now, bub?</dialogue> #!String
-Gourmand_RequestFailed: <dialogue>Kriibbitt... You no grow da thing I wish-a da see... Grow dis a thing and return-a ta me..</dialogue> #!String
-Gourmand_Request_0: <dialogue>Grow you for me... da pink thing... da juicy thing...</dialogue> #!String
-Gourmand_Request_0_Success: <dialogue>Gurrrp... Yes. Bombo pink... Bombo juicy...|...Bringin' me back to da good old days... sunny days when things bein' sweeter...|*slurp*... Me wanna take a big bombo juicy bite...|...But, me won't.</dialogue> #!String
-Gourmand_Request_1: <dialogue>Me wanna see da longo yellow ticklin' thing... da thing dat be wavin' in the wind...</dialogue> #!String
-Gourmand_Request_1_Success: <dialogue>Gurrrp... Good. Bombo longo and when da run through it... bombo ticklin'.|Heh... remindin' me of an old girlfriend... *gurp*...|Heh... Now me wanna tickle-da you...|...But, me won't.</dialogue> #!String
-Gourmand_Request_2: <dialogue>Me wanna eat da zesty ground-fruit, but make da breath stink...</dialogue> #!String
-Gourmand_Request_2_Success: <dialogue>Gurrrp... Yes... Me eatin' da thing once. Made da breath smell bombo bad...|...Remindin' me of Papa when I was just a tadpole...|Heh... Me wanna take a big bite, and smell bombo bad...|...But, me won't.</dialogue> #!String
-Gourmand_Reward: <dialogue>Kriibbitt... Yes... Thank-a da you. This bringin' me back... To da good times, long, long ago, bub...|Here... This da for you.</dialogue> #!String
-Gourmand_LastReward: <dialogue>Kriibbitt... Yes... Me remember everything now!|Thank-a da you for remindin' me so much.|This da one last reward for you, bub.</dialogue> #!String
-Gourmand_Finished: <dialogue>Kriibbitt... Good to see you again, bombo-friend.|I hope a you growin' da big bombo fruit, bub!</dialogue> #!String
-Gourmand_InProgress: <dialogue>Ah... I see you growin' da thing. But it's still ding-ee small. Come back when it's bombo big...</dialogue> #!String
-Saloon_Arcade_Cowboy_Menu: <dialogue>= Journey Of The Prairie King =</dialogue> #!String
-Saloon_Arcade_Cowboy_Continue: <dialogue>Continue Journey</dialogue> #!String
-Saloon_Arcade_Cowboy_NewGame: <dialogue>Start New Journey</dialogue> #!String
-    IslandHut_Event_ParrotBoyIntro: continue/-1000 -1000/farmer 7 7 3/skippable/specificTemporarySprite removeSprite 777/addTemporaryActor ParrotBoy 16 32 5 2 2 true ???/pause 2000/viewport 5 7 true/pause 2000/emote ParrotBoy 8/pause 1500/message \<dialogue>The boy looks at you with curious eyes...\</dialogue>/pause 1500/animate ParrotBoy false true 500 17 0/playSound parrot_squawk/pause 1000/playSound parrot_squawk/pause 800/stopAnimation ParrotBoy/specificTemporarySprite parrotHutSquawk/pause 800/move farmer -2 0 0/pause 500/emote farmer 8/pause 1000/message \<dialogue>He seems to have a close bond with the parrots.\</dialogue>/pause 500/message \<dialogue>But he's too shy to approach you right now.\</dialogue>/pause 1400/faceDirection farmer 1/pause 500/message \<dialogue>Perhaps making friends with the parrots could earn his trust?\</dialogue>/pause 1000/end position 5 7 #!String
-IslandSecret_Event_BirdieIntro: <dialogue>tropical_island_day_ambient/-1000 -1000/farmer 20 58 3/skippable/addTemporaryActor Birdie 32 32 17 58 3 true ???/animate Birdie false true 1000 8 9/pause 1000/viewport 18 58 clamp true/pause 1000/emote Birdie 8/pause 1000/speak Birdie \"Oh... a visitor?#$b#Come closer, child.\"/pause 400/move farmer -1 0 3/pause 300/emote Birdie 40/speak Birdie \"I haven't had a visitor in many moons...$s#$b#I almost forgot what other people looked like!\"/pause 1000/speak Birdie \"Well, I suppose now that you're here, I may as well ask you for a favor.\"/pause 500/textAboveHead Birdie \"Come...\"/pause 500/playFramesAhead 3/stopAnimation Birdie/extendSourceRect Birdie reset/warp Birdie 18 58/viewport move 1 0 2000/move Birdie 0 -1 2/move Birdie 2 0 1/move farmer 1 0 1/pause 500/speak Birdie \"Have you seen that wrecked ship on the south shore?#$b# My husband was the captain. A pirate, he was.#$b#He set sail one day, never to return. Took me three years sailing the high seas to find his remains.$s\"/emote Birdie 28/speak Birdie \"*sigh*...$s#$b#I've been here ever since, dear.$s#$b#...Guarding his bones...\"/faceDirection farmer 2 true/playSound batScreech/animate farmer false true 100 94/jump farmer/pause 1500/stopAnimation farmer/faceDirection farmer 0/faceDirection Birdie 2/speak Birdie \"My child... If I could only find a keepsake of his, it would bring me such peace.$s\"/pause 400/textAboveHead Birdie \"Wait here...\"/move Birdie -1 0 0/move Birdie 0 -1 3/warp Birdie -100 -100/playSound doorClose/faceDirection farmer 0/faceDirection Birdie 2/pause 1000/playSound Ship/pause 1000/playSound Ship/playSound crafting/pause 1000/playSound doorClose/warp Birdie 20 56/move Birdie 0 1 2/speak Birdie \"Here, take this. It's an old photograph that washed up on shore.#$b#It's all I have to offer... but somehow, I think it will help you find what I seek.\"/pause 500/unskippable/playSound coin/awardFestivalPrize memento true/pause 10/addQuest 130/pause 1700/end</dialogue> #!String
-IslandSecret_Event_BirdieFinished: <dialogue>tropical_island_day_ambient/-1000 -1000/farmer 20 58 3/removeQuest 130/skippable/addTemporaryActor Birdie 32 32 17 58 3 true ???/animate Birdie false true 1000 8 9/pause 1000/viewport 18 58 clamp true/pause 2300/playMusic none/animate farmer true true 100 35/addObject 19 58 870/playSound sandyStep/pause 800/stopAnimation farmer/playFramesAhead 3/stopAnimation Birdie/extendSourceRect Birdie reset/warp Birdie 18 58/move Birdie 0 -1 2/move Birdie 1 0 2/pause 500/jump Birdie/pause 500/playMusic desolate/speak Birdie \"It's his...$s\"/emote Birdie 20/pause 1200/playSound coin/removeObject 19 58/showFrame Birdie 20/pause 2500/speak Birdie \"Heh... It still has his smell, after all these years...#$b#...that familiar, putrid funk...$h\"/pause 300/faceDirection farmer 2 true/playSound croak/animate farmer false false 350 104 105 104 105 104 105/pause 1000/faceDirection farmer 3/speak Birdie \"You know... It's been a lonely life here, child... but I don't regret it at all.#$b#I'm doin' right by my old man... and we'll be together again some day soon... hehe\"/pause 500/stopAnimation Birdie/move Birdie 0 1 3/playMusic tropical_island_day_ambient/faceDirection Birdie 1/quickQuestion #It's an honorable thing to do.#He's gone. You should live your life.(break)speak Birdie \"You have great wisdom, child.#$b#And you've brought me great peace... this locket will comfort me for the rest of my days.$h\"(break)emote Birdie 28\\speak Birdie \"An old woman like me? I think it's too late, dear...$s#$b#Besides... I like it here! It's relaxing and beautiful. And I have an endless supply of fresh fish, oysters, and monkey meat. Hehehe.$h#$b#...I'm kidding about the monkey meat.\"/pause 1000/speak Birdie \"Now... how can I repay you for this?\"/jump Birdie/pause 500/speak Birdie \"Oh... How about I teach you a special recipe... Something I discovered in the many years I've spent here.\"/pause 1000/playSound reward/addCraftingRecipe Fairy Dust/message \"Learned to craft 'Fairy Dust'.\"/pause 1000/fork gotBirdieReward Strings\\\\Locations:alreadyGotNuts true/speak Birdie \"You can take these, too...\"/awardFestivalPrize birdieReward true/pause 1000/speak Birdie \"Though you're a stranger, you went out of your way to help an old lady.#$b#Bless your heart!$h\"/emote Birdie 20/emote farmer 32/pause 1000/end</dialogue> #!String
-alreadyGotNuts: <dialogue>pause 50/pause 50/pause 1000/speak Birdie \"Though you're a stranger, you went out of your way to help an old lady.#$b#Bless your heart!$h\"/emote Birdie 20/emote farmer 32/pause 1000/end</dialogue> #!String
-qiNutDoor: <dialogue>You hear a strange voice from behind the door...#'Only the greatest walnut hunters may enter here.'^    Your current status: {0}/100</dialogue> #!String
-BoatTunnel_DonateBatteries: <dialogue>Donate 5 battery packs to repair the ticket machine?</dialogue> #!String
-BoatTunnel_DonateHardwood: <dialogue>Donate 200 hardwood for hull repairs?</dialogue> #!String
-BoatTunnel_DonateIridium: <dialogue>Donate 5 iridium bars to repair the anchor?</dialogue> #!String
-BoatTunnel_DonateBatteriesHint: <dialogue>This machine could be repaired with 5 battery packs.</dialogue> #!String
-BoatTunnel_DonateHardwoodHint: <dialogue>The hull could be repaired with 200 pieces of hardwood.</dialogue> #!String
-BoatTunnel_DonateIridiumHint: <dialogue>The anchor could be repaired with 5 iridium bars.</dialogue> #!String
-BoatTunnel_boatcomplete: <dialogue>All materials have been found!#The boat will be repaired overnight.</dialogue> #!String
-BoatTunnel_willyText_firstRide: <dialogue>She looks good as new!</dialogue> #!String
-BoatTunnel_willyText_random0: <dialogue>Sorry if I smell like fish, heh!</dialogue> #!String
-BoatTunnel_willyText_random1: <dialogue>Ahoy!</dialogue> #!String
-AnimalHouse_Incubator_Hatch_Ostrich: <dialogue>A new ostrich chick hatched... it's a big one!</dialogue> #!String
-    FieldOfficeFinale: distantBanjo/-1000 -1000/farmer 4 8 0/addCraftingRecipe Ostrich Incubator/addMailReceived fieldOfficeFinale/skippable/addTemporaryActor SafariGuy 16 32 3 8 0 true Professor_Snail/pause 1000/viewport 4 6 true/pause 4000/speak SafariGuy \<dialogue>Wow...#$b#Look how far we've come!$h\</dialogue>/faceDirection SafariGuy 1/speak SafariGuy \<dialogue>The collection looks fantastic, and it's all thanks to you, @.\</dialogue>/emote farmer 32/speak SafariGuy \<dialogue>Here, as a way of saying 'thanks', I want to teach you something.\</dialogue>/faceDirection farmer 3/pause 700/playSound reward/message \<dialogue>Learned how to craft 'Ostrich Incubator'\</dialogue>/pause 400/speak SafariGuy \<dialogue>This device will allow you to raise ostriches back home. Just place the incubator in a barn, place an ostrich egg inside, and wait...\</dialogue>/faceDirection SafariGuy 0/speak SafariGuy \<dialogue>Getting your hands on an ostrich egg is a different story, though... I'll leave that up to you!\</dialogue>/pause 400/faceDirection farmer 0/pause 500/speak SafariGuy \<dialogue>Heh... Well... now the real work begins.#$b#I'll be studying these bones for years to come!\</dialogue>/faceDirection SafariGuy 1/faceDirection farmer 3/speak SafariGuy \<dialogue>Farewell, @!\</dialogue>/pause 600/end #!String
-NutHint_Squawk: <dialogue>*Awk*</dialogue> #!String
-NutHint_VolcanoLava: <dialogue>Fire mountain... Hidden down fire river...</dialogue> #!String
-NutHint_BuriedArch: <dialogue>Buried near bones...</dialogue> #!String
-NutHint_Arch: <dialogue>Help man in tent...</dialogue> #!String
-NutHint_NorthBuried: <dialogue>{0} buried in the north...</dialogue> #!String
-NutHint_WestBuried: <dialogue>{0} buried in the west...</dialogue> #!String
-NutHint_SouthBuried: <dialogue>{0} buried in the south...</dialogue> #!String
-NutHint_NorthHidden: <dialogue>{0} hidden in the north...</dialogue> #!String
-NutHint_HutTree: <dialogue>Bulging very close by...</dialogue> #!String
-NutHint_TigerSlime: <dialogue>Stripey slimes to the west...</dialogue> #!String
-NutHint_MusselStone: <dialogue>{0} stuck in shelly stones by shore...</dialogue> #!String
-NutHint_IslandFarming: <dialogue>{0} grow on the farm to the west...</dialogue> #!String
-NutHint_WestHidden: <dialogue>{0} hidden in the west...</dialogue> #!String
-NutHint_IslandFishing: <dialogue>{0} deep in the water...</dialogue> #!String
-NutHint_VolcanoTreasure: <dialogue>{0} hidden in fire mountain treasures...</dialogue> #!String
-NutHint_VolcanoBarrel: <dialogue>{0} encased in fire mountain gadgets...</dialogue> #!String
-NutHint_VolcanoMining: <dialogue>{0} nutty stone in fire mountain...</dialogue> #!String
-NutHint_VolcanoMonsters: <dialogue>{0} taken by monsters in fire mountain...</dialogue> #!String
-NutHint_Journal: <dialogue>Hidden in the pages of the journal...</dialogue> #!String
-NutHint_SouthEastBuried: <dialogue>{0} buried... Pirate's cove...</dialogue> #!String
-NutHint_StardropPool: <dialogue>Bathing in the heart of the star...</dialogue> #!String
-NutHint_Caldera: <dialogue>Atop fire mountain...</dialogue> #!String
-NutHint_Gourmand: <dialogue>Kribbit... Gurrrp...</dialogue> #!String
-NutHint_IslandShrine: <dialogue>Hidden shrine in rain forest...</dialogue> #!String
-NutHint_GoldenCoconut: <dialogue>Inside hard, gold thing...</dialogue> #!String
-IslandSouth_ResortOpenSign: <dialogue>The beach resort is open. Temporarily close it down tomorrow?</dialogue> #!String
-IslandSouth_ResortOpenWillCloseSign: <dialogue>The beach resort will temporarily close tomorrow. Keep it open?</dialogue> #!String
-IslandSouth_ResortClosedSign: <dialogue>The beach resort is temporarily closed. Open it back up tomorrow?</dialogue> #!String
-IslandSouth_ResortClosedWillOpenSign: <dialogue>The beach resort will open back up tomorrow. Keep it closed?</dialogue> #!String
-IslandSouth_ResortWillOpenSign: <dialogue>The beach resort will be open tomorrow.</dialogue> #!String
-IslandSouth_ResortWillCloseSign: <dialogue>The beach resort will be closed tomorrow.</dialogue> #!String
-ManorHouse_LAF_Check: <dialogue>The town's 'Lost and Found' box.</dialogue> #!String
-ManorHouse_LAF_Check_OrdersUnlocked: <dialogue>The town's 'Lost and Found' box. You can collect incomplete deliveries from past special orders here.</dialogue> #!String
-ManorHouse_LAF_DonationItems: <dialogue>Collect lost items and incomplete deliveries</dialogue> #!String
-ManorHouse_LAF_FarmhandItems: <dialogue>Retrieve items from offline farmhands</dialogue> #!String
-ManorHouse_LAF_FarmhandItemsQuestion: <dialogue>Who would you like to retrieve items from?</dialogue> #!String
-FieldOfficeDonated_0: <dialogue>Ah... Now this is a truly fascinating piece of natural history! Thank you.</dialogue> #!String
-FieldOfficeDonated_1: <dialogue>Beautiful! These bones are exactly what I'm looking for. Now, let me clean my magnifying lens...</dialogue> #!String
-FieldOfficeDonated_2: <dialogue>You've outdone yourself, @. This is one of the most pristine specimens I've ever seen. Thank you!$h</dialogue> #!String
-FieldOfficeDonated_3: <dialogue>To think... generations have come and gone while this little bone lay hidden beneath the soil. Now it's mine!</dialogue> #!String
-FieldOfficeDonated_Reward: <dialogue>And would you look at that! With this donation, we've got another full set piece completed.$h#$b#I've got a little something waiting for you behind the counter, when you're ready for it!</dialogue> #!String
-Volcano_ShortcutOut: <dialogue>Take the shortcut out of the volcano?</dialogue> #!String
-SeedShop_MoneyBox: <dialogue>I'm taking the day off to visit the island. Please place your money in the box. No cheating!^     -Pierre</dialogue> #!String
-AnimalShop_MoneyBox: <dialogue>I'm visiting the island today. If you need to buy anything, just leave the money in this box!^     -Marnie</dialogue> #!String
-Saloon_MoneyBox: <dialogue>I'm tending the bar on Ginger Island today, but I won't let that stop you from buying something!^     -Gus</dialogue> #!String
-ScienceHouse_MoneyBox: <dialogue>I'm on the island today, but you can still buy something. It's an honor system!^     -Robin</dialogue> #!String
-ChallengeShrine_NotYetHard: <dialogue>         --Shrine Of Challenge--^Dispel the ancient magi-seal of protection, allowing powerful monsters to ascend from the deep?</dialogue> #!String
-ChallengeShrine_AlreadyHard: <dialogue>         --Shrine Of Challenge--^Summon an ancient magi-seal protection, returning the mines to their original state?</dialogue> #!String
-ChallengeShrine_Activated: <dialogue>Your request will be granted overnight.</dialogue> #!String
-ChallengeShrine_AlreadyActive: <dialogue>You've already put in a request.</dialogue> #!String
-ChallengeShrine_OnQiChallenge: <dialogue>There's a note from Mr. Qi: ^ I've temporarily disabled this shrine. Come back tomorrow!</dialogue> #!String
-Gil_Telephone: <dialogue>Hey. 150 Magma Sprites, huh? I'm impressed.#$b#Tell you what... I'm gonna give you Marlon's tellie-phone number. He don't like me givin' it out, but I think you've earned it.#$b#If you ever need to use the Item Recovery Service, but don't wanna run all the way out here... just give us a ring. Sound good?</dialogue> #!String
-AdventureGuild_KillList_MagmaSprite: <dialogue>Magma Sprites</dialogue> #!String
-AnimalHouse_Incubator_HouseFull: <dialogue>An egg is ready to hatch, but the building is full.</dialogue> #!String
-SandDuggy: <dialogue>Sand Duggy</dialogue> #!String
-TravelingMerchant: <dialogue>Traveling Merchant</dialogue> #!String
-ScienceHouse_Carpenter_CommunityUpgrade2: <dialogue>...What's that? You'd like me to add a few shortcuts around the valley? Sure, I can do that!^I'll just need 300,000g...</dialogue> #!String
-AnimalHouse_Incubator_Hatch_GoldenEgg: <dialogue>A sparkling golden chick hatched!</dialogue> #!String
-SummitBoulder: <dialogue>It seems impossible to budge...</dialogue> #!String
-Hint: <dialogue>Hint</dialogue> #!String
+AdventureGuild_KillList_Header: <dialogue>------------------------------\n\t\t\t --Monster Eradication Goals--\n             \"Help us keep the valley safe.\"\n------------------------------</dialogue> 
+AdventureGuild_KillList_LineFormat: <dialogue>{0}/{1} {2}</dialogue> 
+AdventureGuild_KillList_LineFormat_None: <dialogue>{0}/{1} ????</dialogue> 
+AdventureGuild_KillList_LineFormat_OverTarget: <dialogue>{0} {2} *</dialogue> 
+AdventureGuild_KillList_Slimes: <dialogue>Slimes</dialogue> 
+AdventureGuild_KillList_VoidSpirits: <dialogue>Void Spirits</dialogue> 
+AdventureGuild_KillList_Bats: <dialogue>Bats</dialogue> 
+AdventureGuild_KillList_Skeletons: <dialogue>Skeletons</dialogue> 
+AdventureGuild_KillList_CaveInsects: <dialogue>Cave Insects</dialogue> 
+AdventureGuild_KillList_Duggies: <dialogue>Duggies</dialogue> 
+AdventureGuild_KillList_DustSprites: <dialogue>Dust Sprites</dialogue> 
+AdventureGuild_KillList_RockCrabs: <dialogue>Rock Crabs</dialogue> 
+AdventureGuild_KillList_Mummies: <dialogue>Mummies</dialogue> 
+AdventureGuild_KillList_PepperRex: <dialogue>Pepper Rex</dialogue> 
+AdventureGuild_KillList_Serpent: <dialogue>Serpents</dialogue> 
+AdventureGuild_KillList_Footer: <dialogue>\n  -See Gil to claim your rewards.</dialogue> 
+AnimalHouse_Incubator_RemoveEgg_Question: <dialogue>Remove the egg?</dialogue> 
+AnimalHouse_Incubator_Hatch_VoidEgg: <dialogue>A new chick hatched... It looks odd.</dialogue> 
+AnimalHouse_Incubator_Hatch_RegularEgg: <dialogue>A new baby chick hatched!</dialogue> 
+AnimalHouse_Incubator_Hatch_DuckEgg: <dialogue>A new baby duckling hatched!</dialogue> 
+AnimalHouse_Incubator_Hatch_DinosaurEgg: <dialogue>A new baby ...lizard?... hatched.</dialogue> 
+BeachNightMarket_Closed: <dialogue>Opens at 5pm.</dialogue> 
+BeachNightMarket_SubmarineInUse: <dialogue>The submarine is currently in use. Come back later.</dialogue> 
+    BeachNightMarket_GiftGiverClosed: <dialogue who="Misc">Merchant: The night market starts at 5pm... visit me then for a free cup of coffee! </dialogue> 
+    BeachNightMarket_GiftGiverQuestion: <dialogue who="Misc">Merchant: Hello there! Care for a cup of coffee?</dialogue> 
+    BeachNightMarket_GiftGiverEnjoy: <dialogue who="Misc">Merchant: Mmm... smells great, doesn't it?</dialogue> 
+    BeachNightMarket_PainterClosed: <dialogue who="Misc">Famous Painter Lupini: Come back when the market opens, if you wish to purchase my fine work.</dialogue> 
+    BeachNightMarket_PainterQuestion: <dialogue who="Misc">Famous Painter Lupini: I'm selling this painting for 1200g. What do you say?</dialogue> 
+    BeachNightMarket_PainterSold: <dialogue who="Misc">Famous Painter Lupini: My apologies... I have no more paintings to sell today.</dialogue> 
+    BeachNightMarket_WarperQuestion: <dialogue who="Misc">Shrouded Figure: I can send you home for 250g.</dialogue> 
+Beach_FixBridge_Question: <dialogue>Use 300 pieces of wood to fix the bridge?</dialogue> 
+Beach_FixBridge_Hint: <dialogue>Hmmm... With 300 pieces of wood this could be fixed.</dialogue> 
+    Beach_GoneFishingMessage: <dialogue who="Willy">    Gone fishing.\n\n   I'll be back tomorrow.</dialogue> 
+    Beach_Mariner_Player_Male: <dialogue who="Misc">lad</dialogue> 
+    Beach_Mariner_Player_Female: <dialogue who="Misc">miss</dialogue> 
+    Beach_Mariner_PlayerMarried: <dialogue who="Misc">Old Mariner: Glad the amulet worked out for ye, {0}.</dialogue> 
+    Beach_Mariner_PlayerHasItem: <dialogue who="Misc">Old Mariner: Don't be shy, now. Show that amulet to the one you intend to marry.</dialogue> 
+    Beach_Mariner_PlayerNotUpgradedHouse: <dialogue who="Misc">Old Mariner: I can see that sparkle in yer eye, {0}. Ye must be head over heels in love. But I'm afraid a bigger house is essential for a happy marriage.</dialogue> 
+    Beach_Mariner_PlayerBuyItem_Question: <dialogue who="Misc">Old Mariner: Ah, I can see it in yer eyes... There be a special someone in yer heart. Just so happens I'm sellin' a 'Mermaid's Pendant'. Give that to yer intended and they'll know exactly what you mean.</dialogue> 
+Beach_Mariner_PlayerBuyItem_AnswerYes: <dialogue>Buy (5000g)</dialogue> 
+Beach_Mariner_PlayerBuyItem_AnswerNo: <dialogue>Not now...</dialogue> 
+    Beach_Mariner_PlayerNoRelationship: <dialogue who="Misc">Old Mariner: I've got this old amulet to sell... but somethin' tells me yer not ready for it, {0}.</dialogue> 
+BuildableLocation_CantUpgrade_SomeoneInside: <dialogue>Can't upgrade while someone's inside.</dialogue> 
+BuildableLocation_CantUpgrade_IncorrectBuildingType: <dialogue>Incorrect Building Type</dialogue> 
+MineCart_Destination_Mines: <dialogue>Mines</dialogue> 
+MineCart_Destination_Town: <dialogue>Town</dialogue> 
+MineCart_Destination_BusStop: <dialogue>Bus Stop</dialogue> 
+MineCart_Destination_Quarry: <dialogue>Quarry</dialogue> 
+MineCart_Destination_Cancel: <dialogue>Cancel</dialogue> 
+MineCart_ChooseDestination: <dialogue>Choose destination:</dialogue> 
+MineCart_OutOfOrder: <dialogue>Out of order</dialogue> 
+BusStop_BuyTicketToDesert: <dialogue>Buy a ticket to Calico Desert for 500g?</dialogue> 
+BusStop_DesertOutOfService: <dialogue>The bus to Calico Desert is out of service.</dialogue> 
+BusStop_NotEnoughMoneyForTicket: <dialogue>You don't have enough money.</dialogue> 
+BusStop_NoDriver: <dialogue>Please return when a bus driver is present.</dialogue> 
+BusStop_ReturnToHorse1: <dialogue>{0} is wondering where you've been.</dialogue> 
+BusStop_ReturnToHorse2: <dialogue>Your loyal horse waits patiently for your return.</dialogue> 
+    Club_Bouncer_TextAboveHead1: <dialogue who="Bouncer">Now I'm angry!</dialogue> 
+    Club_Bouncer_TextAboveHead2: <dialogue who="Bouncer">You little punk...</dialogue> 
+    CommunityCenter_AreaCompletion1: <dialogue who="Junimos">We are the Junimos... Keepers of the forest.</dialogue> 
+    CommunityCenter_AreaCompletion2: <dialogue who="Junimos">This house was empty for years... The trees moved in and so did we.</dialogue> 
+    CommunityCenter_AreaCompletion3: <dialogue who="Junimos">We're happy to help... It's not our house, after all.</dialogue> 
+    CommunityCenter_AreaCompletion4: <dialogue who="Junimos">So many wonderful bundles... thank you! Thank you!</dialogue> 
+    CommunityCenter_AreaCompletion5: <dialogue who="Junimos">When we're done here, we'll return to the other world.</dialogue> 
+    CommunityCenter_AreaCompletion6: <dialogue who="Junimos">The last bundle... Farewell... {0}.</dialogue> 
+CommunityCenter_AreaRestored: <dialogue>The {0} has been restored!</dialogue> 
+CommunityCenter_JunimosReturned: <dialogue>The Junimos have returned to the spirit world.</dialogue> 
+CommunityCenter_AreaName_BoilerRoom: <dialogue>Boiler Room</dialogue> 
+CommunityCenter_AreaName_BulletinBoard: <dialogue>Bulletin Board</dialogue> 
+CommunityCenter_AreaName_CraftsRoom: <dialogue>Crafts Room</dialogue> 
+CommunityCenter_AreaName_FishTank: <dialogue>Fish Tank</dialogue> 
+CommunityCenter_AreaName_Pantry: <dialogue>Pantry</dialogue> 
+CommunityCenter_AreaName_Vault: <dialogue>Vault</dialogue> 
+CommunityCenter_AreaName_AbandonedJojaMart: <dialogue>Abandoned JojaMart</dialogue> 
+Desert_Return_Question: <dialogue>Return to Stardew Valley?</dialogue> 
+Desert_Return_Yes: <dialogue>Yes</dialogue> 
+Desert_Return_No: <dialogue>Not yet</dialogue> 
+Farm_1SlimeEscaped: <dialogue>A slime escaped during the night.</dialogue> 
+Farm_NSlimesEscaped: <dialogue>{0} slimes escaped during the night.</dialogue> 
+    Farm_GrandpaNote: <dialogue who="Grandpa">{0}-\n\nWait for my return on the dawn of your third year.\n\n-Grandpa</dialogue> 
+Farm_GrandpaShrine_PlaceDiamond: <dialogue>You place the diamond on Grandpa's Shrine.</dialogue> 
+Farm_GrandpaShrine_DiamondSlot: <dialogue>There's a diamond-shaped slot in the shrine... was that always there?</dialogue> 
+    FarmHouse_SpouseAttacked1: <dialogue who="Universal">What the...?</dialogue> 
+    FarmHouse_SpouseAttacked2: <dialogue who="Universal">Ahh!!</dialogue> 
+    FarmHouse_SpouseAttacked3: <dialogue who="Universal">&amp;@#$!!</dialogue> 
+    FarmHouse_SpouseAttacked4: <dialogue who="Universal">Aiii!</dialogue> 
+    FarmHouse_SpouseAttacked5: <dialogue who="Universal">Die!</dialogue> 
+    FarmHouse_SpouseAttacked6: <dialogue who="Universal">Get out!</dialogue> 
+    FarmHouse_SpouseAttacked7: <dialogue who="Universal">Yuck!</dialogue> 
+    FarmHouse_SpouseAttacked8: <dialogue who="Universal">Take that!</dialogue> 
+    FarmHouse_SpouseAttacked9: <dialogue who="Universal">Help!</dialogue> 
+    FarmHouse_SpouseAttacked10: <dialogue who="Universal">Get your sword!</dialogue> 
+    FarmHouse_SpouseAttacked11: <dialogue who="Universal">Agh!</dialogue> 
+    FarmHouse_SpouseAttacked12: <dialogue who="Universal">Gahh!</dialogue> 
+Forest_WizardTower_Locked: <dialogue>It's locked. You can hear someone inside, though.</dialogue> 
+Forest_OpenedSewer: <dialogue>You unlock the sewer hatch with the Rusty Key!</dialogue> 
+Forest_HatMouseStore_Abandoned: <dialogue>It looks abandoned...</dialogue> 
+    Desert_BusArrived: <dialogue who="Pam">Alright, kid. Just get back on the bus when you're ready to go home.</dialogue> 
+Bus_NoDriver: <dialogue>You'll have to wait until Pam's on duty to ride the bus.</dialogue> 
+DoorUnlock_NotFriend_Male: <dialogue>You're not good enough friends with {0} to enter his bedroom.</dialogue> 
+DoorUnlock_NotFriend_Female: <dialogue>You're not good enough friends with {0} to enter her bedroom.</dialogue> 
+DoorUnlock_NotFriend_Couple: <dialogue>You're not good enough friends with {0} or {1} to enter their bedroom.</dialogue> 
+FarmHouse_Bed_GoToSleep: <dialogue>Go to sleep for the night?</dialogue> 
+MensLocker_WrongGender: <dialogue>That's the men's locker room... you can't go in there!</dialogue> 
+WomensLocker_WrongGender: <dialogue>That's the women's locker room... you can't go in there!</dialogue> 
+Saloon_ColaMachine_Question: <dialogue>Buy a Joja Cola for 75g?</dialogue> 
+IceCreamStand_ComeBackLater: <dialogue>Come back when someone's working.</dialogue> 
+IceCreamStand_NotSummer: <dialogue>Closed until summer.</dialogue> 
+WizardTower_WizardShrine: <dialogue>           The Shrine Of Illusions  \nMake an offering of 500g to change your appearance?</dialogue> 
+SeedShop_BuyBackpack_Response2000: <dialogue>Purchase (2,000g)</dialogue> 
+SeedShop_BuyBackpack_Response10000: <dialogue>Purchase (10,000g)</dialogue> 
+SeedShop_BuyBackpack_ResponseNo: <dialogue>Not now</dialogue> 
+SeedShop_BuyBackpack_Question24: <dialogue>Backpack Upgrade -- 24 slots</dialogue> 
+SeedShop_BuyBackpack_Question36: <dialogue>Backpack Upgrade -- 36 slots</dialogue> 
+Club_Buy100Coins: <dialogue>Buy 100 Qi Coins for 1,000g?</dialogue> 
+Desert_SandDragon_Initial: <dialogue>Its maw gapes at the desert sun. Even in death, it yearns for a taste.</dialogue> 
+Desert_SandDragon_ConsumeEssence: <dialogue>You place the essence in the dragon's maw. Only then do you notice a note hidden in the eye socket:</dialogue> 
+    Desert_SandDragon_MrQiNote: <dialogue who="Qi">'You've proven yourself, kid. Check out the pile of lumber next to your house. -Mr. Qi'</dialogue> 
+Railroad_Box_Initial: <dialogue>It's an empty box.</dialogue> 
+Railroad_Box_ConsumeShell: <dialogue>You throw the shell into the box. Immediately, a note falls down from the rafters above:</dialogue> 
+    Railroad_Box_MrQiNote: <dialogue who="Qi">'Well done. Your next task: Place 10 beets inside Mayor's fridge. -Mr. Qi'</dialogue> 
+ManorHouse_LedgerBook_Singleplayer: <dialogue>Pelican Town Ledger Book... It looks like the mayor uses this to keep track of finances.</dialogue> 
+ManorHouse_LedgerBook_NoFarmhands: <dialogue>If any farmhands join your farm, you can transfer money to each other.</dialogue> 
+ManorHouse_LedgerBook_SharedWallets_Client: <dialogue>Pelican Town Ledger Book... The owner of the farm can request the mayor to split the funds of the farmhands.</dialogue> 
+ManorHouse_LedgerBook_SharedWallets_SeparateQuestion: <dialogue>Split the funds of each farmer? Tonight, the money will be divided evenly. If you change your mind, come back here before night's end.</dialogue> 
+ManorHouse_LedgerBook_SharedWallets_CancelQuestion: <dialogue>Cancel splitting up funds?</dialogue> 
+ManorHouse_LedgerBook_SeparateWallets_HostQuestion: <dialogue>It's the mayor's ledger book. What would you like to do?</dialogue> 
+ManorHouse_LedgerBook_SendMoney: <dialogue>Send Money</dialogue> 
+ManorHouse_LedgerBook_MergeWallets: <dialogue>Merge Funds</dialogue> 
+ManorHouse_LedgerBook_CancelMerge: <dialogue>Cancel Merging Funds</dialogue> 
+ManorHouse_LedgerBook_Leave: <dialogue>Leave</dialogue> 
+ManorHouse_LedgerBook_TransferCancel: <dialogue>Cancel</dialogue> 
+ManorHouse_LedgerBook_SeparateWallets_MergeQuestion: <dialogue>Merge the funds of each farmer? Tonight, everyone's money will be combined. If you change your mind, come back here before night's end.</dialogue> 
+ManorHouse_LedgerBook_SeparateWallets_CancelQuestion: <dialogue>Cancel merging funds?</dialogue> 
+ManorHouse_LedgerBook_SeparateWallets_TransferQuestion: <dialogue>Who would you like to send money to?</dialogue> 
+ManorHouse_LedgerBook_SeparateWallets_HowMuchQuestion: <dialogue>How much money would you like to send?</dialogue> 
+ManorHouse_DivorceBook_NoSpouse: <dialogue>Pelican Town Marriage Log... After marriage, you may file for divorce here. Let's hope that isn't necessary!</dialogue> 
+ManorHouse_DivorceBook_Question: <dialogue>File for divorce? There is a 50,000g fee.</dialogue> 
+ManorHouse_DivorceBook_CancelQuestion: <dialogue>Cancel your divorce?</dialogue> 
+ManorHouse_DivorceBook_Cancelled: <dialogue>Your divorce request has been cancelled.</dialogue> 
+ManorHouse_DivorceBook_Filed: <dialogue>Your divorce papers have been filed, but your spouse won't know until tomorrow morning. If you change your mind, come back here before night's end.</dialogue> 
+ManorHouse_MayorFridge_Initial: <dialogue>It's the mayor's fridge. It's mostly full of milk and iced tea.</dialogue> 
+ManorHouse_MayorFridge_ConsumeBeets: <dialogue>You quickly place the beets in the fridge. Wait a sec... there's a note taped to the milk. It's addressed to you:</dialogue> 
+    ManorHouse_MayorFridge_MrQiNote: <dialogue who="Qi">'Good job, kid. Your final task: Give the sand dragon his last meal. -Mr. Qi'</dialogue> 
+Tunnel_TunnelSafe_Initial: <dialogue>It's a battery powered lock-box. Unfortunately, there's no battery in it.</dialogue> 
+Tunnel_TunnelSafe_ConsumeBattery: <dialogue>It worked! The lock-box swings open. Inside, there's a note:</dialogue> 
+    Tunnel_TunnelSafe_MrQiNote: <dialogue who="Qi">'Your first task: Bring a rainbow shell to the train platform. Leave it in the box. -Mr. Qi'</dialogue> 
+SkullCave_SkullDoor_Locked: <dialogue>The door is locked.</dialogue> 
+SkullCave_SkullDoor_Unlock: <dialogue>You insert the skull key into the keyhole. It's a perfect fit!</dialogue> 
+FarmHouse_Crib_NewbornSleeping: <dialogue>{0} is sleeping.</dialogue> 
+Farm_GreenhouseRuins: <dialogue>Whatever this once was, it's now in ruins.</dialogue> 
+Saloon_Arcade_Minecart_Menu: <dialogue>= Junimo Kart =</dialogue> 
+Saloon_Arcade_Minecart_ProgressMode: <dialogue>Progress Mode</dialogue> 
+Saloon_Arcade_Minecart_EndlessMode: <dialogue>Endless Mode</dialogue> 
+Saloon_Arcade_Minecart_Exit: <dialogue>Exit</dialogue> 
+Saloon_Arcade_PK_NewGame+: <dialogue>Press button for a more difficult journey...</dialogue> 
+Saloon_Arcade_Minecart_Inactive: <dialogue>There's a skull-shaped keyhole...</dialogue> 
+AnimalShop_Marnie_Trash: <dialogue>Mostly empty pizza cartons.</dialogue> 
+JoshHouse_Alex_Trash: <dialogue>There's a bunch of protein bar wrappers.</dialogue> 
+SamHouse_Sam_Trash: <dialogue>Looks like Sam cleans his trash bin regularly.</dialogue> 
+SeedShop_Abigail_Drawers: <dialogue>It's full of clothes... wait. There's a sword hidden under the clothes.</dialogue> 
+    Submarine_SubmergeQuestion: <dialogue who="Misc">Captain: Ahoy there! Want to take the deep-sea fishing tour? It'll cost ya 1,000g.</dialogue> 
+    Submarine_AscendQuestion: <dialogue who="Misc">Captain: Shall I take us back up?</dialogue> 
+    Submarine_Done: <dialogue who="Misc">Captain: We're back! Make sure not to leave any fish lying around.</dialogue> 
+Mines_MineElevator_NotWorking: <dialogue>It doesn't seem to be working...</dialogue> 
+Mines_LeaveMine: <dialogue>Leave the mine</dialogue> 
+Mines_GoUp: <dialogue>Go up one level</dialogue> 
+Mines_DoNothing: <dialogue>Do nothing</dialogue> 
+Mines_ResetMine: <dialogue>Reset your progress in the mine?\n(You'll be back at mine level 1).</dialogue> 
+RemoveChest: <dialogue>You remove the empty chest.</dialogue> 
+Club_CalicoJack_HS: <dialogue>This table's for the big shots. It's a 1000 coin bet.</dialogue> 
+Club_CalicoJack: <dialogue>Wanna play some CalicoJack? This is the 100 coin table.</dialogue> 
+Club_CalicoJack_Play: <dialogue>Play</dialogue> 
+Club_CalicoJack_Leave: <dialogue>Leave</dialogue> 
+Club_CalicoJack_Rules: <dialogue>Rules</dialogue> 
+Club_QiCoins: <dialogue>You have {0} Club Coins.</dialogue> 
+Club_QiCoins_BuyStarter: <dialogue>You have 0 Club Coins. Buy a starter pack for 1000g?</dialogue> 
+Club_QiCoins_NotEnoughMoney: <dialogue>Error: Not enough money.</dialogue> 
+    Club_ClubSeller: <dialogue who="Misc">Psst... I have a 'Statue of Endless Fortune' for sale... only 1,000,000g. What do you say?</dialogue> 
+Club_ClubSeller_Yes: <dialogue>I'll take it.</dialogue> 
+Club_ClubSeller_No: <dialogue>No way!</dialogue> 
+    Club_ClubSeller_NotEnoughMoney: <dialogue who="Misc">Hey, I said 1,000,000g! This isn't gonna cut it.</dialogue> 
+Secret_Note_Name: <dialogue>Secret Note</dialogue> 
+Town_DwarfGrave_Translated: <dialogue>     You translate the dwarvish:     \n\nStand between the pillars three\nWith gift as precious as the sky:\nA rainbow forged from land, not sea\nThen galaxies will heed your cry.\n</dialogue> 
+    Town_mgThiefMessage: <dialogue who="Misc">Shadow Guy: Eeeeep! You caught me! I'm sorry! Take it! Take it! It looked so valuable, I couldn't help myself...</dialogue> 
+    Town_SpecialCharmQuestion: <dialogue who="Misc">Driver: Hey kid... I need a lucky break... why don't 'cha bring me a 'rabbit's foot'? I'll make it worth your while.</dialogue> 
+    Town_specialCharmNoFoot: <dialogue who="Misc">Driver: Come back when you got a 'rabbit's foot' on ya, kid.</dialogue> 
+SeedShop_Yoba: <dialogue>Altar of Yoba</dialogue> 
+ElliottHouse_ElliottBook_Blank: <dialogue>Blank book</dialogue> 
+    ElliottHouse_ElliottBook_Filled: <dialogue who="Elliott">'{0}' by Elliott ... Dedicated to {1}</dialogue> 
+FestivalDay_DoorLocked: <dialogue>It's locked...</dialogue> 
+SeedShop_LockedWed: <dialogue>Closed on Wednesdays.</dialogue> 
+LockedDoor: <dialogue>It's locked...</dialogue> 
+LockedDoor_OpenRange: <dialogue>It's locked... (Open {0} - {1})</dialogue> 
+LockedDoor_FriendsOnly: <dialogue>It's locked... Only {0}'s friends can enter uninvited.</dialogue> 
+    ScienceHouse_CarpenterMenu: <dialogue who="Robin">What can I do for you?</dialogue> 
+ScienceHouse_CarpenterMenu_Shop: <dialogue>Shop</dialogue> 
+ScienceHouse_CarpenterMenu_UpgradeHouse: <dialogue>Upgrade House</dialogue> 
+ScienceHouse_CarpenterMenu_CommunityUpgrade: <dialogue>Community Upgrade</dialogue> 
+ScienceHouse_CarpenterMenu_Construct: <dialogue>Construct Farm Buildings</dialogue> 
+ScienceHouse_CarpenterMenu_Leave: <dialogue>Leave</dialogue> 
+    ScienceHouse_RobinAbsent: <dialogue who="Robin">Sorry! Shop's closed for the day... I'm at Caroline's place for aerobics club.\n\n-Robin</dialogue> 
+Blacksmith_Clint_Shop: <dialogue>Shop</dialogue> 
+Blacksmith_Clint_Upgrade: <dialogue>Upgrade Tools</dialogue> 
+Blacksmith_Clint_Leave: <dialogue>Leave</dialogue> 
+Blacksmith_Clint_Geodes: <dialogue>Process Geodes</dialogue> 
+AnimalShop_Marnie_Supplies: <dialogue>Supplies Shop</dialogue> 
+AnimalShop_Marnie_Animals: <dialogue>Purchase Animals</dialogue> 
+AnimalShop_Marnie_Leave: <dialogue>Leave</dialogue> 
+    AnimalShop_Marnie_Absent: <dialogue who="Marnie">Closed for the day.\n\n-Marnie</dialogue> 
+ArchaeologyHouse_Gunther_Donate: <dialogue>Donate To Museum</dialogue> 
+ArchaeologyHouse_Gunther_Collect: <dialogue>Collect Rewards</dialogue> 
+ArchaeologyHouse_Gunther_Leave: <dialogue>Leave</dialogue> 
+ArchaeologyHouse_Rearrange: <dialogue>Would you like to rearrange the museum's collection?</dialogue> 
+HaleyHouse_EmilyRoomObject: <dialogue>There's a tape inside:'Freeform Dance Rhythyms'</dialogue> 
+Club_Bouncer_PlayerClubMember: <dialogue>You may enter.</dialogue> 
+Club_CalicoJack_Rules1: <dialogue>The objective is to get as close to 21 as possible. Cards range from 1 to 9, except for the first card which can be as high as 11. Each player starts with two cards, but the dealer's first card remains hidden. Each turn you can choose to draw a random number between 1 and 9 or pass.</dialogue> 
+Club_CalicoJack_Rules2: <dialogue>Once you pass, the dealer's hidden card is revealed. She must draw until her total reaches or exceeds 18. If either player exceeds 21 on their turn, they lose. If the dealer passes, then all cards are revealed and the highest score wins.</dialogue> 
+Club_CalicoJackHS_NotEnoughCoins: <dialogue>You need at least 1000 coins to play here.</dialogue> 
+Club_CalicoJack_NotEnoughCoins: <dialogue>Hey, the betting's fixed at 100 coins. You don't have enough. Go buy some coins from the machine if you want to play.</dialogue> 
+    ScienceHouse_Carpenter_UpgradeHouse1: <dialogue who="Robin">I can increase the size of your house and add a kitchen. It will cost 10,000g and you'll also need to provide me with 450 pieces of wood. Are you interested?</dialogue> 
+    ScienceHouse_Carpenter_UpgradeHouse2: <dialogue who="Robin">I can increase the size of your house and add a nursery. It will cost 50,000g and you'll also need to provide me with 150 pieces of hardwood. Are you interested?</dialogue> 
+    ScienceHouse_Carpenter_UpgradeHouse3: <dialogue who="Robin">I can add a cellar to your house. The cellar can be used to age certain products, like wine and cheese. It will cost 100,000g. Are you interested?</dialogue> 
+    ScienceHouse_Carpenter_CommunityUpgrade1: <dialogue who="Robin">...What's that? You want to build Pam a house? That's a great idea!^I'll just need 950 wood and 500,000g...</dialogue> 
+    ScienceHouse_Carpenter_NotEnoughWood1: <dialogue who="Robin">Sorry... You have the money, but I also need 450 pieces of wood.</dialogue> 
+    ScienceHouse_Carpenter_NotEnoughWood2: <dialogue who="Robin">Sorry... You have the money, but I also need 150 pieces of hardwood.</dialogue> 
+    ScienceHouse_Carpenter_NotEnoughWood3: <dialogue who="Robin">Sorry... You have the money, but I also need 950 pieces of wood.</dialogue> 
+Farm_WeedsDestruction: <dialogue>The spreading weeds have caused damage to your farm.</dialogue> 
+JojaMart_SignUp: <dialogue>If you become a Joja Member, the community center will become a Joja Warehouse, and you will no longer be able to refurbish it. However, Joja will provide an alternative means to improving the town. Are you sure you want to join?</dialogue> 
+Mines_Infested: <dialogue>This area is infested...</dialogue> 
+Mines_Overrun: <dialogue>This area is overrun with monsters.</dialogue> 
+Mines_Fallen: <dialogue>You fell {0} levels.</dialogue> 
+Mines_FallenFar: <dialogue>You fell {0} levels. Ouch!</dialogue> 
+Mines_ShaftJumpIn: <dialogue>Jump In</dialogue> 
+Mines_Shaft: <dialogue>There's a shaft leading down.</dialogue> 
+Mountain_AdventurersGuildNote: <dialogue>      * Adventurer's Guild *\n\n    Proven adventurers only.</dialogue> 
+Railroad_TrainComing: <dialogue>A train is passing through Stardew Valley</dialogue> 
+Town_SeedShopSign: <dialogue>- Pierre's General Store -\nNow open 7 days a week From 9am-5pm!</dialogue> 
+Town_JojaSign_Destroyed: <dialogue>Out of Business.</dialogue> 
+Town_PickupTruck: <dialogue>It's just the back of Lewis' old pickup truck...</dialogue> 
+Sewer_DogStatue: <dialogue>-Statue Of Uncertainty-^The statue can help you change professions.^Make an offering of 10,000g?</dialogue> 
+Sewer_DogStatueCancel: <dialogue>None, I changed my mind...</dialogue> 
+Sewer_DogStatueQuestion: <dialogue>Which skill's professions would you like to change?</dialogue> 
+Sewer_DogStatueAlready: <dialogue>This skill is already being altered tonight. Come back tomorrow...</dialogue> 
+    Sewer_DogStatueFinished: <dialogue who="Misc">*woof* *woof* (It's done... now go to sleep...)</dialogue> 
+WitchHut_EvilShrineLeft: <dialogue>-Dark Shrine of Selfishness-^Your children will turn into doves and fly away...^Make an offering of one Prismatic Shard?</dialogue> 
+WitchHut_EvilShrineLeftInactive: <dialogue>-Dark Shrine of Selfishness-^The statue stares through you...\n      </dialogue> 
+WitchHut_EvilShrineCenter: <dialogue>-Dark Shrine of Memory-^The relationship between you and your ex-spouses will be wiped from memory. It will be like you've never met.^Make an offering of 30,000g?\n      </dialogue> 
+WitchHut_Goodbye: <dialogue>Goodbye, {0}.</dialogue> 
+WitchHut_EvilShrineCenterInactive: <dialogue>-Dark Shrine of Memory-^The statue stares through you...\n      </dialogue> 
+WitchHut_EvilShrineRightActivate: <dialogue>-Dark Shrine of Night Terrors-^The ancient magi-seal of protection will be lifted, allowing monsters to appear on your farm at night.^Make an offering of one Strange Bun?\n      </dialogue> 
+WitchHut_EvilShrineRightDeActivate: <dialogue>\n        -Dark Shrine of Night Terrors-^The ancient magi-seal of protection will be restored, preventing monsters from appearing on your farm at night.^Make an offering of one Strange Bun?\n      </dialogue> 
+WitchHut_NoOffering: <dialogue>You don't have the necessary offering.</dialogue> 
+Sewer_MagicSeal: <dialogue>There's some kind of force-field blocking your path.</dialogue> 
+Woods_Statue: <dialogue>--Old Master Cannoli--\n...Still searching for the sweetest taste...</dialogue> 
+ScienceHouse_CarpenterMenu_UpgradeCabin: <dialogue>Upgrade Cabin</dialogue> 
+AdventureGuild_ItemRecovery: <dialogue>Item Recovery Service</dialogue> 
+    AdventureGuild_Greeting: <dialogue who="Marlon">Need something?</dialogue> 
+ManorHouse_DivorceBook_Question_Krobus: <dialogue>Kick {0} out of your house?</dialogue> 
+ManorHouse_DivorceBook_CancelQuestion_Krobus: <dialogue>Cancel your eviction?</dialogue> 
+ManorHouse_DivorceBook_Cancelled_Krobus: <dialogue>You've changed your mind about kicking {0} out.</dialogue> 
+ManorHouse_DivorceBook_Filed_Krobus: <dialogue>You've decided to kick {0} out of the house. If you change your mind, come back here before night's end.</dialogue> 
+Theater_Poster_0: <dialogue>Now Playing: \"{0}.\"</dialogue> 
+Theater_Poster_1: <dialogue>\"{0}\"</dialogue> 
+Theater_Poster_Coming_Soon: <dialogue>Coming soon: \"{0}.\"</dialogue> 
+Theater_MovieEnd: <dialogue>The movie has concluded for tonight. We hope you enjoyed the show!</dialogue> 
+Theater_MovieEndReEntry: <dialogue>The movie has concluded.</dialogue> 
+HaleyHouse_SewingMachine: <dialogue>It's a sewing machine... But I'm not sure how to use it.</dialogue> 
+HaleyHouse_DyePot: <dialogue>An array of brightly colored dyes.</dialogue> 
+Caroline_Sunroom_Door: <dialogue>Caroline only lets her friends enter here...</dialogue> 
+    Caroline_Tea_Event1: <dialogue who="Caroline">When I'm alone with relaxing tea...</dialogue> 
+    Caroline_Tea_Event2: <dialogue who="Caroline">My mind is empty and free to wander...</dialogue> 
+    Caroline_Tea_Event3: <dialogue who="Caroline">Who knows what might appear?</dialogue> 
+Desert_Trader_Closed: <dialogue>Closed until the 18th for the Pelican Town night market.</dialogue> 
+Farm_OtherPlayerMailbox: <dialogue>That's not your mailbox.</dialogue> 
+BoatTunnel_BuyTicket: <dialogue>Buy a ticket for {0}g?</dialogue> 
+    IslandNorth_CaveHelp_0: <dialogue who="Professor Snail">Help!</dialogue> 
+    IslandNorth_CaveHelp_1: <dialogue who="Professor Snail">Anyone there?</dialogue> 
+    IslandNorth_CaveHelp_2: <dialogue who="Professor Snail">I'm stuck!</dialogue> 
+    IslandNorth_CaveHelp_3: <dialogue who="Professor Snail">Over here!</dialogue> 
+    IslandNorth_CaveTool_0: <dialogue who="Professor Snail">That won't work.</dialogue> 
+    IslandNorth_CaveTool_1: <dialogue who="Professor Snail">It's too weak.</dialogue> 
+    IslandNorth_CaveTool_2: <dialogue who="Professor Snail">Hmm...</dialogue> 
+    IslandNorth_CaveTool_3: <dialogue who="Professor Snail">Try something else.</dialogue> 
+    IslandNorth_Event_SafariManAppear: tropical_island_day_ambient/-1000 -100/farmer 20 48 1/skippable/pause 1000/viewport 21 47 true/pause 1000/playSound thudStep/addTemporaryActor SafariGuy 16 32 22 45 2 true ???/move SafariGuy 0 3 3/pause 1000/speak SafariGuy \<dialogue who="Professor Snail">Thank you! I thought I was done for... $h#$b#I've been stuck in this cave for months!\</dialogue>/pause 500/faceDirection SafariGuy 2/pause 300/showFrame SafariGuy 16/pause 600/emote SafariGuy 28/speak SafariGuy \<dialogue who="Professor Snail">...One more cave mushroom salad and I would've gone off the deep end... *shudder* ...so rubbery...$s\</dialogue>/pause 500/showFrame SafariGuy 0/pause 500/faceDirection SafariGuy 3/pause 500/changeName SafariGuy Professor_Snail/speak SafariGuy \<dialogue who="Professor Snail">Anyway... I'm Professor Snail.#$b#I've been conducting a survey of this island's flora and fauna for the last year. Truly a remarkable place!\</dialogue>/pause 400/faceDirection SafariGuy 2/pause 250/faceDirection SafariGuy 3/speak SafariGuy \<dialogue who="Professor Snail">Well, I think I'll go back to my tent and freshen up a little. I'm afraid I smell like mushrooms...$s#$b#Hey... you should stop by the tent sometime! An enterprising individual like yourself could be a major asset in my projects... hee hee! Farewell.$h\</dialogue>/pause 200/showFrame SafariGuy 17/pause 800/showFrame SafariGuy 12/pause 200/advancedMove SafariGuy true 1 0 0 4/pause 250/end position 20 48 
+    IslandFieldOffice_Welcome_0: <dialogue who="Professor Snail">Greetings!</dialogue> 
+    IslandFieldOffice_Welcome_1: <dialogue who="Professor Snail">Hello!</dialogue> 
+    IslandFieldOffice_Welcome_2: <dialogue who="Professor Snail">Hey!</dialogue> 
+    IslandFieldOffice_Welcome_3: <dialogue who="Professor Snail">Welcome!</dialogue> 
+IslandFieldOffice_Survey_Yes: <dialogue>Ready to report</dialogue> 
+IslandFieldOffice_Survey_Notyet: <dialogue>Not ready</dialogue> 
+IslandFieldOffice_Survey_Prompt_LeftPlant: <dialogue>Island Survey -- Please report the number of purple flowers present on the island.</dialogue> 
+    IslandFieldOffice_Survey_PurpleFlower_Question: <dialogue who="Professor Snail">How many purple flowers can be found on the island?</dialogue> 
+    IslandFieldOffice_Survey_PurpleFlower_Wrong: <dialogue who="Professor Snail">Hmm... That number doesn't fit my models at all... Maybe you should give it another shot tomorrow.$s</dialogue> 
+    IslandFieldOffice_Survey_PurpleFlower_Correct: <dialogue who="Professor Snail">Yes, yes... that seems very accurate. Thank you!$h</dialogue> 
+IslandFieldOffice_Survey_Prompt_RightPlant: <dialogue>Island Survey -- Please report the number of purple starfish present on the island.</dialogue> 
+    IslandFieldOffice_Survey_PurpleStarfish_Question: <dialogue who="Professor Snail">How many purple starfish can be found on the island?</dialogue> 
+    IslandFieldOffice_Survey_Failed: <dialogue who="Professor Snail">Hmm... I think you should take a break and try doing the survey again tomorrow...</dialogue> 
+    IslandFieldOffice_Intro_Event: fieldofficeTentMusic/-1000 -1000/farmer 4 10 0/skippable/addTemporaryActor SafariGuy 16 32 5 4 0 true Professor_Snail/viewport 4 6 true/move farmer 0 -2 0/pause 1000/faceDirection SafariGuy 1 true/pause 50/faceDirection SafariGuy 2 true/pause 500/speak SafariGuy \<dialogue who="Professor Snail">Ah... Come in!\</dialogue>/move farmer 2 0 0/move farmer 0 -4 3/faceDirection SafariGuy 1/pause 500/speak SafariGuy \<dialogue who="Professor Snail">Welcome to my field office.\</dialogue>/faceDirection SafariGuy 2/faceDirection farmer 2/showFrame SafariGuy 16/emote SafariGuy 28/pause 500/speak SafariGuy \<dialogue who="Professor Snail">As you can see... it's quite empty.$s#$b#Getting stuck in that cave was a huge setback to my project.$s\</dialogue>/pause 50/showFrame SafariGuy 0/pause 200/faceDirection SafariGuy 1/pause 100/speak SafariGuy \<dialogue who="Professor Snail">But that's where you come in! Hee hee...$h\</dialogue>/faceDirection farmer 3/emote farmer 8/speak SafariGuy \<dialogue who="Professor Snail">I'm in the bone business, you see...#$b#Ancient bones, in particular... And this island is full of them.#$b#So if you ever encounter any bones, fossils, or mummified specimens on this island, bring them to my desk, okay? I'll make it worth your while!$h\</dialogue>/pause 200/faceDirection SafariGuy 1/end 
+ScienceHouse_CarpenterMenu_RenovateHouse: <dialogue>Make House Renovations</dialogue> 
+ScienceHouse_CarpenterMenu_RenovateCabin: <dialogue>Make Cabin Renovations</dialogue> 
+ScienceHouse_Renovation_RemoveCrib: <dialogue>Remove Crib/Remove the crib from your home./Select a crib to remove.</dialogue> 
+ScienceHouse_Renovation_BuildCrib: <dialogue>Build Crib/Builds a crib in your home./Select a location for the crib.</dialogue> 
+ScienceHouse_Renovation_OpenBedroom: <dialogue>Open Bedroom/Removes the wall separating your bedroom and the entrance room./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_CloseBedroom: <dialogue>Close Bedroom/Builds a wall separating your bedroom and the entrance room./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_AddSouthernRoom: <dialogue>Add Southern Room/Adds a room to the south of your bedroom./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_RemoveSouthernRoom: <dialogue>Remove Southern Room/Removes the room to the south of your bedroom./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_AddCornerRoom: <dialogue>Add Corner Room/Adds a room in the northeast corner of the house./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_RemoveCornerRoom: <dialogue>Remove Corner Room/Removes the room in the northeast corner of the house./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_AddCornerStairs: <dialogue>Add Corner Stairs/Adds a staircase from your bedroom to the corner room./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_RemoveCornerStairs: <dialogue>Remove Corner Stairs/Removes the staircase from your bedroom to the corner room./Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_AddStairs: <dialogue>Add Stairs/Adds a staircase in one of several locations/Select an area for the renovation.</dialogue> 
+ScienceHouse_Renovation_RemoveStairs: <dialogue>Remove Stairs/Remove a staircase./Select an area for the renovation.</dialogue> 
+Journal_Name: <dialogue>Journal Scrap</dialogue> 
+IslandFarmhouse_Drawer: <dialogue>You open the drawer and find a tattered journal...</dialogue> 
+    Gourmand_Intro: <dialogue who="Gourmand">Kribbibbit... Whooo? You da farmer who tend-a da land outside me house, bub?</dialogue> 
+    Gourmand_RequestIntro: <dialogue who="Gourmand">Gurrp... Dah land once teemed wis fresh, fresh fooda... *sigh*... me wish ta seein' da teemin' once more.</dialogue> 
+    Gourmand_RequestQuestion: <dialogue who="Gourmand">You be growin' da thing outside now, bub?</dialogue> 
+    Gourmand_RequestFailed: <dialogue who="Gourmand">Kriibbitt... You no grow da thing I wish-a da see... Grow dis a thing and return-a ta me..</dialogue> 
+    Gourmand_Request_0: <dialogue who="Gourmand">Grow you for me... da pink thing... da juicy thing...</dialogue> 
+    Gourmand_Request_0_Success: <dialogue who="Gourmand">Gurrrp... Yes. Bombo pink... Bombo juicy...|...Bringin' me back to da good old days... sunny days when things bein' sweeter...|*slurp*... Me wanna take a big bombo juicy bite...|...But, me won't.</dialogue> 
+    Gourmand_Request_1: <dialogue who="Gourmand">Me wanna see da longo yellow ticklin' thing... da thing dat be wavin' in the wind...</dialogue> 
+    Gourmand_Request_1_Success: <dialogue who="Gourmand">Gurrrp... Good. Bombo longo and when da run through it... bombo ticklin'.|Heh... remindin' me of an old girlfriend... *gurp*...|Heh... Now me wanna tickle-da you...|...But, me won't.</dialogue> 
+    Gourmand_Request_2: <dialogue who="Gourmand">Me wanna eat da zesty ground-fruit, but make da breath stink...</dialogue> 
+    Gourmand_Request_2_Success: <dialogue who="Gourmand">Gurrrp... Yes... Me eatin' da thing once. Made da breath smell bombo bad...|...Remindin' me of Papa when I was just a tadpole...|Heh... Me wanna take a big bite, and smell bombo bad...|...But, me won't.</dialogue> 
+    Gourmand_Reward: <dialogue who="Gourmand">Kriibbitt... Yes... Thank-a da you. This bringin' me back... To da good times, long, long ago, bub...|Here... This da for you.</dialogue> 
+    Gourmand_LastReward: <dialogue who="Gourmand">Kriibbitt... Yes... Me remember everything now!|Thank-a da you for remindin' me so much.|This da one last reward for you, bub.</dialogue> 
+    Gourmand_Finished: <dialogue who="Gourmand">Kriibbitt... Good to see you again, bombo-friend.|I hope a you growin' da big bombo fruit, bub!</dialogue> 
+    Gourmand_InProgress: <dialogue who="Gourmand">Ah... I see you growin' da thing. But it's still ding-ee small. Come back when it's bombo big...</dialogue> 
+Saloon_Arcade_Cowboy_Menu: <dialogue>= Journey Of The Prairie King =</dialogue> 
+Saloon_Arcade_Cowboy_Continue: <dialogue>Continue Journey</dialogue> 
+Saloon_Arcade_Cowboy_NewGame: <dialogue>Start New Journey</dialogue> 
+    IslandHut_Event_ParrotBoyIntro: continue/-1000 -1000/farmer 7 7 3/skippable/specificTemporarySprite removeSprite 777/addTemporaryActor ParrotBoy 16 32 5 2 2 true ???/pause 2000/viewport 5 7 true/pause 2000/emote ParrotBoy 8/pause 1500/message \<dialogue>The boy looks at you with curious eyes...\</dialogue>/pause 1500/animate ParrotBoy false true 500 17 0/playSound parrot_squawk/pause 1000/playSound parrot_squawk/pause 800/stopAnimation ParrotBoy/specificTemporarySprite parrotHutSquawk/pause 800/move farmer -2 0 0/pause 500/emote farmer 8/pause 1000/message \<dialogue>He seems to have a close bond with the parrots.\</dialogue>/pause 500/message \<dialogue>But he's too shy to approach you right now.\</dialogue>/pause 1400/faceDirection farmer 1/pause 500/message \<dialogue>Perhaps making friends with the parrots could earn his trust?\</dialogue>/pause 1000/end position 5 7 
+    IslandSecret_Event_BirdieIntro: tropical_island_day_ambient/-1000 -1000/farmer 20 58 3/skippable/addTemporaryActor Birdie 32 32 17 58 3 true ???/animate Birdie false true 1000 8 9/pause 1000/viewport 18 58 clamp true/pause 1000/emote Birdie 8/pause 1000/speak Birdie \<dialogue who="Birdie">"Oh... a visitor?#$b#Come closer, child.\"</dialogue>/pause 400/move farmer -1 0 3/pause 300/emote Birdie 40/speak Birdie \<dialogue who="Birdie">"I haven't had a visitor in many moons...$s#$b#I almost forgot what other people looked like!\"</dialogue>/pause 1000/speak Birdie \<dialogue who="Birdie">"Well, I suppose now that you're here, I may as well ask you for a favor.\"</dialogue>/pause 500/textAboveHead Birdie \<dialogue who="Birdie">"Come...\"</dialogue>/pause 500/playFramesAhead 3/stopAnimation Birdie/extendSourceRect Birdie reset/warp Birdie 18 58/viewport move 1 0 2000/move Birdie 0 -1 2/move Birdie 2 0 1/move farmer 1 0 1/pause 500/speak Birdie \<dialogue who="Birdie">"Have you seen that wrecked ship on the south shore?#$b# My husband was the captain. A pirate, he was.#$b#He set sail one day, never to return. Took me three years sailing the high seas to find his remains.$s\"</dialogue>/emote Birdie 28/speak Birdie \<dialogue who="Birdie">"*sigh*...$s#$b#I've been here ever since, dear.$s#$b#...Guarding his bones...\"</dialogue>/faceDirection farmer 2 true/playSound batScreech/animate farmer false true 100 94/jump farmer/pause 1500/stopAnimation farmer/faceDirection farmer 0/faceDirection Birdie 2/speak Birdie \<dialogue who="Birdie">"My child... If I could only find a keepsake of his, it would bring me such peace.$s\"</dialogue>/pause 400/textAboveHead Birdie \<dialogue who="Birdie">"Wait here...\"</dialogue>/move Birdie -1 0 0/move Birdie 0 -1 3/warp Birdie -100 -100/playSound doorClose/faceDirection farmer 0/faceDirection Birdie 2/pause 1000/playSound Ship/pause 1000/playSound Ship/playSound crafting/pause 1000/playSound doorClose/warp Birdie 20 56/move Birdie 0 1 2/speak Birdie \<dialogue who="Birdie">"Here, take this. It's an old photograph that washed up on shore.#$b#It's all I have to offer... but somehow, I think it will help you find what I seek.\"</dialogue>/pause 500/unskippable/playSound coin/awardFestivalPrize memento true/pause 10/addQuest 130/pause 1700/end 
+    IslandSecret_Event_BirdieFinished: tropical_island_day_ambient/-1000 -1000/farmer 20 58 3/removeQuest 130/skippable/addTemporaryActor Birdie 32 32 17 58 3 true ???/animate Birdie false true 1000 8 9/pause 1000/viewport 18 58 clamp true/pause 2300/playMusic none/animate farmer true true 100 35/addObject 19 58 870/playSound sandyStep/pause 800/stopAnimation farmer/playFramesAhead 3/stopAnimation Birdie/extendSourceRect Birdie reset/warp Birdie 18 58/move Birdie 0 -1 2/move Birdie 1 0 2/pause 500/jump Birdie/pause 500/playMusic desolate/speak Birdie \<dialogue who="Birdie">"It's his...$s\"</dialogue>/emote Birdie 20/pause 1200/playSound coin/removeObject 19 58/showFrame Birdie 20/pause 2500/speak Birdie \<dialogue who="Birdie">"Heh... It still has his smell, after all these years...#$b#...that familiar, putrid funk...$h\"</dialogue>/pause 300/faceDirection farmer 2 true/playSound croak/animate farmer false false 350 104 105 104 105 104 105/pause 1000/faceDirection farmer 3/speak Birdie \<dialogue who="Birdie">"You know... It's been a lonely life here, child... but I don't regret it at all.#$b#I'm doin' right by my old man... and we'll be together again some day soon... hehe\"</dialogue>/pause 500/stopAnimation Birdie/move Birdie 0 1 3/playMusic tropical_island_day_ambient/faceDirection Birdie 1/quickQuestion #It's an honorable thing to do.#He's gone. You should live your life.(break)speak Birdie \<dialogue who="Birdie">"You have great wisdom, child.#$b#And you've brought me great peace... this locket will comfort me for the rest of my days.$h\"</dialogue>(break)emote Birdie 28\\speak Birdie \<dialogue who="Birdie">"An old woman like me? I think it's too late, dear...$s#$b#Besides... I like it here! It's relaxing and beautiful. And I have an endless supply of fresh fish, oysters, and monkey meat. Hehehe.$h#$b#...I'm kidding about the monkey meat.\"</dialogue>/pause 1000/speak Birdie \<dialogue who="Birdie">"Now... how can I repay you for this?\"</dialogue>/jump Birdie/pause 500/speak Birdie \<dialogue who="Birdie">"Oh... How about I teach you a special recipe... Something I discovered in the many years I've spent here.\"</dialogue>/pause 1000/playSound reward/addCraftingRecipe Fairy Dust/message \"Learned to craft 'Fairy Dust'.\"/pause 1000/fork gotBirdieReward Strings\\\\Locations:alreadyGotNuts true/speak Birdie \<dialogue who="Birdie">"You can take these, too...\"</dialogue>/awardFestivalPrize birdieReward true/pause 1000/speak Birdie \<dialogue who="Birdie">"Though you're a stranger, you went out of your way to help an old lady.#$b#Bless your heart!$h\"</dialogue>/emote Birdie 20/emote farmer 32/pause 1000/end 
+    alreadyGotNuts: pause 50/pause 50/pause 1000/speak Birdie \<dialogue who="Birdie">"Though you're a stranger, you went out of your way to help an old lady.#$b#Bless your heart!$h\"</dialogue>/emote Birdie 20/emote farmer 32/pause 1000/end 
+    qiNutDoor: You hear a strange voice from behind the door...#<dialogue who="Qi">'Only the greatest walnut hunters may enter here.'</dialogue>^    Your current status: {0}/100 
+BoatTunnel_DonateBatteries: <dialogue>Donate 5 battery packs to repair the ticket machine?</dialogue> 
+BoatTunnel_DonateHardwood: <dialogue>Donate 200 hardwood for hull repairs?</dialogue> 
+BoatTunnel_DonateIridium: <dialogue>Donate 5 iridium bars to repair the anchor?</dialogue> 
+BoatTunnel_DonateBatteriesHint: <dialogue>This machine could be repaired with 5 battery packs.</dialogue> 
+BoatTunnel_DonateHardwoodHint: <dialogue>The hull could be repaired with 200 pieces of hardwood.</dialogue> 
+BoatTunnel_DonateIridiumHint: <dialogue>The anchor could be repaired with 5 iridium bars.</dialogue> 
+BoatTunnel_boatcomplete: <dialogue>All materials have been found!#The boat will be repaired overnight.</dialogue> 
+    BoatTunnel_willyText_firstRide: <dialogue who="Willy">She looks good as new!</dialogue> 
+    BoatTunnel_willyText_random0: <dialogue who="Willy">Sorry if I smell like fish, heh!</dialogue> 
+    BoatTunnel_willyText_random1: <dialogue who="Willy">Ahoy!</dialogue> 
+AnimalHouse_Incubator_Hatch_Ostrich: <dialogue>A new ostrich chick hatched... it's a big one!</dialogue> 
+    FieldOfficeFinale: distantBanjo/-1000 -1000/farmer 4 8 0/addCraftingRecipe Ostrich Incubator/addMailReceived fieldOfficeFinale/skippable/addTemporaryActor SafariGuy 16 32 3 8 0 true Professor_Snail/pause 1000/viewport 4 6 true/pause 4000/speak SafariGuy \<dialogue who="Professor Snail">Wow...#$b#Look how far we've come!$h\</dialogue>/faceDirection SafariGuy 1/speak SafariGuy \<dialogue who="Professor Snail">The collection looks fantastic, and it's all thanks to you, @.\</dialogue>/emote farmer 32/speak SafariGuy \<dialogue who="Professor Snail">Here, as a way of saying 'thanks', I want to teach you something.\</dialogue>/faceDirection farmer 3/pause 700/playSound reward/message \<dialogue who="Professor Snail">Learned how to craft 'Ostrich Incubator'\</dialogue>/pause 400/speak SafariGuy \<dialogue who="Professor Snail">This device will allow you to raise ostriches back home. Just place the incubator in a barn, place an ostrich egg inside, and wait...\</dialogue>/faceDirection SafariGuy 0/speak SafariGuy \<dialogue who="Professor Snail">Getting your hands on an ostrich egg is a different story, though... I'll leave that up to you!\</dialogue>/pause 400/faceDirection farmer 0/pause 500/speak SafariGuy \<dialogue who="Professor Snail">Heh... Well... now the real work begins.#$b#I'll be studying these bones for years to come!\</dialogue>/faceDirection SafariGuy 1/faceDirection farmer 3/speak SafariGuy \<dialogue who="Professor Snail">Farewell, @!\</dialogue>/pause 600/end 
+    NutHint_Squawk: <dialogue who="Parrot">*Awk*</dialogue> 
+    NutHint_VolcanoLava: <dialogue who="Parrot">Fire mountain... Hidden down fire river...</dialogue> 
+    NutHint_BuriedArch: <dialogue who="Parrot">Buried near bones...</dialogue> 
+    NutHint_Arch: <dialogue who="Parrot">Help man in tent...</dialogue> 
+    NutHint_NorthBuried: <dialogue who="Parrot">{0} buried in the north...</dialogue> 
+    NutHint_WestBuried: <dialogue who="Parrot">{0} buried in the west...</dialogue> 
+    NutHint_SouthBuried: <dialogue who="Parrot">{0} buried in the south...</dialogue> 
+    NutHint_NorthHidden: <dialogue who="Parrot">{0} hidden in the north...</dialogue> 
+    NutHint_HutTree: <dialogue who="Parrot">Bulging very close by...</dialogue> 
+    NutHint_TigerSlime: <dialogue who="Parrot">Stripey slimes to the west...</dialogue> 
+    NutHint_MusselStone: <dialogue who="Parrot">{0} stuck in shelly stones by shore...</dialogue> 
+    NutHint_IslandFarming: <dialogue who="Parrot">{0} grow on the farm to the west...</dialogue> 
+    NutHint_WestHidden: <dialogue who="Parrot">{0} hidden in the west...</dialogue> 
+    NutHint_IslandFishing: <dialogue who="Parrot">{0} deep in the water...</dialogue> 
+    NutHint_VolcanoTreasure: <dialogue who="Parrot">{0} hidden in fire mountain treasures...</dialogue> 
+    NutHint_VolcanoBarrel: <dialogue who="Parrot">{0} encased in fire mountain gadgets...</dialogue> 
+    NutHint_VolcanoMining: <dialogue who="Parrot">{0} nutty stone in fire mountain...</dialogue> 
+    NutHint_VolcanoMonsters: <dialogue who="Parrot">{0} taken by monsters in fire mountain...</dialogue> 
+    NutHint_Journal: <dialogue who="Parrot">Hidden in the pages of the journal...</dialogue> 
+    NutHint_SouthEastBuried: <dialogue who="Parrot">{0} buried... Pirate's cove...</dialogue> 
+    NutHint_StardropPool: <dialogue who="Parrot">Bathing in the heart of the star...</dialogue> 
+    NutHint_Caldera: <dialogue who="Parrot">Atop fire mountain...</dialogue> 
+    NutHint_Gourmand: <dialogue who="Parrot">Kribbit... Gurrrp...</dialogue> 
+    NutHint_IslandShrine: <dialogue who="Parrot">Hidden shrine in rain forest...</dialogue> 
+    NutHint_GoldenCoconut: <dialogue who="Parrot">Inside hard, gold thing...</dialogue> 
+    IslandSouth_ResortOpenSign: <dialogue who="Parrot">The beach resort is open. Temporarily close it down tomorrow?</dialogue> 
+IslandSouth_ResortOpenWillCloseSign: <dialogue>The beach resort will temporarily close tomorrow. Keep it open?</dialogue> 
+IslandSouth_ResortClosedSign: <dialogue>The beach resort is temporarily closed. Open it back up tomorrow?</dialogue> 
+IslandSouth_ResortClosedWillOpenSign: <dialogue>The beach resort will open back up tomorrow. Keep it closed?</dialogue> 
+IslandSouth_ResortWillOpenSign: <dialogue>The beach resort will be open tomorrow.</dialogue> 
+IslandSouth_ResortWillCloseSign: <dialogue>The beach resort will be closed tomorrow.</dialogue> 
+ManorHouse_LAF_Check: <dialogue>The town's 'Lost and Found' box.</dialogue> 
+ManorHouse_LAF_Check_OrdersUnlocked: <dialogue>The town's 'Lost and Found' box. You can collect incomplete deliveries from past special orders here.</dialogue> 
+ManorHouse_LAF_DonationItems: <dialogue>Collect lost items and incomplete deliveries</dialogue> 
+ManorHouse_LAF_FarmhandItems: <dialogue>Retrieve items from offline farmhands</dialogue> 
+ManorHouse_LAF_FarmhandItemsQuestion: <dialogue>Who would you like to retrieve items from?</dialogue> 
+    FieldOfficeDonated_0: <dialogue who="Professor Snail">Ah... Now this is a truly fascinating piece of natural history! Thank you.</dialogue> 
+    FieldOfficeDonated_1: <dialogue who="Professor Snail">Beautiful! These bones are exactly what I'm looking for. Now, let me clean my magnifying lens...</dialogue> 
+    FieldOfficeDonated_2: <dialogue who="Professor Snail">You've outdone yourself, @. This is one of the most pristine specimens I've ever seen. Thank you!$h</dialogue> 
+    FieldOfficeDonated_3: <dialogue who="Professor Snail">To think... generations have come and gone while this little bone lay hidden beneath the soil. Now it's mine!</dialogue> 
+    FieldOfficeDonated_Reward: <dialogue who="Professor Snail">And would you look at that! With this donation, we've got another full set piece completed.$h#$b#I've got a little something waiting for you behind the counter, when you're ready for it!</dialogue> 
+Volcano_ShortcutOut: <dialogue>Take the shortcut out of the volcano?</dialogue> 
+    SeedShop_MoneyBox: <dialogue who="Pierre">I'm taking the day off to visit the island. Please place your money in the box. No cheating!^     -Pierre</dialogue> 
+    AnimalShop_MoneyBox: <dialogue who="Marnie">I'm visiting the island today. If you need to buy anything, just leave the money in this box!^     -Marnie</dialogue> 
+    Saloon_MoneyBox: <dialogue who="Gus">I'm tending the bar on Ginger Island today, but I won't let that stop you from buying something!^     -Gus</dialogue> 
+    ScienceHouse_MoneyBox: <dialogue who="Robin">I'm on the island today, but you can still buy something. It's an honor system!^     -Robin</dialogue> 
+ChallengeShrine_NotYetHard: <dialogue>         --Shrine Of Challenge--^Dispel the ancient magi-seal of protection, allowing powerful monsters to ascend from the deep?</dialogue> 
+ChallengeShrine_AlreadyHard: <dialogue>         --Shrine Of Challenge--^Summon an ancient magi-seal protection, returning the mines to their original state?</dialogue> 
+ChallengeShrine_Activated: <dialogue>Your request will be granted overnight.</dialogue> 
+ChallengeShrine_AlreadyActive: <dialogue>You've already put in a request.</dialogue> 
+    ChallengeShrine_OnQiChallenge: There's a note from Mr. Qi: ^ <dialogue who="Qi">I've temporarily disabled this shrine. Come back tomorrow!</dialogue> 
+    Gil_Telephone: <dialogue who="Gil">Hey. 150 Magma Sprites, huh? I'm impressed.#$b#Tell you what... I'm gonna give you Marlon's tellie-phone number. He don't like me givin' it out, but I think you've earned it.#$b#If you ever need to use the Item Recovery Service, but don't wanna run all the way out here... just give us a ring. Sound good?</dialogue> 
+AdventureGuild_KillList_MagmaSprite: <dialogue>Magma Sprites</dialogue> 
+AnimalHouse_Incubator_HouseFull: <dialogue>An egg is ready to hatch, but the building is full.</dialogue> 
+SandDuggy: <dialogue>Sand Duggy</dialogue> 
+TravelingMerchant: <dialogue>Traveling Merchant</dialogue> 
+    ScienceHouse_Carpenter_CommunityUpgrade2: <dialogue who="Robin">...What's that? You'd like me to add a few shortcuts around the valley? Sure, I can do that!^I'll just need 300,000g...</dialogue> 
+AnimalHouse_Incubator_Hatch_GoldenEgg: <dialogue>A sparkling golden chick hatched!</dialogue> 
+SummitBoulder: <dialogue>It seems impossible to budge...</dialogue> 
+Hint: <dialogue>Hint</dialogue> 
 </xml>

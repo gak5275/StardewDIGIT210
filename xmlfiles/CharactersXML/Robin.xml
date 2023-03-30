@@ -1,42 +1,42 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"Have you met everyone in town yet? That sounds exhausting."</dialogue> #!String</p>
-<p><context>Resort:</context> <dialogue>"Wow, look at these structures!$h#$b#I can tell they were made by a master builder. I'm really impressed!"</dialogue> #!String</p>
-<p><context>Resort_Leaving:</context> <dialogue>"That was fun!$h"</dialogue> #!String</p>
-<p><context>Resort_Shore:</context> <dialogue>"Hey, look! I can see another island from here."</dialogue> #!String</p>
-<p><context>Resort_Chair:</context> <dialogue>"Hey @. You know, I was just thinking about how far the town has come since you first moved here.#$b#You should really be proud of all you've done!$h"</dialogue> #!String</p>
-<p><context>Resort_Bar:</context> <dialogue>"This is so relaxing..."</dialogue> #!String</p>
-<p><context>reject_865:</context> <dialogue>"Veggie salt? Sounds good, but I don't need it."</dialogue> #!String</p>
-<p><context>reject_866:</context> <dialogue>"Hmm... when I think of flowers, I think of Evelyn. Maybe show this to her?"</dialogue> #!String</p>
-<p><context>pamHouseUpgrade:</context> <dialogue>"Our little plan worked out well, don't you think? Pam and Penny seem really happy."</dialogue> #!String</p>
-<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"Our little plan worked out well, don't you think? Pam and Penny seem really happy."</dialogue> #!String</p>
-<p><context>MovieInvitation:</context> <dialogue>"Ooh... Two tickets for tonight's show, huh? Sounds good! I'll meet you there.$h"</dialogue> #!String</p>
-<p><context>cc_Bridge:</context> <dialogue>"Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired!#$b#It's a miracle of woodworking!"</dialogue> #!String</p>
-<p><context>cc_Complete:</context> <dialogue>"I knew it from the moment you stepped off that bus, @... you were destined to be a town hero!$h"</dialogue> #!String</p>
-<p><context>cc_Begin:</context> <dialogue>"Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!"</dialogue> #!String</p>
-<p><context>Mon:</context> <dialogue>"Have I told you that I built our house from the ground up?#$e#It's definitely been the highlight of my career so far."</dialogue> #!String</p>
-<p><context>Tue:</context> <dialogue>"Hey, if you need any materials or blueprints, my shop is the place you're looking for!#$e#Plus, your business supports the local economy.$h"</dialogue> #!String</p>
-<p><context>Wed:</context> <dialogue>"Hey there, @.#$e#I was just daydreaming about some new carpentry projects.#$e#Are you doing OK at your place? How's the woodwork in your cottage holding up?"</dialogue> #!String</p>
-<p><context>Thu:</context> <dialogue>"You're always welcome to visit us, even if you aren't shopping, you know.$h#$e#It can get pretty lonely up here in the mountains."</dialogue> #!String</p>
-<p><context>Fri:</context> <dialogue>"You've met my son Sebastian, right? He lives downstairs.#$e#He's a little shy, but I'm sure he'll warm up to you if you're nice to him."</dialogue> #!String</p>
-<p><context>Fri_inlaw_Sebastian:</context> <dialogue>"I miss my Sebby... he was always a little misunderstood, but I believed in him."</dialogue> #!String</p>
-<p><context>Fri4:</context> <dialogue>"#$1 RobinSeb#I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?#$e#Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much...#$e#I would talk to him about it but he never opens up to me."</dialogue> #!String</p>
-<p><context>Fri4_inlaw_Sebastian:</context> <dialogue>"Sebastian told me he's trying to quit smoking! I'm really proud of him."</dialogue> #!String</p>
-<p><context>Sat:</context> <dialogue>"Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains."</dialogue> #!String</p>
-<p><context>Sun:</context> <dialogue>"I hope Demetrius doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants."</dialogue> #!String</p>
-<p><context>Sun2:</context> <dialogue>"#$1 RobinDem#My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place.$u#$e#Sorry if it smells weird in here, @. It's my husband's bizarre science project..."</dialogue> #!String</p>
-<p><context>Sun6:</context> <dialogue>"Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?"</dialogue> #!String</p>
-<p><context>event_wood1:</context> <dialogue>"Great, then this blueprint should be a piece of cake for you!$h"</dialogue> #!String</p>
-<p><context>event_wood2:</context> <dialogue>"Well, then I have the perfect blueprint to get you started!"</dialogue> #!String</p>
-<p><context>summer_Mon:</context> <dialogue>"Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character!"</dialogue> #!String</p>
-<p><context>summer_Tue:</context> <dialogue>"If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h"</dialogue> #!String</p>
-<p><context>summer_Fri:</context> <dialogue>"We're pretty insulated from the rest of the world here in Stardew Valley.#$e#It has its pros and cons."</dialogue> #!String</p>
-<p><context>fall_Mon:</context> <dialogue>"#$1 RobinMaru#Maru likes gems. She uses them in her inventions.#$e#So how are you and Maru getting along?"</dialogue> #!String</p>
-<p><context>fall_Thu:</context> <dialogue>"You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains."</dialogue> #!String</p>
-<p><context>fall_Fri:</context> <dialogue>"Have you met the wild man that lives behind our house?$s#$e#I guess I don't really mind, as long as he doesn't bother us."</dialogue> #!String</p>
-<p><context>winter_Mon:</context> <dialogue>"Hey, it's a perfect time of year to gather wood.#$e#Maybe you can collect enough to upgrade your house!"</dialogue> #!String</p>
-<p><context>winter_Fri:</context> <dialogue>"My parents were bewildered when I told them I wanted to be a carpenter.#$e#They were pretty old-fashioned."</dialogue> #!String</p>
-<p><context>winter_Fri_inlaw_Sebastian:</context> <dialogue>"I think the farm life is really healthy for Sebby."</dialogue> #!String</p>
-<p><context>winter_Sat:</context> <dialogue>"Our house is in such a beautiful area, don't you think?#$e#Everything looks still after a fresh snow."</dialogue> #!String</p>
+<p><context>Introduction:</context> <dialogue>"Have you met everyone in town yet? That sounds exhausting."</dialogue> </p>
+<p><context>Resort:</context> <dialogue>"Wow, look at these structures!$h#$b#I can tell they were made by a master builder. I'm really impressed!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue>"That was fun!$h"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue>"Hey, look! I can see another island from here."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue>"Hey @. You know, I was just thinking about how far the town has come since you first moved here.#$b#You should really be proud of all you've done!$h"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue>"This is so relaxing..."</dialogue> </p>
+<p><context>reject_865:</context> <dialogue>"Veggie salt? Sounds good, but I don't need it."</dialogue> </p>
+<p><context>reject_866:</context> <dialogue>"Hmm... when I think of flowers, I think of Evelyn. Maybe show this to her?"</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue>"Our little plan worked out well, don't you think? Pam and Penny seem really happy."</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"Our little plan worked out well, don't you think? Pam and Penny seem really happy."</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue>"Ooh... Two tickets for tonight's show, huh? Sounds good! I'll meet you there.$h"</dialogue> </p>
+<p><context>cc_Bridge:</context> <dialogue>"Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired!#$b#It's a miracle of woodworking!"</dialogue> </p>
+<p><context>cc_Complete:</context> <dialogue>"I knew it from the moment you stepped off that bus, @... you were destined to be a town hero!$h"</dialogue> </p>
+<p><context>cc_Begin:</context> <dialogue>"Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!"</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"Have I told you that I built our house from the ground up?#$e#It's definitely been the highlight of my career so far."</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"Hey, if you need any materials or blueprints, my shop is the place you're looking for!#$e#Plus, your business supports the local economy.$h"</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"Hey there, @.#$e#I was just daydreaming about some new carpentry projects.#$e#Are you doing OK at your place? How's the woodwork in your cottage holding up?"</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"You're always welcome to visit us, even if you aren't shopping, you know.$h#$e#It can get pretty lonely up here in the mountains."</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"You've met my son Sebastian, right? He lives downstairs.#$e#He's a little shy, but I'm sure he'll warm up to you if you're nice to him."</dialogue> </p>
+<p><context>Fri_inlaw_Sebastian:</context> <dialogue>"I miss my Sebby... he was always a little misunderstood, but I believed in him."</dialogue> </p>
+<p><context>Fri4:</context> <dialogue>"#$1 RobinSeb#I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?#$e#Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much...#$e#I would talk to him about it but he never opens up to me."</dialogue> </p>
+<p><context>Fri4_inlaw_Sebastian:</context> <dialogue>"Sebastian told me he's trying to quit smoking! I'm really proud of him."</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"Our house is in such a beautiful area, don't you think?#$e#I love the fresh air of the mountains."</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"I hope Demetrius doesn't blow the house up with those science experiments of his.#$e#I'm not even sure what he's working on. I think it has something to do with plants."</dialogue> </p>
+<p><context>Sun2:</context> <dialogue>"#$1 RobinDem#My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place.$u#$e#Sorry if it smells weird in here, @. It's my husband's bizarre science project..."</dialogue> </p>
+<p><context>Sun6:</context> <dialogue>"Hi @! It's good to see you.#$e#You're a regular member of the community now, don't you think?"</dialogue> </p>
+<p><context>event_wood1:</context> <dialogue>"Great, then this blueprint should be a piece of cake for you!$h"</dialogue> </p>
+<p><context>event_wood2:</context> <dialogue>"Well, then I have the perfect blueprint to get you started!"</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue>"Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character!"</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue>"If you need any buildings on your farm upgraded, just ask me!#$e#You'll need to provide enough lumber and stone for the project. And it costs money, too.#$e#But I'm sure you'll be pleased with the results!$h"</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue>"We're pretty insulated from the rest of the world here in Stardew Valley.#$e#It has its pros and cons."</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue>"#$1 RobinMaru#Maru likes gems. She uses them in her inventions.#$e#So how are you and Maru getting along?"</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue>"You're always welcome to visit us, even if you aren't in the market for a building upgrade!$h#$e#It can get pretty lonely up here in the mountains."</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue>"Have you met the wild man that lives behind our house?$s#$e#I guess I don't really mind, as long as he doesn't bother us."</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue>"Hey, it's a perfect time of year to gather wood.#$e#Maybe you can collect enough to upgrade your house!"</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue>"My parents were bewildered when I told them I wanted to be a carpenter.#$e#They were pretty old-fashioned."</dialogue> </p>
+<p><context>winter_Fri_inlaw_Sebastian:</context> <dialogue>"I think the farm life is really healthy for Sebby."</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue>"Our house is in such a beautiful area, don't you think?#$e#Everything looks still after a fresh snow."</dialogue> </p>
 </xml>

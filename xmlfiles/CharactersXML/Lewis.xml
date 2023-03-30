@@ -1,60 +1,60 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"So, how was your first night in the old cottage?#$e#Your grandpa used to complain about the rickety old bed. But I think, deep down, he actually loved that house."</dialogue> #!String</p>
-<p><context>Resort:</context> <dialogue>"I'm impressed, @. You've really fixed up the place!$h"</dialogue> #!String</p>
-<p><context>Resort_Leaving:</context> <dialogue>"Everyone aboard! We're heading back to the valley!"</dialogue> #!String</p>
-<p><context>Resort_Shore:</context> <dialogue>"Vacation opportunities like this could really expand the local economy!#$e#I'd better not stay in the sun too long, or my moustache will dry out."</dialogue> #!String</p>
-<p><context>Resort_Chair:</context> <dialogue>"Hehe... look at this place! I don't know how you did it, but this little vacation spot is the talk of the town.$h"</dialogue> #!String</p>
-<p><context>Resort_Bar:</context> <dialogue>"Hehe... Gus is really in his element."</dialogue> #!String</p>
-<p><context>pamHouseUpgrade:</context> <dialogue>"@, I heard what you did for Pam and Penny... now *that's* the kind of community support I love to see in Pelican Town!$h"</dialogue> #!String</p>
-<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"@, did you hear? Someone paid Robin to build Pam and Penny a house! Robin won't tell me who it was, though.#$e#Regardless of who paid, I love seeing this kind of community support in Pelican Town!$h"</dialogue> #!String</p>
-<p><context>willyCrabs:</context> <dialogue>"*sniff*... *sniff*... can you smell that? I've been catching hints of fresh crab all day...$u"</dialogue> #!String</p>
-<p><context>cc_Begin:</context> <dialogue>"*sniff*... *sniff*... Ah, I sense you've been spending some time in the old Community Center. It's good to know someone's taking care of the place."</dialogue> #!String</p>
-<p><context>cc_Complete:</context> <dialogue>"I've never felt such an overwhelming pride in our community. You've done Pelican Town a great service, @.$h"</dialogue> #!String</p>
-<p><context>cc_Bus:</context> <dialogue>"@, did you hear? It seems the old town bus started working again overnight!$h#$b#That old thing has been dormant for decades... This is truly a great mystery."</dialogue> #!String</p>
-<p><context>joja_Begin:</context> <dialogue>"So, the old Community Center is gone... I guess times change, and good things come and go... Yet I can't help but feel a sense of loss.$s#$e#I just hope this doesn't mar my record as Mayor.$s"</dialogue> #!String</p>
-<p><context>Mon:</context> <dialogue>"It's a good season to start thinking about gardening, even for us non-farmers.#$e# The valley is known for producing some of the finest spring flowers!$h"</dialogue> #!String</p>
-<p><context>Tue:</context> <dialogue>"Just place anything you want to sell in the shipping box next to your house.#$e#I'll be interested in seeing what kinds of things you put in there."</dialogue> #!String</p>
-<p><context>Saloon_Entry:</context> <dialogue>"Hi, Gus!"</dialogue> #!String</p>
-<p><context>Tue2:</context> <dialogue>"At the start of each season you'll have to remove the previous season's dead crops. It's easiest with a scythe."</dialogue> #!String</p>
-<p><context>spring_3:</context> <dialogue>"Have you planted any spring crops yet? The season doesn't last forever, you know."</dialogue> #!String</p>
-<p><context>Town_57_40:</context> <dialogue>"#$c .3#You're in town early, huh? Finished with your farm chores already?#$e#Good morning! I'm just checking on the garden as usual.$h#$c .5#Hmm... are these aphids?$s#$e#Hmm... I hope these aren't scale bugs...$s"</dialogue> #!String</p>
-<p><context>Wed:</context> <dialogue>"Hmm... tax collection... *mumble* ...spring festivities expenses... *mumble*...$u#$e#Yes?"</dialogue> #!String</p>
-<p><context>spring_10:</context> <dialogue>"Ah... There's nothing like a strong cup of tea in the morning."</dialogue> #!String</p>
-<p><context>Thu:</context> <dialogue>"The saloon can get pretty lively at night. Sometimes we even put a coin in the jukebox *chuckle*$h#$e#I like to visit once a week or so to catch up on things, anyway."</dialogue> #!String</p>
-<p><context>Saloon:</context> <dialogue>"Good evening! It's nice to see you socializing with the townsfolk.#$b#It's good to stop by once in a while and see what the latest news is.$h"</dialogue> #!String</p>
-<p><context>Saloon4:</context> <dialogue>"Good evening, @! I'm glad to see you relaxing at the saloon. It's good for you to take a break now and then.$h#$b#Your grandfather always worked himself too hard... I'll have an extra beer in his honor tonight."</dialogue> #!String</p>
-<p><context>Fri:</context> <dialogue>"I hope things are going well on %farm farm. I'd hate to see it all dried up."</dialogue> #!String</p>
-<p><context>Sat:</context> <dialogue>"Everyone seems a little happier on the weekends, don't you think?#$e#I'm on the job seven days a week, though."</dialogue> #!String</p>
-<p><context>Sun:</context> <dialogue>"I've been Mayor of Pelican Town for over twenty years!#$e#No one ever runs against me when it's time for an election. I like to think that it means I'm doing my job well.#$e#I like being Mayor."</dialogue> #!String</p>
-<p><context>event_secret1:</context> <dialogue>"Thank you @. I won't forget this."</dialogue> #!String</p>
-<p><context>event_secret2:</context> <dialogue>"*sob* ... I can't believe you would do that...$s#$b#You're terrible.$s"</dialogue> #!String</p>
-<p><context>summer_Mon:</context> <dialogue>"Gardening is a hobby of mine, so I'm excited for this warm weather."</dialogue> #!String</p>
-<p><context>summer_Town_57_40:</context> <dialogue>"#$c .3#Ah, my flowers are growing wonderfully!$h#$c .3#Good morning! Can you smell the sweet scent of these dew-lilies?#$e#It's early but the air is already quite warm. Summer is nice for an old guy like me hehe."</dialogue> #!String</p>
-<p><context>summer_Tue:</context> <dialogue>"How did I become Mayor in the first place? It's a long story.#$e#We're both too busy for stories right now."</dialogue> #!String</p>
-<p><context>summer_Wed:</context> <dialogue>"The moonlight jellies will be here soon. It's one of my favorite things about the valley."</dialogue> #!String</p>
-<p><context>summer_Thu:</context> <dialogue>"The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti."</dialogue> #!String</p>
-<p><context>summer_Fri:</context> <dialogue>"Hmm... I wonder if it's anyone's birthday today? I'd better check the calendar by Pierre's shop."</dialogue> #!String</p>
-<p><context>summer_Sat:</context> <dialogue>"Everyone seems a little happier on the weekends, don't you think?#$e#I'm on the job seven days a week, though."</dialogue> #!String</p>
-<p><context>summer_Sun:</context> <dialogue>"Say, are you growing any blueberries on your farm?#$e#I do enjoy a fresh blueberry.%revealtasteLewis258"</dialogue> #!String</p>
-<p><context>fall_Mon:</context> <dialogue>"Some of the townsfolk are wary of strangers. You'll have to win their trust before they open up to you.#$e#Just be persistent and you'll get through to them.$h"</dialogue> #!String</p>
-<p><context>fall_Tue:</context> <dialogue>"It was around this time of year when I first became Mayor, over twenty years ago.#$e#That makes me feel really old.$s"</dialogue> #!String</p>
-<p><context>fall_Wed:</context> <dialogue>"If you have any suggestions for the town, just drop a note into my suggestion box.#$e#Oh, that's right... I don't have a suggestion box."</dialogue> #!String</p>
-<p><context>fall_Wed2:</context> <dialogue>"Every Wednesday I have buckwheat waffles and coffee for breakfast. It's a little tradition I keep to keep the bachelor life interesting.$h"</dialogue> #!String</p>
-<p><context>fall_Town_57_40:</context> <dialogue>"#$c .3#Hmmm... these strange little mushrooms have been popping up in my wood chips. I wonder what kind they are?#$c .3#Good morning! We're slowly entering the cold months, so I'm seeing my garden to a gentle end.#$e#Ah, you're in town early, huh? Finished with your farm chores already?"</dialogue> #!String</p>
-<p><context>fall_Thu:</context> <dialogue>"The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things."</dialogue> #!String</p>
-<p><context>fall_Fri:</context> <dialogue>"I hope things are going well for you on the farm."</dialogue> #!String</p>
-<p><context>fall_12:</context> <dialogue>"Do you have any bee houses on your farm?#$e#If you place them near flowers you can get different types of honey."</dialogue> #!String</p>
-<p><context>fall_19:</context> <dialogue>"Sometimes you can tell if there's something buried underground. Just keep your eyes open."</dialogue> #!String</p>
-<p><context>fall_Fri4:</context> <dialogue>"Have you tried Gus' 'secret' spaghetti sauce?$s#$b#...The ingredients may be secret, but the smell isn't.#$b#I'll see you later."</dialogue> #!String</p>
-<p><context>fall_Sun:</context> <dialogue>"Are you doing your best on the farm, @? You'll have to accomplish things in many areas if you want to become a well-rounded citizen."</dialogue> #!String</p>
-<p><context>winter_1:</context> <dialogue>"Well, winter is here! That means the townspeople will be spending most of their days indoors.#$e#At least you'll know where to find them!$h"</dialogue> #!String</p>
-<p><context>winter_Mon:</context> <dialogue>"Another year is almost over!#$e#I hope you had a productive year!"</dialogue> #!String</p>
-<p><context>winter_Tue:</context> <dialogue>"I've got to start coming up with a plan for improving our town next year!"</dialogue> #!String</p>
-<p><context>winter_Wed:</context> <dialogue>"I'll still come by every night to collect your produce, even in the snow.#$e#You still need to make money in the winter!"</dialogue> #!String</p>
-<p><context>winter_Fri:</context> <dialogue>"I hope things are going well for you on the farm."</dialogue> #!String</p>
-<p><context>winter_Fri6:</context> <dialogue>"I've never been married. I have no family. All I live for is to be Mayor.$s#$e#Is it worth it?$s#$e#...*sigh*...$s"</dialogue> #!String</p>
-<p><context>winter_Sun:</context> <dialogue>"Hi there, @! How're you doing today?$h#$e#If you see Marnie, tell her I say 'hi'."</dialogue> #!String</p>
+<p><context>Introduction:</context> <dialogue>"So, how was your first night in the old cottage?#$e#Your grandpa used to complain about the rickety old bed. But I think, deep down, he actually loved that house."</dialogue> </p>
+<p><context>Resort:</context> <dialogue>"I'm impressed, @. You've really fixed up the place!$h"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue>"Everyone aboard! We're heading back to the valley!"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue>"Vacation opportunities like this could really expand the local economy!#$e#I'd better not stay in the sun too long, or my moustache will dry out."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue>"Hehe... look at this place! I don't know how you did it, but this little vacation spot is the talk of the town.$h"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue>"Hehe... Gus is really in his element."</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue>"@, I heard what you did for Pam and Penny... now *that's* the kind of community support I love to see in Pelican Town!$h"</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"@, did you hear? Someone paid Robin to build Pam and Penny a house! Robin won't tell me who it was, though.#$e#Regardless of who paid, I love seeing this kind of community support in Pelican Town!$h"</dialogue> </p>
+<p><context>willyCrabs:</context> <dialogue>"*sniff*... *sniff*... can you smell that? I've been catching hints of fresh crab all day...$u"</dialogue> </p>
+<p><context>cc_Begin:</context> <dialogue>"*sniff*... *sniff*... Ah, I sense you've been spending some time in the old Community Center. It's good to know someone's taking care of the place."</dialogue> </p>
+<p><context>cc_Complete:</context> <dialogue>"I've never felt such an overwhelming pride in our community. You've done Pelican Town a great service, @.$h"</dialogue> </p>
+<p><context>cc_Bus:</context> <dialogue>"@, did you hear? It seems the old town bus started working again overnight!$h#$b#That old thing has been dormant for decades... This is truly a great mystery."</dialogue> </p>
+<p><context>joja_Begin:</context> <dialogue>"So, the old Community Center is gone... I guess times change, and good things come and go... Yet I can't help but feel a sense of loss.$s#$e#I just hope this doesn't mar my record as Mayor.$s"</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"It's a good season to start thinking about gardening, even for us non-farmers.#$e# The valley is known for producing some of the finest spring flowers!$h"</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"Just place anything you want to sell in the shipping box next to your house.#$e#I'll be interested in seeing what kinds of things you put in there."</dialogue> </p>
+<p><context>Saloon_Entry:</context> <dialogue>"Hi, Gus!"</dialogue> </p>
+<p><context>Tue2:</context> <dialogue>"At the start of each season you'll have to remove the previous season's dead crops. It's easiest with a scythe."</dialogue> </p>
+<p><context>spring_3:</context> <dialogue>"Have you planted any spring crops yet? The season doesn't last forever, you know."</dialogue> </p>
+<p><context>Town_57_40:</context> <dialogue>"#$c .3#You're in town early, huh? Finished with your farm chores already?#$e#Good morning! I'm just checking on the garden as usual.$h#$c .5#Hmm... are these aphids?$s#$e#Hmm... I hope these aren't scale bugs...$s"</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"Hmm... tax collection... *mumble* ...spring festivities expenses... *mumble*...$u#$e#Yes?"</dialogue> </p>
+<p><context>spring_10:</context> <dialogue>"Ah... There's nothing like a strong cup of tea in the morning."</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"The saloon can get pretty lively at night. Sometimes we even put a coin in the jukebox *chuckle*$h#$e#I like to visit once a week or so to catch up on things, anyway."</dialogue> </p>
+<p><context>Saloon:</context> <dialogue>"Good evening! It's nice to see you socializing with the townsfolk.#$b#It's good to stop by once in a while and see what the latest news is.$h"</dialogue> </p>
+<p><context>Saloon4:</context> <dialogue>"Good evening, @! I'm glad to see you relaxing at the saloon. It's good for you to take a break now and then.$h#$b#Your grandfather always worked himself too hard... I'll have an extra beer in his honor tonight."</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"I hope things are going well on %farm farm. I'd hate to see it all dried up."</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"Everyone seems a little happier on the weekends, don't you think?#$e#I'm on the job seven days a week, though."</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"I've been Mayor of Pelican Town for over twenty years!#$e#No one ever runs against me when it's time for an election. I like to think that it means I'm doing my job well.#$e#I like being Mayor."</dialogue> </p>
+<p><context>event_secret1:</context> <dialogue>"Thank you @. I won't forget this."</dialogue> </p>
+<p><context>event_secret2:</context> <dialogue>"*sob* ... I can't believe you would do that...$s#$b#You're terrible.$s"</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue>"Gardening is a hobby of mine, so I'm excited for this warm weather."</dialogue> </p>
+<p><context>summer_Town_57_40:</context> <dialogue>"#$c .3#Ah, my flowers are growing wonderfully!$h#$c .3#Good morning! Can you smell the sweet scent of these dew-lilies?#$e#It's early but the air is already quite warm. Summer is nice for an old guy like me hehe."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue>"How did I become Mayor in the first place? It's a long story.#$e#We're both too busy for stories right now."</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue>"The moonlight jellies will be here soon. It's one of my favorite things about the valley."</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue>"The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti."</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue>"Hmm... I wonder if it's anyone's birthday today? I'd better check the calendar by Pierre's shop."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue>"Everyone seems a little happier on the weekends, don't you think?#$e#I'm on the job seven days a week, though."</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue>"Say, are you growing any blueberries on your farm?#$e#I do enjoy a fresh blueberry.%revealtasteLewis258"</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue>"Some of the townsfolk are wary of strangers. You'll have to win their trust before they open up to you.#$e#Just be persistent and you'll get through to them.$h"</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue>"It was around this time of year when I first became Mayor, over twenty years ago.#$e#That makes me feel really old.$s"</dialogue> </p>
+<p><context>fall_Wed:</context> <dialogue>"If you have any suggestions for the town, just drop a note into my suggestion box.#$e#Oh, that's right... I don't have a suggestion box."</dialogue> </p>
+<p><context>fall_Wed2:</context> <dialogue>"Every Wednesday I have buckwheat waffles and coffee for breakfast. It's a little tradition I keep to keep the bachelor life interesting.$h"</dialogue> </p>
+<p><context>fall_Town_57_40:</context> <dialogue>"#$c .3#Hmmm... these strange little mushrooms have been popping up in my wood chips. I wonder what kind they are?#$c .3#Good morning! We're slowly entering the cold months, so I'm seeing my garden to a gentle end.#$e#Ah, you're in town early, huh? Finished with your farm chores already?"</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue>"The saloon gets pretty lively at night.#$e#I like to visit once a week or so to catch up on things."</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue>"I hope things are going well for you on the farm."</dialogue> </p>
+<p><context>fall_12:</context> <dialogue>"Do you have any bee houses on your farm?#$e#If you place them near flowers you can get different types of honey."</dialogue> </p>
+<p><context>fall_19:</context> <dialogue>"Sometimes you can tell if there's something buried underground. Just keep your eyes open."</dialogue> </p>
+<p><context>fall_Fri4:</context> <dialogue>"Have you tried Gus' 'secret' spaghetti sauce?$s#$b#...The ingredients may be secret, but the smell isn't.#$b#I'll see you later."</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue>"Are you doing your best on the farm, @? You'll have to accomplish things in many areas if you want to become a well-rounded citizen."</dialogue> </p>
+<p><context>winter_1:</context> <dialogue>"Well, winter is here! That means the townspeople will be spending most of their days indoors.#$e#At least you'll know where to find them!$h"</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue>"Another year is almost over!#$e#I hope you had a productive year!"</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue>"I've got to start coming up with a plan for improving our town next year!"</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue>"I'll still come by every night to collect your produce, even in the snow.#$e#You still need to make money in the winter!"</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue>"I hope things are going well for you on the farm."</dialogue> </p>
+<p><context>winter_Fri6:</context> <dialogue>"I've never been married. I have no family. All I live for is to be Mayor.$s#$e#Is it worth it?$s#$e#...*sigh*...$s"</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue>"Hi there, @! How're you doing today?$h#$e#If you see Marnie, tell her I say 'hi'."</dialogue> </p>
 
 </xml>

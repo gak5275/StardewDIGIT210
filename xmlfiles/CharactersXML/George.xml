@@ -1,30 +1,30 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"Hmmph... It's irritating to have to meet all these new people, huh?#$b#Name's George, by the way. Now buzz off... Hmmph."</dialogue> #!String</p>
-<p><context>accept_867:</context> <dialogue>"What's this?#$b#Hmmph... so you push this button first? What's this button do? Hmmph... *grumble*#$b#Hehe! Well, how about that! It's a new channel!$h#$b#Here, take this. It's a stone I found when I was a coal miner back in the day. Funny thing, it's glowed blue and stayed cold for over forty years. Like magic!"</dialogue> #!String</p>
-<p><context>pamHouseUpgrade:</context> <dialogue>"Thanks for replacing that beat up old trailer... the new house is much nicer to look at.#$e#You know, I'll bet it increases the value of our property too!"</dialogue> #!String</p>
-<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"Welp... that new house blocks my view of the river a little... but it sure looks nicer than that old tin can Pam was livin' in."</dialogue> #!String</p>
-<p><context>MovieInvitation:</context> <dialogue>"You wanna see a movie with an old geezer like me? ...Well... okay. I'll meet you there."</dialogue> #!String</p>
-<p><context>joja_Begin:</context> <dialogue>"So... the old Community Center is gone, huh? Whatever happened to small-town values? It's a shame how times have changed..."</dialogue> #!String</p>
-<p><context>Mon:</context> <dialogue>"I'm not much of a talker. Especially not to strangers, if you don't mind me saying."</dialogue> #!String</p>
-<p><context>Tue:</context> <dialogue>"Hmmph... Looks like another gloomy day.$s"</dialogue> #!String</p>
-<p><context>Wed:</context> <dialogue>"Alex is my grandson. Have I told you that already?#$e#Huh? Speak up."</dialogue> #!String</p>
-<p><context>Wed_inlaw_Alex:</context> <dialogue>"How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...^You're part of the family, now. I'm glad that my grandson found such a nice wife."</dialogue> #!String</p>
-<p><context>Wed10_inlaw_Alex:</context> <dialogue>"I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.^You're part of the family, now... and I couldn't be more proud."</dialogue> #!String</p>
-<p><context>Thu:</context> <dialogue>"I can't talk right now, young man.^I can't talk right now, miss.#$e#My favorite program is on."</dialogue> #!String</p>
-<p><context>Fri:</context> <dialogue>"So you're a farmer, huh? At least it's honest work."</dialogue> #!String</p>
-<p><context>Sat:</context> <dialogue>"The weekend is no different than any other time, for me.#$e#That's how it is when you're retired."</dialogue> #!String</p>
-<p><context>Sun:</context> <dialogue>"Aren't you cold? They don't make sweaters like they used to.#$e#*Sigh*"</dialogue> #!String</p>
-<p><context>Mon6:</context> <dialogue>"I'm surprised you want to be friends with an old-timer like me."</dialogue> #!String</p>
-<p><context>Thu6:</context> <dialogue>"Hello, @. Wanna watch the TV with me?"</dialogue> #!String</p>
-<p><context>Fri4:</context> <dialogue>"My grand-pap was a farmer. It's a respectable profession.#$e#If I wasn't so darned old I'd come to your farm and show you a thing or two..."</dialogue> #!String</p>
-<p><context>Wed8:</context> <dialogue>"I wish my legs worked so I could play catch with Alex.$s#$e#That'll never happen.$s"</dialogue> #!String</p>
-<p><context>Fri8:</context> <dialogue>"I've been thinking...Maybe I've been a little bit of a grouch.$s#$e#I used to think no one cared about us old folks."</dialogue> #!String</p>
-<p><context>Fri10:</context> <dialogue>"You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, son.^Take care, hun."</dialogue> #!String</p>
-<p><context>Wed10:</context> <dialogue>"@! Let me turn off this darned television and we can have a little chat.$h#$e#So what are the young people doing these days?"</dialogue> #!String</p>
-<p><context>Tue10:</context> <dialogue>"You know, I shouldn't get too depressed about my legs.#$e#I should just be happy that I'm alive.$h"</dialogue> #!String</p>
-<p><context>Thu10:</context> <dialogue>"When you get as old as me it's a lot harder to adjust to new things.#$e#One day you'll know what I mean.#$e#Go on, enjoy yourself while you're still young."</dialogue> #!String</p>
-<p><context>winter_1:</context> <dialogue>"Ohh... It's so cold.#$e#When you're young the cold doesn't bite as hard."</dialogue> #!String</p>
+<p><context>Introduction:</context> <dialogue>"Hmmph... It's irritating to have to meet all these new people, huh?#$b#Name's George, by the way. Now buzz off... Hmmph."</dialogue> </p>
+<p><context>accept_867:</context> <dialogue>"What's this?#$b#Hmmph... so you push this button first? What's this button do? Hmmph... *grumble*#$b#Hehe! Well, how about that! It's a new channel!$h#$b#Here, take this. It's a stone I found when I was a coal miner back in the day. Funny thing, it's glowed blue and stayed cold for over forty years. Like magic!"</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue>"Thanks for replacing that beat up old trailer... the new house is much nicer to look at.#$e#You know, I'll bet it increases the value of our property too!"</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"Welp... that new house blocks my view of the river a little... but it sure looks nicer than that old tin can Pam was livin' in."</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue>"You wanna see a movie with an old geezer like me? ...Well... okay. I'll meet you there."</dialogue> </p>
+<p><context>joja_Begin:</context> <dialogue>"So... the old Community Center is gone, huh? Whatever happened to small-town values? It's a shame how times have changed..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"I'm not much of a talker. Especially not to strangers, if you don't mind me saying."</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"Hmmph... Looks like another gloomy day.$s"</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"Alex is my grandson. Have I told you that already?#$e#Huh? Speak up."</dialogue> </p>
+<p><context>Wed_inlaw_Alex:</context> <dialogue>"How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...^You're part of the family, now. I'm glad that my grandson found such a nice wife."</dialogue> </p>
+<p><context>Wed10_inlaw_Alex:</context> <dialogue>"I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.^You're part of the family, now... and I couldn't be more proud."</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"I can't talk right now, young man.^I can't talk right now, miss.#$e#My favorite program is on."</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"So you're a farmer, huh? At least it's honest work."</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"The weekend is no different than any other time, for me.#$e#That's how it is when you're retired."</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"Aren't you cold? They don't make sweaters like they used to.#$e#*Sigh*"</dialogue> </p>
+<p><context>Mon6:</context> <dialogue>"I'm surprised you want to be friends with an old-timer like me."</dialogue> </p>
+<p><context>Thu6:</context> <dialogue>"Hello, @. Wanna watch the TV with me?"</dialogue> </p>
+<p><context>Fri4:</context> <dialogue>"My grand-pap was a farmer. It's a respectable profession.#$e#If I wasn't so darned old I'd come to your farm and show you a thing or two..."</dialogue> </p>
+<p><context>Wed8:</context> <dialogue>"I wish my legs worked so I could play catch with Alex.$s#$e#That'll never happen.$s"</dialogue> </p>
+<p><context>Fri8:</context> <dialogue>"I've been thinking...Maybe I've been a little bit of a grouch.$s#$e#I used to think no one cared about us old folks."</dialogue> </p>
+<p><context>Fri10:</context> <dialogue>"You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe!$h#$e#Take care, son.^Take care, hun."</dialogue> </p>
+<p><context>Wed10:</context> <dialogue>"@! Let me turn off this darned television and we can have a little chat.$h#$e#So what are the young people doing these days?"</dialogue> </p>
+<p><context>Tue10:</context> <dialogue>"You know, I shouldn't get too depressed about my legs.#$e#I should just be happy that I'm alive.$h"</dialogue> </p>
+<p><context>Thu10:</context> <dialogue>"When you get as old as me it's a lot harder to adjust to new things.#$e#One day you'll know what I mean.#$e#Go on, enjoy yourself while you're still young."</dialogue> </p>
+<p><context>winter_1:</context> <dialogue>"Ohh... It's so cold.#$e#When you're young the cold doesn't bite as hard."</dialogue> </p>
 
 </xml>
