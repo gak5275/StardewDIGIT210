@@ -1,23 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Well hello there! I'm Gus, chef and owner of the Stardrop Saloon.#$e#Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready.$h"</dialogue> #!String</p>
 <p><context>accept_865:</context> <dialogue>"*sniff* sniff* ... that sharp smell!#$b#*slurp* *slurp* ... that zesty taste! That gritty texture!#$b#It can only be gourmet tomato salt! I'll trade you for it."</dialogue> #!String</p>
 <p><context>Resort_Entering:</context> <dialogue>"Hey, @! Glad you're here. I'm gonna be serving up some good stuff from behind the bar."</dialogue> #!String</p>

@@ -1,19 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-numSharedResources: 0
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Have you met everyone in town yet? That sounds exhausting."</dialogue> #!String</p>
 <p><context>Resort:</context> <dialogue>"Wow, look at these structures!$h#$b#I can tell they were made by a master builder. I'm really impressed!"</dialogue> #!String</p>
 <p><context>Resort_Leaving:</context> <dialogue>"That was fun!$h"</dialogue> #!String</p>

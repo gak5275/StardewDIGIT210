@@ -1,23 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Introduction:</context> <dialogue>"A stranger?... Hello.#$e#Don't mind me. I just live out here alone."</dialogue> #!String</p>
 <p><context>reject_869:</context> <dialogue>"What do you have there? Looks like it would make good bait.$h"</dialogue> #!String</p>
 <p><context>cc_Boulder:</context> <dialogue>"My old friend, the glimmering boulder, has moved on. It may not seem like an important event, but to me it's a big change.#$b#I'm happy for the old rock to see more of the world, though.$h"</dialogue> #!String</p>

@@ -1,22 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"I've changed a lot over the years, but I still prefer sunny weather."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"Sometimes I daydream about our retirement... relaxing on the sunny beaches of the Fern Islands!#$e#Do you ever think about the future, @?"</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Good morning! I got up early and baked something sweet for you! [223 234 211 651 731]#$e#I know you're strong, but you still need to eat well to stay at your best!$h"</dialogue> #!String</p>

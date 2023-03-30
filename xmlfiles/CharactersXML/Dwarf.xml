@@ -1,23 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Hey, you're pretty good at mining, for a human."</dialogue> #!String</p>
 <p><context>Mon:</context> <dialogue>"I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?"</dialogue> #!String</p>
 <p><context>Tue:</context> <dialogue>"Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?"</dialogue> #!String</p>

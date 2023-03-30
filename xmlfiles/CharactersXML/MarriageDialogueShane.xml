@@ -1,22 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"I hope Jas and Marnie are doing alright without me.#$e#I'm not too worried... Jas is old enough now to take care of the animals on her own."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"You know what? I think I've lost some weight since moving in with you.$6"</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Here... take this.[346 174 303 305 215]#$e#I bought some of those a while ago and they're almost expired..."</dialogue> #!String</p>

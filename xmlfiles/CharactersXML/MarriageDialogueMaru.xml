@@ -1,22 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"I wonder how Penny is doing? Maybe I'll give her a call later today."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"I was just daydreaming... do you think MARILDA is okay? I hope she finds some place where she truly belongs..."</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Hey! I had trouble sleeping last night so I fiddled around in my workshop for a bit. Here, I made this for you. [688 369 338 325 287]#$e#I hope you can find some use for it."</dialogue> #!String</p>

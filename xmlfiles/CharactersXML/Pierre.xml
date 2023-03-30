@@ -1,19 +1,6 @@
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
 
-numSharedResources: 0
-content:  #!Dictionary&lt;String,String&gt;</metadata>
 <p><context>Introduction:</context> <dialogue>"Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store.^Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store.#$b#If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price!#$e#A little agriculture could really inject new life into the local economy!"</dialogue> #!String</p>
 <p><context>Resort:</context> <dialogue>"I'm losing a lot of money being away from the shop...$s#$b#But, you know what? It's worth it."</dialogue> #!String</p>
 <p><context>Resort_Shore:</context> <dialogue>"Mmm... that salty smell of the sea is making me want some sashimi."</dialogue> #!String</p>

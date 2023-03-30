@@ -1,23 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Why, hello and welcome to our little community, dear! #$b#You can call me 'Granny' if you like.$h"</dialogue> #!String</p>
 <p><context>reject_867:</context> <dialogue>"Oh, I'm sure George would be interested in that!"</dialogue> #!String</p>
 <p><context>reject_866:</context> <dialogue>"That's a very pretty rose, dear. Have you shown it to Emily? It makes me think of her."</dialogue> #!String</p>

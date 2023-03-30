@@ -1,22 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Rainy_Day_0:</context> <dialogue>"On rainy days my thoughts always drift toward cinnamon and cookies."</dialogue> #!String</p>
 <p><context>Rainy_Day_1:</context> <dialogue>"I wonder if Maru and Dr. Harvey will ever get together? I'm sure Harvey likes her...#$e#I think Maru will have to make the first move, though.$h"</dialogue> #!String</p>
 <p><context>Rainy_Day_2:</context> <dialogue>"Hi, honey! I did some shopping this morning and got this for you.[186 180 770 535]#$e#I thought you could really use one of the those.$11"</dialogue> #!String</p>

@@ -1,23 +1,6 @@
 <xml>
 
-<metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
 
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
 <p><context>name:</context> <dialogue>Flower Dance</dialogue> #!String</p>
 <p><context>conditions:</context> <dialogue>Forest/900 1400</dialogue> #!String</p>
 <p><context>shop:</context> <dialogue who="shop">BO 48 350 -1 BO 192 350 -1 BO 204 350 -1 BO 108 250 -1 BBL 108 1000 1 O 18 50 10 O 22 50 10 BO 137 2500 1 F 1973 800 -1 F 1974 800 -1 F 1820 400 -1 F 1821 400 -1</dialogue> #!String</p>

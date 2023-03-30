@@ -1,23 +1,6 @@
 
-<?xml-model href="MainRNC.rnc" type="application/relax-ng-compact-syntax"?>
-<xml><metadata>xnbData: 
-target: "w"
-compressed: true
-hiDef: true
-readerData: 
-- 
-type: "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
-version: 0
-
-- 
-type: "Microsoft.Xna.Framework.Content.StringReader"
-version: 0
-
-
-numSharedResources: 0
-
-content:  #!Dictionary&lt;String,String&gt;
-</metadata>
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
 <p><context>Introduction:</context> <dialogue>"Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands."</dialogue> #!String</p>
 <p><context>accept_868:</context> <dialogue>"Ah... an arctic shard.#$b#A most powerful substance, indeed, and potently infused with the element of ice.#$b#I'll take it, if you don't mind.#$b#...#$b#...Erm...You're still here. Oh. You want something?#$b#...Take this."</dialogue> #!String</p>
 <p><context>MovieInvitation:</context> <dialogue>"Hmm... I suppose I could accompany you... yes. Once you've arrived, I shall appear. Farewell."</dialogue> #!String</p>
