@@ -2,17 +2,18 @@
 html {
     scroll-behavior: smooth;
 }
-
+head{
+    font-family: StardewFont;
+}
 body {
     display: block;
     /*  background-color: #F3F4F6;*/
-    background-image: url("images/valleybackground.jpg");
+    background-image: url("image/mountainsBg.png");
     background-repeat: no-repeat;
     background-size: cover;
     /*  background-color: #cccccc;*/
     color: #1D1A11;
-    /* font-family: Arial, sans-serif; */
-    font-family: StardewFont;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     line-height: 1.4;
     text-decoration: none;
