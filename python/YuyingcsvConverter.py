@@ -7,6 +7,7 @@ import re
 placeholder = re.compile(r'\$\w')
 placeholder2 = re.compile(r'%\w+?\b')
 onomatopoeia = re.compile(r'\*.+?\*')
+action = re.compile(r'[\-\"\d\w\s]+?\/.+?\b')
 
 def converter(directory):
     # convert yaml files to csv files
@@ -22,9 +23,11 @@ def converter(directory):
             for key, value in data['content'].items():
                 scene = key
                 dialogue = ''.join(str(element) for element in value.split('#')[::-1])
+                dialogue = action.sub('',dialogue) # remove action such as
                 dialogue = placeholder.sub(' ',dialogue) # remove placeholder such as $e, $8
                 dialogue = placeholder2.sub('',dialogue) # remove placeholder such as %kid1
                 dialogue = onomatopoeia.sub('',dialogue) # remove onomatopoeia such as *sigh*
+
                 row = {'character':character, 'scene':scene, 'dialogue':dialogue}
                 rows.append(row)
                 # print(row)

@@ -27,7 +27,7 @@ Abigail,Fri,"Sometimes I totally lose track of time. Wow, I just realized it's F
 Abigail,Fri2,"We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess."
 Abigail,Sat,I wonder if the frogs will make an appearance soon. The fresh mountain air is nice on a day like this. 
 Abigail,Sun,Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter... 
-Abigail,Sun2,"Nothing. We just cease to exist.  17 30 Sun_nothingOur energy bodies enter the astral plane.  18 0 Sun_17We go to Heaven.  17 0 Sun_17We come back as spooky ghosts.  18 40 Sun_18I have no idea.  17 0 Sun_17@, What do you think happens to us after we die?  17/18 Sun_oldI wonder what would happen if I spent all night in the graveyard?"
+Abigail,Sun2,"Nothing. We just cease to exist.  17 30 Sun_nothingOur energy bodies enter the astral plane.  18 0 Sun_17We go to Heaven.  17 0 Sun_17We come back as spooky ghosts.  18 40 Sun_18I have no idea.  17 0 Sun_17@, What do you think happens to us after we die?$ Sun_oldI wonder what would happen if I spent all night in the graveyard?"
 Abigail,Sun_old,"I guess you think nothing would happen, right? |Maybe a wicked ghost would appear!  17"
 Abigail,Sun_17,"Hmm, interesting..."
 Abigail,Sun_18,Well that's an interesting theory! 
@@ -64,7 +64,7 @@ Abigail,summer_Thu,If I knew how to use a sword I would be exploring those caves
 Abigail,summer_Thu4,"Ew, I hope I don't get a tan this summer. "
 Abigail,summer_Fri,"I kind of wish I had a cat. Unfortunately, my Dad is allergic to pretty much everything."
 Abigail,summer_Sat,"I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... "
-Abigail,summer_Sun,"Joja Mega-Mall  25 0 Sun_25The old, gnarled forest  26 30 Sun_26In a dark cave  26 30 Sun_26The beach  25 0 Sun_25Okay... pretend you just won a free vacation. Where would you go?  25/26 summer_Sun_oldDo you ever get an urge to go exploring, @?"
+Abigail,summer_Sun,"Joja Mega-Mall  25 0 Sun_25The old, gnarled forest  26 30 Sun_26In a dark cave  26 30 Sun_26The beach  25 0 Sun_25Okay... pretend you just won a free vacation. Where would you go?$ summer_Sun_oldDo you ever get an urge to go exploring, @?"
 Abigail,summer_Sun_old,"I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. I think we both have similar, weird tastes.   25"
 Abigail,Sun_25,Huh. I think that would get old fast.
 Abigail,Sun_26,Yea! That sounds wonderful. 
@@ -80,7 +80,7 @@ Abigail,fall_Tue,"I try to help out in the shop on most days. Business has been 
 Abigail,fall_Wed,"The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun. I can't wait to see some pumpkins this year. "
 Abigail,fall_Thu, doesn't seem to be interested in talking right now. Last night I dreamt that my left hand had turned into a gigantic . Does that mean anything?  AbigailHAND
 Abigail,fall_Sat,I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?  cc
-Abigail,fall_Sun,I like your hair just the way it is!  28 0 Sun_28How about bubblegum pink?  27 20 Sun_WildColorWhy not blonde?  27 10 Sun_27Dye it black.  27 10 Sun_27I was thinking about dyeing my hair again... what do you think?  27/28 fall_Sun_oldHmm... what should I do tonight?
+Abigail,fall_Sun,I like your hair just the way it is!  28 0 Sun_28How about bubblegum pink?  27 20 Sun_WildColorWhy not blonde?  27 10 Sun_27Dye it black.  27 10 Sun_27I was thinking about dyeing my hair again... what do you think?$ fall_Sun_oldHmm... what should I do tonight?
 Abigail,fall_Sun_old,I was going to dye my hair but then I decided against it.|Yes? What is it?  27
 Abigail,Sun_27,"I'll think about it. I guess that's a pretty safe choice, huh?"
 Abigail,Sun_28,Of course that's what you'd say. 
@@ -106,7 +106,7 @@ Abigail,winter_24,I'm going to eat so much cranberry sauce tomorrow.
 Abigail,winter_Thu,"It goes by so fast, doesn't it?  Another year is almost over."
 Abigail,winter_Fri,One thing I've learned living here... everyone stares at you if you look different.
 Abigail,winter_Sat,Bye. That means I can play twice as many video games.  It's the weekend!
-Abigail,winter_Sun,"I don't like either of them.  29 -50 Sun_BadI like the orc with the battleaxe.  30 5 Sun_30I like the jungle island and the tiger.  29 20 Sun_29I made these two drawings. What do you think?  29/30 winter_Sun_oldOh, hello."
+Abigail,winter_Sun,"I don't like either of them.  29 -50 Sun_BadI like the orc with the battleaxe.  30 5 Sun_30I like the jungle island and the tiger.  29 20 Sun_29I made these two drawings. What do you think?$ winter_Sun_oldOh, hello."
 Abigail,winter_Sun_old,Remember those drawings I showed you a while ago? I accidentally threw them away. |Remember that drawing I showed you with the orc? I entered it into an online contest and won 50g!   29
 Abigail,Sun_29,Oh yeah? I guess that makes sense.
 Abigail,Sun_30,I'm glad. It's embarrassing to share your art with others. But I think you and I are on the same page.
@@ -136,7 +136,7 @@ Alex,secondChance_Guys,"I don't know if I can trust you anymore, but I'm willing
 Alex,breakUp,"... Got it. Alright... well, you've made your choice. You're not gonna see me begging.  You're giving me wha...? "
 Alex,Mon,See this little star on my jacket here? That proves it. Did you know I was an all-star quarterback in high school? It's true. 
 Alex,Tue,"... I wish there were more girls in this town, know what I mean? ^Hey, do you wanna hang out with me at the beach some time? Do you have a bikini? You gotta spend some time in the sun or else you'll get all pale.eThe beach is a cool place to hang out and soak up some rays."
-Alex,Wed,"(angry) What's that supposed to mean?  5 0 Wed_01_03I want to play catch with you!  5 15 Wed_01_01I'm fine just watching you from a distance.  6 0 Wed_01_02I'd ask you to throw the ball around, but you don't really seem like the sports type.^If you weren't a girl I'd ask you to play catch.  5/6 Wed_01_old Looks like a good day to play catch, huh? "
+Alex,Wed,"(angry) What's that supposed to mean?  5 0 Wed_01_03I want to play catch with you!  5 15 Wed_01_01I'm fine just watching you from a distance.  6 0 Wed_01_02I'd ask you to throw the ball around, but you don't really seem like the sports type.^If you weren't a girl I'd ask you to play catch.$ Wed_01_old Looks like a good day to play catch, huh? "
 Alex,Wed_01_old,Go long! ...just kidding. Hahaha.|I just wish I had someone to play catch with...   5
 Alex,Wed_01_01,"My arm's a little sore, but maybe next time. Really? I guess I underestimated you."
 Alex,Wed_01_02,"Yeah, some people just aren't made for sports."
@@ -167,7 +167,7 @@ Alex,Event_parents3,...Maybe you're right... I dunno.
 Alex,summer_1,Right now is great because we've got the whole season to look forward to. Catch you later. Hey. Summer is definitely the best time of year.
 Alex,summer_Mon,"Then you'd be able to say you knew me once. Cool, huh? The more I practice this summer, the easier it'll be for me to go pro. Hey, farmer guy. You look a little burnt.^Hey Farmer girl. You've got a nice tan going. "
 Alex,summer_Tue,"... Life can be tough. If my hair wasn't so popular with the ladies, I swear I'd shave it all off in a second."
-Alex,summer_Wed,"No, you'll most likely fail and become a salesman  53 -50 summer_Wed_01_03Maybe, if you practice a lot  52 0 summer_Wed_01_02You're destined to be a sports legend  52 30 summer_Wed_01_01Do you think I'll ever turn pro?  52/53 summer_Wed_01_old Hey farm guy, I've got a question for you.^Hey Farm girl, I've got a question for you."
+Alex,summer_Wed,"No, you'll most likely fail and become a salesman  53 -50 summer_Wed_01_03Maybe, if you practice a lot  52 0 summer_Wed_01_02You're destined to be a sports legend  52 30 summer_Wed_01_01Do you think I'll ever turn pro?$ summer_Wed_01_old Hey farm guy, I've got a question for you.^Hey Farm girl, I've got a question for you."
 Alex,summer_Wed_01_old,"Hey, when I turn pro you can say you were my first ""fan"". Not bad, huh?|Hey, I've been practicing twice as hard so I can turn pro and prove you wrong. You just wait.   52"
 Alex,summer_Wed_01_01,"You're cooler than I thought. Hey, now that's what I'm talking about! "
 Alex,summer_Wed_01_02,"Yeah, well I'm so good I'm not going to have to practice all that much. "
@@ -184,7 +184,7 @@ Alex,summer_Wed8,"I like being outdoors and doing things with my hands. You know
 Alex,summer_Sat10,I've been trying to do more reading lately... I feel like I've been neglecting my brain for years because of my athletic obsession.
 Alex,fall_1,"That's all I care about. Sure, it's getting colder... But it's still warm enough for sports!"
 Alex,fall_Mon,"Studying is for nerds, anyway. I was like, '...Grams, don't fret. I'm turning pro!'  My Grandma told me I should spend more time studying."
-Alex,fall_Wed,"It looks like some kind of fungal growth.  55 -30 fall_Wed_01_02It looks very fashionable.  54 30 fall_Wed_01_01Do you think the ladies like my haircut?^What do you think about my haircut?  54/55 fall_Wed_01_old Hey, I want to ask you something.^Hey, can I ask you something?"
+Alex,fall_Wed,"It looks like some kind of fungal growth.  55 -30 fall_Wed_01_02It looks very fashionable.  54 30 fall_Wed_01_01Do you think the ladies like my haircut?^What do you think about my haircut?$ fall_Wed_01_old Hey, I want to ask you something.^Hey, can I ask you something?"
 Alex,fall_Wed_01_old,...what? Don't touch it! I put too much gel in my hair today. It kind of hurts.
 Alex,fall_Wed_01_01,"Yeah, I know. That's why I have it like this."
 Alex,fall_Wed_01_02,Yeah right. You're just jealous that I look so good.
@@ -421,7 +421,7 @@ Haley,summer_Wed,"I didn't hear you, I'm thinking about something else. Um... Ye
 Haley,summer_10,Do you have baby bunnies on your farm? Bunnies are SO cute! <
 Haley,summer_Thu,It's a good thing to know! If you stay in the sun a lot it'll make your hair lighter.
 Haley,summer_Fri,Huh? I didn't notice you standing there. I wonder what Alex is doing today...
-Haley,summer_Sat,Dig for treasure  42 10 summer_Sat_12Snoop around in your room  43 -10 summer_Sat_13Explore the caves  42 10 summer_Sat_12Care for plants  42 10 summer_Sat_12What do you even do all day?  42/43 summer_Sat_oldFarming sounds so boring...
+Haley,summer_Sat,Dig for treasure  42 10 summer_Sat_12Snoop around in your room  43 -10 summer_Sat_13Explore the caves  42 10 summer_Sat_12Care for plants  42 10 summer_Sat_12What do you even do all day?$ summer_Sat_oldFarming sounds so boring...
 Haley,summer_Sat_old,"Hey, you better not be snooping around in my room anymore! |But I guess it could get you in pretty good shape.  43"
 Haley,summer_Sat_12,Hmm... sounds like a lot of work.
 Haley,summer_Sat_13,What? You'd better not be doing that! 
@@ -535,7 +535,7 @@ Leah,breakUp,Ohh... Got it. Hah... I really don't have any luck when it comes to
 Leah,dumped_Girls,I don't want to see you for a while... 
 Leah,secondChance_Girls,You caused a lot of grief with what you did... but I'm ready to put the past behind us. 
 Leah,Beach,"I came for the sound of the ocean. Beautiful, isn't it?"
-Leah,Mon,"I wanted to escape my old life.  22 5 Mon_22To follow in grandpa's footsteps.  211132 5 Mon_211132It's more ""real"" than living in the city.  22 5 Mon_22I want to make tons of money.  21 -5 Mon_21So why did you become a farmer?  21/22/211132 Mon_oldThe trees look nice today, don't they?"
+Leah,Mon,"I wanted to escape my old life.  22 5 Mon_22To follow in grandpa's footsteps.  211132 5 Mon_211132It's more ""real"" than living in the city.  22 5 Mon_22I want to make tons of money.  21 -5 Mon_21So why did you become a farmer?$/211132 Mon_oldThe trees look nice today, don't they?"
 Leah,Mon_old,So are you making as much money as you hoped?|Spending time in nature is very rewarding.  21
 Leah,Mon_21,"Hmm. That seems kind of shallow, doesn't it? "
 Leah,Mon_22,"That's pretty much the reason I came here, too! "
@@ -1309,7 +1309,7 @@ Maru,Wed,"Being a farmer must be pretty easy, huh? He says he likes having me ar
 Maru,Thu,I plan on spending a lot of time with my telescope this summer.
 Maru,Sat,"Do you know my Dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory."
 Maru,Fri,"I had to sort patient records for four hours straight!   I had to carry ten boxes of medical files to the attic!  .5Hey, sorry if I seem cranky... I'm a little sore from work yesterday."
-Maru,Sun,No.  4 0 Sun_01_02Yes.  3 0 Sun_01_01Do you have fun working on the farm?  3/4 Sun_01_oldHi!
+Maru,Sun,No.  4 0 Sun_01_02Yes.  3 0 Sun_01_01Do you have fun working on the farm?$ Sun_01_oldHi!
 Maru,Sun_01_old,"Hey, you've made another week of progress on the farm! It seems like things are going well for you. |Another tiring week on the farm, huh? It must really be a lot of work...   3"
 Maru,Sun_01_01,"Well that's good, isn't it? "
 Maru,Sun_01_02,Yikes! I'm sorry. Have you ever thought of doing something different...? 
@@ -1338,7 +1338,7 @@ Maru,summer_Mon6,Come to my room if you ever want to tinker with my gadgets.
 Maru,summer_Tue,"We look totally different. Sebastian is my half-brother, if you didn't know already."
 Maru,summer_Tue4,"It's sad, I want to have a brother but he doesn't act like one. Sebastian hardly ever talks to me. I wonder if he even likes me at all?"
 Maru,summer_Wed,It's been so warm this year.  Are you enjoying the season?
-Maru,summer_Thu,"It sounds challenging  35 40 Thu_01_02You should be more realistic  36 -50 Thu_01_01That should be very easy for you  35 30 Thu_0I've decided I'm going to build a robot someday.  35/36 Thu_01_oldSorry, I was just thinking about some gadgets I'm making."
+Maru,summer_Thu,"It sounds challenging  35 40 Thu_01_02You should be more realistic  36 -50 Thu_01_01That should be very easy for you  35 30 Thu_0I've decided I'm going to build a robot someday.$ Thu_01_oldSorry, I was just thinking about some gadgets I'm making."
 Maru,Thu_01_old,See you later.
 Maru,Thu_0,Really? Are you sure you're not just trying to flatter me?
 Maru,Thu_01_01,You don't think I could do it? 
@@ -1393,7 +1393,7 @@ Penny,pamHouseUpgradeAnonymous,There are some truly wonderful people in the worl
 Penny,dumped_Girls,I can't bear to see you... 
 Penny,divorced,"...Please, leave me alone. "
 Penny,secondChance_Girls,"You've left a permanent scar on my heart, @. Still... I'm ready to speak to you again. "
-Penny,Mon4,"I think it's good to be realistic.  8 10 Mon_8Right. It's best to be positive!  7 50 Mon_7But it's best not to dwell on bad things, right?  7/8 Mon_old... My mother definitely has a problem with going to the saloon too much. "
+Penny,Mon4,"I think it's good to be realistic.  8 10 Mon_8Right. It's best to be positive!  7 50 Mon_7But it's best not to dwell on bad things, right?$ Mon_old... My mother definitely has a problem with going to the saloon too much. "
 Penny,Mon_old,"But if I keep trying I think I can get her to change.|I guess it makes sense. There's not much I can do to change it, anyway.  7"
 Penny,Mon_7,That's how I feel. I'm just going to focus on making the future better.
 Penny,Mon_8,Maybe you're right. It's better to cope with reality. 
@@ -1478,7 +1478,7 @@ Sam,Mon,"Hey, farmer."
 Sam,Mon8,Most people don't know that so keep it on mute. I'll tell you a secret... my name 'Sam' is short for 'Samson'. 0
 Sam,Tue,"Take it easy. Oh, hi! It's good to see you again."
 Sam,Tue4,"Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster. Hi, @. Do you want to hang out or something?"
-Sam,Wed,"Choose anything. It'll still be a horrible song.  19 -50 Wed_19Trains.  8821 30 Wed_20A city in the sea.  8820 30 Wed_20Farming, mining, and chopping wood.  20 30 Wed_20Hey.. What do you think my new song should be about?  19/20 Wed_oldI'm trying to come up with a new song for my band, but I'm blanking..."
+Sam,Wed,"Choose anything. It'll still be a horrible song.  19 -50 Wed_19Trains.  8821 30 Wed_20A city in the sea.  8820 30 Wed_20Farming, mining, and chopping wood.  20 30 Wed_20Hey.. What do you think my new song should be about?$ Wed_oldI'm trying to come up with a new song for my band, but I'm blanking..."
 Sam,Wed_old,But I already know what you think about it. |Thanks to your help I'm already done with the lyrics!   19
 Sam,Wed_19,"Hey, man... what the heck is your problem? Sorry I asked. "
 Sam,Wed_20,"Hey, you know what? That sounds perfect. Thanks! "
@@ -1585,7 +1585,7 @@ Sebastian,Thu4,"Sorry...  Why does everyone like Maru so much? Sure, she's smart
 Sebastian,Thu6,Could you picture someone like me living on a farm? It seems ridiculous. 
 Sebastian,Thu8,"It seems ridiculous, but I have been thinking about it lately. Could you picture me living on a farm?"
 Sebastian,Fri,Uh... I don't really know you.
-Sebastian,Fri2,Sports  15 -30 Fri_badShopping  15 -30 Fri_badComic books  16 30 Fri_goodMore Farming  15 0 Fri_badSo what do you do when you aren't working?  15/16 Fri_old ... If gas wasn't so expensive I'd ride my motorcycle to the city today.
+Sebastian,Fri2,Sports  15 -30 Fri_badShopping  15 -30 Fri_badComic books  16 30 Fri_goodMore Farming  15 0 Fri_badSo what do you do when you aren't working?$ Fri_old ... If gas wasn't so expensive I'd ride my motorcycle to the city today.
 Sebastian,Fri_old,"Hey, if you're bored feel free to hang out in my room... |You probably prefer the small-town life, huh?  16"
 Sebastian,Fri_good,"Oh yeah? Well, did you read the new 'Cave Saga X'? I won't spoil it for you, but oh man... "
 Sebastian,Fri_bad,"Oh yea? Hmm... Not really my thing, but everyone's different I guess. "
@@ -1635,7 +1635,7 @@ Sebastian,fall_Tue6,"Who does Demetrius think he is, telling me what to do? He's
 Sebastian,fall_Wed,... what time is it? I think I slept too much last night.
 Sebastian,fall_Wed8,"Now I feel a lot more energetic, believe it or not. I'm glad you showed up. I was starting to get bored."
 Sebastian,fall_Thu,My room might be a little less depressing if I had a window... 
-Sebastian,fall_Fri,"No, I don't read books  63 -30 Fri_badI like a good Romance  62 0 Fri_badOnly Sci-fi and Fantasy  63 30 Fri_goodYep. The classics.  62 -30 Fri_badDo you read, @?  62/63 fall_Fri_old... I was up until 3 reading this new book..."
+Sebastian,fall_Fri,"No, I don't read books  63 -30 Fri_badI like a good Romance  62 0 Fri_badOnly Sci-fi and Fantasy  63 30 Fri_goodYep. The classics.  62 -30 Fri_badDo you read, @?$ fall_Fri_old... I was up until 3 reading this new book..."
 Sebastian,fall_Fri_old,You probably wouldn't like it. |I think you'd like it.  62
 Sebastian,fall_Fri_good,"Hey, me too. There's nothing like a good fiction to push the boundaries of the imagination. "
 Sebastian,fall_Fri_bad,Huh. Sounds boring.
