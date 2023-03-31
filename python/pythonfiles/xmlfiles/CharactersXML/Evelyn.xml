@@ -1,0 +1,43 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue>"Why, hello and welcome to our little community, dear! #$b#You can call me 'Granny' if you like.$h"</dialogue> </p>
+<p><context>reject_867:</context> <dialogue>"Oh, I'm sure George would be interested in that!"</dialogue> </p>
+<p><context>reject_866:</context> <dialogue>"That's a very pretty rose, dear. Have you shown it to Emily? It makes me think of her."</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue>"Oh, sweetie... that was so nice of you to put Pam up in a beautiful new house!$h#$e#It warms my heart when people take care of each other like that..."</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"Call me a silly old fool... but I think I have an idea who paid for Pam's new house... *wink*"</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue>"Oh my! That's so kind of you, dear. Why yes... I'd love to go to the movies!$h#$b#You go on ahead, and I'll meet you at the theater."</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"Oh my! What a lovely day.$u"</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"Don't mind my husband, George. He isn't very friendly to strangers.#$e#If you get to know him better he'll warm up to you.#$e#I'm sure you two could become good friends one day!$h#$e#Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year."</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"#$1 evelynGarden1#I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday.$k#$e#The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for weeks, so don't step on them!"</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"I'll be baking cookies today. I like to make flower shapes in the spring.$h#$e#Maybe I'll tell you my recipe one of these days."</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"George spends the whole day in front of that darned television set.#$e#I wish he'd go outside more. Some fresh air would do him good."</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"I used to love looking at the clouds, but I have trouble seeing them these days.#$e# My eyes just don't work as well as they used to.$s"</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier.#$e#As kids we hunted for seashells after the tide went out. Those were the days..."</dialogue> </p>
+<p><context>Tue6:</context> <dialogue>"It's nice of you to take the time to visit George and I.#$e#Without young people around, we'd age much faster.$h"</dialogue> </p>
+<p><context>Event_cookies1:</context> <dialogue>"Thank you!$h"</dialogue> </p>
+<p><context>Event_cookies2:</context> <dialogue>"What was that, dear? I could've sworn you said 'hockey puck'. *sigh* My ears aren't what they used to be.$s"</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue>"I feel more energetic in this wonderful weather.$u"</dialogue> </p>
+<p><context>summer_Mon_inlaw_Alex:</context> <dialogue>"How's my grandson doing? I imagine he's quite happy living on the farm.#$e#He deserves to be happy... he's a good boy."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue>"George is always a little less grumpy in the summer. The warm weather softens his bones.#$e#You might not be able to tell, but I can. I've known him for sixty years!"</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue>"The good Mayor put me in charge of the town's public gardens.#$e#I've been working on the town flower beds for months, so don't step on them!"</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue>"I'm going to bake cookies today. They're coconut wonders shaped like little palm trees! Heehee.$h#$e#Maybe I'll tell you my recipe one of these days."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue>"Be careful out there, dear. You could get sunburnt!"</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue>"Sweet peas are in bloom right now.#$e#They've got such a wonderful fragrance, haven't they?"</dialogue> </p>
+<p><context>summer_Thu4:</context> <dialogue>"It seems like we always have more visitors when I start baking cookies.#$e#My mother taught me the recipe."</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue>"With every year I appreciate the seasons more and more. For young people it's easy to let them slip by."</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue>"I've been putting raisins in George's oatmeal... but he hasn't said a word. I wonder if he even notices these things?"</dialogue> </p>
+<p><context>fall_Wed:</context> <dialogue>"The good Mayor put me in charge of the town's public gardens.#$e#The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do."</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue>"Today I'm baking cookies. They're shaped like little pumpkins.$h#$e#Maybe I'll tell you my recipe one of these days."</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue>"Are you friends with Alex?#$e#Sometime he worries me sick."</dialogue> </p>
+<p><context>fall_Sat_inlaw_Alex:</context> <dialogue>"Oh, hello my dear. I think of you as my own grandson now.$h^Oh, hello my dear. I think of you as my own grand-daughter now.$h"</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue>"My eyesight may be poor, but my nose hasn't failed me yet!#$e#I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl."</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue>"Be careful you don't slip on the ice, dear."</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue>"Aren't you cold? You should wear a thicker jacket, my dear!#$e#This weather isn't good for my joints...$s"</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue>"I usually tend to the gardens, but they're covered in snow.#$e#I still like to check up on them now and then."</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue>"We've lived here for over 30 years.#$e#We've seen a lot of people come and go. Your grandfather, for one. Bless him... *sigh*"</dialogue> </p>
+<p><context>winter_Sat6:</context> <dialogue>"Oh... my dear. You have your grandfather's eyes...$s#$e#Yes... yes... I knew him very well."</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue>"You should make some hot soup to stay warm.#$e#And make sure you wear a jacket!"</dialogue> </p>
+<p><context>winter_Sat8:</context> <dialogue>"@, have I told you that George and I have lived in our house for 30 years?#$e#I hope you stay here for a while.$h"</dialogue> </p>
+
+</xml>

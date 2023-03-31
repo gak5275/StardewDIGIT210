@@ -1,0 +1,43 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue>"A stranger?... Hello.#$e#Don't mind me. I just live out here alone."</dialogue> </p>
+<p><context>reject_869:</context> <dialogue>"What do you have there? Looks like it would make good bait.$h"</dialogue> </p>
+<p><context>cc_Boulder:</context> <dialogue>"My old friend, the glimmering boulder, has moved on. It may not seem like an important event, but to me it's a big change.#$b#I'm happy for the old rock to see more of the world, though.$h"</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue>"Oh... me? I usually wouldn't, but... okay. It's nice of you to think about me.#$b#I'll head over there in a little while."</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"The crisp air of the wilderness is all I care to know.#$e#I live out here by choice."</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"...Have you come to ridicule me?#$e#I'm just minding my own business."</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"I don't know you well enough to trust you. Sorry."</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"...Hmm? Do you want something from me?"</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"Please don't destroy my tent.#$e#It's happened before.$s"</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"I'm happy by myself, you know.#$e#I don't need new friends."</dialogue> </p>
+<p><context>Sun4:</context> <dialogue>"It would be nice if the townspeople could accept me for who I am.$s#$b#I like living out here in the open air. That's what they don't understand."</dialogue> </p>
+<p><context>Tue4:</context> <dialogue>"You can learn to survive in the wild. I have.#$e#I think we all have a hidden urge to return to nature. It's just a little scary to make the leap."</dialogue> </p>
+<p><context>Wed6:</context> <dialogue>"I spend a lot of time thinking.#$e#If you can fully understand the reasons behind your thoughts, you'll have reached a new level of being."</dialogue> </p>
+<p><context>Wed2:</context> <dialogue>"I have to be wary of strangers. Most people don't like a 'wild man'."</dialogue> </p>
+<p><context>Thu4:</context> <dialogue>"The people here seem nice, but they avoid me.#$e#People are afraid of the unknown.$u"</dialogue> </p>
+<p><context>Fri4:</context> <dialogue>"You can learn a lot from trees.#$b#Spend time with them and they might tell you their secrets.#$e#Go in peace, young one."</dialogue> </p>
+<p><context>Sat4:</context> <dialogue>"I have everything I need to survive, and more. Nature plays a wonderful tune if you can only learn to listen.#$e#I also spend a lot of time reading. One of the reasons I stopped in the valley was for the great library."</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"#$1 linusVandal#Someone was throwing rocks at my tent last night... I just had to wait it out.$s$k#$e#I don't like to stay in one place for too long. There's just too much to experience in the world."</dialogue> </p>
+<p><context>summer_Mon4:</context> <dialogue>"During all these years I've discovered a few secrets about life.#$e#You'll have to find out for yourself."</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue>"#$1 LinusHeron#I saw a heron wading gracefully through the morning mist. Such are the treasures of a quiet life.$k#$e#It's so easy to get caught up in the noise of modern life. Your best years will pass you by in a formless blur. That's why you'v got to learn to slow down. "</dialogue> </p>
+<p><context>summer_Tue4:</context> <dialogue>"How have you been, my young friend?"</dialogue> </p>
+<p><context>summer_Wed6:</context> <dialogue>"Ah... summer. The warm sun heats up the cans for me.#$b#Then at night I've got a warm meal to look forward to."</dialogue> </p>
+<p><context>summer_Thu4:</context> <dialogue>"I have my own reasons for living alone like this.#$e#Some things are best left unsaid...#$e#I should do some foraging."</dialogue> </p>
+<p><context>summer_Fri4:</context> <dialogue>"Whenever you catch a fish, take a moment to thank it for its sacrifice.#$b#Even if you don't believe in the spirit of the fish, it's a good mental exercise. We need to be aware of our effect on the environment."</dialogue> </p>
+<p><context>summer_Sat4:</context> <dialogue>"You can find rainbow trout in streams right now."</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue>"This is an easier time of year for me. I don't have to worry about staying warm.#$e#Plus, the fruits of the wild are growing everywhere."</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue>"I've explored deep into the caves.#$e#They hold some hidden secrets.#$e#Just be cautious if you go in there."</dialogue> </p>
+<p><context>fall_Tue4:</context> <dialogue>"#$1 LinusFall1#Some joker sprayed paint all over my home during the night... It took hours to scrub it off this morning.$k#$e#I need to start gathering lumber for the winter.#$e#Do you have enough lumber to keep your house warm?"</dialogue> </p>
+<p><context>fall_Wed4:</context> <dialogue>"I don't have many responsibilities, so I spend my time thinking.#$e#You have to understand your thoughts before you can control them."</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue>"I don't like to stay in one place for too long."</dialogue> </p>
+<p><context>fall_Sun6:</context> <dialogue>"There's nothing quite like a feast of wild mushrooms in the fall.$h"</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue>"It can get really cold if you live in a tent.$s"</dialogue> </p>
+<p><context>winter_Tue4:</context> <dialogue>"Thanks for not shunning me, @. It takes a lot of wisdom to override your base instincts.#$e#I'm a human like everyone else. I just have a different lifestyle."</dialogue> </p>
+<p><context>winter_Wed4:</context> <dialogue>"I'm sure you understand why I'm cautious of strangers.#$e#But let's put that in the past, okay? You and I are friends now, I think."</dialogue> </p>
+<p><context>winter_Thu4:</context> <dialogue>"Winter is tough, but you can still fish and forage to get by.#$e#If you have any animals you should keep them inside."</dialogue> </p>
+<p><context>winter_Fri4:</context> <dialogue>"The trees go to sleep during the winter. It makes it a bit lonely out here.#$e#But I wouldn't deny them their beauty sleep.$h"</dialogue> </p>
+<p><context>winter_Sat4:</context> <dialogue>"Thanks for stopping by. I was actually feeling a little lonely this morning.#$e#So, have you discovered anything interesting in the mines?"</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue>"Sleeping on the ground is good for my back.#$e#It's best to look at the positive side of things.$h"</dialogue> </p>
+
+</xml>

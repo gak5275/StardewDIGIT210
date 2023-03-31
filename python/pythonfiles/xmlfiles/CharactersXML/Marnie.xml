@@ -1,0 +1,31 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue>"Ah, Mayor Lewis told me you just arrived. I'm Marnie!#$e#I sell livestock and animal care products at my ranch. You should swing by some time.$h"</dialogue> </p>
+<p><context>Resort:</context> <dialogue>"Hehe... finally a chance to show off all my hard work at aerobics club.$h"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue>"I feel warm."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue>"Hee hee... It's interesting to see everyone in their bathing suits."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue>"Ew... the chair's wet."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue>"Phew... It's hot!$s"</dialogue> </p>
+<p><context>reject_789:</context> <dialogue>"Gah!$4#$b#...Um... What? Heh.. I don't know what that is...$3"</dialogue> </p>
+<p><context>Mon:</context> <dialogue>"I love animals, Mr. @. If you treat yours well I'm sure we'll become good friends!^I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!"</dialogue> </p>
+<p><context>Mon4:</context> <dialogue>"Animals are so innocent, so sweet. And If I don't look after them, who will?$s#$e#I just hope my chickens aren't too upset when I take their eggs.$s"</dialogue> </p>
+<p><context>Thu_2:</context> <dialogue>"You've been here a while, now... how's your farm doing?#$e#Taking care of animals is easy as long as you don't forget about them!$h"</dialogue> </p>
+<p><context>Saloon:</context> <dialogue>"Now that I'm here I can finally relax and socialize a bit."</dialogue> </p>
+<p><context>Saloon_Tue:</context> <dialogue>"There aren't very many people here today...$s"</dialogue> </p>
+<p><context>Saloon_Wed:</context> <dialogue>"#$1 marnieAnimalSal#I spilled a whole bucket of milk on the floor today, it was horrible. And such a waste of my poor Belinda's hard work.$k$s#$e#It's nice of you to show up! It's a little more lively now."</dialogue> </p>
+<p><context>Saloon_Thu:</context> <dialogue>"Phew! It sure feels good to kick back after a hard day's work."</dialogue> </p>
+<p><context>Saloon_Fri:</context> <dialogue>"%Marnie doesn't seem to notice that you're there..."</dialogue> </p>
+<p><context>Saloon_Sun:</context> <dialogue>"*sigh*... I wasn't very productive today."</dialogue> </p>
+<p><context>Saloon_Sat:</context> <dialogue>"I always see Clint here but he won't talk to anyone. He just glances over his shoulder now and then.$s"</dialogue> </p>
+<p><context>Tue:</context> <dialogue>"My nephew Shane has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining."</dialogue> </p>
+<p><context>Wed:</context> <dialogue>"You can use a scythe to cut feed from grass.#$e#Or you can buy it from me, of course!$h#$e#I could use the cash...$u#$e#Adios."</dialogue> </p>
+<p><context>Thu:</context> <dialogue>"Hi. Need something?#$e#I might be getting some different kinds of animals in the future.#$e#Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first.#$e#Just keep treating your animals with respect and good things will happen."</dialogue> </p>
+<p><context>Fri:</context> <dialogue>"You can catch me at the saloon most nights.#$e#Animals are great company, but I need to spend time with people, too."</dialogue> </p>
+<p><context>Fri4:</context> <dialogue>"#$1 marnieLike#I think someone in town has taken a liking to me. *teehee*$k$h#$e#I would be so lonely if Shane ever moved out."</dialogue> </p>
+<p><context>Fri6:</context> <dialogue>"I wonder if Mr. Lewis gets lonely in that big house of his... $s#$e#It seems so empty in there, doesn't it?"</dialogue> </p>
+<p><context>Sat:</context> <dialogue>"Have you been to that strange tower west of my house?#$e#One time I heard this terrible, otherworldly noise coming from there.$s#$e#I would avoid that place if I were you..."</dialogue> </p>
+<p><context>Sun:</context> <dialogue>"Hey there, it's good to see ya!#$e#Feel free to visit us any time you please."</dialogue> </p>
+<p><context>Sun8:</context> <dialogue>"Hi @!$h#$e#I'm glad we've become friends. I know I can trust you to take care of my dear animals."</dialogue> </p>
+
+</xml>
