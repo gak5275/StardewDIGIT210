@@ -42,12 +42,21 @@ def readTextFiles(filepath):
         xp.set_context(xdm_item=node)
 
         xpath = xp.evaluate('//dialogue//@who ! normalize-space() => string-join()')
+        # 2023-03-31 ebb: I think the the line above is causing a problem: you're outputting your ALREADY KNOWN names of
+        # persons, and they're coming out in one long compacted string. You don't really need to tag these names, since
+        # you already have them. But are there OTHER kinds of data that might benefit from this tagging?
+        # For this, you don't really want to be outputting attribute values or things already marked up. Instead, send it
+        # the text nodes of elements that may have interesting content to autotag.
+        # TO THINK ABOUT: You don't absolutely have to do named entity recognition either, if that's not a need for this project.
+        # What about the POS analyses we did early in our course? Is there a use of language that might be interesting to follow and mark,
+        # say all the action verbs or adjectives (descriptors)? 
+
         # ebb: Let's get the string() value of all the <p> elements that are descendants of <book>.
         # The XPath function normalize-space() gets the string value and removes extra spaces.
         # That way we avoid the prologue, preface material.
         # I'm sending the whole thing to string-join() to bundle it together as one string
         # instead of a new string for every <p> element.
-        string = xpath.__str__()
+        string = str(xpath)
         # print(string)
 
         # ebb: Using REGEX to remove element tags for the moment so they don't get involved in the NLP.
@@ -114,10 +123,10 @@ def assembleAllNames(CollPath):
             distinctNames.append(name)
     print (distinctNames)
     print('AllNames Count: ' + str(len(AllNames)) + ' : ' + 'Distinct Names Count: ' + str(len(distinctNames)) + ' : ' + 'flatList Count: ' + str(len(flatList)))
-    return distinctNames
-    f = open("entities.txt", "a")
+    f = open("entities.txt", "w")
     f.write(str(distinctNames))
     f.close()
+    return distinctNames
 
     #open and read the file after the appending:
     f = open("entities.txt", "r")
