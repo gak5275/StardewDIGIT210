@@ -1,0 +1,138 @@
+"Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine." 
+"Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!" 
+"Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!" 
+"Now this is comfort! I might even take my shoes off!$h#$e#Better not look too closely at my feet, kid." 
+"It's a special occasion, kid... I'm ordering something unique. Make it a double!$h" 
+"Wow, would you look at that... It's like something out of the future.#$b#Hehe, sorry kid... I can't use that. There's more buttons than I have brain cells!$h" 
+"I can't believe you bought me a house! Is there any catch?#$e#Sorry, I'm not used to people being so nice...$s" 
+"I can't believe someone bought me a house! I wonder if it's some kind of scam?#$e#Sorry, I'm not used to people being so nice...$s" 
+"Date night with ol' Pam, huh? Hah!$h^Ladies night with ol' Pam, huh? Hah!$h#$b#Sure thing, kid... I'll see you there." 
+"Hey, did you hear about the ol' bus?#$b#Yep... I'm back on the saddle, kid... hehe. Feels nice.$h" 
+"urghh... my head...$k#$e#You know, I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?" 
+"Nothin' like a sip o' the good stuff to warm these old bones...$h" 
+"Ah... Finally./I need a drink./Gus! Gimme the usual./Hey, I'm back!/Ooh boy, am I thirsty!/I'm parched!" 
+"Penny! Did you make dinner?/Penny! You done your chores?/Penny! You home?/Hey! I'm home!" 
+"Hey, kid. I'd buy you a drink if I could afford it!" 
+"Hey Gus! Gimme another round! *hic*$h" 
+"*Sigh*... Hey, kid. You're too young to be moping around in a place like this." 
+"*gulp* ... I've been looking forward to this beverage all afternoon. Heh heh." 
+"Oi, Gus! Gimme another pint of your strongest!" 
+"Hey, you! Don't be snoopin' around the trailer when I'm out. Got it?$u#$e#Sorry, but I gotta be cautious with strangers." 
+"I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid.#$e#Keep your head screwed on right and you'll make it through in one piece...#$b#That's what my Pappy always used to say. Heh heh heh.$h" 
+"$d bus#You don't know how glad I am that the bus is up and running! I feel alive again.|Times have been tough lately. I got laid off of my job as a bus driver. If I got that job back I could drive you to Calico Desert." 
+"Blahh... I had one too many caramel porters at the saloon last night... Go away.$k#$e#My house ain't pretty but at least it's by the river.#$e#Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?" 
+"Penny says I spend too much time at the saloon...$s" 
+"It's awful lonely at home all by myself..." 
+"You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.#$e#You got any ideas?#$e#...Ehh. Maybe I'll play checkers against myself." 
+"Each day's just the same as the last...$s#$b#If only I'd been born rich...$s" 
+"Make sure your boots are clean before you go stompin' around in my house.$u#$e#It's annoying to clean a mess. You should know that by now." 
+"I wish a team of elves would come during the night and tidy up my house. Hahahaha.$h#$e#I could sure go for some parsnips.#$e#If my legs weren't so stiff I'd visit the mountains every now and then." 
+"Are you friends with Gus? He's a pretty good guy.#$e#He even gives me free beer on my birthday." 
+"Hey, watch your mouth! No one tells me what to do!$u" 
+"...it isn't? That's terrible!$s#$b#...Oh.$s" 
+"Hi, stranger." 
+"Oh, it's Mr. @.^Oh it's Miss @.#$e#Do you need my help or something?" 
+"I had hopes and dreams like you, once... But look at me now.$s#$e#Life doesn't always turn out like you expect.#$e#Ah well. There's no sense dwellin' on what you don't have." 
+"Havin' a local farm is good for our town." 
+"Maybe if you do real well on your farm it'll boost the local economy.#$e#Then everyone will have a job and we'll all be happy, right?" 
+"Oh, hi there, farmer.#$e#I don't often chit-chat with strangers." 
+"I always seem to end up at the saloon at some point.#$e#It's too close to my house. It ain't healthy." 
+"...Yeah?#$e#You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What're you wastin' your time talkin' to someone like me for?" 
+"Don't mind that ol' dog next to the house.#$b#He might look at you cross, but he'll never get up from that box in a hunderd years.#$b#The old boy's name? It's Dusty." 
+"Someone's been complainin' about my yard... sayin' it's a mess. Was it you?$u#$e#Hmmm..." 
+"If I knew you better, I'd be more inclined to chat." 
+"I used to be young, once. Hard to believe, huh?#$e#Time sure goes fast when you grow up.$s" 
+"*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.$s" 
+"Penny's the only one I've got, so you best treat her kindly." 
+"Every day is the same old routine...$s#$e#Do you ever have that problem, farmer?" 
+"Would you do me a kindness and clean up my house?#$e#Just kidding.$h" 
+"Don't you have work to do?#$e#You should be thankful that you have a job rather than moping around town all the time." 
+"I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio.#$e#Times sure do change." 
+"You got any hogs on that farm?" 
+"Do you want somethin' from me, kid? Best look somewhere else." 
+"I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My skin feels like old parchment." 
+"Hey. You better be treatin' Penny right on that old farm of yours. She's the only one I got!" 
+"Hey kid. What're you up to?#$e#I'm just passin' time, same as always." 
+"It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh.#$e#Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?" 
+"Penny sure does like old books. I think she's a heck of a lot smarter than I ever was.#$e#I'm glad." 
+"I oughta take up fishin', seein' as how close the river is." 
+"Blah... my front yard's a mess.$s" 
+
+Hiya!$h#$b#Gus... I'm awful thirsty, if you catch my drift.
+@, what's going on here?
+....$u#$b#*sigh* ...Well, I guess I'd better pay off that tab, then.
+
+It's great Gus. And it tastes even better because it's on the house!
+
+Robin... I... I dunno what to say...$s#$b#This is a dream come true... it's all I've ever wanted.
+...They probably stayed anonymous so we wouldn't have to feel obligated to them.
+Whoever you are... You are truly a pure angel...
+Penny, from now on we'll be like a real family... you hear?#$b#I don't wanna be so bitter all the time anymore...$s#$b#I'm gonna try to turn my life around...
+This must have cost a fortune, @...$s#$b#...To be honest, this is kind of embarrassing. How can I ever repay you for this?
+...I'm sorry.
+I'll do whatever you say...
+Then... I'll just have to swallow my pride...
+*ahem*... Thank you, @.
+...We aren't 'poor' anymore, kid... put that thought out of your mind!
+Penny, I'm sorry you had to grow up in squalor... But I'm so happy you've found a good home. We both have, now.#$b#I'm going to try my best to live a good life, now...
+Thanks, kid.
+...I ain't 'poor' anymore, kid... put that thought out of your mind!
+
+That's right
+You're in for a treat, kid.
+Thanks, kid
+
+Whaddya think you're doing?!
+Stop it! I had everything just the way I like it!
+It's none of your damn business where I go!
+Selfish? I put a roof over your head and clothes on your back and you call me selfish!? You ungrateful little...
+You'd better go. I'm sorry you had to see this, kid.
+He's a nice young man...^She's a nice young lady...
+But I don't want you tellin' others to clean up my house! It's embarrassing! You understand?
+
+Heheh... I see the delivery came in.
+Let's have a little taste.
+Ptooey!
+I said potato, not fermented baboon kidney!
+The juice? Yeah, I tried it, kid. $4#$b#How'd it taste? ...Some things are better left unsaid. Let's just leave it at that.
+
+Hey, kid...
+You caught me prayin'...
+This here's my new 'Sign Of The Vessel' statue.#$b#...Ordered it from Joja.com with free 2-day shipping. Don't tell Pierre.
+...I've been settling in to the new house. It's really a great place. Feels like home already. I really do appreciate this new comfort.
+Oh, Sorry...
+*sniff*... It's just...$s#$b#...I should be so happy...
+...But I haven't been able to cut back on the beer... I haven't changed at all...
+For a long time, now... I've felt like there's something missing from my life, @... $s#$b#I always thought it was about money... Just bein' poor... ya know? So I figured gettin' this house would solve everything. But ...it didn't.$s#$b#So that's... That's why I ordered this statue.
+That ain't funny! ...I pour my heart out to you and that's how you respond? What in the void is wrong with you?
+I don't care what you say... I have faith in Yoba! Plenty of us do! Now get out.
+Hah! Well, look at me! I'm gettin' real sappy in my old age, aren't I?  ...hehehe.
+Thanks for lendin' an ear, kid
+
+“Hehe... I put something nice into the punch. Shhh... that's just between you and me, kid.”
+
+“	“Now this is the life... Huh, kid? Sweet wine, a babbling brook, warm air... Did I mention wine?”
+
+“	“Heh... free buffet. One of the perks of living here. Enjoy it, kid!”
+
+“	“Don't tell Gus, but I'm a little disappointed there's no buffet tonight.”
+
+“	“Better hurry up, kid... Before ol' Pam here fishes every last lunker out of the tent! Hehe.”
+
+“	“I'll come to any event with free grub! You won't see me in the haunted maze, though.”
+
+“	“I plan on winning the ice fishing competition! Willy is gonna be pretty hard to beat, though... He does this kinda stuff day and night.”
+
+“	“Hmmph... I'm still upset I didn't win the ice fishing competition.”
+
+"Hey... If you're gonna feed me eggs, I'm gonna need some hot sauce, kid!"
+
+"Hey, hey! Now this is really something! Thanks a million, kid./24 90 199 208 303 346 459 873/You did good with this one, kid. Thanks!/-6 -75 -79 18 227 228 231 232 233 234 235 236 238 402 418/This just ain't my thing./-5 16 80 330/Now this is just absolutely despicable.$u#$e#(Is this some kind of mean joke?)/149 151/Thanks, kid.
+
+"Hey. ^I found this in a drawer somewhere. Thought you could use it.
+"Hey Kid,^here's the recipe for a little treat my pappy used to make. Cook it slow.
+"Hey Kid,^My throat's about as dry as a desert bone. I'm real thirsty for a pale ale. You got one? Regular old beer won't do. I need a pale ale.
+Does anybody have one of them battery packs? My TV remote died, and it's a real hassle getting off the couch to change the station.
+"Hey kid,^^Thanks for the 'juice'. It definitely had a ...one-of-a-kind... flavor.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.
+
+"Howdy, kid. Stayin' dry?"

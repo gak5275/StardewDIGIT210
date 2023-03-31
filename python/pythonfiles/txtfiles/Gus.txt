@@ -1,0 +1,107 @@
+"Well hello there! I'm Gus, chef and owner of the Stardrop Saloon.#$e#Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready.$h" 
+"*sniff* sniff* ... that sharp smell!#$b#*slurp* *slurp* ... that zesty taste! That gritty texture!#$b#It can only be gourmet tomato salt! I'll trade you for it." 
+"Hey, @! Glad you're here. I'm gonna be serving up some good stuff from behind the bar." 
+"I'll see you back home, @." 
+"Meet me at the bar if you need a beverage." 
+"Hey, need a drink? I've got some special beverages that showcase local ingredients from this island.$h" 
+"These might be the best crab cakes I've ever made..." 
+"Yeah, I know a lot about the people living here.#$e#That's one of the benefits of being a bartender.$h#$e#Sometimes I hear too much..." 
+"Hey. I heard what you did for Pam. That was really really nice of you!$h#$e#Sadly, I don't think it will get her to cut back on the 'beverages'..." 
+"I saw Pam earlier today... she was grinning from ear to ear! She said someone bought her a new house!#$e#Whoever it was, they truly deserve the best!$h" 
+"Good evening. Can I get you anything?" 
+"Good evening. Make yourself at home." 
+"Hi, Pierre!/Now, what do I need.../Ah, that looks good!/Makin' my special sauce tonight!/Pierre! What's fresh?/Pierre! Waddya got for me?" 
+"Hi there @. I'm glad to see you! You're always welcome here." 
+"Hi! Please relax and enjoy yourself." 
+"Hey, you look like you could use a beverage." 
+"Business has been really good tonight. I'm pleased." 
+"I sell different dishes each week, so make sure and check in every now and then!#$e#You might taste something spectacular.$h#$e#Just let me know if you have any allergies.$s#$e#Okay, see you around." 
+"Emily's been working here for a while now. I don't know what I'd do without her!#$e#I would hate to have to clean all those pots by myself.$s" 
+"Pam and Clint come into the saloon almost every night.#$e#I'd probably go out of business if they stopped coming.$h#$e#So make sure you don't drive them away!" 
+"Clint comes into the saloon almost every night and sits at the same table by himself.#$e#Sometimes he glances over at Emily with a nervous look. Hmmm.#$e#Maybe that's why he comes in so often. Oh well, that means more business for me." 
+"Pam comes into the saloon almost every night and drinks way too much beer.#$e#Ah well, I shouldn't pass judgement on my customers." 
+"Hi there, @. If you're ever thirsty, the Saloon is the place to be." 
+"I don't actually drink very much myself. I'm mainly doing this to make a living.#$e#Although I do enjoy a taste of the Stardew Valley vintage from time to time." 
+"Are you much of a chef, @?#$e#If you have a kitchen and some recipes, you can cook some useful dishes.#$e#Home-cooked meals make great gifts, as well." 
+"Business has been pretty steady thanks to my regular customers." 
+
+"Eat as much as you like! It's all free today... compliments of Mayor Lewis.$h#$e#Oh! Make sure to dribble some of my secret sauce on there."
+"It's a lot of fun to cook with pumpkin. Such an interesting fruit."
+"I hope everyone's enjoying the food... I've been cooking for days to get everything ready.#$b#Fried eggs, boiled eggs, poached eggs, deviled eggs, scrambled eggs, chocolate eggs... you name it!$h"
+"Shh... don't tell anyone, but I tried something different this year... Duck eggs in the custard!$h"
+"Frog season is really starting to pick up."
+"These blasted sand-flies keep landing on the food!"
+"'Moonlight Jellies'... I wonder how they taste?$h#$b#I would never try it, of course!$u"
+"It's a fine art, making candy canes. You've really got to search far and wide for the best ingredients. They aren't easy to come by these days!$h#$e#I usually use Fern Island Ringfruit for my premier canes, you know. You can't beat that bright red coloring... And it's all natural!#$e#Oh, you want to know the secret to my deluxe double-canes? Okay, but you've got to promise absolute secrecy. *whisper* It's a drop of vanilla in the white candy to complement the cherry flavor.$h#$e#Of course, peppermint candy canes are the standard, and I always make a healthy batch of those as well.#$e#Hey, you look like you're falling asleep. Are you okay?$s"
+"Sorry there's no food.#$e#Just wait until the Feast of the Winter Star. You'll be stuffed for days."
+
+"I'm tending the bar on Ginger Island today, but I won't let that stop you from buying something!
+
+"You're giving this... to me? I'm speechless./72 213 635 729 907/Oh, goodness! Are you sure?/348 303 -7 18/No, no, no.../16 330/This is absolute junk. I'm offended./80 167 648/Oh, that's sweet. Thank you.//"
+
+"@!^I made you a little treat this morning in the saloon. Dig in!
+"Dear @,^Here's a recipe from my saloon. I only share this with my good friends!
+"Dear @-^I want to make fish stew, but I need an albacore! I know they're almost out of season... sorry about the short notice. Could you catch one for me?
+"Wanted: 1 Fresh Lobster for a marvelous bisque I'm creating.^Who: Gus, proprietor of the Stardrop Saloon^Reward: 800g
+"Dear @,^I'm at my wit's end. I desperately want to make a Coco-no-no at the saloon, but I have no way of getting a coconut!^Can you help me?
+"Hi @,^^Thanks for the eggs.^The yolks look amazing... I think this will be my best omelet yet!^^Please accept this gift.
+
+"There's nothing like a glass of dry red wine on a day like this, huh?#$e#I love my job. Hehehe."
+
+"Hooo~... Back at it again, huh Willy?$h\"
+"They look fresh all right...\"
+"I'll take the whole lot!$h#$b#With a discount for the extra labor, of course...\"
+"Looks like we got 'em all...\"
+"Psst... @... Don't tell Willy, but I'll be doing a special on crab cakes at the saloon for the next few days...\"
+
+"Good morning!\"
+"Ah... what a beautiful day, huh?\"
+"You know, as the Saloon owner, I hear about everything that's going on in town.#$b#I remember when you first moved here... everyone was a bit unsure of what to expect.#$b#A stranger from the city... an unknown personality...$s\"
+"One sec...\"
+"Sorry, I have to stir this pot every 5 minutes.\"
+"Anyway, what was I saying? Oh yeah... you know, it's like when you're making a sauce...\"
+"...If you put in a new spice you could ruin everything!$s\"
+"...But then again, there's always a chance you'll create something new and delicious! Right? Hahahaha.$h\"
+"Er... What I'm trying to say is...$s#$b#It's been great having you in town, and I've come to think of you as one of my good friends!\"
+"Anyway, I came to give you something...#$b#I was cleaning out the back room and I found this old Mini-Jukebox. I want you to have it!\"
+"It's actually an old Do-It-Yourself project of mine, from many years ago. They're pretty easy to make!#$b#So, just in case you wanted to make more, I brought the blueprints for you...\"
+"Well, I'm gonna head home. I gotta get this marinara back on the stove! Have a good one!\"
+
+"Hi. I'll take your order in a few moments.\"
+"...$u\"
+"There you go, sir.$u\"
+
+"Oh, Hello there, buddy.^Hi, @.\"
+"*sigh*...I'm just looking over last month's earnings... and It's not looking very good, @.$s#$b#The worst thing... and I hate to say this because she's my friend... is Pam! She hasn't paid off her tab in weeks!$s#$b#...But I can't ask her to do it. I know she'll get defensive, and I don't want to hurt her feelings.$s\"
+"@, you gotta help me!$s\"
+"Er... Well, okay Pam.$s\"
+"Thanks, Pam!$h\"
+"And thank you, @.$u\"
+"Now, let's get you that drink, Pam.$h\"
+"Thanks for your help, @. This cash is going to be a big help to the saloon.\"
+
+"I'm having a lot of fun. And it's good for business!$h#$b#Though maybe not so good for Shane's liver...$s\"
+
+"Well, folks... once again, we're gathered for a very special occasion.\"
+"...A rare visit from a very dear friend...\"
+"...My world-famous giant omelet!$h#$b#Zesty bell pepper, juicy tomato, rich mushroom, and tangy cheese... all enrobed in a blanket of rich, fluffy egg. Dig in, folks.\"
+"Willy? What do you think?\"
+"Is that a good thing?$s\"
+"Nope... You can thank @ over at % Farm!\"
+
+"I'm all ears.\"
+"That sounds pretty good! I could use some quality veggies for the saloon. How much does it cost?\"
+"What was that?#$b#Hahaha... for a moment there, I thought I heard, '25,000g'.$h\"
+"Pierre, are you crazy? There's no way I could afford that. I'd have to sell the saloon!$3\"
+
+"Great stuff!\"
+
+"I still dream of that garlic butter.\"
+"Me too!\"
+
+"Wait.$u\"
+"I know what you were doing, Linus.$3\"
+"If you need food... just ask. I don't want anyone in Pelican Town to go hungry.\"
+"Here. I've got a basket of zucchini fritters for you. Just make sure you dip them in my spicy marinara!$h#$b#Go on... take it.\"
+
+"Nice!\"
