@@ -41,7 +41,7 @@ def readTextFiles(filepath):
         node = proc.parse_xml(xml_text=xml)
         xp.set_context(xdm_item=node)
 
-        xpath = xp.evaluate('//dialogue//@who ! normalize-space() => string-join()')
+        xpath = xp.evaluate('//context ! normalize-space() => string-join()')
         # 2023-03-31 ebb: I think the the line above is causing a problem: you're outputting your ALREADY KNOWN names of
         # persons, and they're coming out in one long compacted string. You don't really need to tag these names, since
         # you already have them. But are there OTHER kinds of data that might benefit from this tagging?

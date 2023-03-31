@@ -2,13 +2,19 @@
 html {
     scroll-behavior: smooth;
 }
-head{
+h1 {
+    font-family: StardewFont;
+}
+h2 {
+    font-family: StardewFont;
+}
+h3 {
     font-family: StardewFont;
 }
 body {
     display: block;
     /*  background-color: #F3F4F6;*/
-    background-image: url("image/mountainsBg.png");
+    background-image: url("images/mountainsBg.png");
     background-repeat: no-repeat;
     background-size: cover;
     /*  background-color: #cccccc;*/
@@ -20,6 +26,6 @@ body {
     margin: 0 1rem 0 1rem;
 }
 @font-face {
-  font-family: StardewFont;
-  src: url("fonts/Stardew_Valley.ttf");
+    font-family: StardewFont;
+    src: url("fonts/Stardew_Valley.ttf");
 }
