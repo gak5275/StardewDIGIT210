@@ -1,70 +1,70 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Rainy_Day_0:</context> <dialogue>"I hope Jas and Marnie are doing alright without me.#$e#I'm not too worried... Jas is old enough now to take care of the animals on her own."</dialogue> </p>
-<p><context>Rainy_Day_1:</context> <dialogue>"You know what? I think I've lost some weight since moving in with you.$6"</dialogue> </p>
-<p><context>Rainy_Day_2:</context> <dialogue>"Here... take this.[346 174 303 305 215]#$e#I bought some of those a while ago and they're almost expired..."</dialogue> </p>
-<p><context>Rainy_Day_3:</context> <dialogue>"Buhh... I don't feel like being productive today."</dialogue> </p>
-<p><context>Rainy_Day_4:</context> <dialogue>"@, should I do something useful today?... or just nap forever?"</dialogue> </p>
-<p><context>Rainy_Night_0:</context> <dialogue>"Hmm... seems like a good night to microwave a few pizza rolls.#$e#Some people like to cook them in the oven, but it just takes too long for me. Plus I like that squishy texture.$h"</dialogue> </p>
-<p><context>patio_Shane:</context> <dialogue>"Charlie's doing well.$8"</dialogue> </p>
-<p><context>Rainy_Night_1:</context> <dialogue>"The tip-tappa-tip of the rain takes me to a different time... a different place."</dialogue> </p>
-<p><context>Rainy_Night_2:</context> <dialogue>"I guess... if I had some pants I might've gone outside today... but, nah."</dialogue> </p>
-<p><context>Rainy_Night_3:</context> <dialogue>"I like gloomy weather, but I feel kinda bad for the hens."</dialogue> </p>
-<p><context>Rainy_Night_4:</context> <dialogue>"Tip-tappa-tip-tappa-tip... I'm starting to feel thirsty.$6"</dialogue> </p>
-<p><context>Indoor_Day_0:</context> <dialogue>"Buh... sometimes life feels like a slow, gray blur... know what I mean?"</dialogue> </p>
-<p><context>Indoor_Day_1:</context> <dialogue>"Hey. Take this... I put a bit too much in the microwave. [195 215 206]#$e#Sorry if it's squishy."</dialogue> </p>
-<p><context>Indoor_Day_2:</context> <dialogue>"Do me a favor... when I pass away, use my dust to fertilize some corn for the hens."</dialogue> </p>
-<p><context>Indoor_Day_3:</context> <dialogue>"*smooch*... Mmm, it tastes like someone's been nibbling on pizza rolls.$6"</dialogue> </p>
-<p><context>Indoor_Day_4:</context> <dialogue>"I may keep to myself a lot, and I may seem unhappy sometimes... but I do appreciate all the work you do. I'm a lucky guy.$6"</dialogue> </p>
-<p><context>Indoor_Night_0:</context> <dialogue>"I'm just gonna have a couple more beers before closing my eyes for the night."</dialogue> </p>
-<p><context>Indoor_Night_1:</context> <dialogue>"If... If only... ah, I was just thinking back on the glory days, when I played gridball on the varsity team.$6#$b#Now I'm old and weak, though..."</dialogue> </p>
-<p><context>Indoor_Night_2:</context> <dialogue>"Ughh... *gurgle*... I feel a little bloated... oof... too much Joja all-purpose dipping sauce."</dialogue> </p>
-<p><context>Indoor_Night_3:</context> <dialogue>"Buh... I wish I was six inches taller and a whole lot smarter...#$e#You like me for who I am? I still have a hard time understanding that..."</dialogue> </p>
-<p><context>Indoor_Night_4:</context> <dialogue>"I spent all day watching TV and now my legs feel like soft dough. Guess I'll have to take it easy until tomorrow."</dialogue> </p>
-<p><context>Outdoor_0:</context> <dialogue>"I didn't sleep well last night so I'm hoping this fresh air will get the juices flowing.#$e#What juices, you ask? Heh... you're weird.$h"</dialogue> </p>
-<p><context>Outdoor_1:</context> <dialogue>"Sometimes I stop and realize that I'm nothing more than a bag of juicy, squishy flesh.#$e#But hey... that's just fine... what's life, anyway?$h"</dialogue> </p>
-<p><context>Outdoor_2:</context> <dialogue>"When I stop and think about it... I'm in a good place. My life is pretty nice.$6"</dialogue> </p>
-<p><context>Outdoor_3:</context> <dialogue>"Ooohh... my tongue is swollen from eating too many pepper poppers.$s"</dialogue> </p>
-<p><context>Outdoor_4:</context> <dialogue>"Hey, @. You were sleeping like a baby so I slipped out of bed and went for a morning walk around the farm. Everything looks fine."</dialogue> </p>
-<p><context>OneKid_0:</context> <dialogue>"It's weird, when I was younger I swore I'd never have a kid. I wonder what happened to me?$6"</dialogue> </p>
-<p><context>OneKid_1:</context> <dialogue>"Let's make sure to give %kid1 lots of eggs... Baby's gotta grow those legs!"</dialogue> </p>
-<p><context>OneKid_3:</context> <dialogue>"Papa Shane reporting for duty...$6#$e#Buh... I've become corny in my old age."</dialogue> </p>
-<p><context>TwoKids_0:</context> <dialogue>"I already fed the kids two bowls of pizza puffs cereal. They'll be full for a while."</dialogue> </p>
-<p><context>TwoKids_1:</context> <dialogue>"I'll be honest... two kids is enough for me."</dialogue> </p>
-<p><context>TwoKids_2:</context> <dialogue>"Ugh... %kid2 is being a little brat today. Must've gotten that from me..."</dialogue> </p>
-<p><context>TwoKids_3:</context> <dialogue>"*Sigh*... If only we could send the kids off to Joja work-camp for a season...#$e#I'm just kidding.$h"</dialogue> </p>
-<p><context>Good_0:</context> <dialogue>"*Sniff*... *sniff*... mmm... what's that wonderful fragrance you're wearing? Eau de pepperoni?$6"</dialogue> </p>
-<p><context>Good_1:</context> <dialogue>"You're a lot better-looking than me, you know that?$h"</dialogue> </p>
-<p><context>Good_2:</context> <dialogue>"The name 'Shane' means 'Gift from Yoba'... What a joke."</dialogue> </p>
-<p><context>Good_3:</context> <dialogue>"I'm in a great mood today... The Tunnelers won big last night.$h"</dialogue> </p>
-<p><context>Good_4:</context> <dialogue>"Hey, if I ever seem cranky, just ignore it. I get in weird moods sometimes, but it's not about you... okay?"</dialogue> </p>
-<p><context>Good_5:</context> <dialogue>"Ah... life on the farm sure beats working at Joja. That place was disgusting.$h#$e#You think it was depressing out front? Kid, you should've seen the back room..."</dialogue> </p>
-<p><context>Good_6:</context> <dialogue>"Ah... this is the life. No responsibilities, Tunnelers game tonight, fridge stocked with all the goodies a guy could need.$h"</dialogue> </p>
-<p><context>Good_8:</context> <dialogue>"I don't really feel like doing work today. Maybe I'll see what's on TV."</dialogue> </p>
-<p><context>Good_9:</context> <dialogue>"Huh... You're wondering why I have this goofy grin on my face? You really have a short memory span, don't you? *blush*$h"</dialogue> </p>
-<p><context>Neutral_0:</context> <dialogue>"Oh, do you need something from me? Sorry, I'm kind of busy at the moment."</dialogue> </p>
-<p><context>Neutral_2:</context> <dialogue>"Why don't you tell me about your day when we're in bed tonight? I'm kind of busy right now..."</dialogue> </p>
-<p><context>Neutral_3:</context> <dialogue>"Working at Joja was a drag, but at least I got to interact with people occasionally."</dialogue> </p>
-<p><context>Neutral_4:</context> <dialogue>"What, you want me to clean the dishes? I'll do it... eventually..."</dialogue> </p>
-<p><context>Neutral_5:</context> <dialogue>"Are we doing okay on money? I don't want to have to go back to work at Joja."</dialogue> </p>
-<p><context>Neutral_6:</context> <dialogue>"If you need to go see your friends in town, go ahead. I'm happy in the company of the TV and a couple of tall boys."</dialogue> </p>
-<p><context>Neutral_8:</context> <dialogue>"Ugh... clean, clean, clean. Sweep, sweep, sweep. Bathe. Cook. Make the bed... Oh, well. Life's alright."</dialogue> </p>
-<p><context>Bad_5:</context> <dialogue>"Look, I just want to be alone. Why don't you go outside and do your own thing for a while?"</dialogue> </p>
-<p><context>Bad_6:</context> <dialogue>"What do you want? You sound like Marnie on one of her bad days. Go away.$a"</dialogue> </p>
-<p><context>Bad_7:</context> <dialogue>"Farm-life is actually really boring. What am I doing here?$s"</dialogue> </p>
-<p><context>Bad_8:</context> <dialogue>"Yeah... *hic* ... Sure, honey. Whatever you say... *hic*"</dialogue> </p>
-<p><context>funLeave_Shane:</context> <dialogue>"I'm going to go out today, alright?"</dialogue> </p>
-<p><context>funReturn_Shane:</context> <dialogue>"Sorry if I'm sweaty... That was quite a walk... Buh, I'm out of shape.$6"</dialogue> </p>
-<p><context><date season="spring">spring_1:</date></context> <dialogue>"Ooo... my throbbing head. How many did I have last night?"</dialogue> </p>
-<p><context><date season="spring">spring_12:</date></context> <dialogue>"The egg festival is probably my favorite... you know how I am, I go crazy for anything to do with chickens.$h"</dialogue> </p>
-<p><context><date season="spring">spring_23:</date></context> <dialogue>"Oh, right. It's the flower dance tomorrow. Hey, if it makes you happy, I'm happy."</dialogue> </p>
-<p><context><date season="summer">summer_1:</date></context> <dialogue>"I like seeing all the tropical plants this time of year. The valley gets so lush."</dialogue> </p>
-<p><context><date season="summer">summer_10:</date></context> <dialogue>"I might fast until the luau tomorrow. I need the ol' bag to be empty so I can fill it with piping hot soup.$h"</dialogue> </p>
-<p><context><date season="summer">summer_27:</date></context> <dialogue>"What are your plans for the fall? I'm going to try and incorporate more wine into my diet."</dialogue> </p>
-<p><context><date season="fall">fall_1:</date></context> <dialogue>"Hmm... I might have to buy a few cases of pumpkin ale to celebrate the season...$6"</dialogue> </p>
-<p><context><date season="fall">fall_15:</date></context> <dialogue>"I'll be helping Marnie with the animals at tomorrow's fair, like usual. You should just kick back and have some fun.$6"</dialogue> </p>
-<p><context><date season="fall">fall_17:</date></context> <dialogue>"I'm starting to really feel my age... and I'm not comfortable with that at all."</dialogue> </p>
-<p><context><date season="winter">winter_1:</date></context> <dialogue>"Any big plans this winter? I'll probably end up watching a lot of TV and just hanging out around the house."</dialogue> </p>
-<p><context><date season="winter">winter_28:</date></context> <dialogue>"Well, another year gone by... I look a little older, but that's about all.$6"</dialogue> </p>
+<p><context>Rainy_Day_0:</context> <dialogue who="Shane">"I hope Jas and Marnie are doing alright without me.#$e#I'm not too worried... Jas is old enough now to take care of the animals on her own."</dialogue> </p>
+<p><context>Rainy_Day_1:</context> <dialogue who="Shane">"You know what? I think I've lost some weight since moving in with you.$6"</dialogue> </p>
+<p><context>Rainy_Day_2:</context> <dialogue who="Shane">"Here... take this.[346 174 303 305 215]#$e#I bought some of those a while ago and they're almost expired..."</dialogue> </p>
+<p><context>Rainy_Day_3:</context> <dialogue who="Shane">"Buhh... I don't feel like being productive today."</dialogue> </p>
+<p><context>Rainy_Day_4:</context> <dialogue who="Shane">"@, should I do something useful today?... or just nap forever?"</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue who="Shane">"Hmm... seems like a good night to microwave a few pizza rolls.#$e#Some people like to cook them in the oven, but it just takes too long for me. Plus I like that squishy texture.$h"</dialogue> </p>
+<p><context>patio_Shane:</context> <dialogue who="Shane">"Charlie's doing well.$8"</dialogue> </p>
+<p><context>Rainy_Night_1:</context> <dialogue who="Shane">"The tip-tappa-tip of the rain takes me to a different time... a different place."</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue who="Shane">"I guess... if I had some pants I might've gone outside today... but, nah."</dialogue> </p>
+<p><context>Rainy_Night_3:</context> <dialogue who="Shane">"I like gloomy weather, but I feel kinda bad for the hens."</dialogue> </p>
+<p><context>Rainy_Night_4:</context> <dialogue who="Shane">"Tip-tappa-tip-tappa-tip... I'm starting to feel thirsty.$6"</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue who="Shane">"Buh... sometimes life feels like a slow, gray blur... know what I mean?"</dialogue> </p>
+<p><context>Indoor_Day_1:</context> <dialogue who="Shane">"Hey. Take this... I put a bit too much in the microwave. [195 215 206]#$e#Sorry if it's squishy."</dialogue> </p>
+<p><context>Indoor_Day_2:</context> <dialogue who="Shane">"Do me a favor... when I pass away, use my dust to fertilize some corn for the hens."</dialogue> </p>
+<p><context>Indoor_Day_3:</context> <dialogue who="Shane">"*smooch*... Mmm, it tastes like someone's been nibbling on pizza rolls.$6"</dialogue> </p>
+<p><context>Indoor_Day_4:</context> <dialogue who="Shane">"I may keep to myself a lot, and I may seem unhappy sometimes... but I do appreciate all the work you do. I'm a lucky guy.$6"</dialogue> </p>
+<p><context>Indoor_Night_0:</context> <dialogue who="Shane">"I'm just gonna have a couple more beers before closing my eyes for the night."</dialogue> </p>
+<p><context>Indoor_Night_1:</context> <dialogue who="Shane">"If... If only... ah, I was just thinking back on the glory days, when I played gridball on the varsity team.$6#$b#Now I'm old and weak, though..."</dialogue> </p>
+<p><context>Indoor_Night_2:</context> <dialogue who="Shane">"Ughh... *gurgle*... I feel a little bloated... oof... too much Joja all-purpose dipping sauce."</dialogue> </p>
+<p><context>Indoor_Night_3:</context> <dialogue who="Shane">"Buh... I wish I was six inches taller and a whole lot smarter...#$e#You like me for who I am? I still have a hard time understanding that..."</dialogue> </p>
+<p><context>Indoor_Night_4:</context> <dialogue who="Shane">"I spent all day watching TV and now my legs feel like soft dough. Guess I'll have to take it easy until tomorrow."</dialogue> </p>
+<p><context>Outdoor_0:</context> <dialogue who="Shane">"I didn't sleep well last night so I'm hoping this fresh air will get the juices flowing.#$e#What juices, you ask? Heh... you're weird.$h"</dialogue> </p>
+<p><context>Outdoor_1:</context> <dialogue who="Shane">"Sometimes I stop and realize that I'm nothing more than a bag of juicy, squishy flesh.#$e#But hey... that's just fine... what's life, anyway?$h"</dialogue> </p>
+<p><context>Outdoor_2:</context> <dialogue who="Shane">"When I stop and think about it... I'm in a good place. My life is pretty nice.$6"</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue who="Shane">"Ooohh... my tongue is swollen from eating too many pepper poppers.$s"</dialogue> </p>
+<p><context>Outdoor_4:</context> <dialogue who="Shane">"Hey, @. You were sleeping like a baby so I slipped out of bed and went for a morning walk around the farm. Everything looks fine."</dialogue> </p>
+<p><context>OneKid_0:</context> <dialogue who="Shane">"It's weird, when I was younger I swore I'd never have a kid. I wonder what happened to me?$6"</dialogue> </p>
+<p><context>OneKid_1:</context> <dialogue who="Shane">"Let's make sure to give %kid1 lots of eggs... Baby's gotta grow those legs!"</dialogue> </p>
+<p><context>OneKid_3:</context> <dialogue who="Shane">"Papa Shane reporting for duty...$6#$e#Buh... I've become corny in my old age."</dialogue> </p>
+<p><context>TwoKids_0:</context> <dialogue who="Shane">"I already fed the kids two bowls of pizza puffs cereal. They'll be full for a while."</dialogue> </p>
+<p><context>TwoKids_1:</context> <dialogue who="Shane">"I'll be honest... two kids is enough for me."</dialogue> </p>
+<p><context>TwoKids_2:</context> <dialogue who="Shane">"Ugh... %kid2 is being a little brat today. Must've gotten that from me..."</dialogue> </p>
+<p><context>TwoKids_3:</context> <dialogue who="Shane">"*Sigh*... If only we could send the kids off to Joja work-camp for a season...#$e#I'm just kidding.$h"</dialogue> </p>
+<p><context>Good_0:</context> <dialogue who="Shane">"*Sniff*... *sniff*... mmm... what's that wonderful fragrance you're wearing? Eau de pepperoni?$6"</dialogue> </p>
+<p><context>Good_1:</context> <dialogue who="Shane">"You're a lot better-looking than me, you know that?$h"</dialogue> </p>
+<p><context>Good_2:</context> <dialogue who="Shane">"The name 'Shane' means 'Gift from Yoba'... What a joke."</dialogue> </p>
+<p><context>Good_3:</context> <dialogue who="Shane">"I'm in a great mood today... The Tunnelers won big last night.$h"</dialogue> </p>
+<p><context>Good_4:</context> <dialogue who="Shane">"Hey, if I ever seem cranky, just ignore it. I get in weird moods sometimes, but it's not about you... okay?"</dialogue> </p>
+<p><context>Good_5:</context> <dialogue who="Shane">"Ah... life on the farm sure beats working at Joja. That place was disgusting.$h#$e#You think it was depressing out front? Kid, you should've seen the back room..."</dialogue> </p>
+<p><context>Good_6:</context> <dialogue who="Shane">"Ah... this is the life. No responsibilities, Tunnelers game tonight, fridge stocked with all the goodies a guy could need.$h"</dialogue> </p>
+<p><context>Good_8:</context> <dialogue who="Shane">"I don't really feel like doing work today. Maybe I'll see what's on TV."</dialogue> </p>
+<p><context>Good_9:</context> <dialogue who="Shane">"Huh... You're wondering why I have this goofy grin on my face? You really have a short memory span, don't you? *blush*$h"</dialogue> </p>
+<p><context>Neutral_0:</context> <dialogue who="Shane">"Oh, do you need something from me? Sorry, I'm kind of busy at the moment."</dialogue> </p>
+<p><context>Neutral_2:</context> <dialogue who="Shane">"Why don't you tell me about your day when we're in bed tonight? I'm kind of busy right now..."</dialogue> </p>
+<p><context>Neutral_3:</context> <dialogue who="Shane">"Working at Joja was a drag, but at least I got to interact with people occasionally."</dialogue> </p>
+<p><context>Neutral_4:</context> <dialogue who="Shane">"What, you want me to clean the dishes? I'll do it... eventually..."</dialogue> </p>
+<p><context>Neutral_5:</context> <dialogue who="Shane">"Are we doing okay on money? I don't want to have to go back to work at Joja."</dialogue> </p>
+<p><context>Neutral_6:</context> <dialogue who="Shane">"If you need to go see your friends in town, go ahead. I'm happy in the company of the TV and a couple of tall boys."</dialogue> </p>
+<p><context>Neutral_8:</context> <dialogue who="Shane">"Ugh... clean, clean, clean. Sweep, sweep, sweep. Bathe. Cook. Make the bed... Oh, well. Life's alright."</dialogue> </p>
+<p><context>Bad_5:</context> <dialogue who="Shane">"Look, I just want to be alone. Why don't you go outside and do your own thing for a while?"</dialogue> </p>
+<p><context>Bad_6:</context> <dialogue who="Shane">"What do you want? You sound like Marnie on one of her bad days. Go away.$a"</dialogue> </p>
+<p><context>Bad_7:</context> <dialogue who="Shane">"Farm-life is actually really boring. What am I doing here?$s"</dialogue> </p>
+<p><context>Bad_8:</context> <dialogue who="Shane">"Yeah... *hic* ... Sure, honey. Whatever you say... *hic*"</dialogue> </p>
+<p><context>funLeave_Shane:</context> <dialogue who="Shane">"I'm going to go out today, alright?"</dialogue> </p>
+<p><context>funReturn_Shane:</context> <dialogue who="Shane">"Sorry if I'm sweaty... That was quite a walk... Buh, I'm out of shape.$6"</dialogue> </p>
+<p><context><date season="spring">spring_1:</date></context> <dialogue who="Shane">"Ooo... my throbbing head. How many did I have last night?"</dialogue> </p>
+<p><context><date season="spring">spring_12:</date></context> <dialogue who="Shane">"The egg festival is probably my favorite... you know how I am, I go crazy for anything to do with chickens.$h"</dialogue> </p>
+<p><context><date season="spring">spring_23:</date></context> <dialogue who="Shane">"Oh, right. It's the flower dance tomorrow. Hey, if it makes you happy, I'm happy."</dialogue> </p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue who="Shane">"I like seeing all the tropical plants this time of year. The valley gets so lush."</dialogue> </p>
+<p><context><date season="summer">summer_10:</date></context> <dialogue who="Shane">"I might fast until the luau tomorrow. I need the ol' bag to be empty so I can fill it with piping hot soup.$h"</dialogue> </p>
+<p><context><date season="summer">summer_27:</date></context> <dialogue who="Shane">"What are your plans for the fall? I'm going to try and incorporate more wine into my diet."</dialogue> </p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue who="Shane">"Hmm... I might have to buy a few cases of pumpkin ale to celebrate the season...$6"</dialogue> </p>
+<p><context><date season="fall">fall_15:</date></context> <dialogue who="Shane">"I'll be helping Marnie with the animals at tomorrow's fair, like usual. You should just kick back and have some fun.$6"</dialogue> </p>
+<p><context><date season="fall">fall_17:</date></context> <dialogue who="Shane">"I'm starting to really feel my age... and I'm not comfortable with that at all."</dialogue> </p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue who="Shane">"Any big plans this winter? I'll probably end up watching a lot of TV and just hanging out around the house."</dialogue> </p>
+<p><context><date season="winter">winter_28:</date></context> <dialogue who="Shane">"Well, another year gone by... I look a little older, but that's about all.$6"</dialogue> </p>
 </xml>

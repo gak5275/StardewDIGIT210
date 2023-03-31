@@ -1,24 +1,24 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"Oh, a stranger! My name's Vincent.#$b#Momma says not to talk to strangers... But you seem okay."</dialogue> </p>
-<p><context>Resort_Entering:</context> <dialogue>"That was fun! I wanna be a boat captain some day!"</dialogue> </p>
-<p><context>Resort_Leaving:</context> <dialogue>"I wanna come back soon!"</dialogue> </p>
-<p><context>Resort_Shore:</context> <dialogue>"I wanna see a shark!$h"</dialogue> </p>
-<p><context>Resort:</context> <dialogue>"If you look close, you can see little bugs jumping out of the sand.$h"</dialogue> </p>
-<p><context>reject_869:</context> <dialogue>"Oooh! Nice find!#$b#Mom wouldn't let me keep him, though...$s"</dialogue> </p>
-<p><context>Mon:</context> <dialogue>"I wanna be just like my big brother when I grow up!$h#$e#Okay! Bye!"</dialogue> </p>
-<p><context>Mon4:</context> <dialogue>"$d kent#I'm glad Dad's back... but he's different than I remember...$s|Dad's not around much... I miss playing with him.$s"</dialogue> </p>
-<p><context>Tue:</context> <dialogue>"*sigh*... Mom won't let me have any more gummies today.$s"</dialogue> </p>
-<p><context>Tue6:</context> <dialogue>"Can you keep a secret, mister?^Can you keep a secret, miss?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u"</dialogue> </p>
-<p><context>Wed:</context> <dialogue>"I wanna look for bugs, but Mom gets mad when I'm all dirty.$u#$b#It's a tough choice."</dialogue> </p>
-<p><context>Thu:</context> <dialogue>"I'm hungry... where's Mom?$s"</dialogue> </p>
-<p><context>Thu2:</context> <dialogue>"You're not as boring as most grown-ups!"</dialogue> </p>
-<p><context>Fri:</context> <dialogue>"#$c .3#Ew, it's boiled beet night again...$s#$e#Oh no... Mom's making lentil soup tonight.$s"</dialogue> </p>
-<p><context>Sat_1:</context> <dialogue>"Dad's coming back soon!#$b#I hope he brings me some toys.$u"</dialogue> </p>
-<p><context>Sat:</context> <dialogue>"Miss Penny makes me read a new book every week.$s#$b#At least she lets me pick them, sometimes!"</dialogue> </p>
-<p><context>Sat8:</context> <dialogue>"$d kent#Dad seems weird since he came back. I wonder what happened to him?$s#$b#He doesn't play with me anymore.$s|I wonder if Dad will ever come home...$s"</dialogue> </p>
-<p><context>Sun:</context> <dialogue>"Hi there, mister!^Hi there, miss."</dialogue> </p>
-<p><context>Sun10:</context> <dialogue>"Hi Uncle @!^Hi Auntie @!#$e#Don't tell Mom... but you're my favorite grown-up.$h"</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Vincent">"Oh, a stranger! My name's Vincent.#$b#Momma says not to talk to strangers... But you seem okay."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Vincent">"That was fun! I wanna be a boat captain some day!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Vincent">"I wanna come back soon!"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Vincent">"I wanna see a shark!$h"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Vincent">"If you look close, you can see little bugs jumping out of the sand.$h"</dialogue> </p>
+<p><context>reject_869:</context> <dialogue who="Vincent">"Oooh! Nice find!#$b#Mom wouldn't let me keep him, though...$s"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Vincent">"I wanna be just like my big brother when I grow up!$h#$e#Okay! Bye!"</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Vincent">"$d kent#I'm glad Dad's back... but he's different than I remember...$s|Dad's not around much... I miss playing with him.$s"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Vincent">"*sigh*... Mom won't let me have any more gummies today.$s"</dialogue> </p>
+<p><context>Tue6:</context> <dialogue who="Vincent">"Can you keep a secret, mister?^Can you keep a secret, miss?$u#$b#I wanna marry Miss Penny when I grow up.#$e#Just don't tell her, okay?$u"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Vincent">"I wanna look for bugs, but Mom gets mad when I'm all dirty.$u#$b#It's a tough choice."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Vincent">"I'm hungry... where's Mom?$s"</dialogue> </p>
+<p><context>Thu2:</context> <dialogue who="Vincent">"You're not as boring as most grown-ups!"</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Vincent">"#$c .3#Ew, it's boiled beet night again...$s#$e#Oh no... Mom's making lentil soup tonight.$s"</dialogue> </p>
+<p><context>Sat_1:</context> <dialogue who="Vincent">"Dad's coming back soon!#$b#I hope he brings me some toys.$u"</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Vincent">"Miss Penny makes me read a new book every week.$s#$b#At least she lets me pick them, sometimes!"</dialogue> </p>
+<p><context>Sat8:</context> <dialogue who="Vincent">"$d kent#Dad seems weird since he came back. I wonder what happened to him?$s#$b#He doesn't play with me anymore.$s|I wonder if Dad will ever come home...$s"</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Vincent">"Hi there, mister!^Hi there, miss."</dialogue> </p>
+<p><context>Sun10:</context> <dialogue who="Vincent">"Hi Uncle @!^Hi Auntie @!#$e#Don't tell Mom... but you're my favorite grown-up.$h"</dialogue> </p>
 
 </xml>

@@ -1,66 +1,66 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine."</dialogue> </p>
-<p><context>Resort_Shore:</context> <dialogue>"Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!"</dialogue> </p>
-<p><context>Resort:</context> <dialogue>"Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!"</dialogue> </p>
-<p><context>Resort_Chair:</context> <dialogue>"Now this is comfort! I might even take my shoes off!$h#$e#Better not look too closely at my feet, kid."</dialogue> </p>
-<p><context>Resort_Bar:</context> <dialogue>"It's a special occasion, kid... I'm ordering something unique. Make it a double!$h"</dialogue> </p>
-<p><context>reject_867:</context> <dialogue>"Wow, would you look at that... It's like something out of the future.#$b#Hehe, sorry kid... I can't use that. There's more buttons than I have brain cells!$h"</dialogue> </p>
-<p><context>pamHouseUpgrade:</context> <dialogue>"I can't believe you bought me a house! Is there any catch?#$e#Sorry, I'm not used to people being so nice...$s"</dialogue> </p>
-<p><context>pamHouseUpgradeAnonymous:</context> <dialogue>"I can't believe someone bought me a house! I wonder if it's some kind of scam?#$e#Sorry, I'm not used to people being so nice...$s"</dialogue> </p>
-<p><context>MovieInvitation:</context> <dialogue>"Date night with ol' Pam, huh? Hah!$h^Ladies night with ol' Pam, huh? Hah!$h#$b#Sure thing, kid... I'll see you there."</dialogue> </p>
-<p><context>cc_Bus:</context> <dialogue>"Hey, did you hear about the ol' bus?#$b#Yep... I'm back on the saddle, kid... hehe. Feels nice.$h"</dialogue> </p>
-<p><context>Mon:</context> <dialogue>"#$1 PamDrank#urghh... my head...$k#$e#You know, I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?"</dialogue> </p>
-<p><context>Saloon:</context> <dialogue>"Nothin' like a sip o' the good stuff to warm these old bones...$h"</dialogue> </p>
-<p><context>Saloon_Entry:</context> <dialogue>"Ah... Finally./I need a drink./Gus! Gimme the usual./Hey, I'm back!/Ooh boy, am I thirsty!/I'm parched!"</dialogue> </p>
-<p><context>Trailer_Entry:</context> <dialogue>"Penny! Did you make dinner?/Penny! You done your chores?/Penny! You home?/Hey! I'm home!"</dialogue> </p>
-<p><context>Saloon6:</context> <dialogue>"Hey, kid. I'd buy you a drink if I could afford it!"</dialogue> </p>
-<p><context>Saloon_Tue:</context> <dialogue>"Hey Gus! Gimme another round! *hic*$h"</dialogue> </p>
-<p><context>Saloon_Wed:</context> <dialogue>"*Sigh*... Hey, kid. You're too young to be moping around in a place like this."</dialogue> </p>
-<p><context>Saloon_Thu:</context> <dialogue>"*gulp* ... I've been looking forward to this beverage all afternoon. Heh heh."</dialogue> </p>
-<p><context>Saloon_Fri:</context> <dialogue>"Oi, Gus! Gimme another pint of your strongest!"</dialogue> </p>
-<p><context>Saloon_Sat:</context> <dialogue>"%Pam isn't responding."</dialogue> </p>
-<p><context>Saloon_Sun:</context> <dialogue>"%Pam seems out of it. Better leave her alone right now."</dialogue> </p>
-<p><context>Tue:</context> <dialogue>"Hey, you! Don't be snoopin' around the trailer when I'm out. Got it?$u#$e#Sorry, but I gotta be cautious with strangers."</dialogue> </p>
-<p><context>Tue2:</context> <dialogue>"I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid.#$e#Keep your head screwed on right and you'll make it through in one piece...#$b#That's what my Pappy always used to say. Heh heh heh.$h"</dialogue> </p>
-<p><context>Wed:</context> <dialogue>"$d bus#You don't know how glad I am that the bus is up and running! I feel alive again.|Times have been tough lately. I got laid off of my job as a bus driver. If I got that job back I could drive you to Calico Desert."</dialogue> </p>
-<p><context>Thu:</context> <dialogue>"#$1 PamDrunk#Blahh... I had one too many caramel porters at the saloon last night... Go away.$k#$e#My house ain't pretty but at least it's by the river.#$e#Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?"</dialogue> </p>
-<p><context>Thu4:</context> <dialogue>"Penny says I spend too much time at the saloon...$s"</dialogue> </p>
-<p><context>Thu4_inlaw_Penny:</context> <dialogue>"It's awful lonely at home all by myself..."</dialogue> </p>
-<p><context>Fri2:</context> <dialogue>"You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.#$e#You got any ideas?#$e#...Ehh. Maybe I'll play checkers against myself."</dialogue> </p>
-<p><context>Fri:</context> <dialogue>"Each day's just the same as the last...$s#$b#If only I'd been born rich...$s"</dialogue> </p>
-<p><context>Sat:</context> <dialogue>"Make sure your boots are clean before you go stompin' around in my house.$u#$e#It's annoying to clean a mess. You should know that by now."</dialogue> </p>
-<p><context>Sat4:</context> <dialogue>"I wish a team of elves would come during the night and tidy up my house. Hahahaha.$h#$e#I could sure go for some parsnips.#$e#If my legs weren't so stiff I'd visit the mountains every now and then."</dialogue> </p>
-<p><context>Sun:</context> <dialogue>"Are you friends with Gus? He's a pretty good guy.#$e#He even gives me free beer on my birthday."</dialogue> </p>
-<p><context>event_credit1:</context> <dialogue>"Hey, watch your mouth! No one tells me what to do!$u"</dialogue> </p>
-<p><context>event_credit2:</context> <dialogue>"...it isn't? That's terrible!$s#$b#...Oh.$s"</dialogue> </p>
-<p><context>summer_Tue:</context> <dialogue>"Hi, stranger."</dialogue> </p>
-<p><context>summer_Tue2:</context> <dialogue>"Oh, it's Mr. @.^Oh it's Miss @.#$e#Do you need my help or something?"</dialogue> </p>
-<p><context>summer_Tue6:</context> <dialogue>"I had hopes and dreams like you, once... But look at me now.$s#$e#Life doesn't always turn out like you expect.#$e#Ah well. There's no sense dwellin' on what you don't have."</dialogue> </p>
-<p><context>summer_Wed:</context> <dialogue>"Havin' a local farm is good for our town."</dialogue> </p>
-<p><context>summer_Wed4:</context> <dialogue>"Maybe if you do real well on your farm it'll boost the local economy.#$e#Then everyone will have a job and we'll all be happy, right?"</dialogue> </p>
-<p><context>summer_Thu:</context> <dialogue>"Oh, hi there, farmer.#$e#I don't often chit-chat with strangers."</dialogue> </p>
-<p><context>summer_Thu4:</context> <dialogue>"I always seem to end up at the saloon at some point.#$e#It's too close to my house. It ain't healthy."</dialogue> </p>
-<p><context>summer_Fri:</context> <dialogue>"...Yeah?#$e#You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What're you wastin' your time talkin' to someone like me for?"</dialogue> </p>
-<p><context>summer_Sat2:</context> <dialogue>"Don't mind that ol' dog next to the house.#$b#He might look at you cross, but he'll never get up from that box in a hunderd years.#$b#The old boy's name? It's Dusty."</dialogue> </p>
-<p><context>summer_Sat:</context> <dialogue>"Someone's been complainin' about my yard... sayin' it's a mess. Was it you?$u#$e#Hmmm..."</dialogue> </p>
-<p><context>fall_Tue:</context> <dialogue>"If I knew you better, I'd be more inclined to chat."</dialogue> </p>
-<p><context>fall_Tue4:</context> <dialogue>"I used to be young, once. Hard to believe, huh?#$e#Time sure goes fast when you grow up.$s"</dialogue> </p>
-<p><context>fall_Wed:</context> <dialogue>"*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.$s"</dialogue> </p>
-<p><context>fall_Thu:</context> <dialogue>"Penny's the only one I've got, so you best treat her kindly."</dialogue> </p>
-<p><context>fall_Fri:</context> <dialogue>"Every day is the same old routine...$s#$e#Do you ever have that problem, farmer?"</dialogue> </p>
-<p><context>fall_Sat:</context> <dialogue>"Would you do me a kindness and clean up my house?#$e#Just kidding.$h"</dialogue> </p>
-<p><context>fall_Sun:</context> <dialogue>"Don't you have work to do?#$e#You should be thankful that you have a job rather than moping around town all the time."</dialogue> </p>
-<p><context>fall_Sun4:</context> <dialogue>"I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio.#$e#Times sure do change."</dialogue> </p>
-<p><context>winter_Mon:</context> <dialogue>"You got any hogs on that farm?"</dialogue> </p>
-<p><context>winter_Tue:</context> <dialogue>"Do you want somethin' from me, kid? Best look somewhere else."</dialogue> </p>
-<p><context>winter_Tue4:</context> <dialogue>"I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My skin feels like old parchment."</dialogue> </p>
-<p><context>winter_Tue4_inlaw_Penny:</context> <dialogue>"Hey. You better be treatin' Penny right on that old farm of yours. She's the only one I got!"</dialogue> </p>
-<p><context>winter_Wed:</context> <dialogue>"Hey kid. What're you up to?#$e#I'm just passin' time, same as always."</dialogue> </p>
-<p><context>winter_Thu:</context> <dialogue>"It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh.#$e#Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?"</dialogue> </p>
-<p><context>winter_Fri:</context> <dialogue>"Penny sure does like old books. I think she's a heck of a lot smarter than I ever was.#$e#I'm glad."</dialogue> </p>
-<p><context>winter_Sat:</context> <dialogue>"I oughta take up fishin', seein' as how close the river is."</dialogue> </p>
-<p><context>winter_Sun:</context> <dialogue>"Blah... my front yard's a mess.$s"</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Pam">"Hey, kid. The name's Pam.#$e#Don't be a jerk and we'll get along fine."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Pam">"Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Pam">"Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!"</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue who="Pam">"Now this is comfort! I might even take my shoes off!$h#$e#Better not look too closely at my feet, kid."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Pam">"It's a special occasion, kid... I'm ordering something unique. Make it a double!$h"</dialogue> </p>
+<p><context>reject_867:</context> <dialogue who="Pam">"Wow, would you look at that... It's like something out of the future.#$b#Hehe, sorry kid... I can't use that. There's more buttons than I have brain cells!$h"</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue who="Pam">"I can't believe you bought me a house! Is there any catch?#$e#Sorry, I'm not used to people being so nice...$s"</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue who="Pam">"I can't believe someone bought me a house! I wonder if it's some kind of scam?#$e#Sorry, I'm not used to people being so nice...$s"</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue who="Pam">"Date night with ol' Pam, huh? Hah!$h^Ladies night with ol' Pam, huh? Hah!$h#$b#Sure thing, kid... I'll see you there."</dialogue> </p>
+<p><context>cc_Bus:</context> <dialogue who="Pam">"Hey, did you hear about the ol' bus?#$b#Yep... I'm back on the saddle, kid... hehe. Feels nice.$h"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Pam">"#$1 PamDrank#urghh... my head...$k#$e#You know, I'd eat healthier food if I could afford it.#$e#Hey, you probably have a lot of tasty grub growin' on your farm, hm?"</dialogue> </p>
+<p><context>Saloon:</context> <dialogue who="Pam">"Nothin' like a sip o' the good stuff to warm these old bones...$h"</dialogue> </p>
+<p><context>Saloon_Entry:</context> <dialogue who="Pam">"Ah... Finally./I need a drink./Gus! Gimme the usual./Hey, I'm back!/Ooh boy, am I thirsty!/I'm parched!"</dialogue> </p>
+<p><context>Trailer_Entry:</context> <dialogue who="Pam">"Penny! Did you make dinner?/Penny! You done your chores?/Penny! You home?/Hey! I'm home!"</dialogue> </p>
+<p><context>Saloon6:</context> <dialogue who="Pam">"Hey, kid. I'd buy you a drink if I could afford it!"</dialogue> </p>
+<p><context>Saloon_Tue:</context> <dialogue who="Pam">"Hey Gus! Gimme another round! *hic*$h"</dialogue> </p>
+<p><context>Saloon_Wed:</context> <dialogue who="Pam">"*Sigh*... Hey, kid. You're too young to be moping around in a place like this."</dialogue> </p>
+<p><context>Saloon_Thu:</context> <dialogue who="Pam">"*gulp* ... I've been looking forward to this beverage all afternoon. Heh heh."</dialogue> </p>
+<p><context>Saloon_Fri:</context> <dialogue who="Pam">"Oi, Gus! Gimme another pint of your strongest!"</dialogue> </p>
+<p><context>Saloon_Sat:</context> <dialogue who="Pam">"%Pam isn't responding."</dialogue> </p>
+<p><context>Saloon_Sun:</context> <dialogue who="Pam">"%Pam seems out of it. Better leave her alone right now."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Pam">"Hey, you! Don't be snoopin' around the trailer when I'm out. Got it?$u#$e#Sorry, but I gotta be cautious with strangers."</dialogue> </p>
+<p><context>Tue2:</context> <dialogue who="Pam">"I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid.#$e#Keep your head screwed on right and you'll make it through in one piece...#$b#That's what my Pappy always used to say. Heh heh heh.$h"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Pam">"$d bus#You don't know how glad I am that the bus is up and running! I feel alive again.|Times have been tough lately. I got laid off of my job as a bus driver. If I got that job back I could drive you to Calico Desert."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Pam">"#$1 PamDrunk#Blahh... I had one too many caramel porters at the saloon last night... Go away.$k#$e#My house ain't pretty but at least it's by the river.#$e#Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?"</dialogue> </p>
+<p><context>Thu4:</context> <dialogue who="Pam">"Penny says I spend too much time at the saloon...$s"</dialogue> </p>
+<p><context>Thu4_inlaw_Penny:</context> <dialogue who="Pam">"It's awful lonely at home all by myself..."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue who="Pam">"You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.#$e#You got any ideas?#$e#...Ehh. Maybe I'll play checkers against myself."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Pam">"Each day's just the same as the last...$s#$b#If only I'd been born rich...$s"</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Pam">"Make sure your boots are clean before you go stompin' around in my house.$u#$e#It's annoying to clean a mess. You should know that by now."</dialogue> </p>
+<p><context>Sat4:</context> <dialogue who="Pam">"I wish a team of elves would come during the night and tidy up my house. Hahahaha.$h#$e#I could sure go for some parsnips.#$e#If my legs weren't so stiff I'd visit the mountains every now and then."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Pam">"Are you friends with Gus? He's a pretty good guy.#$e#He even gives me free beer on my birthday."</dialogue> </p>
+<p><context>event_credit1:</context> <dialogue who="Pam">"Hey, watch your mouth! No one tells me what to do!$u"</dialogue> </p>
+<p><context>event_credit2:</context> <dialogue who="Pam">"...it isn't? That's terrible!$s#$b#...Oh.$s"</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue who="Pam">"Hi, stranger."</dialogue> </p>
+<p><context>summer_Tue2:</context> <dialogue who="Pam">"Oh, it's Mr. @.^Oh it's Miss @.#$e#Do you need my help or something?"</dialogue> </p>
+<p><context>summer_Tue6:</context> <dialogue who="Pam">"I had hopes and dreams like you, once... But look at me now.$s#$e#Life doesn't always turn out like you expect.#$e#Ah well. There's no sense dwellin' on what you don't have."</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue who="Pam">"Havin' a local farm is good for our town."</dialogue> </p>
+<p><context>summer_Wed4:</context> <dialogue who="Pam">"Maybe if you do real well on your farm it'll boost the local economy.#$e#Then everyone will have a job and we'll all be happy, right?"</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue who="Pam">"Oh, hi there, farmer.#$e#I don't often chit-chat with strangers."</dialogue> </p>
+<p><context>summer_Thu4:</context> <dialogue who="Pam">"I always seem to end up at the saloon at some point.#$e#It's too close to my house. It ain't healthy."</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue who="Pam">"...Yeah?#$e#You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What're you wastin' your time talkin' to someone like me for?"</dialogue> </p>
+<p><context>summer_Sat2:</context> <dialogue who="Pam">"Don't mind that ol' dog next to the house.#$b#He might look at you cross, but he'll never get up from that box in a hunderd years.#$b#The old boy's name? It's Dusty."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue who="Pam">"Someone's been complainin' about my yard... sayin' it's a mess. Was it you?$u#$e#Hmmm..."</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue who="Pam">"If I knew you better, I'd be more inclined to chat."</dialogue> </p>
+<p><context>fall_Tue4:</context> <dialogue who="Pam">"I used to be young, once. Hard to believe, huh?#$e#Time sure goes fast when you grow up.$s"</dialogue> </p>
+<p><context>fall_Wed:</context> <dialogue who="Pam">"*Sigh*... I guess I'll be popping a frozen dinner into the microwave tonight.$s"</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue who="Pam">"Penny's the only one I've got, so you best treat her kindly."</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue who="Pam">"Every day is the same old routine...$s#$e#Do you ever have that problem, farmer?"</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue who="Pam">"Would you do me a kindness and clean up my house?#$e#Just kidding.$h"</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue who="Pam">"Don't you have work to do?#$e#You should be thankful that you have a job rather than moping around town all the time."</dialogue> </p>
+<p><context>fall_Sun4:</context> <dialogue who="Pam">"I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio.#$e#Times sure do change."</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue who="Pam">"You got any hogs on that farm?"</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue who="Pam">"Do you want somethin' from me, kid? Best look somewhere else."</dialogue> </p>
+<p><context>winter_Tue4:</context> <dialogue who="Pam">"I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My skin feels like old parchment."</dialogue> </p>
+<p><context>winter_Tue4_inlaw_Penny:</context> <dialogue who="Pam">"Hey. You better be treatin' Penny right on that old farm of yours. She's the only one I got!"</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue who="Pam">"Hey kid. What're you up to?#$e#I'm just passin' time, same as always."</dialogue> </p>
+<p><context>winter_Thu:</context> <dialogue who="Pam">"It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh.#$e#Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?"</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue who="Pam">"Penny sure does like old books. I think she's a heck of a lot smarter than I ever was.#$e#I'm glad."</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue who="Pam">"I oughta take up fishin', seein' as how close the river is."</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue who="Pam">"Blah... my front yard's a mess.$s"</dialogue> </p>
 
 </xml>

@@ -1,19 +1,19 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue>"Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands."</dialogue> </p>
-<p><context>accept_868:</context> <dialogue>"Ah... an arctic shard.#$b#A most powerful substance, indeed, and potently infused with the element of ice.#$b#I'll take it, if you don't mind.#$b#...#$b#...Erm...You're still here. Oh. You want something?#$b#...Take this."</dialogue> </p>
-<p><context>MovieInvitation:</context> <dialogue>"Hmm... I suppose I could accompany you... yes. Once you've arrived, I shall appear. Farewell."</dialogue> </p>
-<p><context>Mon:</context> <dialogue>"Ah, yes. I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences."</dialogue> </p>
-<p><context>Tue:</context> <dialogue>"If you have nothing important to tell me, leave me be. I have much work to do."</dialogue> </p>
-<p><context>Tue4:</context> <dialogue>"I trust you enough to allow you in my basement. Treat what you find there with respect."</dialogue> </p>
-<p><context>Wed:</context> <dialogue>"It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me..."</dialogue> </p>
-<p><context>Thu:</context> <dialogue>"There are many mysteries around us. You must be patient if you wish to discover them."</dialogue> </p>
-<p><context>Thu10:</context> <dialogue>"You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter...#$e#I could be mistaken... It's rare, but it does happen."</dialogue> </p>
-<p><context>Fri:</context> <dialogue>"I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is human to be afraid of the unknown."</dialogue> </p>
-<p><context>Fri6:</context> <dialogue>"I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw.#$e#It's not a very mature way to express one's anger."</dialogue> </p>
-<p><context>Sat:</context> <dialogue>"Beware, you are standing above a potent magical field.#$e#I built my hut right here on purpose, you know."</dialogue> </p>
-<p><context>Sat2:</context> <dialogue>"Have you made any headway with the forest spirits?"</dialogue> </p>
-<p><context>Sun:</context> <dialogue>"I sometimes observe the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue."</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Wizard">"Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own hands."</dialogue> </p>
+<p><context>accept_868:</context> <dialogue who="Wizard">"Ah... an arctic shard.#$b#A most powerful substance, indeed, and potently infused with the element of ice.#$b#I'll take it, if you don't mind.#$b#...#$b#...Erm...You're still here. Oh. You want something?#$b#...Take this."</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue who="Wizard">"Hmm... I suppose I could accompany you... yes. Once you've arrived, I shall appear. Farewell."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Wizard">"Ah, yes. I have seen many things about your future, young @.#$e#If I were to tell you, there could be grave consequences."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Wizard">"If you have nothing important to tell me, leave me be. I have much work to do."</dialogue> </p>
+<p><context>Tue4:</context> <dialogue who="Wizard">"I trust you enough to allow you in my basement. Treat what you find there with respect."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Wizard">"It takes years of study to understand the language of the elementals.#$e#To actually speak their language requires a lifetime of devoted effort.#$e#Now, if you'll excuse me..."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Wizard">"There are many mysteries around us. You must be patient if you wish to discover them."</dialogue> </p>
+<p><context>Thu10:</context> <dialogue who="Wizard">"You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter...#$e#I could be mistaken... It's rare, but it does happen."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Wizard">"I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is human to be afraid of the unknown."</dialogue> </p>
+<p><context>Fri6:</context> <dialogue who="Wizard">"I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw.#$e#It's not a very mature way to express one's anger."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Wizard">"Beware, you are standing above a potent magical field.#$e#I built my hut right here on purpose, you know."</dialogue> </p>
+<p><context>Sat2:</context> <dialogue who="Wizard">"Have you made any headway with the forest spirits?"</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Wizard">"I sometimes observe the local villagers in secret.#$e#I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue."</dialogue> </p>
 
 </xml>

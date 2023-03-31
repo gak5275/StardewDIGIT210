@@ -1,23 +1,23 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>4:</context> <dialogue>"...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?"</dialogue> </p>
-<p><context>8:</context> <dialogue>"A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides."</dialogue> </p>
-<p><context>15:</context> <dialogue>"Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin."</dialogue> </p>
-<p><context>Fri:</context> <dialogue>"..."</dialogue> </p>
-<p><context>reject_868:</context> <dialogue>"Oh, it's an arctic shard! That's a very rare magical item.#$b#I'd bring that to the Wizard if I were you!"</dialogue> </p>
-<p><context>Wed:</context> <dialogue>"I find things here and I sell them. Care to buy anything?"</dialogue> </p>
-<p><context>Wed6:</context> <dialogue>"If you put your ear up to the right pipe, you can hear into any house from down here.#$b#I wouldn't eavesdrop, though!$3"</dialogue> </p>
-<p><context>Thu:</context> <dialogue>"Please don't tell anyone about me.#$b#Humans tend to destroy things they can't understand."</dialogue> </p>
-<p><context>Thu6:</context> <dialogue>"Please don't tell anyone about me.#$b#Most humans are frightened by us shadow people... maybe for good reason.$s#$b#But regardless, if the townspeople knew about me, I might not be safe here."</dialogue> </p>
-<p><context>Tue:</context> <dialogue>"I am too sensitive to sunlight to go out on most days.#$b#The conditions in here are perfect.#$e#Care to buy anything?"</dialogue> </p>
-<p><context>Mon:</context> <dialogue>"Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?"</dialogue> </p>
-<p><context>Mon2:</context> <dialogue>"Back again? I suppose it does fit into my theory of human behavior."</dialogue> </p>
-<p><context>Mon6:</context> <dialogue>"'Krobus' means 'bridge-crosser' in our language."</dialogue> </p>
-<p><context>Sat:</context> <dialogue>"On Fridays I stay silent as a sign of devotion to Yoba."</dialogue> </p>
-<p><context>Sun:</context> <dialogue>"...Sorry, I'm still a little wary of humans. My shop is still open to you, however."</dialogue> </p>
-<p><context>Sun4:</context> <dialogue>"You're not like the other humans, are you?"</dialogue> </p>
-<p><context>Sun8:</context> <dialogue>"You've opened my eyes to the world of humans. I appreciate that."</dialogue> </p>
-<p><context>divorced:</context> <dialogue>"..."</dialogue> </p>
+<p><context>4:</context> <dialogue who="Krobus">"...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?"</dialogue> </p>
+<p><context>8:</context> <dialogue who="Krobus">"A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides."</dialogue> </p>
+<p><context>15:</context> <dialogue who="Krobus">"Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>reject_868:</context> <dialogue who="Krobus">"Oh, it's an arctic shard! That's a very rare magical item.#$b#I'd bring that to the Wizard if I were you!"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Krobus">"I find things here and I sell them. Care to buy anything?"</dialogue> </p>
+<p><context>Wed6:</context> <dialogue who="Krobus">"If you put your ear up to the right pipe, you can hear into any house from down here.#$b#I wouldn't eavesdrop, though!$3"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Krobus">"Please don't tell anyone about me.#$b#Humans tend to destroy things they can't understand."</dialogue> </p>
+<p><context>Thu6:</context> <dialogue who="Krobus">"Please don't tell anyone about me.#$b#Most humans are frightened by us shadow people... maybe for good reason.$s#$b#But regardless, if the townspeople knew about me, I might not be safe here."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Krobus">"I am too sensitive to sunlight to go out on most days.#$b#The conditions in here are perfect.#$e#Care to buy anything?"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Krobus">"Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?"</dialogue> </p>
+<p><context>Mon2:</context> <dialogue who="Krobus">"Back again? I suppose it does fit into my theory of human behavior."</dialogue> </p>
+<p><context>Mon6:</context> <dialogue who="Krobus">"'Krobus' means 'bridge-crosser' in our language."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Krobus">"On Fridays I stay silent as a sign of devotion to Yoba."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Krobus">"...Sorry, I'm still a little wary of humans. My shop is still open to you, however."</dialogue> </p>
+<p><context>Sun4:</context> <dialogue who="Krobus">"You're not like the other humans, are you?"</dialogue> </p>
+<p><context>Sun8:</context> <dialogue who="Krobus">"You've opened my eyes to the world of humans. I appreciate that."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Krobus">"..."</dialogue> </p>
 
 </xml>

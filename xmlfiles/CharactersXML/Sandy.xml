@@ -1,20 +1,20 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>accept_866:</context> <dialogue>"A Stardew Valley rose? That's so lovely! Thank you!$h#$b#Whenever I miss the valley, I'll smell this rose. Hehe.$h#$b#Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!"</dialogue> </p>
-<p><context>Mon:</context> <dialogue>"Hello hello, sweetie!#$b#I'm so glad that the bus is back in service. It was starting to get lonely out here.#$e#...I almost went out of business.$s#$e#Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?$h"</dialogue> </p>
-<p><context>Tue:</context> <dialogue>"You can find coconuts and cactus fruits outside. Feel free to take as many as you can find.#$e#They're oooh-yummy, too. Heeee!~$h"</dialogue> </p>
-<p><context>Wed:</context> <dialogue>"Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'?#$e#Thanks!$h"</dialogue> </p>
-<p><context>Thu:</context> <dialogue>"That shady-looking guy in the back? I'm not supposed to talk about it.#$e#Anyway... what's the weather like in the valley?"</dialogue> </p>
-<p><context>Fri:</context> <dialogue>"You wouldn't have much luck farming out here, honey.#$e#Well, unless you were a cactus farmer.$h"</dialogue> </p>
-<p><context>Sat:</context> <dialogue>"Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!#$e#*whisper* Did I sound professional?$h#$e#Make sure to check out our seasonal seed selection.#$e#You look really thirsty. Here, have a taste of this ice cold milk. [184]#$e#Tasty, huh?$h"</dialogue> </p>
-<p><context>Sun:</context> <dialogue>"It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.$s"</dialogue> </p>
-<p><context>Thu2:</context> <dialogue>"That shady-looking guy in the back? I'm really not supposed to talk about it.#$e#Anyway... what's the weather like in the valley"</dialogue> </p>
-<p><context>Thu4:</context> <dialogue>"Hey... I think I can trust you. You can keep a secret, right?#$b#*whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions.#$e#SOOOOoo! How's that Stardew Valley weather right now?"</dialogue> </p>
-<p><context>Fri4:</context> <dialogue>"My name's not really Sandy, you know. It's just good for business.#$e#But everyone calls me Sandy anyway, so I've just gotten used to it."</dialogue> </p>
-<p><context>Wed8:</context> <dialogue>"Isn't it expensive, coming to the desert so often like you do?#$e#You must really like to see me, huh? Hmmm... $h"</dialogue> </p>
-<p><context>Sun8:</context> <dialogue>"Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm...#$e#Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him."</dialogue> </p>
-<p><context>Wed10:</context> <dialogue>"Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't get depressed.$h"</dialogue> </p>
-<p><context>Tue10:</context> <dialogue>"Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?"</dialogue> </p>
+<p><context>accept_866:</context> <dialogue who="Sandy">"A Stardew Valley rose? That's so lovely! Thank you!$h#$b#Whenever I miss the valley, I'll smell this rose. Hehe.$h#$b#Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Sandy">"Hello hello, sweetie!#$b#I'm so glad that the bus is back in service. It was starting to get lonely out here.#$e#...I almost went out of business.$s#$e#Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?$h"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Sandy">"You can find coconuts and cactus fruits outside. Feel free to take as many as you can find.#$e#They're oooh-yummy, too. Heeee!~$h"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Sandy">"Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'?#$e#Thanks!$h"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Sandy">"That shady-looking guy in the back? I'm not supposed to talk about it.#$e#Anyway... what's the weather like in the valley?"</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Sandy">"You wouldn't have much luck farming out here, honey.#$e#Well, unless you were a cactus farmer.$h"</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Sandy">"Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!#$e#*whisper* Did I sound professional?$h#$e#Make sure to check out our seasonal seed selection.#$e#You look really thirsty. Here, have a taste of this ice cold milk. [184]#$e#Tasty, huh?$h"</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Sandy">"It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.$s"</dialogue> </p>
+<p><context>Thu2:</context> <dialogue who="Sandy">"That shady-looking guy in the back? I'm really not supposed to talk about it.#$e#Anyway... what's the weather like in the valley"</dialogue> </p>
+<p><context>Thu4:</context> <dialogue who="Sandy">"Hey... I think I can trust you. You can keep a secret, right?#$b#*whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions.#$e#SOOOOoo! How's that Stardew Valley weather right now?"</dialogue> </p>
+<p><context>Fri4:</context> <dialogue who="Sandy">"My name's not really Sandy, you know. It's just good for business.#$e#But everyone calls me Sandy anyway, so I've just gotten used to it."</dialogue> </p>
+<p><context>Wed8:</context> <dialogue who="Sandy">"Isn't it expensive, coming to the desert so often like you do?#$e#You must really like to see me, huh? Hmmm... $h"</dialogue> </p>
+<p><context>Sun8:</context> <dialogue who="Sandy">"Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm...#$e#Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him."</dialogue> </p>
+<p><context>Wed10:</context> <dialogue who="Sandy">"Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!#$e#If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.$s#$e#You'll just have to visit me more often so I don't get depressed.$h"</dialogue> </p>
+<p><context>Tue10:</context> <dialogue who="Sandy">"Hi!~ Stay as long as you like.#$e#The air conditioning sure feels nice, doesn't it?"</dialogue> </p>
 
 </xml>

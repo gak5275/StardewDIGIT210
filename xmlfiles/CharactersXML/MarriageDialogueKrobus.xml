@@ -1,94 +1,94 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Rainy_Day_0:</context> <dialogue>"Do you like rainy days as much as I do, @?"</dialogue> </p>
-<p><context>Rainy_Day_1:</context> <dialogue>"We're different in so many ways... but that's alright."</dialogue> </p>
-<p><context>Rainy_Day_2:</context> <dialogue>"Good morning, @. I went out early and found this for you. [305 308 203 795 397]#$e#I hope it's not too strange."</dialogue> </p>
-<p><context>Rainy_Day_3:</context> <dialogue>"I wonder if the wizard knows about... this? I hope he can keep a secret.$s"</dialogue> </p>
-<p><context>Rainy_Day_4:</context> <dialogue>"As much as I try to be civilized, I have the urge to be mischievous sometimes...$6#$e#They say it's a condition of my people."</dialogue> </p>
-<p><context>Rainy_Day_Krobus:</context> <dialogue>"Ah, It's more humid today with the rain... I feel a lot more comfortable."</dialogue> </p>
-<p><context>Rainy_Night_0:</context> <dialogue>"On nights like this, those who gaze out windows sometimes see shadowy figures. To think... it might've been me.$7"</dialogue> </p>
-<p><context>Rainy_Night_1:</context> <dialogue>"If the other shadow people knew about our living arrangement, they would... 'punish' me.$s#$e#Most of them despise humans, you know."</dialogue> </p>
-<p><context>Rainy_Night_2:</context> <dialogue>"You're sopping wet, and cold! Isn't that dangerous to your species?$s"</dialogue> </p>
-<p><context>Rainy_Night_3:</context> <dialogue>"I already had dinner, but it wasn't something you'd be able to eat... sorry."</dialogue> </p>
-<p><context>Rainy_Night_4:</context> <dialogue>"Ever since I left my people, I've been searching for a new home... now I belong somewhere. That means everything to me."</dialogue> </p>
-<p><context>Rainy_Night_5:</context> <dialogue>"It's said that my people came here long ago, when a great catastrophe allowed spirits from the void to cross into the physical plane."</dialogue> </p>
-<p><context>Rainy_Night_Krobus:</context> <dialogue>"The sound of the rain reminds me of the sewers... it's comforting.#$e#The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too."</dialogue> </p>
-<p><context>Indoor_Day_0:</context> <dialogue>"If I could come help you, I would... but I'll do my best to keep the house in order."</dialogue> </p>
-<p><context>Indoor_Day_1:</context> <dialogue>"I tried my best to make human food... [203 204 651 225]#$e#You can eat it later, don't worry about it..."</dialogue> </p>
-<p><context>Indoor_Day_2:</context> <dialogue>"I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to \"get out\" like humans do.#$e#But I understand that you need to! Please don't feel like you have to stay here with me.$3"</dialogue> </p>
-<p><context>Indoor_Day_3:</context> <dialogue>"I'm considering spending my day all balled up and wedged in the corner...#$e#What? You mean you don't do that?$3"</dialogue> </p>
-<p><context>Indoor_Day_4:</context> <dialogue>"On Fridays, I like to stay quiet out of respect for Yoba. I hope you don't mind."</dialogue> </p>
-<p><context>Indoor_Day_Krobus:</context> <dialogue>"I wish I could help you on the farm, but I can't go out in the sun..."</dialogue> </p>
-<p><context>Indoor_Night_0:</context> <dialogue>"I cleaned all the bugs out of the house today... Sorry, I didn't save you any! *smack*$7"</dialogue> </p>
-<p><context>Indoor_Night_1:</context> <dialogue>"You feel solid... sometimes I wish I had bones, too...$s"</dialogue> </p>
-<p><context>Indoor_Night_2:</context> <dialogue>"Sometimes I wonder if humans and shadow people could really ever co-exist... It's a lovely idea, but is it realistic?$s#$e#I hope so..."</dialogue> </p>
-<p><context>Indoor_Night_3:</context> <dialogue>"Sometimes I pause and think of all that I've learned about humans from you...#$b#I wish all my fellow shadow people could know this feeling."</dialogue> </p>
-<p><context>Indoor_Night_4:</context> <dialogue>"I want to be a good housemate for you, but I never know if I'm doing well... *groan* $s#$e#I have a hard time understanding human expression. B... but... you're happy living with me?#$e#Okay!$7"</dialogue> </p>
-<p><context>Indoor_Night_Krobus:</context> <dialogue>"Hi, @. Welcome home. You look like you've been working hard out there!$h"</dialogue> </p>
-<p><context>Outdoor_0:</context> <dialogue>"I'll stay out here for just a bit, but we've got to be careful... if anyone approaches I'll need to hide!"</dialogue> </p>
-<p><context>Outdoor_1:</context> <dialogue>"It's rare that I can step outside!"</dialogue> </p>
-<p><context>Outdoor_2:</context> <dialogue>"What a beautiful day!$h"</dialogue> </p>
-<p><context>Outdoor_3:</context> <dialogue>"Wide open spaces make me nervous...$s"</dialogue> </p>
-<p><context>Outdoor_4:</context> <dialogue>"Please go about your day, I'll just stay here and guard the house."</dialogue> </p>
-<p><context>Outdoor_Krobus:</context> <dialogue>"I'll wait here for a bit, and see if any bugs come my way.#$e#I haven't had breakfast yet!"</dialogue> </p>
-<p><context>OneKid_3:</context> <dialogue>"I'm not sure how, but Yoba has blessed this house with a 'child'..."</dialogue> </p>
-<p><context>TwoKids_0:</context> <dialogue>"Don't worry... I already made %kid1 and %kid2 a void egg omelet."</dialogue> </p>
-<p><context>TwoKids_2:</context> <dialogue>"I worry about the future of the children... But I trust that Yoba has a plan for them."</dialogue> </p>
-<p><context>TwoKids_3:</context> <dialogue>"This house has been blessed with two children, now... Does that mean Yoba approves of our unconventional living arrangement?"</dialogue> </p>
-<p><context>Good_1:</context> <dialogue>"I feel a sensation in my body... is this... 'platonic love'?$l#$b#... Oh, wait... I'm just shedding my skin.$s"</dialogue> </p>
-<p><context>Good_2:</context> <dialogue>"I've learned to overcome my bias against humans... but Dwarves still disgust me.$a"</dialogue> </p>
-<p><context>Good_3:</context> <dialogue>"You started nibbling on me during the night, and mumbling about 'black lick or ish'... what did you mean by that?$3"</dialogue> </p>
-<p><context>Good_0:</context> <dialogue>"We're making progress, and I feel really hopeful.$h"</dialogue> </p>
-<p><context>Good_5:</context> <dialogue>"I was just admiring this lovely house... what a wonderful place.$l"</dialogue> </p>
-<p><context>Neutral_0:</context> <dialogue>"I won't ever grow old, but you will. Sometimes it makes me sad... but that's okay.$s"</dialogue> </p>
-<p><context>Neutral_1:</context> <dialogue>"Do you think your Grandpa would approve of a monster living in his house?"</dialogue> </p>
-<p><context>Neutral_2:</context> <dialogue>"Do you think we could get in trouble for living together?$s"</dialogue> </p>
-<p><context>Neutral_3:</context> <dialogue>"It's so bright in here... I might close my eyes for a few hours.$s"</dialogue> </p>
-<p><context>Neutral_4:</context> <dialogue>"I can't go outside, I can only eat certain food, I need the temperature a certain way... I hope it's not too much of a bother to live with me, @.$s"</dialogue> </p>
-<p><context>Neutral_5:</context> <dialogue>"Welwick says I'm cursed today.$s"</dialogue> </p>
-<p><context>Neutral_6:</context> <dialogue>"I'll tell you a secret... I don't actually sleep, I just lay there with my eyes closed..."</dialogue> </p>
-<p><context>Neutral_7:</context> <dialogue>"You're a strange one, to want to live with a creature like me."</dialogue> </p>
-<p><context>Neutral_8:</context> <dialogue>"I'm going to clean the house all day! This is fun.$7"</dialogue> </p>
-<p><context>Neutral_9:</context> <dialogue>"I wonder if we'll live here our entire lives? Moving would probably be too dangerous for me."</dialogue> </p>
-<p><context>Bad_1:</context> <dialogue>"*sigh*... Maybe I should've stayed with my own kind.$s"</dialogue> </p>
-<p><context>Bad_0:</context> <dialogue>"...Do you still like me?$s"</dialogue> </p>
-<p><context>Bad_2:</context> <dialogue>"Are you still happy, living with me?$s"</dialogue> </p>
-<p><context>Bad_4:</context> <dialogue>"I think you'd be happier living with another human...$s"</dialogue> </p>
-<p><context>Bad_5:</context> <dialogue>"I've detected a change in your behavior... what does it mean? *groan*$s"</dialogue> </p>
-<p><context>Bad_6:</context> <dialogue>"You only have one short life to live... are you certain you want to spend it with a hideous creature like me?$s"</dialogue> </p>
-<p><context>Bad_7:</context> <dialogue>"Maybe a relationship like this is destined to fail...$s"</dialogue> </p>
-<p><context>Bad_8:</context> <dialogue>"You seem unhappy lately...$s"</dialogue> </p>
-<p><context>Bad_9:</context> <dialogue>"I miss the sewers.$s"</dialogue> </p>
-<p><context>spring_5:</context> <dialogue>"..."</dialogue> </p>
-<p><context>spring_12:</context> <dialogue>"..."</dialogue> </p>
-<p><context>spring_19:</context> <dialogue>"..."</dialogue> </p>
-<p><context>spring_26:</context> <dialogue>"..."</dialogue> </p>
-<p><context>winter_5:</context> <dialogue>"..."</dialogue> </p>
-<p><context>winter_12:</context> <dialogue>"..."</dialogue> </p>
-<p><context>winter_19:</context> <dialogue>"..."</dialogue> </p>
-<p><context>winter_26:</context> <dialogue>"..."</dialogue> </p>
-<p><context>summer_5:</context> <dialogue>"..."</dialogue> </p>
-<p><context>summer_12:</context> <dialogue>"..."</dialogue> </p>
-<p><context>summer_19:</context> <dialogue>"..."</dialogue> </p>
-<p><context>summer_26:</context> <dialogue>"..."</dialogue> </p>
-<p><context>fall_5:</context> <dialogue>"..."</dialogue> </p>
-<p><context>fall_12:</context> <dialogue>"..."</dialogue> </p>
-<p><context>fall_19:</context> <dialogue>"..."</dialogue> </p>
-<p><context>fall_26:</context> <dialogue>"..."</dialogue> </p>
-<p><context>spring_1:</context> <dialogue>"What's your plan for the new year, @?"</dialogue> </p>
-<p><context>spring_23:</context> <dialogue>"You should go to the flower dance tomorrow! Don't worry about me."</dialogue> </p>
-<p><context>summer_1:</context> <dialogue>"I get sunburnt very easily, so I need to be careful this time of year."</dialogue> </p>
-<p><context>summer_8:</context> <dialogue>"Mmm... what's that lovely smell? You must've been sweating all night...$h"</dialogue> </p>
-<p><context>summer_15:</context> <dialogue>"It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them. It's good protein!$h"</dialogue> </p>
-<p><context>fall_8:</context> <dialogue>"I don't feel like doing anything today."</dialogue> </p>
-<p><context>fall_15:</context> <dialogue>"Have you figured out what you're going to use for your grange display tomorrow?"</dialogue> </p>
-<p><context>fall_24:</context> <dialogue>"If I showed up to the Spirit's Eve festival they'd put me in a cage...$s"</dialogue> </p>
-<p><context>winter_28:</context> <dialogue>"Thanks for letting me stay here, @. I'm looking forward to another great year!$h"</dialogue> </p>
-<p><context>spouseRoom_Krobus:</context> <dialogue>"#$c .5#We're so physically different that it's a challenge to live together, isn't it?#$e#I hope the humidity here isn't bothersome to you. We both have to compromise in order to live together!"</dialogue> </p>
-<p><context>spring_Krobus:</context> <dialogue>"It's 'spring' now, isn't it? I can smell the peppery aroma of wild horseradish."</dialogue> </p>
-<p><context>summer_Krobus:</context> <dialogue>"You call this time of year 'summer', right? The warmth and humidity is nice, but I wish it wasn't so sunny."</dialogue> </p>
-<p><context>fall_Krobus:</context> <dialogue>"It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'fall', correct?"</dialogue> </p>
-<p><context>winter_Krobus:</context> <dialogue>"The darkness this time of year is very soothing. If only it were warmer!"</dialogue> </p>
+<p><context>Rainy_Day_0:</context> <dialogue who="Krobus">"Do you like rainy days as much as I do, @?"</dialogue> </p>
+<p><context>Rainy_Day_1:</context> <dialogue who="Krobus">"We're different in so many ways... but that's alright."</dialogue> </p>
+<p><context>Rainy_Day_2:</context> <dialogue who="Krobus">"Good morning, @. I went out early and found this for you. [305 308 203 795 397]#$e#I hope it's not too strange."</dialogue> </p>
+<p><context>Rainy_Day_3:</context> <dialogue who="Krobus">"I wonder if the wizard knows about... this? I hope he can keep a secret.$s"</dialogue> </p>
+<p><context>Rainy_Day_4:</context> <dialogue who="Krobus">"As much as I try to be civilized, I have the urge to be mischievous sometimes...$6#$e#They say it's a condition of my people."</dialogue> </p>
+<p><context>Rainy_Day_Krobus:</context> <dialogue who="Krobus">"Ah, It's more humid today with the rain... I feel a lot more comfortable."</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue who="Krobus">"On nights like this, those who gaze out windows sometimes see shadowy figures. To think... it might've been me.$7"</dialogue> </p>
+<p><context>Rainy_Night_1:</context> <dialogue who="Krobus">"If the other shadow people knew about our living arrangement, they would... 'punish' me.$s#$e#Most of them despise humans, you know."</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue who="Krobus">"You're sopping wet, and cold! Isn't that dangerous to your species?$s"</dialogue> </p>
+<p><context>Rainy_Night_3:</context> <dialogue who="Krobus">"I already had dinner, but it wasn't something you'd be able to eat... sorry."</dialogue> </p>
+<p><context>Rainy_Night_4:</context> <dialogue who="Krobus">"Ever since I left my people, I've been searching for a new home... now I belong somewhere. That means everything to me."</dialogue> </p>
+<p><context>Rainy_Night_5:</context> <dialogue who="Krobus">"It's said that my people came here long ago, when a great catastrophe allowed spirits from the void to cross into the physical plane."</dialogue> </p>
+<p><context>Rainy_Night_Krobus:</context> <dialogue who="Krobus">"The sound of the rain reminds me of the sewers... it's comforting.#$e#The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too."</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue who="Krobus">"If I could come help you, I would... but I'll do my best to keep the house in order."</dialogue> </p>
+<p><context>Indoor_Day_1:</context> <dialogue who="Krobus">"I tried my best to make human food... [203 204 651 225]#$e#You can eat it later, don't worry about it..."</dialogue> </p>
+<p><context>Indoor_Day_2:</context> <dialogue who="Krobus">"I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to \"get out\" like humans do.#$e#But I understand that you need to! Please don't feel like you have to stay here with me.$3"</dialogue> </p>
+<p><context>Indoor_Day_3:</context> <dialogue who="Krobus">"I'm considering spending my day all balled up and wedged in the corner...#$e#What? You mean you don't do that?$3"</dialogue> </p>
+<p><context>Indoor_Day_4:</context> <dialogue who="Krobus">"On Fridays, I like to stay quiet out of respect for Yoba. I hope you don't mind."</dialogue> </p>
+<p><context>Indoor_Day_Krobus:</context> <dialogue who="Krobus">"I wish I could help you on the farm, but I can't go out in the sun..."</dialogue> </p>
+<p><context>Indoor_Night_0:</context> <dialogue who="Krobus">"I cleaned all the bugs out of the house today... Sorry, I didn't save you any! *smack*$7"</dialogue> </p>
+<p><context>Indoor_Night_1:</context> <dialogue who="Krobus">"You feel solid... sometimes I wish I had bones, too...$s"</dialogue> </p>
+<p><context>Indoor_Night_2:</context> <dialogue who="Krobus">"Sometimes I wonder if humans and shadow people could really ever co-exist... It's a lovely idea, but is it realistic?$s#$e#I hope so..."</dialogue> </p>
+<p><context>Indoor_Night_3:</context> <dialogue who="Krobus">"Sometimes I pause and think of all that I've learned about humans from you...#$b#I wish all my fellow shadow people could know this feeling."</dialogue> </p>
+<p><context>Indoor_Night_4:</context> <dialogue who="Krobus">"I want to be a good housemate for you, but I never know if I'm doing well... *groan* $s#$e#I have a hard time understanding human expression. B... but... you're happy living with me?#$e#Okay!$7"</dialogue> </p>
+<p><context>Indoor_Night_Krobus:</context> <dialogue who="Krobus">"Hi, @. Welcome home. You look like you've been working hard out there!$h"</dialogue> </p>
+<p><context>Outdoor_0:</context> <dialogue who="Krobus">"I'll stay out here for just a bit, but we've got to be careful... if anyone approaches I'll need to hide!"</dialogue> </p>
+<p><context>Outdoor_1:</context> <dialogue who="Krobus">"It's rare that I can step outside!"</dialogue> </p>
+<p><context>Outdoor_2:</context> <dialogue who="Krobus">"What a beautiful day!$h"</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue who="Krobus">"Wide open spaces make me nervous...$s"</dialogue> </p>
+<p><context>Outdoor_4:</context> <dialogue who="Krobus">"Please go about your day, I'll just stay here and guard the house."</dialogue> </p>
+<p><context>Outdoor_Krobus:</context> <dialogue who="Krobus">"I'll wait here for a bit, and see if any bugs come my way.#$e#I haven't had breakfast yet!"</dialogue> </p>
+<p><context>OneKid_3:</context> <dialogue who="Krobus">"I'm not sure how, but Yoba has blessed this house with a 'child'..."</dialogue> </p>
+<p><context>TwoKids_0:</context> <dialogue who="Krobus">"Don't worry... I already made %kid1 and %kid2 a void egg omelet."</dialogue> </p>
+<p><context>TwoKids_2:</context> <dialogue who="Krobus">"I worry about the future of the children... But I trust that Yoba has a plan for them."</dialogue> </p>
+<p><context>TwoKids_3:</context> <dialogue who="Krobus">"This house has been blessed with two children, now... Does that mean Yoba approves of our unconventional living arrangement?"</dialogue> </p>
+<p><context>Good_1:</context> <dialogue who="Krobus">"I feel a sensation in my body... is this... 'platonic love'?$l#$b#... Oh, wait... I'm just shedding my skin.$s"</dialogue> </p>
+<p><context>Good_2:</context> <dialogue who="Krobus">"I've learned to overcome my bias against humans... but Dwarves still disgust me.$a"</dialogue> </p>
+<p><context>Good_3:</context> <dialogue who="Krobus">"You started nibbling on me during the night, and mumbling about 'black lick or ish'... what did you mean by that?$3"</dialogue> </p>
+<p><context>Good_0:</context> <dialogue who="Krobus">"We're making progress, and I feel really hopeful.$h"</dialogue> </p>
+<p><context>Good_5:</context> <dialogue who="Krobus">"I was just admiring this lovely house... what a wonderful place.$l"</dialogue> </p>
+<p><context>Neutral_0:</context> <dialogue who="Krobus">"I won't ever grow old, but you will. Sometimes it makes me sad... but that's okay.$s"</dialogue> </p>
+<p><context>Neutral_1:</context> <dialogue who="Krobus">"Do you think your Grandpa would approve of a monster living in his house?"</dialogue> </p>
+<p><context>Neutral_2:</context> <dialogue who="Krobus">"Do you think we could get in trouble for living together?$s"</dialogue> </p>
+<p><context>Neutral_3:</context> <dialogue who="Krobus">"It's so bright in here... I might close my eyes for a few hours.$s"</dialogue> </p>
+<p><context>Neutral_4:</context> <dialogue who="Krobus">"I can't go outside, I can only eat certain food, I need the temperature a certain way... I hope it's not too much of a bother to live with me, @.$s"</dialogue> </p>
+<p><context>Neutral_5:</context> <dialogue who="Krobus">"Welwick says I'm cursed today.$s"</dialogue> </p>
+<p><context>Neutral_6:</context> <dialogue who="Krobus">"I'll tell you a secret... I don't actually sleep, I just lay there with my eyes closed..."</dialogue> </p>
+<p><context>Neutral_7:</context> <dialogue who="Krobus">"You're a strange one, to want to live with a creature like me."</dialogue> </p>
+<p><context>Neutral_8:</context> <dialogue who="Krobus">"I'm going to clean the house all day! This is fun.$7"</dialogue> </p>
+<p><context>Neutral_9:</context> <dialogue who="Krobus">"I wonder if we'll live here our entire lives? Moving would probably be too dangerous for me."</dialogue> </p>
+<p><context>Bad_1:</context> <dialogue who="Krobus">"*sigh*... Maybe I should've stayed with my own kind.$s"</dialogue> </p>
+<p><context>Bad_0:</context> <dialogue who="Krobus">"...Do you still like me?$s"</dialogue> </p>
+<p><context>Bad_2:</context> <dialogue who="Krobus">"Are you still happy, living with me?$s"</dialogue> </p>
+<p><context>Bad_4:</context> <dialogue who="Krobus">"I think you'd be happier living with another human...$s"</dialogue> </p>
+<p><context>Bad_5:</context> <dialogue who="Krobus">"I've detected a change in your behavior... what does it mean? *groan*$s"</dialogue> </p>
+<p><context>Bad_6:</context> <dialogue who="Krobus">"You only have one short life to live... are you certain you want to spend it with a hideous creature like me?$s"</dialogue> </p>
+<p><context>Bad_7:</context> <dialogue who="Krobus">"Maybe a relationship like this is destined to fail...$s"</dialogue> </p>
+<p><context>Bad_8:</context> <dialogue who="Krobus">"You seem unhappy lately...$s"</dialogue> </p>
+<p><context>Bad_9:</context> <dialogue who="Krobus">"I miss the sewers.$s"</dialogue> </p>
+<p><context>spring_5:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>spring_12:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>spring_19:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>spring_26:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>winter_5:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>winter_12:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>winter_19:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>winter_26:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>summer_5:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>summer_12:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>summer_19:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>summer_26:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>fall_5:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>fall_12:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>fall_19:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>fall_26:</context> <dialogue who="Krobus">"..."</dialogue> </p>
+<p><context>spring_1:</context> <dialogue who="Krobus">"What's your plan for the new year, @?"</dialogue> </p>
+<p><context>spring_23:</context> <dialogue who="Krobus">"You should go to the flower dance tomorrow! Don't worry about me."</dialogue> </p>
+<p><context>summer_1:</context> <dialogue who="Krobus">"I get sunburnt very easily, so I need to be careful this time of year."</dialogue> </p>
+<p><context>summer_8:</context> <dialogue who="Krobus">"Mmm... what's that lovely smell? You must've been sweating all night...$h"</dialogue> </p>
+<p><context>summer_15:</context> <dialogue who="Krobus">"It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them. It's good protein!$h"</dialogue> </p>
+<p><context>fall_8:</context> <dialogue who="Krobus">"I don't feel like doing anything today."</dialogue> </p>
+<p><context>fall_15:</context> <dialogue who="Krobus">"Have you figured out what you're going to use for your grange display tomorrow?"</dialogue> </p>
+<p><context>fall_24:</context> <dialogue who="Krobus">"If I showed up to the Spirit's Eve festival they'd put me in a cage...$s"</dialogue> </p>
+<p><context>winter_28:</context> <dialogue who="Krobus">"Thanks for letting me stay here, @. I'm looking forward to another great year!$h"</dialogue> </p>
+<p><context>spouseRoom_Krobus:</context> <dialogue who="Krobus">"#$c .5#We're so physically different that it's a challenge to live together, isn't it?#$e#I hope the humidity here isn't bothersome to you. We both have to compromise in order to live together!"</dialogue> </p>
+<p><context>spring_Krobus:</context> <dialogue who="Krobus">"It's 'spring' now, isn't it? I can smell the peppery aroma of wild horseradish."</dialogue> </p>
+<p><context>summer_Krobus:</context> <dialogue who="Krobus">"You call this time of year 'summer', right? The warmth and humidity is nice, but I wish it wasn't so sunny."</dialogue> </p>
+<p><context>fall_Krobus:</context> <dialogue who="Krobus">"It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'fall', correct?"</dialogue> </p>
+<p><context>winter_Krobus:</context> <dialogue who="Krobus">"The darkness this time of year is very soothing. If only it were warmer!"</dialogue> </p>
 
 </xml>
