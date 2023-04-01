@@ -1,0 +1,24 @@
+xquery version "3.1";
+
+<html>
+<head><title>Stardew Valley - Location Dialogue</title></head>
+<body>
+        {
+	let $Abigail := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Abigail']/text()
+	let $Alex := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Alex']/text()
+	let $Elliott := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Elliott']/text()
+	let $Emily := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Emily']/text()
+	let $Haley := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Haley']/text()
+	let $Harvey := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Harvey']/text()
+	let $Leah := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Leah']/text()
+        let $Maru := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Maru']/text()
+        let $Penny := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Penny']/text()
+        let $Sam := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Sam']/text()
+        let $Sebastian := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Sebastian']/text()
+	let $Shane := collection('/db/XML/Stardew/xmlfiles/LocationsXML/')//dialogue[@who='Shane']/text()
+        return <p><ul><li>{$Abigail}</li></ul><ul><li>{$Alex}</li></ul><ul><li>{$Elliott}</li></ul><ul><li>{$Emily}</li></ul><ul><li>{$Haley}</li></ul><ul><li>{$Harvey}</li></ul><ul><li>{$Leah}</li></ul><ul><li>{$Maru}</li></ul><ul><li>{$Penny}</li></ul><ul><li>{$Sam}</li></ul><ul><li>{$Sebastian}</li></ul><ul><li>{$Shane}</li></ul></p>
+        }
+</body>
+</html>
+
+When I outputted it as html, the lines were a long string of text within an <li> element instead of each line being its own list item.
