@@ -1,10 +1,11 @@
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
 
-<p><context>name:</context> <dialogue>Feast of the Winter Star</dialogue> </p>
-<p><context>conditions:</context> <dialogue>Town/900 1400</dialogue> </p>
-<p><context>shop:</context> <dialogue who="shop">F 2625 1000 -1 F 1745 800 -1 F 1747 500 -1 F 1678 1000 -1 F 1390 700 -1 F 807 3000 -1 F 2798 1000 -1 F 2634 1000 -1 F 2633 500 -1 F 2635 500 -1 F 2636 700 -1 F 1440 5000 -1 F 1296 800 -1</dialogue> </p>
-<p><context>set-up:</context> <dialogue>christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas</dialogue> </p>
+<p><context>name: Feast of the Winter Star</context> </p>
+<p><context>conditions:</context> Town/900 1400 </p>
+<p><context>shop: F 2625 1000 -1 F 1745 800 -1 F 1747 500 -1 F 1678 1000 -1 F 1390 700 -1 F 807 3000 -1 F 2798 1000 -1 F 2634 1000 -1 F 2633 500 -1 F 2635 500 -1 F 2636 700 -1 F 1440 5000 -1 F 1296 800 -1</context> </p>
+<p><context>set-up: christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas</context> </p>
 <p><context>secretSanta:</context> <dialogue who="secretSanta">none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta \"dialogue1\"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta \"dialogue2\"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2</dialogue> </p>
 <p><context>Abigail_spouse:</context> <dialogue who="Abigail">I wonder if I could lick one of those canes...</dialogue> </p>
 <p><context>Leah_spouse:</context> <dialogue who="Leah">I'm thankful for our simple life on the farm.$h</dialogue> </p>
