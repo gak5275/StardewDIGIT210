@@ -8,7 +8,8 @@ comment = re.compile(r'#!.+?\b')
 placeholder = re.compile(r'\$\w')
 placeholder2 = re.compile(r'%\w+?\b')
 onomatopoeia = re.compile(r'\*.+?\*')
-action = re.compile(r'[\-\"\d\w\s]+?\/.+?\b')
+action = re.compile(r'[\-\"\d\w\s]+?[\/\\].+?\b')
+sharps = re.compile(r'#\s*#')
 spaces = re.compile(r'[^\S\r]{2,}')
 
 
@@ -29,8 +30,10 @@ def converter(directory):
                 dialogue = comment.sub('',dialogue) # remove #!String
                 dialogue = placeholder.sub(' ',dialogue) # remove placeholder such as $e, $8
                 dialogue = placeholder2.sub(' ',dialogue) # remove placeholder such as %kid1
-                dialogue = action.sub(' ',dialogue) # remove action such as
+                dialogue = action.sub(' ',dialogue) # remove action such as 1000/pause
+                dialogue = action.sub(' ',dialogue) # remove action such as 1000/pause
                 dialogue = onomatopoeia.sub(' ',dialogue) # remove onomatopoeia such as *sigh*
+                dialogue = sharps.sub(' ',dialogue)
                 dialogue = spaces.sub(' ',dialogue)
                 row = {'character':character, 'scene':scene, 'dialogue':dialogue}
                 rows.append(row)

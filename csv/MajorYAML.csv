@@ -1,5 +1,5 @@
 character,scene,dialogue
-Caroline,Introduction,"Hello! You must be @, the new farmer. I'm Caroline.# #My husband runs the general store here. And have you met my daughter, Abigail? She's the pale one with the purple hair."
+Caroline,Introduction,"Hello! You must be @, the new farmer. I'm Caroline. My husband runs the general store here. And have you met my daughter, Abigail? She's the pale one with the purple hair."
 Caroline,Resort_Entering,Willy gave us each a piece of his fish jerky. I'm still chewing on it.
 Caroline,Resort_Leaving,I'll sleep well tonight! 
 Caroline,Resort_Shore,The water is so warm here compared to the valley. It's really pleasant!
@@ -8,195 +8,195 @@ Caroline,Resort_Bar,"I told Gus to surprise me, and he made an iced green tea wi
 Caroline,Resort,"Hi @. Are you here to relax, or to do work?"
 Caroline,Mon,I wish Abby wouldn't spend so much time in her room.
 Caroline,Mon_inlaw_Abigail,"Hi, @. Are you enjoying the married life? I hope so!"
-Caroline,Mon8,"# Caroline23#When we first moved to Pelican Town I would take secret walks to the Wizard's tower. Don't tell Pierre, he has jealousy issues.# #Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?"
-Caroline,Tue,I've seen wild horesradish in the forest.# #Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.
-Caroline,Wed,"Hi there. Do you have everything you need for the farm?# #If not, we might be able to help you out.# #We carry a variety of useful items."
-Caroline,Thu,# Caroline1#Hmmm... I wonder if I can get Pierre to cook dinner tonight.# #Hmmm... what am I going to make for dinner tonight?# #Maybe I'll just get take-out from the Saloon.
-Caroline,Fri,"It's a fine-looking day.# #On days like this I like to help Evelyn with the public gardens.# #She's strong for her age, but I think she appreciates all the help she can get."
-Caroline,Sat,"Is it just me, or does Abigail have an unhealthy interest in doom and gloom?# #Maybe I'm just too old to understand."
-Caroline,Sat_inlaw_Abigail,"Dinner's been a lot quieter since Abigail moved out...# #No, not because she used to chew with her mouth open! "
+Caroline,Mon8,"# Caroline23#When we first moved to Pelican Town I would take secret walks to the Wizard's tower. Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?"
+Caroline,Tue,I've seen wild horesradish in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.
+Caroline,Wed,"Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items."
+Caroline,Thu,# Caroline1#Hmmm... I wonder if I can get Pierre to cook dinner tonight. Hmmm... what am I going to make for dinner tonight? Maybe I'll just get take-out from the Saloon.
+Caroline,Fri,"It's a fine-looking day. On days like this I like to help Evelyn with the public gardens. She's strong for her age, but I think she appreciates all the help she can get."
+Caroline,Sat,"Is it just me, or does Abigail have an unhealthy interest in doom and gloom? Maybe I'm just too old to understand."
+Caroline,Sat_inlaw_Abigail,"Dinner's been a lot quieter since Abigail moved out... No, not because she used to chew with her mouth open! "
 Caroline,Sat2,Abby's always had a strange interest in the occult. I'm not sure where she gets it from...
 Caroline,Sat4,Abby's always had a strange interest in the occult. I'm not sure where she gets it from...
-Caroline,Sat6,"# Caroline12#When we first moved here, I took a while to settle down... I wasn't ready for the domestic life.# #Pierre's a bit traditional... but he's a good man. He's ambitious, but he always puts his family first."
-Caroline,Sun,Today I'm just going to relax and think positively.# #Do you ever take a day off?
-Caroline,Wed6,"Stardew Valley is nice, but I wish I knew more people.# #I'm glad that we've become friends."
-Caroline,summer_Mon,On wednesdays the shop is closed.# #Keep that in mind if you're going to need anything.
-Caroline,summer_Tue,I've been seeing wild fruits in the forest lately.# #Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.
-Caroline,summer_Wed,"Hi there. Do you have everything you need for the farm?# #If not, we might be able to help you out.# #We carry a variety of useful items."
-Caroline,summer_Sat,"Is it just me, or does Abigail look a little pale?# #Maybe I'm just worrying about her too much."
+Caroline,Sat6,"# Caroline12#When we first moved here, I took a while to settle down... I wasn't ready for the domestic life. Pierre's a bit traditional... but he's a good man. He's ambitious, but he always puts his family first."
+Caroline,Sun,Today I'm just going to relax and think positively. Do you ever take a day off?
+Caroline,Wed6,"Stardew Valley is nice, but I wish I knew more people. I'm glad that we've become friends."
+Caroline,summer_Mon,On wednesdays the shop is closed. Keep that in mind if you're going to need anything.
+Caroline,summer_Tue,I've been seeing wild fruits in the forest lately. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.
+Caroline,summer_Wed,"Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items."
+Caroline,summer_Sat,"Is it just me, or does Abigail look a little pale? Maybe I'm just worrying about her too much."
 Caroline,summer_Sat_inlaw_Abigail,How's Abigail's health? She's always been such a pale girl. Hopefully the farm lifestyle puts a little color in her cheeks.
-Caroline,summer_Sun,Today I'm just going to relax and think positively.# #Do you ever take a day off?
+Caroline,summer_Sun,Today I'm just going to relax and think positively. Do you ever take a day off?
 Caroline,summer_Wed6,Time seems to go by faster and faster the older you get... 
 Caroline,fall_Mon,"Fall is Abby's favorite season, so I'm hoping she'll come out of her room more often."
-Caroline,fall_Mon_inlaw_Abigail,"Abby was taking online classes here, but I don't think her heart was really in it...# #She's a free spirit, like I was before I met Pierre. She's probably having the time of her life on your farm."
-Caroline,fall_Tue,I've seen edible mushrooms in the forest.# #Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.
-Caroline,fall_Sat,"Is it just me, or does Abigail play too many video games?# #Maybe I'm a little old-fashioned."
-Caroline,fall_Wed6,"You know, I used to want to be a farmer myself. Well, more like a rancher.# #I always loved movies about the wild west when I was a girl."
-Caroline,winter_Tue,"Winter is harsh, but you can dig up some roots if you're lucky.# #Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food."
-Caroline,winter_Fri,"Even though it's cold, I still check on the public garden beds every now and then.# #I just want to make sure they aren't damaged too much before spring returns."
-Caroline,winter_Sat,Don't you think Abby would look better with her natural hair color?# #She used to have light chestnut-colored hair.
-Caroline,winter_Wed6,Are you excited for the new year?# #I predict that you'll be super-successful on your farm. 
-Clint,Introduction,"Er... hi. I'm Clint.# #I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy."
+Caroline,fall_Mon_inlaw_Abigail,"Abby was taking online classes here, but I don't think her heart was really in it... She's a free spirit, like I was before I met Pierre. She's probably having the time of her life on your farm."
+Caroline,fall_Tue,I've seen edible mushrooms in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.
+Caroline,fall_Sat,"Is it just me, or does Abigail play too many video games? Maybe I'm a little old-fashioned."
+Caroline,fall_Wed6,"You know, I used to want to be a farmer myself. Well, more like a rancher. I always loved movies about the wild west when I was a girl."
+Caroline,winter_Tue,"Winter is harsh, but you can dig up some roots if you're lucky. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food."
+Caroline,winter_Fri,"Even though it's cold, I still check on the public garden beds every now and then. I just want to make sure they aren't damaged too much before spring returns."
+Caroline,winter_Sat,Don't you think Abby would look better with her natural hair color? She used to have light chestnut-colored hair.
+Caroline,winter_Wed6,Are you excited for the new year? I predict that you'll be super-successful on your farm. 
+Clint,Introduction,"Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy."
 Clint,Resort_Entering,I'm gonna put on my special red trunks. They're supposed to be really eye-catching.
 Clint,Resort_Leaving,"Well, that didn't turn out like I was imagining..."
 Clint,Resort_Shore,Oh no... I forgot to clip my toenails. 
-Clint,Resort_Shore_2,"I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. # #I hope no one noticed...# # 's body is glistening..."
+Clint,Resort_Shore_2,"I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. I hope no one noticed... 's body is glistening..."
 Clint,Resort_Chair,Ow... my whole torso is burnt to a crisp. 
 Clint,Resort_Bar,I'm hungry... 
 Clint,Resort, ... We're all at the beach but I still feel so alone... 
-Clint,reject_868,"Hmm... That's an interesting stone, like nothing I've ever seen before.# #I wouldn't know what to do with it, though. I deal in the mundane, not the magical..."
-Clint,cc_Minecart,"Somehow, the old town minecart system started working again. It's very convenient for getting to and from the mines.# #Don't get too cozy, though... if it can start up so suddenly, it could just as well shut down..."
-Clint,Mon,Yep. I'm a blacksmith.# #My father was also a blacksmith.# #My grandfather was a blacksmith as well. # Mon_old#I bet you can't guess what my great-grandfather was...# 9 30 Mon_9#A blacksmith.# 9 50 Mon_clown#A silly clown.# 9 -50 Mon_rude#A sarcastic jerk.
+Clint,reject_868,"Hmm... That's an interesting stone, like nothing I've ever seen before. I wouldn't know what to do with it, though. I deal in the mundane, not the magical..."
+Clint,cc_Minecart,"Somehow, the old town minecart system started working again. It's very convenient for getting to and from the mines. Don't get too cozy, though... if it can start up so suddenly, it could just as well shut down..."
+Clint,Mon,Yep. I'm a blacksmith. My father was also a blacksmith. My grandfather was a blacksmith as well. # Mon_old#I bet you can't guess what my great-grandfather was...# 9 30 Mon_9#A blacksmith.# 9 50 Mon_clown#A silly clown.# 9 -50 Mon_rude#A sarcastic jerk.
 Clint,Mon_old,"And yes, my great-grandfather was also a blacksmith."
 Clint,Mon_9,How'd you know? 
 Clint,Mon_clown,Hahahaha. Good one. 
 Clint,Mon_rude,Wow. That was rude. I was just being funny and you took it to a whole new level.
-Clint,Mon4,"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day.# #I'm only a blacksmith because my father pushed me into it."
-Clint,Tue,"If you want me to upgrade your tools you'll have to give me the correct ore.# #And you'll have to pay me a fee, of course."
+Clint,Mon4,"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it."
+Clint,Tue,"If you want me to upgrade your tools you'll have to give me the correct ore. And you'll have to pay me a fee, of course."
 Clint,Wed,Hey. What do you need?
-Clint,Wed6,"Oh, hi @. Sorry If I look a little messy. I've been working at the furnace all morning. # #So, did you need anything, or do you just want to visit?"
-Clint,Thu,Business has been slow lately.# #You should upgrade your tools. I could use the cash.
-Clint,Fri,"The weather doesn't really matter to me. I typically stay near my shop year-round.# #Depressing, huh?"
+Clint,Wed6,"Oh, hi @. Sorry If I look a little messy. I've been working at the furnace all morning. So, did you need anything, or do you just want to visit?"
+Clint,Thu,Business has been slow lately. You should upgrade your tools. I could use the cash.
+Clint,Fri,"The weather doesn't really matter to me. I typically stay near my shop year-round. Depressing, huh?"
 Clint,Sat,Sometimes I wonder how I ended up in this town. 
 Clint,Sat6,"Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work."
 Clint,Sun,Don't you have work to do?
 Clint,Sun4,So how are your tools holding up?
 Clint,event_advice1,Okay... I'll keep that in mind.
 Clint,event_advice2,That's the problem... I do act natural... but I never have any success. 
-Clint,summer_Mon4,"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day.# #I'm only a blacksmith because my father pushed me into it."
-Clint,summer_Wed6,"Oh, hi @! Sorry If I look a little messy. I've been working at the furnace all morning. # #So, did you need anything, or do you just want to visit?"
-Clint,summer_Thu,Business has been slow lately.# #You should upgrade your tools. I could use the cash.
-Demetrius,Introduction,"Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself!# #I'm studying the local plants and animals from my home laboratory.# #Have you met my daughter Maru? She's interested to meet you."
+Clint,summer_Mon4,"Be glad you're a farmer, @. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it."
+Clint,summer_Wed6,"Oh, hi @! Sorry If I look a little messy. I've been working at the furnace all morning. So, did you need anything, or do you just want to visit?"
+Clint,summer_Thu,Business has been slow lately. You should upgrade your tools. I could use the cash.
+Demetrius,Introduction,"Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself! I'm studying the local plants and animals from my home laboratory. Have you met my daughter Maru? She's interested to meet you."
 Demetrius,Resort_Entering,I already spotted a rare crab. This place is great. 
 Demetrius,Resort_Leaving,I'll be analyzing this data for months.
-Demetrius,Resort_Shore," ... whoops, there goes an endangered crab species... # #...# #Oh, nevermind. It was just the empty shell! I can sleep tonight."
+Demetrius,Resort_Shore," ... whoops, there goes an endangered crab species... ... Oh, nevermind. It was just the empty shell! I can sleep tonight."
 Demetrius,Resort_Chair,"Are you having fun, @? You need to remember to take breaks now and then too!"
 Demetrius,Resort_Bar,"I usually don't partake... but I'm usually not on a tropical island, either. Hahaha. "
 Demetrius,Resort,Can you believe this place? It's teeming with exotic life!
 Demetrius,reject_869,"It's a good specimen, but a very common species. You can keep it."
 Demetrius,reject_865,Fruit and salt? What an odd combination... 
-Demetrius,pamHouseUpgradeAnonymous,Robin won't even tell who paid for Pam's new house!# #I pretend I'm mad at her but secretly I'm glad she's so loyal to her word... 
+Demetrius,pamHouseUpgradeAnonymous,Robin won't even tell who paid for Pam's new house! I pretend I'm mad at her but secretly I'm glad she's so loyal to her word... 
 Demetrius,Mon,Maru helps me out in the lab sometimes... She's a good kid.
-Demetrius,Mon_inlaw_Maru,It's hard to do good science without Maru's help...# #But her happiness is much more important than my experiment!
+Demetrius,Mon_inlaw_Maru,It's hard to do good science without Maru's help... But her happiness is much more important than my experiment!
 Demetrius,Tue,This valley has a very vibrant and diverse ecosystem. That's one reason I was excited to move here.
-Demetrius,Wed,"You're probably growing a lot of interesting plants on your farm, huh?# #Maybe I'll stop by your place some day and check it out."
-Demetrius,Thu,"How's the farming business going? It's parsnip season, isn't it?# #I can imagine it being pretty peaceful, working outdoors with plants all day."
-Demetrius,Fri,Robin has a hot temper. It's better to stay on her good side.# #Don't tell her I said that. 
-Demetrius,Sat,"Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then... # #Oh! Sorry. I was pondering some data and I didn't notice you there.# #Do you need anything?"
-Demetrius,Sun,"It's good to take a break from work every now and then.# #I guess that's kind of difficult when you live on a farm, though.# #Hey, at least in the winter you don't have to worry about crops."
-Demetrius,Fri4,"Robin has a hot temper. It's better to stay on her good side.# #...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve... "
-Demetrius,Wed6,Hi @! How are you doing today?# #I wish I could make your farming job easier somehow.
+Demetrius,Wed,"You're probably growing a lot of interesting plants on your farm, huh? Maybe I'll stop by your place some day and check it out."
+Demetrius,Thu,"How's the farming business going? It's parsnip season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day."
+Demetrius,Fri,Robin has a hot temper. It's better to stay on her good side. Don't tell her I said that. 
+Demetrius,Sat,"Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then... Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?"
+Demetrius,Sun,"It's good to take a break from work every now and then. I guess that's kind of difficult when you live on a farm, though. Hey, at least in the winter you don't have to worry about crops."
+Demetrius,Fri4,"Robin has a hot temper. It's better to stay on her good side. ...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve... "
+Demetrius,Wed6,Hi @! How are you doing today? I wish I could make your farming job easier somehow.
 Demetrius,Event_tomato1,Really? I figured a farmer would know the correct answer... 
 Demetrius,Event_tomato2,See? @ agrees with me.
 Demetrius,Event_Lab_Silence,"Well, we'd better titrate this solution before it crystallizes on us."
 Demetrius,Event_Lab_Rat, ... 
-Demetrius,summer_Mon,"# # is deep in thought.# #Sorry, I'm really busy.# #There's so many plants to study right now."
-Demetrius,summer_Tue,"Make sure to water your plants every day.# #Although, if you're using water retaining soil you don't need to worry about watering as often.# #It's pretty convenient."
-Demetrius,summer_Thu,"How's the farming business going? It's tomato season, isn't it?# #I can imagine it being pretty peaceful, working outdoors with plants all day."
-Demetrius,summer_Fri," 40#So I heard Maru had you look through that telescope out back.|If you and Maru become friends, I'm sure she'll show you how to use that telescope out back.# #Pretty exciting, huh?"
+Demetrius,summer_Mon," is deep in thought. Sorry, I'm really busy. There's so many plants to study right now."
+Demetrius,summer_Tue,"Make sure to water your plants every day. Although, if you're using water retaining soil you don't need to worry about watering as often. It's pretty convenient."
+Demetrius,summer_Thu,"How's the farming business going? It's tomato season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day."
+Demetrius,summer_Fri," 40#So I heard Maru had you look through that telescope out back.|If you and Maru become friends, I'm sure she'll show you how to use that telescope out back. Pretty exciting, huh?"
 Demetrius,summer_Fri_inlaw_Maru,I hope my daughter's keeping up on her math and science!
-Demetrius,summer_Sat,"Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth? # #Oh! Sorry. I was pondering some data and I didn't notice you there.# #Do you need anything?"
-Demetrius,summer_Mon6,"I became a scientist because I wanted to contribute to the progression of our species.# #Of course, none of this would be possible without farmers such as yourself. "
+Demetrius,summer_Sat,"Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth? Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?"
+Demetrius,summer_Mon6,"I became a scientist because I wanted to contribute to the progression of our species. Of course, none of this would be possible without farmers such as yourself. "
 Demetrius,fall_Mon,During this time of year I divert my attentions to fungi.
-Demetrius,fall_Tue,We know a lot about nature thanks to science.# #But there's always a lot more to learn.
-Demetrius,fall_Thu,"How's the farming business going? It's corn season, isn't it?# #I can imagine it being pretty peaceful, working outdoors with plants all day."
-Demetrius,fall_Fri,Maru sure spends a lot of time working on those gadgets of hers.# #I'm glad she's so dedicated.
+Demetrius,fall_Tue,We know a lot about nature thanks to science. But there's always a lot more to learn.
+Demetrius,fall_Thu,"How's the farming business going? It's corn season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day."
+Demetrius,fall_Fri,Maru sure spends a lot of time working on those gadgets of hers. I'm glad she's so dedicated.
 Demetrius,fall_Fri_inlaw_Maru,I'm still flabbergasted about Maru's secret robot... was it all a dream?
-Demetrius,fall_Sat,Let's see... perhaps the nitrogen fixation level is affected by nematode secretions... # #Oh! Sorry. I was pondering some data and I didn't notice you there.# #Do you need anything?
-Demetrius,fall_Wed6,Hi @. I'm always glad when you come for a visit.# #It's nice to have some company after all this lonely lab-work.
+Demetrius,fall_Sat,Let's see... perhaps the nitrogen fixation level is affected by nematode secretions... Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?
+Demetrius,fall_Wed6,Hi @. I'm always glad when you come for a visit. It's nice to have some company after all this lonely lab-work.
 Demetrius,winter_Mon,I'm taking a break from my research right now.
 Demetrius,winter_Tue,Talk to my wife if you want to increase the size of your house.
-Demetrius,winter_Wed,Do you have a kitchen in your house yet?# #Cooking is kind of like doing lab work.
+Demetrius,winter_Wed,Do you have a kitchen in your house yet? Cooking is kind of like doing lab work.
 Demetrius,winter_Thu,Do you have any animals on your farm?
-Demetrius,winter_Fri,Hello.# # seems lost in thought.
-Demetrius,winter_Sat,Let's see... if seasonal nitrogen levels could be modeled by a piecewise function... # #Oh! Sorry. I was analyzing data and I didn't notice you there.# #Do you need anything?
+Demetrius,winter_Fri,Hello. seems lost in thought.
+Demetrius,winter_Sat,Let's see... if seasonal nitrogen levels could be modeled by a piecewise function... Oh! Sorry. I was analyzing data and I didn't notice you there. Do you need anything?
 Demetrius,winter_Sun,Feel free to harvest as much lumber and stone from this area as you please.
-Demetrius,winter_Fri4,"Thanks for stopping by. I need to think about something other than legumes for a while.# #So, what have you been doing lately?# #That sounds interesting."
+Demetrius,winter_Fri4,"Thanks for stopping by. I need to think about something other than legumes for a while. So, what have you been doing lately? That sounds interesting."
 Dwarf,Introduction,"Hey, you're pretty good at mining, for a human."
-Dwarf,Mon,"I got all this stuff from the surface. I just take it from your people during the night.# #Hmm? What is this concept you call ""private property""?"
-Dwarf,Tue,"Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.# #...And a ramekin of cave carrot brulee to sweeten the night.# #What?"
+Dwarf,Mon,"I got all this stuff from the surface. I just take it from your people during the night. Hmm? What is this concept you call ""private property""?"
+Dwarf,Tue,"Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin. ...And a ramekin of cave carrot brulee to sweeten the night. What?"
 Dwarf,Wed,"Hey, wanna buy something?"
-Dwarf,Wed_6,"Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.# #But I wonder where it came from? And where did it all go? I guess some questions will never be answered..."
-Dwarf,Thu_4,I feel most comfortable underground.# #The deeper underground the better.
+Dwarf,Wed_6,"Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that. But I wonder where it came from? And where did it all go? I guess some questions will never be answered..."
+Dwarf,Thu_4,I feel most comfortable underground. The deeper underground the better.
 Dwarf,Fri,"You've never seen a dwarf before, have you?"
 Dwarf,Sat_8,"The mines can be a treacherous place. Be careful, friend."
 Dwarf,Sat,It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?
 Dwarf,Sun,"One day you'll have to tell me about this beverage you call ""milk""."
-Dwarf,Thu,"You're not a spy sent by the Shadow People, are you?# #I'm keeping my eye on you."
-Dwarf,Fri_2,Most humans fear the unknown... that's why I've hidden my shop here.# #Your mining skills prove you're trustworthy.
-Evelyn,Introduction,"Why, hello and welcome to our little community, dear! # #You can call me 'Granny' if you like. "
+Dwarf,Thu,"You're not a spy sent by the Shadow People, are you? I'm keeping my eye on you."
+Dwarf,Fri_2,Most humans fear the unknown... that's why I've hidden my shop here. Your mining skills prove you're trustworthy.
+Evelyn,Introduction,"Why, hello and welcome to our little community, dear! You can call me 'Granny' if you like. "
 Evelyn,reject_867,"Oh, I'm sure George would be interested in that!"
 Evelyn,reject_866,"That's a very pretty rose, dear. Have you shown it to Emily? It makes me think of her."
-Evelyn,pamHouseUpgrade,"Oh, sweetie... that was so nice of you to put Pam up in a beautiful new house! # #It warms my heart when people take care of each other like that..."
+Evelyn,pamHouseUpgrade,"Oh, sweetie... that was so nice of you to put Pam up in a beautiful new house! It warms my heart when people take care of each other like that..."
 Evelyn,pamHouseUpgradeAnonymous,Call me a silly old fool... but I think I have an idea who paid for Pam's new house... 
-Evelyn,MovieInvitation,"Oh my! That's so kind of you, dear. Why yes... I'd love to go to the movies! # #You go on ahead, and I'll meet you at the theater."
+Evelyn,MovieInvitation,"Oh my! That's so kind of you, dear. Why yes... I'd love to go to the movies! You go on ahead, and I'll meet you at the theater."
 Evelyn,Mon,Oh my! What a lovely day. 
-Evelyn,Tue,"Don't mind my husband, George. He isn't very friendly to strangers.# #If you get to know him better he'll warm up to you.# #I'm sure you two could become good friends one day! # #Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year."
-Evelyn,Wed,"# evelynGarden1#I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday. # #The good Mayor put me in charge of the town's public gardens.# #I've been working on the town flower beds for weeks, so don't step on them!"
-Evelyn,Thu,I'll be baking cookies today. I like to make flower shapes in the spring. # #Maybe I'll tell you my recipe one of these days.
-Evelyn,Fri,George spends the whole day in front of that darned television set.# #I wish he'd go outside more. Some fresh air would do him good.
-Evelyn,Sat,"I used to love looking at the clouds, but I have trouble seeing them these days.# # My eyes just don't work as well as they used to. "
-Evelyn,Sun,It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier.# #As kids we hunted for seashells after the tide went out. Those were the days...
-Evelyn,Tue6,"It's nice of you to take the time to visit George and I.# #Without young people around, we'd age much faster. "
+Evelyn,Tue,"Don't mind my husband, George. He isn't very friendly to strangers. If you get to know him better he'll warm up to you. I'm sure you two could become good friends one day! Since you're so interested in my husband I'll let you in on a little secret: he really likes leeks! You can find them in the mountains this time of year."
+Evelyn,Wed,"# evelynGarden1#I saw the most beautiful family of butterflies sunning themselves in the town garden yesterday. The good Mayor put me in charge of the town's public gardens. I've been working on the town flower beds for weeks, so don't step on them!"
+Evelyn,Thu,I'll be baking cookies today. I like to make flower shapes in the spring. Maybe I'll tell you my recipe one of these days.
+Evelyn,Fri,George spends the whole day in front of that darned television set. I wish he'd go outside more. Some fresh air would do him good.
+Evelyn,Sat,"I used to love looking at the clouds, but I have trouble seeing them these days. My eyes just don't work as well as they used to. "
+Evelyn,Sun,It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier. As kids we hunted for seashells after the tide went out. Those were the days...
+Evelyn,Tue6,"It's nice of you to take the time to visit George and I. Without young people around, we'd age much faster. "
 Evelyn,Event_cookies1,Thank you! 
 Evelyn,Event_cookies2,"What was that, dear? I could've sworn you said 'hockey puck'. My ears aren't what they used to be. "
 Evelyn,summer_Mon,I feel more energetic in this wonderful weather. 
-Evelyn,summer_Mon_inlaw_Alex,How's my grandson doing? I imagine he's quite happy living on the farm.# #He deserves to be happy... he's a good boy.
-Evelyn,summer_Tue,"George is always a little less grumpy in the summer. The warm weather softens his bones.# #You might not be able to tell, but I can. I've known him for sixty years!"
-Evelyn,summer_Wed,"The good Mayor put me in charge of the town's public gardens.# #I've been working on the town flower beds for months, so don't step on them!"
-Evelyn,summer_Thu,I'm going to bake cookies today. They're coconut wonders shaped like little palm trees! Heehee. # #Maybe I'll tell you my recipe one of these days.
+Evelyn,summer_Mon_inlaw_Alex,How's my grandson doing? I imagine he's quite happy living on the farm. He deserves to be happy... he's a good boy.
+Evelyn,summer_Tue,"George is always a little less grumpy in the summer. The warm weather softens his bones. You might not be able to tell, but I can. I've known him for sixty years!"
+Evelyn,summer_Wed,"The good Mayor put me in charge of the town's public gardens. I've been working on the town flower beds for months, so don't step on them!"
+Evelyn,summer_Thu,I'm going to bake cookies today. They're coconut wonders shaped like little palm trees! Heehee. Maybe I'll tell you my recipe one of these days.
 Evelyn,summer_Sat,"Be careful out there, dear. You could get sunburnt!"
-Evelyn,summer_Sun,"Sweet peas are in bloom right now.# #They've got such a wonderful fragrance, haven't they?"
-Evelyn,summer_Thu4,It seems like we always have more visitors when I start baking cookies.# #My mother taught me the recipe.
+Evelyn,summer_Sun,"Sweet peas are in bloom right now. They've got such a wonderful fragrance, haven't they?"
+Evelyn,summer_Thu4,It seems like we always have more visitors when I start baking cookies. My mother taught me the recipe.
 Evelyn,fall_Mon,With every year I appreciate the seasons more and more. For young people it's easy to let them slip by.
 Evelyn,fall_Tue,I've been putting raisins in George's oatmeal... but he hasn't said a word. I wonder if he even notices these things?
-Evelyn,fall_Wed,"The good Mayor put me in charge of the town's public gardens.# #The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do."
-Evelyn,fall_Thu,Today I'm baking cookies. They're shaped like little pumpkins. # #Maybe I'll tell you my recipe one of these days.
-Evelyn,fall_Sat,Are you friends with Alex?# #Sometime he worries me sick.
+Evelyn,fall_Wed,"The good Mayor put me in charge of the town's public gardens. The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do."
+Evelyn,fall_Thu,Today I'm baking cookies. They're shaped like little pumpkins. Maybe I'll tell you my recipe one of these days.
+Evelyn,fall_Sat,Are you friends with Alex? Sometime he worries me sick.
 Evelyn,fall_Sat_inlaw_Alex,"Oh, hello my dear. I think of you as my own grandson now. ^Oh, hello my dear. I think of you as my own grand-daughter now. "
-Evelyn,fall_Sun,"My eyesight may be poor, but my nose hasn't failed me yet!# #I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl."
+Evelyn,fall_Sun,"My eyesight may be poor, but my nose hasn't failed me yet! I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl."
 Evelyn,winter_Mon,"Be careful you don't slip on the ice, dear."
-Evelyn,winter_Tue,"Aren't you cold? You should wear a thicker jacket, my dear!# #This weather isn't good for my joints... "
-Evelyn,winter_Wed,"I usually tend to the gardens, but they're covered in snow.# #I still like to check up on them now and then."
-Evelyn,winter_Sat,"We've lived here for over 30 years.# #We've seen a lot of people come and go. Your grandfather, for one. Bless him... "
-Evelyn,winter_Sat6,Oh... my dear. You have your grandfather's eyes... # #Yes... yes... I knew him very well.
-Evelyn,winter_Sun,You should make some hot soup to stay warm.# #And make sure you wear a jacket!
-Evelyn,winter_Sat8,"@, have I told you that George and I have lived in our house for 30 years?# #I hope you stay here for a while. "
-George,Introduction,"Hmmph... It's irritating to have to meet all these new people, huh?# #Name's George, by the way. Now buzz off... Hmmph."
-George,accept_867,"What's this?# #Hmmph... so you push this button first? What's this button do? Hmmph... # #Hehe! Well, how about that! It's a new channel! # #Here, take this. It's a stone I found when I was a coal miner back in the day. Funny thing, it's glowed blue and stayed cold for over forty years. Like magic!"
-George,pamHouseUpgrade,"Thanks for replacing that beat up old trailer... the new house is much nicer to look at.# #You know, I'll bet it increases the value of our property too!"
+Evelyn,winter_Tue,"Aren't you cold? You should wear a thicker jacket, my dear! This weather isn't good for my joints... "
+Evelyn,winter_Wed,"I usually tend to the gardens, but they're covered in snow. I still like to check up on them now and then."
+Evelyn,winter_Sat,"We've lived here for over 30 years. We've seen a lot of people come and go. Your grandfather, for one. Bless him... "
+Evelyn,winter_Sat6,Oh... my dear. You have your grandfather's eyes... Yes... yes... I knew him very well.
+Evelyn,winter_Sun,You should make some hot soup to stay warm. And make sure you wear a jacket!
+Evelyn,winter_Sat8,"@, have I told you that George and I have lived in our house for 30 years? I hope you stay here for a while. "
+George,Introduction,"Hmmph... It's irritating to have to meet all these new people, huh? Name's George, by the way. Now buzz off... Hmmph."
+George,accept_867,"What's this? Hmmph... so you push this button first? What's this button do? Hmmph... Hehe! Well, how about that! It's a new channel! Here, take this. It's a stone I found when I was a coal miner back in the day. Funny thing, it's glowed blue and stayed cold for over forty years. Like magic!"
+George,pamHouseUpgrade,"Thanks for replacing that beat up old trailer... the new house is much nicer to look at. You know, I'll bet it increases the value of our property too!"
 George,pamHouseUpgradeAnonymous,Welp... that new house blocks my view of the river a little... but it sure looks nicer than that old tin can Pam was livin' in.
 George,MovieInvitation,You wanna see a movie with an old geezer like me? ...Well... okay. I'll meet you there.
 George,joja_Begin,"So... the old Community Center is gone, huh? Whatever happened to small-town values? It's a shame how times have changed..."
 George,Mon,"I'm not much of a talker. Especially not to strangers, if you don't mind me saying."
 George,Tue,Hmmph... Looks like another gloomy day. 
-George,Wed,Alex is my grandson. Have I told you that already?# #Huh? Speak up.
+George,Wed,Alex is my grandson. Have I told you that already? Huh? Speak up.
 George,Wed_inlaw_Alex,"How can two men get married? It's unnatural... Hmmph. I guess I'm just ""old fashioned""...^You're part of the family, now. I'm glad that my grandson found such a nice wife."
 George,Wed10_inlaw_Alex,"I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.^You're part of the family, now... and I couldn't be more proud."
-George,Thu,"I can't talk right now, young man.^I can't talk right now, miss.# #My favorite program is on."
+George,Thu,"I can't talk right now, young man.^I can't talk right now, miss. My favorite program is on."
 George,Fri,"So you're a farmer, huh? At least it's honest work."
-George,Sat,"The weekend is no different than any other time, for me.# #That's how it is when you're retired."
-George,Sun,Aren't you cold? They don't make sweaters like they used to.# # 
+George,Sat,"The weekend is no different than any other time, for me. That's how it is when you're retired."
+George,Sun,Aren't you cold? They don't make sweaters like they used to. 
 George,Mon6,I'm surprised you want to be friends with an old-timer like me.
 George,Thu6,"Hello, @. Wanna watch the TV with me?"
-George,Fri4,My grand-pap was a farmer. It's a respectable profession.# #If I wasn't so darned old I'd come to your farm and show you a thing or two...
-George,Wed8,I wish my legs worked so I could play catch with Alex. # #That'll never happen. 
-George,Fri8,I've been thinking...Maybe I've been a little bit of a grouch. # #I used to think no one cared about us old folks.
-George,Fri10,"You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe! # #Take care, son.^Take care, hun."
-George,Wed10,@! Let me turn off this darned television and we can have a little chat. # #So what are the young people doing these days?
-George,Tue10,"You know, I shouldn't get too depressed about my legs.# #I should just be happy that I'm alive. "
-George,Thu10,"When you get as old as me it's a lot harder to adjust to new things.# #One day you'll know what I mean.# #Go on, enjoy yourself while you're still young."
-George,winter_1,Ohh... It's so cold.# #When you're young the cold doesn't bite as hard.
-Gus,Introduction,"Well hello there! I'm Gus, chef and owner of the Stardrop Saloon.# #Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready. "
-Gus,accept_865, sniff slurp slurp* ... that zesty taste! That gritty texture!# #It can only be gourmet tomato salt! I'll trade you for it.
+George,Fri4,My grand-pap was a farmer. It's a respectable profession. If I wasn't so darned old I'd come to your farm and show you a thing or two...
+George,Wed8,I wish my legs worked so I could play catch with Alex. That'll never happen. 
+George,Fri8,I've been thinking...Maybe I've been a little bit of a grouch. I used to think no one cared about us old folks.
+George,Fri10,"You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe! Take care, son.^Take care, hun."
+George,Wed10,@! Let me turn off this darned television and we can have a little chat. So what are the young people doing these days?
+George,Tue10,"You know, I shouldn't get too depressed about my legs. I should just be happy that I'm alive. "
+George,Thu10,"When you get as old as me it's a lot harder to adjust to new things. One day you'll know what I mean. Go on, enjoy yourself while you're still young."
+George,winter_1,Ohh... It's so cold. When you're young the cold doesn't bite as hard.
+Gus,Introduction,"Well hello there! I'm Gus, chef and owner of the Stardrop Saloon. Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready. "
+Gus,accept_865, sniff slurp slurp* ... that zesty taste! That gritty texture! It can only be gourmet tomato salt! I'll trade you for it.
 Gus,Resort_Entering,"Hey, @! Glad you're here. I'm gonna be serving up some good stuff from behind the bar."
 Gus,Resort_Leaving,"I'll see you back home, @."
 Gus,Resort,Meet me at the bar if you need a beverage.
 Gus,IslandSouth_14_21,"Hey, need a drink? I've got some special beverages that showcase local ingredients from this island. "
 Gus,willyCrabs,These might be the best crab cakes I've ever made...
-Gus,Mon,"Yeah, I know a lot about the people living here.# #That's one of the benefits of being a bartender. # #Sometimes I hear too much..."
-Gus,pamHouseUpgrade,"Hey. I heard what you did for Pam. That was really really nice of you! # #Sadly, I don't think it will get her to cut back on the 'beverages'..."
-Gus,pamHouseUpgradeAnonymous,"I saw Pam earlier today... she was grinning from ear to ear! She said someone bought her a new house!# #Whoever it was, they truly deserve the best! "
+Gus,Mon,"Yeah, I know a lot about the people living here. That's one of the benefits of being a bartender. Sometimes I hear too much..."
+Gus,pamHouseUpgrade,"Hey. I heard what you did for Pam. That was really really nice of you! Sadly, I don't think it will get her to cut back on the 'beverages'..."
+Gus,pamHouseUpgradeAnonymous,"I saw Pam earlier today... she was grinning from ear to ear! She said someone bought her a new house! Whoever it was, they truly deserve the best! "
 Gus,Saloon,Good evening. Can I get you anything?
 Gus,Saloon4,Good evening. Make yourself at home.
 Gus,SeedShop_Entry,"Hi, Pierre!/Now, what do I need.../Ah, that looks good!/Makin' my special sauce tonight!/Pierre! What's fresh?/Pierre! Waddya got for me?"
@@ -204,114 +204,114 @@ Gus,Saloon8,Hi there @. I'm glad to see you! You're always welcome here.
 Gus,Saloon_Tue,Hi! Please relax and enjoy yourself.
 Gus,Saloon_Thu,"Hey, you look like you could use a beverage."
 Gus,Saloon_Fri,Business has been really good tonight. I'm pleased.
-Gus,Tue,"I sell different dishes each week, so make sure and check in every now and then!# #You might taste something spectacular. # #Just let me know if you have any allergies. # #Okay, see you around."
-Gus,Wed,Emily's been working here for a while now. I don't know what I'd do without her!# #I would hate to have to clean all those pots by myself. 
-Gus,Thu,Pam and Clint come into the saloon almost every night.# #I'd probably go out of business if they stopped coming. # #So make sure you don't drive them away!
-Gus,Thu6,"Clint comes into the saloon almost every night and sits at the same table by himself.# #Sometimes he glances over at Emily with a nervous look. Hmmm.# #Maybe that's why he comes in so often. Oh well, that means more business for me."
-Gus,Thu8,"Pam comes into the saloon almost every night and drinks way too much beer.# #Ah well, I shouldn't pass judgement on my customers."
+Gus,Tue,"I sell different dishes each week, so make sure and check in every now and then! You might taste something spectacular. Just let me know if you have any allergies. Okay, see you around."
+Gus,Wed,Emily's been working here for a while now. I don't know what I'd do without her! I would hate to have to clean all those pots by myself. 
+Gus,Thu,Pam and Clint come into the saloon almost every night. I'd probably go out of business if they stopped coming. So make sure you don't drive them away!
+Gus,Thu6,"Clint comes into the saloon almost every night and sits at the same table by himself. Sometimes he glances over at Emily with a nervous look. Hmmm. Maybe that's why he comes in so often. Oh well, that means more business for me."
+Gus,Thu8,"Pam comes into the saloon almost every night and drinks way too much beer. Ah well, I shouldn't pass judgement on my customers."
 Gus,Fri,"Hi there, @. If you're ever thirsty, the Saloon is the place to be."
-Gus,Fri4,I don't actually drink very much myself. I'm mainly doing this to make a living.# #Although I do enjoy a taste of the Stardew Valley vintage from time to time.
-Gus,Sat,"Are you much of a chef, @?# #If you have a kitchen and some recipes, you can cook some useful dishes.# #Home-cooked meals make great gifts, as well."
+Gus,Fri4,I don't actually drink very much myself. I'm mainly doing this to make a living. Although I do enjoy a taste of the Stardew Valley vintage from time to time.
+Gus,Sat,"Are you much of a chef, @? If you have a kitchen and some recipes, you can cook some useful dishes. Home-cooked meals make great gifts, as well."
 Gus,Sun,Business has been pretty steady thanks to my regular customers.
-Jas,Introduction,... # #Hi... 
+Jas,Introduction,... Hi... 
 Jas,Resort_Entering,I see a crab!
 Jas,Resort_Leaving,I've got sand in my shoe... 
 Jas,Resort_Shore,I'm collecting seashells... I'm gonna make a necklace!
 Jas,Resort,"Aunt Marnie told me not to get burnt... But when I walk fast, it feels cool, so I think I'll be okay. "
 Jas,reject_869,"Ew, gross! "
 Jas,Mon,Oh...Are you looking for Aunt Marnie? 
-Jas,Mon4,"Hi, Mr. @.^Hi, Ms. @.# #It's fun to live on a farm. "
-Jas,Tue,What? # #...hi.
+Jas,Mon4,"Hi, Mr. @.^Hi, Ms. @. It's fun to live on a farm. "
+Jas,Tue,What? ...hi.
 Jas,Tue6,You can play with my dolls if you want to. Just make sure to brush their hair when you're done.
 Jas,Wed,... 
 Jas,Wed2,...Hi. 
-Jas,Wed4,Aunt Marnie won't let me go out after 6 o'clock. It's not fair! # #I'm not afraid of the dark anymore!
+Jas,Wed4,Aunt Marnie won't let me go out after 6 o'clock. It's not fair! I'm not afraid of the dark anymore!
 Jas,Thu,I'm not supposed to talk to strangers... 
-Jas,Thu2,Miss Penny is teaching me how to write in cursive. # #She has such pretty handwriting.
+Jas,Thu2,Miss Penny is teaching me how to write in cursive. She has such pretty handwriting.
 Jas,Fri,... I don't know you. 
 Jas,Fri2,Do you like my bow?
 Jas,Fri4,I like living on the farm... my favorite is the fresh ice cream from our cows' milk.
 Jas,Sat,You smell like grass. 
-Jas,Sat2,Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once.# #She loved it.
-Jas,Sat8,"You're always so nice to me, Mr. @ ^You're always so nice to me, Ms. @. # #Grown-ups are usually mean and boring, but you're different."
-Jas,Sun,Um... d...do you want something? # #I'm not supposed to talk to strangers. 
-Jas,Sun2,"Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games.# #I'm thankful for all my toys. "
-Jas,Sun10,Did you know Shane's my godfather? He was a friend of my parents. # #...they died. 
-Jodi,Introduction,"Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.# #It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things."
+Jas,Sat2,Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once. She loved it.
+Jas,Sat8,"You're always so nice to me, Mr. @ ^You're always so nice to me, Ms. @. Grown-ups are usually mean and boring, but you're different."
+Jas,Sun,Um... d...do you want something? I'm not supposed to talk to strangers. 
+Jas,Sun2,"Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games. I'm thankful for all my toys. "
+Jas,Sun10,Did you know Shane's my godfather? He was a friend of my parents. ...they died. 
+Jodi,Introduction,"Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi. It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things."
 Jodi,Resort_Entering,What a treat!
 Jodi,Resort_Leaving,I think I'll make seafood tonight. 
 Jodi,Resort,The view is breathtaking! Deep blue as far as the eye can see...
 Jodi,Resort_Bar,We all love it when Gus shows up.
 Jodi,reject_864,What's this? It looks like one of Kent's buddies from the war. Maybe you should show it to him?
-Jodi,Mon,Maintaining a household is difficult work... but somebody has to do it.# #Yes?
+Jodi,Mon,Maintaining a household is difficult work... but somebody has to do it. Yes?
 Jodi,Mon6,It's nice to have a family... but I'd be lying if I said I never miss the freedom of being young... 
-Jodi,21,"My husband Kent is a soldier, working overseas. That's why he's not here right now.# #I know he'll come back safe once his tour is over!!# #Need something?"
-Jodi,Tue,"Exercise is important for staying healthy. I always make sure to set aside some time for it.# #As a parent, I don't have much time to devote to myself. So I try and make every minute count."
-Jodi,Wed4,"I wish I could spend more time outside, but there's so much work to do.# #I started wearing rubber gloves to keep my hands soft.# #The older you get, the more work you have to do to stay healthy. # #Ok, bye!"
-Jodi,Wed,What did you say? It's already? My goodness!# #I still have tons of work to do! 
-Jodi,Thu6,"Where does all the time go? # #I remember when Sam was a little baby wearing diapers. He was such a cute little kid. # #Don't tell him I said that. # #You must really like talking to me, huh?"
-Jodi,Thu,"So you're a farmer, huh? Interesting.# .5#I've never met a farmer before. # #Maybe some day you can teach me how to grow vegetables. "
+Jodi,21,"My husband Kent is a soldier, working overseas. That's why he's not here right now. I know he'll come back safe once his tour is over!! Need something?"
+Jodi,Tue,"Exercise is important for staying healthy. I always make sure to set aside some time for it. As a parent, I don't have much time to devote to myself. So I try and make every minute count."
+Jodi,Wed4,"I wish I could spend more time outside, but there's so much work to do. I started wearing rubber gloves to keep my hands soft. The older you get, the more work you have to do to stay healthy. Ok, bye!"
+Jodi,Wed,What did you say? It's already? My goodness! I still have tons of work to do! 
+Jodi,Thu6,"Where does all the time go? I remember when Sam was a little baby wearing diapers. He was such a cute little kid. Don't tell him I said that. You must really like talking to me, huh?"
+Jodi,Thu,"So you're a farmer, huh? Interesting.# .5#I've never met a farmer before. Maybe some day you can teach me how to grow vegetables. "
 Jodi,Fri," Joja#The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!|The food at Pierre's is so much fresher and healthier than anything I ever bought at JojaMart. I do miss those cheap Joja prices, though."
-Jodi,Sat,Hi.# #Need something?
-Jodi,Sat4,"I'm so glad you're trying to improve that old farm.# #Once you've got everything in order, it's going to add a lot to our community! # #It's going to be a lot of work for you, though.# #Bye."
-Jodi,Mon2," kent#Yesterday I visited Yoba's Altar to give thanks for my husband's safe return.|Yesterday I visited Yoba's Altar to ask for my husband's safe return.# #I'm trying to stay positive, but it's hard sometimes. "
-Jodi,Sun,"# .5#I'm taking a break from house chores today. # #I'm taking the day off. # #If I don't spend any time outside, I'll go crazy!# #Plus I don't want my legs to turn soft."
-Jodi,Sun8,"I had a dream that I had complete freedom, no obligation to anyone but myself...# #...Then I woke up and realized I had a full day of house chores ahead of me... # #But I don't regret having a family, @... Sam and Vincent mean everything to me!"
-Jodi,summer_Mon,"Summer is nice, but it also means more work.# #I'll have to keep the garden in shape on top of working in the house!"
-Jodi,summer_Tue,Hello.# #Do you need something? I'm a little busy.
+Jodi,Sat,Hi. Need something?
+Jodi,Sat4,"I'm so glad you're trying to improve that old farm. Once you've got everything in order, it's going to add a lot to our community! It's going to be a lot of work for you, though. Bye."
+Jodi,Mon2," kent#Yesterday I visited Yoba's Altar to give thanks for my husband's safe return.|Yesterday I visited Yoba's Altar to ask for my husband's safe return. I'm trying to stay positive, but it's hard sometimes. "
+Jodi,Sun,"# .5#I'm taking a break from house chores today. I'm taking the day off. If I don't spend any time outside, I'll go crazy! Plus I don't want my legs to turn soft."
+Jodi,Sun8,"I had a dream that I had complete freedom, no obligation to anyone but myself... ...Then I woke up and realized I had a full day of house chores ahead of me... But I don't regret having a family, @... Sam and Vincent mean everything to me!"
+Jodi,summer_Mon,"Summer is nice, but it also means more work. I'll have to keep the garden in shape on top of working in the house!"
+Jodi,summer_Tue,Hello. Do you need something? I'm a little busy.
 Jodi,summer_Tue_inlaw_Sam,How's my little Sammy doing on the old farm? 
-Jodi,summer_Thu,"Housework is frustrating because you're never finished.# #The day after I sweep the floor, it's dirty again."
-Jodi,summer_Sun,What in the world am I going to make for dinner?# # ...
-Jodi,fall_Thu,"Maybe I've spoiled the boys a bit. They've never had to do any chores.# #I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though.# #I hope he hasn't grow up to be lazy. That won't do. # #Being a parent isn't very easy."
+Jodi,summer_Thu,"Housework is frustrating because you're never finished. The day after I sweep the floor, it's dirty again."
+Jodi,summer_Sun,What in the world am I going to make for dinner? ...
+Jodi,fall_Thu,"Maybe I've spoiled the boys a bit. They've never had to do any chores. I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though. I hope he hasn't grow up to be lazy. That won't do. Being a parent isn't very easy."
 Jodi,fall_Thu_inlaw_Sam,"Is Sam just bumming around the farm, or is he contributing?"
 Jodi,fall_Sun,Caroline and I are good friends. I tell her everything.
-Jodi,fall_Sun2,"When you become a parent, you have to leave your old lifestyle behind.# #Maybe that's not entirely true... but if you're not careful, it will happen."
+Jodi,fall_Sun2,"When you become a parent, you have to leave your old lifestyle behind. Maybe that's not entirely true... but if you're not careful, it will happen."
 Jodi,winter_Mon,I loved playing in the snow when I was a kid. The great thing about being a mother is that I get to enjoy it again. 
-Jodi,winter_Tue,Hi. Do you get tired of people asking about your farm all the time?# #I think I would.
-Jodi,winter_Tue6, ... Sometimes I dream about life on my own... without a family to look after. Is that horrible? # #Don't tell anyone. 
-Jodi,winter_Wed2,What do I do for fun? Hmm... That's a good question.# #I like sleeping. 
+Jodi,winter_Tue,Hi. Do you get tired of people asking about your farm all the time? I think I would.
+Jodi,winter_Tue6, ... Sometimes I dream about life on my own... without a family to look after. Is that horrible? Don't tell anyone. 
+Jodi,winter_Wed2,What do I do for fun? Hmm... That's a good question. I like sleeping. 
 Jodi,winter_Wed4_2,"Kent has been home for a while now, but he still seems uneasy. "
 Jodi,winter_Thu,Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors.
 Jodi,winter_Thu_inlaw_Sam,"How's Sam doing? I have to admit, there's less cooking and cleaning to do since he moved out..."
-Jodi,winter_Thu8,"We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back. # #I can't believe I'm saying this to you. "
+Jodi,winter_Thu8,"We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back. I can't believe I'm saying this to you. "
 Jodi,winter_Fri,It would be nice to take a vacation once in a while... 
-Jodi,winter_Sun,"If I was rich the first thing I'd do would be to hire a maid and a chef.# #My goodness, that would be nice! "
-Kent,Mon,"Hello, farmer.# #I've been gone so long... I feel like a stranger."
+Jodi,winter_Sun,"If I was rich the first thing I'd do would be to hire a maid and a chef. My goodness, that would be nice! "
+Kent,Mon,"Hello, farmer. I've been gone so long... I feel like a stranger."
 Kent,Resort_Entering,"Hey, @. Nice to see you."
 Kent,Resort_Leaving,Time to head home.
-Kent,Resort_Shore,Standing on this beach... I feel a rare sense of peace. # #The ocean is a very special thing.
+Kent,Resort_Shore,Standing on this beach... I feel a rare sense of peace. The ocean is a very special thing.
 Kent,Resort_Chair,This is a great place to bond with the family. I really appreciate you fixing it up.
 Kent,Resort_Bar,Just getting some water.
 Kent,Resort,The boat ride was fun. I even got to use some of my nautical training to help navigate. 
 Kent,MovieInvitation,Erm... okay. Thank you. I'll meet you there. 
-Kent,accept_864,"...! # #...Where did you find this? # #... # #This man... We fought together in the war, @. He was like a brother to me. # #But... only one of us made it back. # #He never lost his courage, though. Even in the face of death. A true hero... I'll never forget him.# #Thanks for bringing me this... It means a lot to me.# #Here, take this. It's been sitting in the back of our cupboard for years, and we've never used it."
+Kent,accept_864,"...! ...Where did you find this? ... This man... We fought together in the war, @. He was like a brother to me. But... only one of us made it back. He never lost his courage, though. Even in the face of death. A true hero... I'll never forget him. Thanks for bringing me this... It means a lot to me. Here, take this. It's been sitting in the back of our cupboard for years, and we've never used it."
 Kent,reject_865,"Yep... It's been tightly sealed, so the flavor should still be really potent."
-Kent,Mon4,I don't know if I'll ever get used to being back home.# #The peacefulness of the town feels like a mask. That's probably just me though.
-Kent,Tue,"Things haven't changed much since I've been gone.# #Well, except that you're here."
-Kent,Tue2,Things haven't changed much since I've been gone.# #Except that we have a new farmer in town. 
-Kent,Wed6,...I lost a lot of friends in battle. # #What's sad is that I can't even remember their faces.# #...
+Kent,Mon4,I don't know if I'll ever get used to being back home. The peacefulness of the town feels like a mask. That's probably just me though.
+Kent,Tue,"Things haven't changed much since I've been gone. Well, except that you're here."
+Kent,Tue2,Things haven't changed much since I've been gone. Except that we have a new farmer in town. 
+Kent,Wed6,...I lost a lot of friends in battle. What's sad is that I can't even remember their faces. ...
 Kent,Wed,"You've been here a while now, haven't you? Your farm must be thriving."
-Kent,Thu6,# Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine. # #Sam has really grown up since I left. He's a man now.# #I wish I could've been there for him. 
-Kent,Thu,Are you friends with my son?# #You probably know him better than I do... 
+Kent,Thu6,# Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine. Sam has really grown up since I left. He's a man now. I wish I could've been there for him. 
+Kent,Thu,Are you friends with my son? You probably know him better than I do... 
 Kent,Thu_inlaw_Sam,"Hey, @. Are you enjoying the married lifestyle?"
 Kent,Fri,"It looks like a decent day for fishing, doesn't it?"
 Kent,Sat,Jodi tells me you've really become a part of this community. I'm glad to hear it.
-Kent,Sat8,"I have trouble sleeping, so please excuse me if I seem tired.# #I'm sure you can understand."
-Kent,Sun,I don't know what to do with myself now that I'm back.# #I'm used to having more structure in my day.
+Kent,Sat8,"I have trouble sleeping, so please excuse me if I seem tired. I'm sure you can understand."
+Kent,Sun,I don't know what to do with myself now that I'm back. I'm used to having more structure in my day.
 Kent,event_popcorn1,You keep quiet! Stop trying to turn me against my wife. 
-Kent,event_popcorn2,"... # #You're absolutely right, @. "
+Kent,event_popcorn2,"... You're absolutely right, @. "
 Kent,event_popcorn3,Don't lie to me! I hate lies more than anything! 
-Krobus,4,"...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters.# #You haven't... slain any of my friends, have you?"
+Krobus,4,"...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear humans... there have been too many... unpleasant encounters. You haven't... slain any of my friends, have you?"
 Krobus,8,A 1000 year war between my people and the dwarves recently ended. There's still a lot of resentment on both sides.
 Krobus,15,"Please keep my location a secret. If the dwarves knew of me, they'd surely send an assassin."
 Krobus,Fri,...
-Krobus,reject_868,"Oh, it's an arctic shard! That's a very rare magical item.# #I'd bring that to the Wizard if I were you!"
+Krobus,reject_868,"Oh, it's an arctic shard! That's a very rare magical item. I'd bring that to the Wizard if I were you!"
 Krobus,Wed,I find things here and I sell them. Care to buy anything?
-Krobus,Wed6,"If you put your ear up to the right pipe, you can hear into any house from down here.# #I wouldn't eavesdrop, though! "
-Krobus,Thu,Please don't tell anyone about me.# #Humans tend to destroy things they can't understand.
-Krobus,Thu6,"Please don't tell anyone about me.# #Most humans are frightened by us shadow people... maybe for good reason. # #But regardless, if the townspeople knew about me, I might not be safe here."
-Krobus,Tue,I am too sensitive to sunlight to go out on most days.# #The conditions in here are perfect.# #Care to buy anything?
-Krobus,Mon,"Please, don't be alarmed. I am different than the others.# #I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?"
+Krobus,Wed6,"If you put your ear up to the right pipe, you can hear into any house from down here. I wouldn't eavesdrop, though! "
+Krobus,Thu,Please don't tell anyone about me. Humans tend to destroy things they can't understand.
+Krobus,Thu6,"Please don't tell anyone about me. Most humans are frightened by us shadow people... maybe for good reason. But regardless, if the townspeople knew about me, I might not be safe here."
+Krobus,Tue,I am too sensitive to sunlight to go out on most days. The conditions in here are perfect. Care to buy anything?
+Krobus,Mon,"Please, don't be alarmed. I am different than the others. I've spent a lot of time observing humans. I know you like to shop. Care to see my wares?"
 Krobus,Mon2,Back again? I suppose it does fit into my theory of human behavior.
 Krobus,Mon6,'Krobus' means 'bridge-crosser' in our language.
 Krobus,Sat,On Fridays I stay silent as a sign of devotion to Yoba.
@@ -320,188 +320,188 @@ Krobus,Sun4,"You're not like the other humans, are you?"
 Krobus,Sun8,You've opened my eyes to the world of humans. I appreciate that.
 Krobus,divorced,...
 Leo,Mon,Hi... Everything okay?
-Leo,Mon4,I've learned a lot from my parrot family...# #But I'm sure there's a lot more out there I don't know. 
-Leo,Tue,"When Sun is angry, it feels good in the jungle.# #Sun can't find us beneath the leaves. We trick him! Haha... "
+Leo,Mon4,I've learned a lot from my parrot family... But I'm sure there's a lot more out there I don't know. 
+Leo,Tue,"When Sun is angry, it feels good in the jungle. Sun can't find us beneath the leaves. We trick him! Haha... "
 Leo,Wed,...Sorry... I'm shy today. 
 Leo,Wed2,Be careful in the volcano... the spirits don't like outsiders.
-Leo,Thu,Have you met the others like you?# #I don't talk to them much. I feel safer with my own kind... 
-Leo,Fri,"One time... I was at the top of the volcano at night, and I saw lights far, far away.# #I wonder if there are other bird families out there? "
+Leo,Thu,Have you met the others like you? I don't talk to them much. I feel safer with my own kind... 
+Leo,Fri,"One time... I was at the top of the volcano at night, and I saw lights far, far away. I wonder if there are other bird families out there? "
 Leo,Fri3,I wonder if I could see your home from the top of the volcano?
-Leo,Sat,...I'm sad today. # #You go on... have fun. Let me be sad. 
-Leo,Sun,"When it rains, strange birds visit.# #I try to speak to them... but they fly away. # #I guess they don't want to be friends... "
-LeoMainland,4,I saw a big mango floating in the sky. Linus told me it was a hot-air balloon! # #I thought only birds could fly...
-LeoMainland,18,"When I first arrived, Linus made me a suit out of leaves, like his...# #But I looked funny... like a fuzzy mango! # #I think I'll stick to my feathers."
-LeoMainland,LeoDeparture,I need to find some place to live... # #But I have a plan... I'm going to rely on my friends.
-LeoMainland,Thu8,"It felt bad at first... to leave the island and set foot in a strange land. # #But, I got used to it after a while.# #I'm a very flexible person! "
-LeoMainland,Thu10,"I felt like a stranger here, at first. But I've made a lot of friends! # #For once, I feel like I belong..."
-LeoMainland,Tue,"Miss Penny is doing her best to get me up to speed in my schooling. She's really nice...# #...Luckily, I remember some things from my old, old life... before washing up on the island... so it's not as difficult as it could be.# #Miss Penny says she's impressed with how much I know!"
-LeoMainland,Tue10,"I'm sure Jas and Vincent thought I was weird, at first. I accidentally squawked at the school table a few times... that didn't help. # #It was a big change for everyone. But we're good friends now! "
-LeoMainland,Wed,"Between Linus and Miss Penny, I'm going to learn everything there is to learn! # #Mayor Lewis says I'm on the fast track to becoming a 'well-rounded citizen'... whatever that means."
-LeoMainland,Thu,"Have you ever noticed all the interesting birds that live here?# #If you listen closely, they might tell you something."
-LeoMainland,winter_Thu,The birds of this valley don't mind the cold so much.# #I'm a little jealous of their warm coats... 
-LeoMainland,Fri,Linus has been teaching me about all the wild food in the valley. There's a lot of good stuff out here! # #Though... I do kind of miss having golden walnuts for breakfast every morning... 
-LeoMainland,winter_Fri,Linus taught me how to make a special spice berry rubbed fish...# #He says if I eat enough of it it'll keep me warm this winter! 
-LeoMainland,Fri8,Uncle Linus says I should 'cook' my fish before eating it... # #I'm having a hard time getting used to it... so dry... 
-LeoMainland,Mon,"Hey, @. Nice to see you back on the island, just like old times. This is fun!# #You know, I was scared when you first arrived... I knew my life was about to change. "
-LeoMainland,Sun,"You know, Stardew Valley might be my new home... but the island will always be my home, too.# #It's nice to be able to come back and visit."
-LeoMainland,Sat,"Maybe some day, I'll visit Zuzu City... # #But I'm not even close to being ready, yet. This world is already so strange to me, and I'm very comfortable here right now! "
+Leo,Sat,...I'm sad today. You go on... have fun. Let me be sad. 
+Leo,Sun,"When it rains, strange birds visit. I try to speak to them... but they fly away. I guess they don't want to be friends... "
+LeoMainland,4,I saw a big mango floating in the sky. Linus told me it was a hot-air balloon! I thought only birds could fly...
+LeoMainland,18,"When I first arrived, Linus made me a suit out of leaves, like his... But I looked funny... like a fuzzy mango! I think I'll stick to my feathers."
+LeoMainland,LeoDeparture,I need to find some place to live... But I have a plan... I'm going to rely on my friends.
+LeoMainland,Thu8,"It felt bad at first... to leave the island and set foot in a strange land. But, I got used to it after a while. I'm a very flexible person! "
+LeoMainland,Thu10,"I felt like a stranger here, at first. But I've made a lot of friends! For once, I feel like I belong..."
+LeoMainland,Tue,"Miss Penny is doing her best to get me up to speed in my schooling. She's really nice... ...Luckily, I remember some things from my old, old life... before washing up on the island... so it's not as difficult as it could be. Miss Penny says she's impressed with how much I know!"
+LeoMainland,Tue10,"I'm sure Jas and Vincent thought I was weird, at first. I accidentally squawked at the school table a few times... that didn't help. It was a big change for everyone. But we're good friends now! "
+LeoMainland,Wed,"Between Linus and Miss Penny, I'm going to learn everything there is to learn! Mayor Lewis says I'm on the fast track to becoming a 'well-rounded citizen'... whatever that means."
+LeoMainland,Thu,"Have you ever noticed all the interesting birds that live here? If you listen closely, they might tell you something."
+LeoMainland,winter_Thu,The birds of this valley don't mind the cold so much. I'm a little jealous of their warm coats... 
+LeoMainland,Fri,Linus has been teaching me about all the wild food in the valley. There's a lot of good stuff out here! Though... I do kind of miss having golden walnuts for breakfast every morning... 
+LeoMainland,winter_Fri,Linus taught me how to make a special spice berry rubbed fish... He says if I eat enough of it it'll keep me warm this winter! 
+LeoMainland,Fri8,Uncle Linus says I should 'cook' my fish before eating it... I'm having a hard time getting used to it... so dry... 
+LeoMainland,Mon,"Hey, @. Nice to see you back on the island, just like old times. This is fun! You know, I was scared when you first arrived... I knew my life was about to change. "
+LeoMainland,Sun,"You know, Stardew Valley might be my new home... but the island will always be my home, too. It's nice to be able to come back and visit."
+LeoMainland,Sat,"Maybe some day, I'll visit Zuzu City... But I'm not even close to being ready, yet. This world is already so strange to me, and I'm very comfortable here right now! "
 LeoMainland,Sun10,The parrots want me to thank you for all the golden walnuts you've found. They're really enjoying them. 
-LeoMainland,Sat10,@? Um... I'm a little embarrassed to ask... # #But... do you think Jas would ever like a guy like me? # #Or am I too weird? # #Hahaha... who cares. I'll figure it out some day. 
-Lewis,Introduction,"So, how was your first night in the old cottage?# #Your grandpa used to complain about the rickety old bed. But I think, deep down, he actually loved that house."
+LeoMainland,Sat10,@? Um... I'm a little embarrassed to ask... But... do you think Jas would ever like a guy like me? Or am I too weird? Hahaha... who cares. I'll figure it out some day. 
+Lewis,Introduction,"So, how was your first night in the old cottage? Your grandpa used to complain about the rickety old bed. But I think, deep down, he actually loved that house."
 Lewis,Resort,"I'm impressed, @. You've really fixed up the place! "
 Lewis,Resort_Leaving,Everyone aboard! We're heading back to the valley!
-Lewis,Resort_Shore,"Vacation opportunities like this could really expand the local economy!# #I'd better not stay in the sun too long, or my moustache will dry out."
+Lewis,Resort_Shore,"Vacation opportunities like this could really expand the local economy! I'd better not stay in the sun too long, or my moustache will dry out."
 Lewis,Resort_Chair,"Hehe... look at this place! I don't know how you did it, but this little vacation spot is the talk of the town. "
 Lewis,Resort_Bar,Hehe... Gus is really in his element.
 Lewis,pamHouseUpgrade,"@, I heard what you did for Pam and Penny... now the kind of community support I love to see in Pelican Town! "
-Lewis,pamHouseUpgradeAnonymous,"@, did you hear? Someone paid Robin to build Pam and Penny a house! Robin won't tell me who it was, though.# #Regardless of who paid, I love seeing this kind of community support in Pelican Town! "
+Lewis,pamHouseUpgradeAnonymous,"@, did you hear? Someone paid Robin to build Pam and Penny a house! Robin won't tell me who it was, though. Regardless of who paid, I love seeing this kind of community support in Pelican Town! "
 Lewis,willyCrabs, ... ... can you smell that? I've been catching hints of fresh crab all day... 
 Lewis,cc_Begin," ... ... Ah, I sense you've been spending some time in the old Community Center. It's good to know someone's taking care of the place."
 Lewis,cc_Complete,"I've never felt such an overwhelming pride in our community. You've done Pelican Town a great service, @. "
-Lewis,cc_Bus,"@, did you hear? It seems the old town bus started working again overnight! # #That old thing has been dormant for decades... This is truly a great mystery."
-Lewis,joja_Begin,"So, the old Community Center is gone... I guess times change, and good things come and go... Yet I can't help but feel a sense of loss. # #I just hope this doesn't mar my record as Mayor. "
-Lewis,Mon,"It's a good season to start thinking about gardening, even for us non-farmers.# # The valley is known for producing some of the finest spring flowers! "
-Lewis,Tue,Just place anything you want to sell in the shipping box next to your house.# #I'll be interested in seeing what kinds of things you put in there.
+Lewis,cc_Bus,"@, did you hear? It seems the old town bus started working again overnight! That old thing has been dormant for decades... This is truly a great mystery."
+Lewis,joja_Begin,"So, the old Community Center is gone... I guess times change, and good things come and go... Yet I can't help but feel a sense of loss. I just hope this doesn't mar my record as Mayor. "
+Lewis,Mon,"It's a good season to start thinking about gardening, even for us non-farmers. The valley is known for producing some of the finest spring flowers! "
+Lewis,Tue,Just place anything you want to sell in the shipping box next to your house. I'll be interested in seeing what kinds of things you put in there.
 Lewis,Saloon_Entry,"Hi, Gus!"
 Lewis,Tue2,At the start of each season you'll have to remove the previous season's dead crops. It's easiest with a scythe.
 Lewis,spring_3,"Have you planted any spring crops yet? The season doesn't last forever, you know."
-Lewis,Town_57_40,"# .3#You're in town early, huh? Finished with your farm chores already?# #Good morning! I'm just checking on the garden as usual. # .5#Hmm... are these aphids? # #Hmm... I hope these aren't scale bugs... "
-Lewis,Wed,Hmm... tax collection... ...spring festivities expenses... ... # #Yes?
+Lewis,Town_57_40,"# .3#You're in town early, huh? Finished with your farm chores already? Good morning! I'm just checking on the garden as usual. # .5#Hmm... are these aphids? Hmm... I hope these aren't scale bugs... "
+Lewis,Wed,Hmm... tax collection... ...spring festivities expenses... ... Yes?
 Lewis,spring_10,Ah... There's nothing like a strong cup of tea in the morning.
-Lewis,Thu,"The saloon can get pretty lively at night. Sometimes we even put a coin in the jukebox # #I like to visit once a week or so to catch up on things, anyway."
-Lewis,Saloon,Good evening! It's nice to see you socializing with the townsfolk.# #It's good to stop by once in a while and see what the latest news is. 
-Lewis,Saloon4,"Good evening, @! I'm glad to see you relaxing at the saloon. It's good for you to take a break now and then. # #Your grandfather always worked himself too hard... I'll have an extra beer in his honor tonight."
+Lewis,Thu,"The saloon can get pretty lively at night. Sometimes we even put a coin in the jukebox I like to visit once a week or so to catch up on things, anyway."
+Lewis,Saloon,Good evening! It's nice to see you socializing with the townsfolk. It's good to stop by once in a while and see what the latest news is. 
+Lewis,Saloon4,"Good evening, @! I'm glad to see you relaxing at the saloon. It's good for you to take a break now and then. Your grandfather always worked himself too hard... I'll have an extra beer in his honor tonight."
 Lewis,Fri,I hope things are going well on farm. I'd hate to see it all dried up.
-Lewis,Sat,"Everyone seems a little happier on the weekends, don't you think?# #I'm on the job seven days a week, though."
-Lewis,Sun,I've been Mayor of Pelican Town for over twenty years!# #No one ever runs against me when it's time for an election. I like to think that it means I'm doing my job well.# #I like being Mayor.
+Lewis,Sat,"Everyone seems a little happier on the weekends, don't you think? I'm on the job seven days a week, though."
+Lewis,Sun,I've been Mayor of Pelican Town for over twenty years! No one ever runs against me when it's time for an election. I like to think that it means I'm doing my job well. I like being Mayor.
 Lewis,event_secret1,Thank you @. I won't forget this.
-Lewis,event_secret2, ... I can't believe you would do that... # #You're terrible. 
+Lewis,event_secret2, ... I can't believe you would do that... You're terrible. 
 Lewis,summer_Mon,"Gardening is a hobby of mine, so I'm excited for this warm weather."
-Lewis,summer_Town_57_40,"# .3#Ah, my flowers are growing wonderfully! # .3#Good morning! Can you smell the sweet scent of these dew-lilies?# #It's early but the air is already quite warm. Summer is nice for an old guy like me hehe."
-Lewis,summer_Tue,How did I become Mayor in the first place? It's a long story.# #We're both too busy for stories right now.
+Lewis,summer_Town_57_40,"# .3#Ah, my flowers are growing wonderfully! # .3#Good morning! Can you smell the sweet scent of these dew-lilies? It's early but the air is already quite warm. Summer is nice for an old guy like me hehe."
+Lewis,summer_Tue,How did I become Mayor in the first place? It's a long story. We're both too busy for stories right now.
 Lewis,summer_Wed,The moonlight jellies will be here soon. It's one of my favorite things about the valley.
-Lewis,summer_Thu,The saloon gets pretty lively at night.# #I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti.
+Lewis,summer_Thu,The saloon gets pretty lively at night. I like to visit once a week or so to catch up on things. And to get a taste of Gus' authentic spaghetti.
 Lewis,summer_Fri,Hmm... I wonder if it's anyone's birthday today? I'd better check the calendar by Pierre's shop.
-Lewis,summer_Sat,"Everyone seems a little happier on the weekends, don't you think?# #I'm on the job seven days a week, though."
-Lewis,summer_Sun,"Say, are you growing any blueberries on your farm?# #I do enjoy a fresh blueberry. "
-Lewis,fall_Mon,Some of the townsfolk are wary of strangers. You'll have to win their trust before they open up to you.# #Just be persistent and you'll get through to them. 
-Lewis,fall_Tue,"It was around this time of year when I first became Mayor, over twenty years ago.# #That makes me feel really old. "
-Lewis,fall_Wed,"If you have any suggestions for the town, just drop a note into my suggestion box.# #Oh, that's right... I don't have a suggestion box."
+Lewis,summer_Sat,"Everyone seems a little happier on the weekends, don't you think? I'm on the job seven days a week, though."
+Lewis,summer_Sun,"Say, are you growing any blueberries on your farm? I do enjoy a fresh blueberry. "
+Lewis,fall_Mon,Some of the townsfolk are wary of strangers. You'll have to win their trust before they open up to you. Just be persistent and you'll get through to them. 
+Lewis,fall_Tue,"It was around this time of year when I first became Mayor, over twenty years ago. That makes me feel really old. "
+Lewis,fall_Wed,"If you have any suggestions for the town, just drop a note into my suggestion box. Oh, that's right... I don't have a suggestion box."
 Lewis,fall_Wed2,Every Wednesday I have buckwheat waffles and coffee for breakfast. It's a little tradition I keep to keep the bachelor life interesting. 
-Lewis,fall_Town_57_40,"# .3#Hmmm... these strange little mushrooms have been popping up in my wood chips. I wonder what kind they are?# .3#Good morning! We're slowly entering the cold months, so I'm seeing my garden to a gentle end.# #Ah, you're in town early, huh? Finished with your farm chores already?"
-Lewis,fall_Thu,The saloon gets pretty lively at night.# #I like to visit once a week or so to catch up on things.
+Lewis,fall_Town_57_40,"# .3#Hmmm... these strange little mushrooms have been popping up in my wood chips. I wonder what kind they are?# .3#Good morning! We're slowly entering the cold months, so I'm seeing my garden to a gentle end. Ah, you're in town early, huh? Finished with your farm chores already?"
+Lewis,fall_Thu,The saloon gets pretty lively at night. I like to visit once a week or so to catch up on things.
 Lewis,fall_Fri,I hope things are going well for you on the farm.
-Lewis,fall_12,Do you have any bee houses on your farm?# #If you place them near flowers you can get different types of honey.
+Lewis,fall_12,Do you have any bee houses on your farm? If you place them near flowers you can get different types of honey.
 Lewis,fall_19,Sometimes you can tell if there's something buried underground. Just keep your eyes open.
-Lewis,fall_Fri4,"Have you tried Gus' 'secret' spaghetti sauce? # #...The ingredients may be secret, but the smell isn't.# #I'll see you later."
+Lewis,fall_Fri4,"Have you tried Gus' 'secret' spaghetti sauce? ...The ingredients may be secret, but the smell isn't. I'll see you later."
 Lewis,fall_Sun,"Are you doing your best on the farm, @? You'll have to accomplish things in many areas if you want to become a well-rounded citizen."
-Lewis,winter_1,"Well, winter is here! That means the townspeople will be spending most of their days indoors.# #At least you'll know where to find them! "
-Lewis,winter_Mon,Another year is almost over!# #I hope you had a productive year!
+Lewis,winter_1,"Well, winter is here! That means the townspeople will be spending most of their days indoors. At least you'll know where to find them! "
+Lewis,winter_Mon,Another year is almost over! I hope you had a productive year!
 Lewis,winter_Tue,I've got to start coming up with a plan for improving our town next year!
-Lewis,winter_Wed,"I'll still come by every night to collect your produce, even in the snow.# #You still need to make money in the winter!"
+Lewis,winter_Wed,"I'll still come by every night to collect your produce, even in the snow. You still need to make money in the winter!"
 Lewis,winter_Fri,I hope things are going well for you on the farm.
-Lewis,winter_Fri6,I've never been married. I have no family. All I live for is to be Mayor. # #Is it worth it? # #... ... 
-Lewis,winter_Sun,"Hi there, @! How're you doing today? # #If you see Marnie, tell her I say 'hi'."
-Linus,Introduction,A stranger?... Hello.# #Don't mind me. I just live out here alone.
+Lewis,winter_Fri6,I've never been married. I have no family. All I live for is to be Mayor. Is it worth it? ... ... 
+Lewis,winter_Sun,"Hi there, @! How're you doing today? If you see Marnie, tell her I say 'hi'."
+Linus,Introduction,A stranger?... Hello. Don't mind me. I just live out here alone.
 Linus,reject_869,What do you have there? Looks like it would make good bait. 
-Linus,cc_Boulder,"My old friend, the glimmering boulder, has moved on. It may not seem like an important event, but to me it's a big change.# #I'm happy for the old rock to see more of the world, though. "
-Linus,MovieInvitation,"Oh... me? I usually wouldn't, but... okay. It's nice of you to think about me.# #I'll head over there in a little while."
-Linus,Mon,The crisp air of the wilderness is all I care to know.# #I live out here by choice.
-Linus,Tue,...Have you come to ridicule me?# #I'm just minding my own business.
+Linus,cc_Boulder,"My old friend, the glimmering boulder, has moved on. It may not seem like an important event, but to me it's a big change. I'm happy for the old rock to see more of the world, though. "
+Linus,MovieInvitation,"Oh... me? I usually wouldn't, but... okay. It's nice of you to think about me. I'll head over there in a little while."
+Linus,Mon,The crisp air of the wilderness is all I care to know. I live out here by choice.
+Linus,Tue,...Have you come to ridicule me? I'm just minding my own business.
 Linus,Wed,I don't know you well enough to trust you. Sorry.
 Linus,Thu,...Hmm? Do you want something from me?
-Linus,Fri,Please don't destroy my tent.# #It's happened before. 
-Linus,Sat,"I'm happy by myself, you know.# #I don't need new friends."
-Linus,Sun4,It would be nice if the townspeople could accept me for who I am. # #I like living out here in the open air. That's what they don't understand.
-Linus,Tue4,You can learn to survive in the wild. I have.# #I think we all have a hidden urge to return to nature. It's just a little scary to make the leap.
-Linus,Wed6,"I spend a lot of time thinking.# #If you can fully understand the reasons behind your thoughts, you'll have reached a new level of being."
+Linus,Fri,Please don't destroy my tent. It's happened before. 
+Linus,Sat,"I'm happy by myself, you know. I don't need new friends."
+Linus,Sun4,It would be nice if the townspeople could accept me for who I am. I like living out here in the open air. That's what they don't understand.
+Linus,Tue4,You can learn to survive in the wild. I have. I think we all have a hidden urge to return to nature. It's just a little scary to make the leap.
+Linus,Wed6,"I spend a lot of time thinking. If you can fully understand the reasons behind your thoughts, you'll have reached a new level of being."
 Linus,Wed2,I have to be wary of strangers. Most people don't like a 'wild man'.
-Linus,Thu4,"The people here seem nice, but they avoid me.# #People are afraid of the unknown. "
-Linus,Fri4,"You can learn a lot from trees.# #Spend time with them and they might tell you their secrets.# #Go in peace, young one."
-Linus,Sat4,"I have everything I need to survive, and more. Nature plays a wonderful tune if you can only learn to listen.# #I also spend a lot of time reading. One of the reasons I stopped in the valley was for the great library."
-Linus,Sun,# linusVandal#Someone was throwing rocks at my tent last night... I just had to wait it out. # #I don't like to stay in one place for too long. There's just too much to experience in the world.
-Linus,summer_Mon4,During all these years I've discovered a few secrets about life.# #You'll have to find out for yourself.
-Linus,summer_Mon,# LinusHeron#I saw a heron wading gracefully through the morning mist. Such are the treasures of a quiet life. # #It's so easy to get caught up in the noise of modern life. Your best years will pass you by in a formless blur. That's why you'v got to learn to slow down. 
+Linus,Thu4,"The people here seem nice, but they avoid me. People are afraid of the unknown. "
+Linus,Fri4,"You can learn a lot from trees. Spend time with them and they might tell you their secrets. Go in peace, young one."
+Linus,Sat4,"I have everything I need to survive, and more. Nature plays a wonderful tune if you can only learn to listen. I also spend a lot of time reading. One of the reasons I stopped in the valley was for the great library."
+Linus,Sun,# linusVandal#Someone was throwing rocks at my tent last night... I just had to wait it out. I don't like to stay in one place for too long. There's just too much to experience in the world.
+Linus,summer_Mon4,During all these years I've discovered a few secrets about life. You'll have to find out for yourself.
+Linus,summer_Mon,# LinusHeron#I saw a heron wading gracefully through the morning mist. Such are the treasures of a quiet life. It's so easy to get caught up in the noise of modern life. Your best years will pass you by in a formless blur. That's why you'v got to learn to slow down. 
 Linus,summer_Tue4,"How have you been, my young friend?"
-Linus,summer_Wed6,Ah... summer. The warm sun heats up the cans for me.# #Then at night I've got a warm meal to look forward to.
-Linus,summer_Thu4,I have my own reasons for living alone like this.# #Some things are best left unsaid...# #I should do some foraging.
-Linus,summer_Fri4,"Whenever you catch a fish, take a moment to thank it for its sacrifice.# #Even if you don't believe in the spirit of the fish, it's a good mental exercise. We need to be aware of our effect on the environment."
+Linus,summer_Wed6,Ah... summer. The warm sun heats up the cans for me. Then at night I've got a warm meal to look forward to.
+Linus,summer_Thu4,I have my own reasons for living alone like this. Some things are best left unsaid... I should do some foraging.
+Linus,summer_Fri4,"Whenever you catch a fish, take a moment to thank it for its sacrifice. Even if you don't believe in the spirit of the fish, it's a good mental exercise. We need to be aware of our effect on the environment."
 Linus,summer_Sat4,You can find rainbow trout in streams right now.
-Linus,summer_Sun,"This is an easier time of year for me. I don't have to worry about staying warm.# #Plus, the fruits of the wild are growing everywhere."
-Linus,fall_Mon,I've explored deep into the caves.# #They hold some hidden secrets.# #Just be cautious if you go in there.
-Linus,fall_Tue4,# LinusFall1#Some joker sprayed paint all over my home during the night... It took hours to scrub it off this morning. # #I need to start gathering lumber for the winter.# #Do you have enough lumber to keep your house warm?
-Linus,fall_Wed4,"I don't have many responsibilities, so I spend my time thinking.# #You have to understand your thoughts before you can control them."
+Linus,summer_Sun,"This is an easier time of year for me. I don't have to worry about staying warm. Plus, the fruits of the wild are growing everywhere."
+Linus,fall_Mon,I've explored deep into the caves. They hold some hidden secrets. Just be cautious if you go in there.
+Linus,fall_Tue4,# LinusFall1#Some joker sprayed paint all over my home during the night... It took hours to scrub it off this morning. I need to start gathering lumber for the winter. Do you have enough lumber to keep your house warm?
+Linus,fall_Wed4,"I don't have many responsibilities, so I spend my time thinking. You have to understand your thoughts before you can control them."
 Linus,fall_Sun,I don't like to stay in one place for too long.
 Linus,fall_Sun6,There's nothing quite like a feast of wild mushrooms in the fall. 
 Linus,winter_Mon,It can get really cold if you live in a tent. 
-Linus,winter_Tue4,"Thanks for not shunning me, @. It takes a lot of wisdom to override your base instincts.# #I'm a human like everyone else. I just have a different lifestyle."
-Linus,winter_Wed4,"I'm sure you understand why I'm cautious of strangers.# #But let's put that in the past, okay? You and I are friends now, I think."
-Linus,winter_Thu4,"Winter is tough, but you can still fish and forage to get by.# #If you have any animals you should keep them inside."
-Linus,winter_Fri4,The trees go to sleep during the winter. It makes it a bit lonely out here.# #But I wouldn't deny them their beauty sleep. 
-Linus,winter_Sat4,"Thanks for stopping by. I was actually feeling a little lonely this morning.# #So, have you discovered anything interesting in the mines?"
-Linus,winter_Sun,Sleeping on the ground is good for my back.# #It's best to look at the positive side of things. 
-Marnie,Introduction,"Ah, Mayor Lewis told me you just arrived. I'm Marnie!# #I sell livestock and animal care products at my ranch. You should swing by some time. "
+Linus,winter_Tue4,"Thanks for not shunning me, @. It takes a lot of wisdom to override your base instincts. I'm a human like everyone else. I just have a different lifestyle."
+Linus,winter_Wed4,"I'm sure you understand why I'm cautious of strangers. But let's put that in the past, okay? You and I are friends now, I think."
+Linus,winter_Thu4,"Winter is tough, but you can still fish and forage to get by. If you have any animals you should keep them inside."
+Linus,winter_Fri4,The trees go to sleep during the winter. It makes it a bit lonely out here. But I wouldn't deny them their beauty sleep. 
+Linus,winter_Sat4,"Thanks for stopping by. I was actually feeling a little lonely this morning. So, have you discovered anything interesting in the mines?"
+Linus,winter_Sun,Sleeping on the ground is good for my back. It's best to look at the positive side of things. 
+Marnie,Introduction,"Ah, Mayor Lewis told me you just arrived. I'm Marnie! I sell livestock and animal care products at my ranch. You should swing by some time. "
 Marnie,Resort,Hehe... finally a chance to show off all my hard work at aerobics club. 
 Marnie,Resort_Leaving,I feel warm.
 Marnie,Resort_Shore,Hee hee... It's interesting to see everyone in their bathing suits.
 Marnie,Resort_Chair,Ew... the chair's wet.
 Marnie,Resort_Bar,Phew... It's hot! 
-Marnie,reject_789,Gah! # #...Um... What? Heh.. I don't know what that is... 
+Marnie,reject_789,Gah! ...Um... What? Heh.. I don't know what that is... 
 Marnie,Mon,"I love animals, Mr. @. If you treat yours well I'm sure we'll become good friends!^I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!"
-Marnie,Mon4,"Animals are so innocent, so sweet. And If I don't look after them, who will? # #I just hope my chickens aren't too upset when I take their eggs. "
-Marnie,Thu_2,"You've been here a while, now... how's your farm doing?# #Taking care of animals is easy as long as you don't forget about them! "
+Marnie,Mon4,"Animals are so innocent, so sweet. And If I don't look after them, who will? I just hope my chickens aren't too upset when I take their eggs. "
+Marnie,Thu_2,"You've been here a while, now... how's your farm doing? Taking care of animals is easy as long as you don't forget about them! "
 Marnie,Saloon,Now that I'm here I can finally relax and socialize a bit.
 Marnie,Saloon_Tue,There aren't very many people here today... 
-Marnie,Saloon_Wed,"# marnieAnimalSal#I spilled a whole bucket of milk on the floor today, it was horrible. And such a waste of my poor Belinda's hard work. # #It's nice of you to show up! It's a little more lively now."
+Marnie,Saloon_Wed,"# marnieAnimalSal#I spilled a whole bucket of milk on the floor today, it was horrible. And such a waste of my poor Belinda's hard work. It's nice of you to show up! It's a little more lively now."
 Marnie,Saloon_Thu,Phew! It sure feels good to kick back after a hard day's work.
 Marnie,Saloon_Fri, doesn't seem to notice that you're there...
 Marnie,Saloon_Sun, ... I wasn't very productive today.
 Marnie,Saloon_Sat,I always see Clint here but he won't talk to anyone. He just glances over his shoulder now and then. 
-Marnie,Tue,"My nephew Shane has been staying at my place the last few months.# #He helps me out with the chickens, so I'm not complaining."
-Marnie,Wed,"You can use a scythe to cut feed from grass.# #Or you can buy it from me, of course! # #I could use the cash... # #Adios."
-Marnie,Thu,"Hi. Need something?# #I might be getting some different kinds of animals in the future.# #Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first.# #Just keep treating your animals with respect and good things will happen."
-Marnie,Fri,"You can catch me at the saloon most nights.# #Animals are great company, but I need to spend time with people, too."
-Marnie,Fri4,# marnieLike#I think someone in town has taken a liking to me. # #I would be so lonely if Shane ever moved out.
-Marnie,Fri6,"I wonder if Mr. Lewis gets lonely in that big house of his... # #It seems so empty in there, doesn't it?"
-Marnie,Sat,"Have you been to that strange tower west of my house?# #One time I heard this terrible, otherworldly noise coming from there. # #I would avoid that place if I were you..."
-Marnie,Sun,"Hey there, it's good to see ya!# #Feel free to visit us any time you please."
-Marnie,Sun8,Hi @! # #I'm glad we've become friends. I know I can trust you to take care of my dear animals.
+Marnie,Tue,"My nephew Shane has been staying at my place the last few months. He helps me out with the chickens, so I'm not complaining."
+Marnie,Wed,"You can use a scythe to cut feed from grass. Or you can buy it from me, of course! I could use the cash... Adios."
+Marnie,Thu,"Hi. Need something? I might be getting some different kinds of animals in the future. Although, I'll need to make sure there's a market for them, so you'll have to prove your skill with animals first. Just keep treating your animals with respect and good things will happen."
+Marnie,Fri,"You can catch me at the saloon most nights. Animals are great company, but I need to spend time with people, too."
+Marnie,Fri4,# marnieLike#I think someone in town has taken a liking to me. I would be so lonely if Shane ever moved out.
+Marnie,Fri6,"I wonder if Mr. Lewis gets lonely in that big house of his... It seems so empty in there, doesn't it?"
+Marnie,Sat,"Have you been to that strange tower west of my house? One time I heard this terrible, otherworldly noise coming from there. I would avoid that place if I were you..."
+Marnie,Sun,"Hey there, it's good to see ya! Feel free to visit us any time you please."
+Marnie,Sun8,Hi @! I'm glad we've become friends. I know I can trust you to take care of my dear animals.
 Krobus,Rainy_Day_0,"Do you like rainy days as much as I do, @?"
 Krobus,Rainy_Day_1,We're different in so many ways... but that's alright.
-Krobus,Rainy_Day_2,"Good morning, @. I went out early and found this for you. [305 308 203 795 397]# #I hope it's not too strange."
+Krobus,Rainy_Day_2,"Good morning, @. I went out early and found this for you. [305 308 203 795 397] I hope it's not too strange."
 Krobus,Rainy_Day_3,I wonder if the wizard knows about... this? I hope he can keep a secret. 
-Krobus,Rainy_Day_4,"As much as I try to be civilized, I have the urge to be mischievous sometimes... # #They say it's a condition of my people."
+Krobus,Rainy_Day_4,"As much as I try to be civilized, I have the urge to be mischievous sometimes... They say it's a condition of my people."
 Krobus,Rainy_Day_Krobus,"Ah, It's more humid today with the rain... I feel a lot more comfortable."
 Krobus,Rainy_Night_0,"On nights like this, those who gaze out windows sometimes see shadowy figures. To think... it might've been me. "
-Krobus,Rainy_Night_1,"If the other shadow people knew about our living arrangement, they would... 'punish' me. # #Most of them despise humans, you know."
+Krobus,Rainy_Night_1,"If the other shadow people knew about our living arrangement, they would... 'punish' me. Most of them despise humans, you know."
 Krobus,Rainy_Night_2,"You're sopping wet, and cold! Isn't that dangerous to your species? "
 Krobus,Rainy_Night_3,"I already had dinner, but it wasn't something you'd be able to eat... sorry."
 Krobus,Rainy_Night_4,"Ever since I left my people, I've been searching for a new home... now I belong somewhere. That means everything to me."
 Krobus,Rainy_Night_5,"It's said that my people came here long ago, when a great catastrophe allowed spirits from the void to cross into the physical plane."
-Krobus,Rainy_Night_Krobus,"The sound of the rain reminds me of the sewers... it's comforting.# #The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too."
+Krobus,Rainy_Night_Krobus,"The sound of the rain reminds me of the sewers... it's comforting. The sewers were my refuge... I felt safe there. But don't worry... I feel the same way about my new home, too."
 Krobus,Indoor_Day_0,"If I could come help you, I would... but I'll do my best to keep the house in order."
-Krobus,Indoor_Day_1,"I tried my best to make human food... [203 204 651 225]# #You can eat it later, don't worry about it..."
-Krobus,Indoor_Day_2,"I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to ""get out"" like humans do.# #But I understand that you need to! Please don't feel like you have to stay here with me. "
-Krobus,Indoor_Day_3,I'm considering spending my day all balled up and wedged in the corner...# #What? You mean you don't do that? 
+Krobus,Indoor_Day_1,"I tried my best to make human food... [203 204 651 225] You can eat it later, don't worry about it..."
+Krobus,Indoor_Day_2,"I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to ""get out"" like humans do. But I understand that you need to! Please don't feel like you have to stay here with me. "
+Krobus,Indoor_Day_3,I'm considering spending my day all balled up and wedged in the corner... What? You mean you don't do that? 
 Krobus,Indoor_Day_4,"On Fridays, I like to stay quiet out of respect for Yoba. I hope you don't mind."
 Krobus,Indoor_Day_Krobus,"I wish I could help you on the farm, but I can't go out in the sun..."
 Krobus,Indoor_Night_0,"I cleaned all the bugs out of the house today... Sorry, I didn't save you any! "
 Krobus,Indoor_Night_1,"You feel solid... sometimes I wish I had bones, too... "
-Krobus,Indoor_Night_2,"Sometimes I wonder if humans and shadow people could really ever co-exist... It's a lovely idea, but is it realistic? # #I hope so..."
-Krobus,Indoor_Night_3,Sometimes I pause and think of all that I've learned about humans from you...# #I wish all my fellow shadow people could know this feeling.
-Krobus,Indoor_Night_4,"I want to be a good housemate for you, but I never know if I'm doing well... # #I have a hard time understanding human expression. B... but... you're happy living with me?# #Okay! "
+Krobus,Indoor_Night_2,"Sometimes I wonder if humans and shadow people could really ever co-exist... It's a lovely idea, but is it realistic? I hope so..."
+Krobus,Indoor_Night_3,Sometimes I pause and think of all that I've learned about humans from you... I wish all my fellow shadow people could know this feeling.
+Krobus,Indoor_Night_4,"I want to be a good housemate for you, but I never know if I'm doing well... I have a hard time understanding human expression. B... but... you're happy living with me? Okay! "
 Krobus,Indoor_Night_Krobus,"Hi, @. Welcome home. You look like you've been working hard out there! "
 Krobus,Outdoor_0,"I'll stay out here for just a bit, but we've got to be careful... if anyone approaches I'll need to hide!"
 Krobus,Outdoor_1,It's rare that I can step outside!
 Krobus,Outdoor_2,What a beautiful day! 
 Krobus,Outdoor_3,Wide open spaces make me nervous... 
 Krobus,Outdoor_4,"Please go about your day, I'll just stay here and guard the house."
-Krobus,Outdoor_Krobus,"I'll wait here for a bit, and see if any bugs come my way.# #I haven't had breakfast yet!"
+Krobus,Outdoor_Krobus,"I'll wait here for a bit, and see if any bugs come my way. I haven't had breakfast yet!"
 Krobus,OneKid_3,"I'm not sure how, but Yoba has blessed this house with a 'child'..."
 Krobus,TwoKids_0,Don't worry... I already made and a void egg omelet.
 Krobus,TwoKids_2,I worry about the future of the children... But I trust that Yoba has a plan for them.
 Krobus,TwoKids_3,"This house has been blessed with two children, now... Does that mean Yoba approves of our unconventional living arrangement?"
-Krobus,Good_1,"I feel a sensation in my body... is this... 'platonic love'? # #... Oh, wait... I'm just shedding my skin. "
+Krobus,Good_1,"I feel a sensation in my body... is this... 'platonic love'? ... Oh, wait... I'm just shedding my skin. "
 Krobus,Good_2,I've learned to overcome my bias against humans... but Dwarves still disgust me. 
 Krobus,Good_3,"You started nibbling on me during the night, and mumbling about 'black lick or ish'... what did you mean by that? "
 Krobus,Good_0,"We're making progress, and I feel really hopeful. "
@@ -545,27 +545,27 @@ Krobus,spring_1,"What's your plan for the new year, @?"
 Krobus,spring_23,You should go to the flower dance tomorrow! Don't worry about me.
 Krobus,summer_1,"I get sunburnt very easily, so I need to be careful this time of year."
 Krobus,summer_8,Mmm... what's that lovely smell? You must've been sweating all night... 
-Krobus,summer_15,"It's summer... that means the house is full of flies.# #Don't worry, I'll take care of them. It's good protein! "
+Krobus,summer_15,"It's summer... that means the house is full of flies. Don't worry, I'll take care of them. It's good protein! "
 Krobus,fall_8,I don't feel like doing anything today.
 Krobus,fall_15,Have you figured out what you're going to use for your grange display tomorrow?
 Krobus,fall_24,If I showed up to the Spirit's Eve festival they'd put me in a cage... 
 Krobus,winter_28,"Thanks for letting me stay here, @. I'm looking forward to another great year! "
-Krobus,spouseRoom_Krobus,"# .5#We're so physically different that it's a challenge to live together, isn't it?# #I hope the humidity here isn't bothersome to you. We both have to compromise in order to live together!"
+Krobus,spouseRoom_Krobus,"# .5#We're so physically different that it's a challenge to live together, isn't it? I hope the humidity here isn't bothersome to you. We both have to compromise in order to live together!"
 Krobus,spring_Krobus,"It's 'spring' now, isn't it? I can smell the peppery aroma of wild horseradish."
 Krobus,summer_Krobus,"You call this time of year 'summer', right? The warmth and humidity is nice, but I wish it wasn't so sunny."
 Krobus,fall_Krobus,"It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'fall', correct?"
 Krobus,winter_Krobus,The darkness this time of year is very soothing. If only it were warmer!
-Pam,Introduction,"Hey, kid. The name's Pam.# #Don't be a jerk and we'll get along fine."
+Pam,Introduction,"Hey, kid. The name's Pam. Don't be a jerk and we'll get along fine."
 Pam,Resort_Shore,Looks like there's some unique fish swimmin' around. Next time I'll have to bring my pole!
 Pam,Resort,Heh... Willy gave us each a piece of his fish jerky on the ride over. Delicious!
-Pam,Resort_Chair,"Now this is comfort! I might even take my shoes off! # #Better not look too closely at my feet, kid."
+Pam,Resort_Chair,"Now this is comfort! I might even take my shoes off! Better not look too closely at my feet, kid."
 Pam,Resort_Bar,"It's a special occasion, kid... I'm ordering something unique. Make it a double! "
-Pam,reject_867,"Wow, would you look at that... It's like something out of the future.# #Hehe, sorry kid... I can't use that. There's more buttons than I have brain cells! "
-Pam,pamHouseUpgrade,"I can't believe you bought me a house! Is there any catch?# #Sorry, I'm not used to people being so nice... "
-Pam,pamHouseUpgradeAnonymous,"I can't believe someone bought me a house! I wonder if it's some kind of scam?# #Sorry, I'm not used to people being so nice... "
-Pam,MovieInvitation,"Date night with ol' Pam, huh? Hah! ^Ladies night with ol' Pam, huh? Hah! # #Sure thing, kid... I'll see you there."
-Pam,cc_Bus,"Hey, did you hear about the ol' bus?# #Yep... I'm back on the saddle, kid... hehe. Feels nice. "
-Pam,Mon,"# PamDrank#urghh... my head... # #You know, I'd eat healthier food if I could afford it.# #Hey, you probably have a lot of tasty grub growin' on your farm, hm?"
+Pam,reject_867,"Wow, would you look at that... It's like something out of the future. Hehe, sorry kid... I can't use that. There's more buttons than I have brain cells! "
+Pam,pamHouseUpgrade,"I can't believe you bought me a house! Is there any catch? Sorry, I'm not used to people being so nice... "
+Pam,pamHouseUpgradeAnonymous,"I can't believe someone bought me a house! I wonder if it's some kind of scam? Sorry, I'm not used to people being so nice... "
+Pam,MovieInvitation,"Date night with ol' Pam, huh? Hah! ^Ladies night with ol' Pam, huh? Hah! Sure thing, kid... I'll see you there."
+Pam,cc_Bus,"Hey, did you hear about the ol' bus? Yep... I'm back on the saddle, kid... hehe. Feels nice. "
+Pam,Mon,"# PamDrank#urghh... my head... You know, I'd eat healthier food if I could afford it. Hey, you probably have a lot of tasty grub growin' on your farm, hm?"
 Pam,Saloon,Nothin' like a sip o' the good stuff to warm these old bones... 
 Pam,Saloon_Entry,"Ah... Finally./I need a drink./Gus! Gimme the usual./Hey, I'm back!/Ooh boy, am I thirsty!/I'm parched!"
 Pam,Trailer_Entry,Penny! Did you make dinner?/Penny! You done your chores?/Penny! You home?/Hey! I'm home!
@@ -576,70 +576,70 @@ Pam,Saloon_Thu, ... I've been looking forward to this beverage all afternoon. He
 Pam,Saloon_Fri,"Oi, Gus! Gimme another pint of your strongest!"
 Pam,Saloon_Sat, isn't responding.
 Pam,Saloon_Sun, seems out of it. Better leave her alone right now.
-Pam,Tue,"Hey, you! Don't be snoopin' around the trailer when I'm out. Got it? # #Sorry, but I gotta be cautious with strangers."
-Pam,Tue2,"I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid.# #Keep your head screwed on right and you'll make it through in one piece...# #That's what my Pappy always used to say. Heh heh heh. "
+Pam,Tue,"Hey, you! Don't be snoopin' around the trailer when I'm out. Got it? Sorry, but I gotta be cautious with strangers."
+Pam,Tue2,"I was reading the newspaper this morning but then I got depressed. It's a rotten world, kid. Keep your head screwed on right and you'll make it through in one piece... That's what my Pappy always used to say. Heh heh heh. "
 Pam,Wed, bus#You don't know how glad I am that the bus is up and running! I feel alive again.|Times have been tough lately. I got laid off of my job as a bus driver. If I got that job back I could drive you to Calico Desert.
-Pam,Thu,"# PamDrunk#Blahh... I had one too many caramel porters at the saloon last night... Go away. # #My house ain't pretty but at least it's by the river.# #Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?"
+Pam,Thu,"# PamDrunk#Blahh... I had one too many caramel porters at the saloon last night... Go away. My house ain't pretty but at least it's by the river. Hey. Penny's my baby girl. Be nice to her or leave her alone, got it?"
 Pam,Thu4,Penny says I spend too much time at the saloon... 
 Pam,Thu4_inlaw_Penny,It's awful lonely at home all by myself...
-Pam,Fri2,"You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.# #You got any ideas?# #...Ehh. Maybe I'll play checkers against myself."
-Pam,Fri,Each day's just the same as the last... # #If only I'd been born rich... 
-Pam,Sat,Make sure your boots are clean before you go stompin' around in my house. # #It's annoying to clean a mess. You should know that by now.
-Pam,Sat4,I wish a team of elves would come during the night and tidy up my house. Hahahaha. # #I could sure go for some parsnips.# #If my legs weren't so stiff I'd visit the mountains every now and then.
-Pam,Sun,Are you friends with Gus? He's a pretty good guy.# #He even gives me free beer on my birthday.
+Pam,Fri2,"You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night. You got any ideas? ...Ehh. Maybe I'll play checkers against myself."
+Pam,Fri,Each day's just the same as the last... If only I'd been born rich... 
+Pam,Sat,Make sure your boots are clean before you go stompin' around in my house. It's annoying to clean a mess. You should know that by now.
+Pam,Sat4,I wish a team of elves would come during the night and tidy up my house. Hahahaha. I could sure go for some parsnips. If my legs weren't so stiff I'd visit the mountains every now and then.
+Pam,Sun,Are you friends with Gus? He's a pretty good guy. He even gives me free beer on my birthday.
 Pam,event_credit1,"Hey, watch your mouth! No one tells me what to do! "
-Pam,event_credit2,...it isn't? That's terrible! # #...Oh. 
+Pam,event_credit2,...it isn't? That's terrible! ...Oh. 
 Pam,summer_Tue,"Hi, stranger."
-Pam,summer_Tue2,"Oh, it's Mr. @.^Oh it's Miss @.# #Do you need my help or something?"
-Pam,summer_Tue6,"I had hopes and dreams like you, once... But look at me now. # #Life doesn't always turn out like you expect.# #Ah well. There's no sense dwellin' on what you don't have."
+Pam,summer_Tue2,"Oh, it's Mr. @.^Oh it's Miss @. Do you need my help or something?"
+Pam,summer_Tue6,"I had hopes and dreams like you, once... But look at me now. Life doesn't always turn out like you expect. Ah well. There's no sense dwellin' on what you don't have."
 Pam,summer_Wed,Havin' a local farm is good for our town.
-Pam,summer_Wed4,"Maybe if you do real well on your farm it'll boost the local economy.# #Then everyone will have a job and we'll all be happy, right?"
-Pam,summer_Thu,"Oh, hi there, farmer.# #I don't often chit-chat with strangers."
-Pam,summer_Thu4,I always seem to end up at the saloon at some point.# #It's too close to my house. It ain't healthy.
-Pam,summer_Fri,...Yeah?# #You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What're you wastin' your time talkin' to someone like me for?
-Pam,summer_Sat2,"Don't mind that ol' dog next to the house.# #He might look at you cross, but he'll never get up from that box in a hunderd years.# #The old boy's name? It's Dusty."
-Pam,summer_Sat,Someone's been complainin' about my yard... sayin' it's a mess. Was it you? # #Hmmm...
+Pam,summer_Wed4,"Maybe if you do real well on your farm it'll boost the local economy. Then everyone will have a job and we'll all be happy, right?"
+Pam,summer_Thu,"Oh, hi there, farmer. I don't often chit-chat with strangers."
+Pam,summer_Thu4,I always seem to end up at the saloon at some point. It's too close to my house. It ain't healthy.
+Pam,summer_Fri,...Yeah? You're a fine lookin' young man. Why're you wastin' your time talkin' to an old girl like me?^You're a pretty gal. What're you wastin' your time talkin' to someone like me for?
+Pam,summer_Sat2,"Don't mind that ol' dog next to the house. He might look at you cross, but he'll never get up from that box in a hunderd years. The old boy's name? It's Dusty."
+Pam,summer_Sat,Someone's been complainin' about my yard... sayin' it's a mess. Was it you? Hmmm...
 Pam,fall_Tue,"If I knew you better, I'd be more inclined to chat."
-Pam,fall_Tue4,"I used to be young, once. Hard to believe, huh?# #Time sure goes fast when you grow up. "
+Pam,fall_Tue4,"I used to be young, once. Hard to believe, huh? Time sure goes fast when you grow up. "
 Pam,fall_Wed, ... I guess I'll be popping a frozen dinner into the microwave tonight. 
 Pam,fall_Thu,"Penny's the only one I've got, so you best treat her kindly."
-Pam,fall_Fri,"Every day is the same old routine... # #Do you ever have that problem, farmer?"
-Pam,fall_Sat,Would you do me a kindness and clean up my house?# #Just kidding. 
-Pam,fall_Sun,Don't you have work to do?# #You should be thankful that you have a job rather than moping around town all the time.
-Pam,fall_Sun4,"I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio.# #Times sure do change."
+Pam,fall_Fri,"Every day is the same old routine... Do you ever have that problem, farmer?"
+Pam,fall_Sat,Would you do me a kindness and clean up my house? Just kidding. 
+Pam,fall_Sun,Don't you have work to do? You should be thankful that you have a job rather than moping around town all the time.
+Pam,fall_Sun4,"I miss my old truck driving job. I used to go all around the valley, meetin' people, listenin' to the radio. Times sure do change."
 Pam,winter_Mon,You got any hogs on that farm?
 Pam,winter_Tue,"Do you want somethin' from me, kid? Best look somewhere else."
-Pam,winter_Tue4,I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.# #...It's so dry in winter. My skin feels like old parchment.
+Pam,winter_Tue4,I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel. ...It's so dry in winter. My skin feels like old parchment.
 Pam,winter_Tue4_inlaw_Penny,Hey. You better be treatin' Penny right on that old farm of yours. She's the only one I got!
-Pam,winter_Wed,"Hey kid. What're you up to?# #I'm just passin' time, same as always."
-Pam,winter_Thu,"It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh.# #Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?"
-Pam,winter_Fri,Penny sure does like old books. I think she's a heck of a lot smarter than I ever was.# #I'm glad.
+Pam,winter_Wed,"Hey kid. What're you up to? I'm just passin' time, same as always."
+Pam,winter_Thu,"It's awful cold. A visit to the saloon should warm me up, don't you think? Heh heh. Why don't you swing by the saloon later for a taste o' the Oh-Be-Joyful?"
+Pam,winter_Fri,Penny sure does like old books. I think she's a heck of a lot smarter than I ever was. I'm glad.
 Pam,winter_Sat,"I oughta take up fishin', seein' as how close the river is."
 Pam,winter_Sun,Blah... my front yard's a mess. 
-Pierre,Introduction,"Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store.^Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store.# #If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price!# #A little agriculture could really inject new life into the local economy!"
-Pierre,Resort,"I'm losing a lot of money being away from the shop... # #But, you know what? It's worth it."
+Pierre,Introduction,"Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store.^Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store. If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!"
+Pierre,Resort,"I'm losing a lot of money being away from the shop... But, you know what? It's worth it."
 Pierre,Resort_Shore,Mmm... that salty smell of the sea is making me want some sashimi.
 Pierre,Resort_Chair,"Eh, let the kids play in the sun. I'll just sit in this chair."
 Pierre,Resort_Bar,Drink after drink... Gus must be making a killing!
-Pierre,cc_Complete,"This is a dream-come-true! You can't begin to imagine how much stress JojaMart was causing me.# #For a small town like this, one store is enough! There's too much social pressure for me to overcharge, anyway."
+Pierre,cc_Complete,"This is a dream-come-true! You can't begin to imagine how much stress JojaMart was causing me. For a small town like this, one store is enough! There's too much social pressure for me to overcharge, anyway."
 Pierre,joja_Begin,"This is a sad day for Pelican Town... The stronger Joja becomes, the closer I move toward bankruptcy. I might have to sell the shop soon... "
 Pierre,MovieInvitation,"Hey, that's a great idea... It'll be nice to get out from behind the counter. I'll meet you there!"
 Pierre,Mon,"Welcome! If you're looking for seeds, you've come to the right place!"
 Pierre,Mon_inlaw_Abigail,"Hello, er... my son? ^Hello, er... daughter? "
 Pierre,Mon4,"Hi, @. Need any seeds or fruit tree saplings?"
 Pierre,Mon4_inlaw_Abigail,"Hi, @. How's Abigail doing? The shop hasn't been the same without her..."
-Pierre,Tue,"Sometimes I get new items in stock, so make sure to stop by every so often.# #It's a lot of work to run a shop. "
+Pierre,Tue,"Sometimes I get new items in stock, so make sure to stop by every so often. It's a lot of work to run a shop. "
 Pierre,Tue6,"You know, I used to be a pretty good boxer back in the day... my right hook was the stuff of legend! "
-Pierre,Wed,It's my day off today.# #Hmmm... what to do... 
+Pierre,Wed,It's my day off today. Hmmm... what to do... 
 Pierre,Wed4,When I was younger I always had something interesting to do... now I find myself just wasting time whenever I'm not at work. 
-Pierre,Thu,"I'm happy to buy any produce off you.# #I'll give you a fair price, of course!"
+Pierre,Thu,"I'm happy to buy any produce off you. I'll give you a fair price, of course!"
 Pierre,Thu2,"I really do appreciate your business, Mr. @. I've been having a harder and harder time turning a decent profit.^I really do appreciate your business, Ms. @. I've been having a harder and harder time turning a decent profit."
-Pierre,Thu8,"# pierre2#Does Abigail look anything like me? Don't tell my wife, but sometimes I wonder if I'm really the father. # #Don't tell my wife, but I hate to cook dinner."
-Pierre,Fri,# pierreJoja#Business has been slow since Joja moved into town. It's hard to compete with their selection. # #Hi there. Is your farm doing well?# #Maybe a few of my seeds will spruce things up.
+Pierre,Thu8,"# pierre2#Does Abigail look anything like me? Don't tell my wife, but sometimes I wonder if I'm really the father. Don't tell my wife, but I hate to cook dinner."
+Pierre,Fri,# pierreJoja#Business has been slow since Joja moved into town. It's hard to compete with their selection. Hi there. Is your farm doing well? Maybe a few of my seeds will spruce things up.
 Pierre,Sat,"If you find any wild produce, I'll take it off your hands for a reasonable price."
-Pierre,Sat8,"I'll tell you a secret. Sometimes, when the store is empty, I'll practice my opera singing behind the counter. # #Don't tell anyone."
-Pierre,Sun,"# pierreBlue# ... I've got those behind-the-counter blues... # #I wish I could go for a walk, but I can't leave the store unattended.# #I've heard the flowers are in bloom and the air smells great... "
-Pierre,Wed6,"# pierre1# ... No matter how well the business does, it's never enough to satisfy my desire for success. What's wrong with me? Maybe I'm just bored with domestic life. # #Some day I'm going to open a new shop in the city and make a killing.# #Unfortunately, business is so slow I can hardly save any money... "
+Pierre,Sat8,"I'll tell you a secret. Sometimes, when the store is empty, I'll practice my opera singing behind the counter. Don't tell anyone."
+Pierre,Sun,"# pierreBlue# ... I've got those behind-the-counter blues... I wish I could go for a walk, but I can't leave the store unattended. I've heard the flowers are in bloom and the air smells great... "
+Pierre,Wed6,"# pierre1# ... No matter how well the business does, it's never enough to satisfy my desire for success. What's wrong with me? Maybe I'm just bored with domestic life. Some day I'm going to open a new shop in the city and make a killing. Unfortunately, business is so slow I can hardly save any money... "
 Pierre,Thu4,"Hey, @. You're my number one customer!"
 Pierre,summer_Mon,I've got summer seeds available! You'd better stock up.
 Pierre,summer_Wed,I'm so glad to have a day off from work.
@@ -647,118 +647,118 @@ Pierre,summer_Thu,Everyone's enjoying the weather instead of shopping...
 Pierre,summer_Fri,"Oh, hi. Are you satisfied with the quality of my summer seeds?"
 Pierre,summer_Sat,"Summer is a good time to eat a refreshing salad, don't you think?"
 Pierre,summer_Sun,Ugh... It's so hot in here.
-Pierre,winter_Mon,You can't grow any crops during winter... so I have no seeds to offer you.# #It's really going to cut into our profits.
-Pierre,winter_Wed,"# pierreDin#I'm going to surprise Caroline tonight with dinner and a bottle of Stardew Red. Don't tell anyone! # #Finally, a day of relaxation."
+Pierre,winter_Mon,You can't grow any crops during winter... so I have no seeds to offer you. It's really going to cut into our profits.
+Pierre,winter_Wed,"# pierreDin#I'm going to surprise Caroline tonight with dinner and a bottle of Stardew Red. Don't tell anyone! Finally, a day of relaxation."
 Pierre,winter_Thu,Hi. In the mood for a litle shopping?
 Pierre,winter_Fri,"I mainly deal in edibles, so if you've got any ores or wood you'd better try selling them somewhere else."
 Pierre,winter_Sat,Is it just me or is there a cold draft in here?
-Pierre,winter_Sun,If I didn't have this shop to run I would be outside right now.# #It would be fun to throw a snowball.
-Pierre,fall_Mon,"Fall seeds are here! Crops don't grow in winter so this is your last shot until spring.# #Better go all out, huh?"
-Pierre,fall_Thu,It's starting to get cold outside...# #That means more people come into the shop to warm up... hehe.
-Pierre,fall_Fri,# pierreMEGA#My dream is to keep opening new stores until I become extremely wealthy. hehehe. # #Hi there. Is your farm still doing well?# #Maybe a few of my seeds will spruce things up. 
-Pierre,fall_Sat,"I'm happy to buy whatever you produce on the farm.# #Yes, I do resell it for a profit... but that's the benefit of being an established shop owner.# #Don't get any ideas..."
-Pierre,fall_Sun,If I didn't have this shop to run I would be outside right now...# #The leaves look great and the mushrooms are sprouting.
-Pierre,Event_naga1,"Thanks, I appreciate that. Just forget you ever saw this, okay? # #...And I'll just forget that you were snooping around in my bedroom!"
-Pierre,Event_naga2,You would really do that to me? You're terrible. # #You shouldn't have been snooping around in my bedroom in the first place! Nosy neighbors are the worst. 
+Pierre,winter_Sun,If I didn't have this shop to run I would be outside right now. It would be fun to throw a snowball.
+Pierre,fall_Mon,"Fall seeds are here! Crops don't grow in winter so this is your last shot until spring. Better go all out, huh?"
+Pierre,fall_Thu,It's starting to get cold outside... That means more people come into the shop to warm up... hehe.
+Pierre,fall_Fri,# pierreMEGA#My dream is to keep opening new stores until I become extremely wealthy. hehehe. Hi there. Is your farm still doing well? Maybe a few of my seeds will spruce things up. 
+Pierre,fall_Sat,"I'm happy to buy whatever you produce on the farm. Yes, I do resell it for a profit... but that's the benefit of being an established shop owner. Don't get any ideas..."
+Pierre,fall_Sun,If I didn't have this shop to run I would be outside right now... The leaves look great and the mushrooms are sprouting.
+Pierre,Event_naga1,"Thanks, I appreciate that. Just forget you ever saw this, okay? ...And I'll just forget that you were snooping around in my bedroom!"
+Pierre,Event_naga2,You would really do that to me? You're terrible. You shouldn't have been snooping around in my bedroom in the first place! Nosy neighbors are the worst. 
 Robin,Introduction,Have you met everyone in town yet? That sounds exhausting.
-Robin,Resort,"Wow, look at these structures! # #I can tell they were made by a master builder. I'm really impressed!"
+Robin,Resort,"Wow, look at these structures! I can tell they were made by a master builder. I'm really impressed!"
 Robin,Resort_Leaving,That was fun! 
 Robin,Resort_Shore,"Hey, look! I can see another island from here."
-Robin,Resort_Chair,"Hey @. You know, I was just thinking about how far the town has come since you first moved here.# #You should really be proud of all you've done! "
+Robin,Resort_Chair,"Hey @. You know, I was just thinking about how far the town has come since you first moved here. You should really be proud of all you've done! "
 Robin,Resort_Bar,This is so relaxing...
 Robin,reject_865,"Veggie salt? Sounds good, but I don't need it."
 Robin,reject_866,"Hmm... when I think of flowers, I think of Evelyn. Maybe show this to her?"
 Robin,pamHouseUpgrade,"Our little plan worked out well, don't you think? Pam and Penny seem really happy."
 Robin,pamHouseUpgradeAnonymous,"Our little plan worked out well, don't you think? Pam and Penny seem really happy."
 Robin,MovieInvitation,"Ooh... Two tickets for tonight's show, huh? Sounds good! I'll meet you there. "
-Robin,cc_Bridge,"Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired!# #It's a miracle of woodworking!"
+Robin,cc_Bridge,"Hey! I heard some weird noises last night, and woke up this morning to find the quarry bridge completely repaired! It's a miracle of woodworking!"
 Robin,cc_Complete,"I knew it from the moment you stepped off that bus, @... you were destined to be a town hero! "
 Robin,cc_Begin,Hey! I heard that Lewis showed you around the Community Center... It'd be great if you could fix that place up. It used to be a really nice building!
-Robin,Mon,Have I told you that I built our house from the ground up?# #It's definitely been the highlight of my career so far.
-Robin,Tue,"Hey, if you need any materials or blueprints, my shop is the place you're looking for!# #Plus, your business supports the local economy. "
-Robin,Wed,"Hey there, @.# #I was just daydreaming about some new carpentry projects.# #Are you doing OK at your place? How's the woodwork in your cottage holding up?"
-Robin,Thu,"You're always welcome to visit us, even if you aren't shopping, you know. # #It can get pretty lonely up here in the mountains."
-Robin,Fri,"You've met my son Sebastian, right? He lives downstairs.# #He's a little shy, but I'm sure he'll warm up to you if you're nice to him."
+Robin,Mon,Have I told you that I built our house from the ground up? It's definitely been the highlight of my career so far.
+Robin,Tue,"Hey, if you need any materials or blueprints, my shop is the place you're looking for! Plus, your business supports the local economy. "
+Robin,Wed,"Hey there, @. I was just daydreaming about some new carpentry projects. Are you doing OK at your place? How's the woodwork in your cottage holding up?"
+Robin,Thu,"You're always welcome to visit us, even if you aren't shopping, you know. It can get pretty lonely up here in the mountains."
+Robin,Fri,"You've met my son Sebastian, right? He lives downstairs. He's a little shy, but I'm sure he'll warm up to you if you're nice to him."
 Robin,Fri_inlaw_Sebastian,"I miss my Sebby... he was always a little misunderstood, but I believed in him."
-Robin,Fri4,"# RobinSeb#I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this?# #Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much...# #I would talk to him about it but he never opens up to me."
+Robin,Fri4,"# RobinSeb#I found an ashtray in Sebastian's room, and it smelled really weird. Should I be worried about this? Sometimes I worry about Sebastian... he doesn't have many friends and doesn't really seem to care about his future very much... I would talk to him about it but he never opens up to me."
 Robin,Fri4_inlaw_Sebastian,Sebastian told me he's trying to quit smoking! I'm really proud of him.
-Robin,Sat,"Our house is in such a beautiful area, don't you think?# #I love the fresh air of the mountains."
-Robin,Sun,I hope Demetrius doesn't blow the house up with those science experiments of his.# #I'm not even sure what he's working on. I think it has something to do with plants.
-Robin,Sun2,"# RobinDem#My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place. # #Sorry if it smells weird in here, @. It's my husband's bizarre science project..."
-Robin,Sun6,"Hi @! It's good to see you.# #You're a regular member of the community now, don't you think?"
+Robin,Sat,"Our house is in such a beautiful area, don't you think? I love the fresh air of the mountains."
+Robin,Sun,I hope Demetrius doesn't blow the house up with those science experiments of his. I'm not even sure what he's working on. I think it has something to do with plants.
+Robin,Sun2,"# RobinDem#My husband almost set the house on fire last night with his science experiment. One of his beakers exploded and sent a fireball into the rafters! Thank Yoba I used fire-resistant lacquer when I built the place. Sorry if it smells weird in here, @. It's my husband's bizarre science project..."
+Robin,Sun6,"Hi @! It's good to see you. You're a regular member of the community now, don't you think?"
 Robin,event_wood1,"Great, then this blueprint should be a piece of cake for you! "
 Robin,event_wood2,"Well, then I have the perfect blueprint to get you started!"
 Robin,summer_Mon,"Wood is a wonderful substance... it's versatile, cheap, strong, and each piece has it's own unique character!"
-Robin,summer_Tue,"If you need any buildings on your farm upgraded, just ask me!# #You'll need to provide enough lumber and stone for the project. And it costs money, too.# #But I'm sure you'll be pleased with the results! "
-Robin,summer_Fri,We're pretty insulated from the rest of the world here in Stardew Valley.# #It has its pros and cons.
-Robin,fall_Mon,# RobinMaru#Maru likes gems. She uses them in her inventions.# #So how are you and Maru getting along?
-Robin,fall_Thu,"You're always welcome to visit us, even if you aren't in the market for a building upgrade! # #It can get pretty lonely up here in the mountains."
-Robin,fall_Fri,"Have you met the wild man that lives behind our house? # #I guess I don't really mind, as long as he doesn't bother us."
-Robin,winter_Mon,"Hey, it's a perfect time of year to gather wood.# #Maybe you can collect enough to upgrade your house!"
-Robin,winter_Fri,My parents were bewildered when I told them I wanted to be a carpenter.# #They were pretty old-fashioned.
+Robin,summer_Tue,"If you need any buildings on your farm upgraded, just ask me! You'll need to provide enough lumber and stone for the project. And it costs money, too. But I'm sure you'll be pleased with the results! "
+Robin,summer_Fri,We're pretty insulated from the rest of the world here in Stardew Valley. It has its pros and cons.
+Robin,fall_Mon,# RobinMaru#Maru likes gems. She uses them in her inventions. So how are you and Maru getting along?
+Robin,fall_Thu,"You're always welcome to visit us, even if you aren't in the market for a building upgrade! It can get pretty lonely up here in the mountains."
+Robin,fall_Fri,"Have you met the wild man that lives behind our house? I guess I don't really mind, as long as he doesn't bother us."
+Robin,winter_Mon,"Hey, it's a perfect time of year to gather wood. Maybe you can collect enough to upgrade your house!"
+Robin,winter_Fri,My parents were bewildered when I told them I wanted to be a carpenter. They were pretty old-fashioned.
 Robin,winter_Fri_inlaw_Sebastian,I think the farm life is really healthy for Sebby.
-Robin,winter_Sat,"Our house is in such a beautiful area, don't you think?# #Everything looks still after a fresh snow."
-Sandy,accept_866,"A Stardew Valley rose? That's so lovely! Thank you! # #Whenever I miss the valley, I'll smell this rose. Hehe. # #Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!"
-Sandy,Mon,"Hello hello, sweetie!# #I'm so glad that the bus is back in service. It was starting to get lonely out here.# #...I almost went out of business. # #Hey, but now you're here to buy a whole bunch of seeds... right, sweetie? "
-Sandy,Tue,"You can find coconuts and cactus fruits outside. Feel free to take as many as you can find.# #They're oooh-yummy, too. Heeee!~ "
-Sandy,Wed,"Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'?# #Thanks! "
-Sandy,Thu,That shady-looking guy in the back? I'm not supposed to talk about it.# #Anyway... what's the weather like in the valley?
-Sandy,Fri,"You wouldn't have much luck farming out here, honey.# #Well, unless you were a cactus farmer. "
-Sandy,Sat,"Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!# # Did I sound professional? # #Make sure to check out our seasonal seed selection.# #You look really thirsty. Here, have a taste of this ice cold milk. [184]# #Tasty, huh? "
-Sandy,Sun,"It's always sunny here, even in winter!# #Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun. "
-Sandy,Thu2,That shady-looking guy in the back? I'm really not supposed to talk about it.# #Anyway... what's the weather like in the valley
-Sandy,Thu4,"Hey... I think I can trust you. You can keep a secret, right?# # That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions.# #SOOOOoo! How's that Stardew Valley weather right now?"
-Sandy,Fri4,"My name's not really Sandy, you know. It's just good for business.# #But everyone calls me Sandy anyway, so I've just gotten used to it."
-Sandy,Wed8,"Isn't it expensive, coming to the desert so often like you do?# #You must really like to see me, huh? Hmmm... "
-Sandy,Sun8,"Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm...# #Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him."
-Sandy,Wed10,"Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back!# #If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm. # #You'll just have to visit me more often so I don't get depressed. "
-Sandy,Tue10,"Hi!~ Stay as long as you like.# #The air conditioning sure feels nice, doesn't it?"
-Vincent,Introduction,"Oh, a stranger! My name's Vincent.# #Momma says not to talk to strangers... But you seem okay."
+Robin,winter_Sat,"Our house is in such a beautiful area, don't you think? Everything looks still after a fresh snow."
+Sandy,accept_866,"A Stardew Valley rose? That's so lovely! Thank you! Whenever I miss the valley, I'll smell this rose. Hehe. Here, take this. It's been on the shelf for 10 years and no one has bought it. You can have it!"
+Sandy,Mon,"Hello hello, sweetie! I'm so glad that the bus is back in service. It was starting to get lonely out here. ...I almost went out of business. Hey, but now you're here to buy a whole bunch of seeds... right, sweetie? "
+Sandy,Tue,"You can find coconuts and cactus fruits outside. Feel free to take as many as you can find. They're oooh-yummy, too. Heeee!~ "
+Sandy,Wed,"Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'? Thanks! "
+Sandy,Thu,That shady-looking guy in the back? I'm not supposed to talk about it. Anyway... what's the weather like in the valley?
+Sandy,Fri,"You wouldn't have much luck farming out here, honey. Well, unless you were a cactus farmer. "
+Sandy,Sat,"Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert! Did I sound professional? Make sure to check out our seasonal seed selection. You look really thirsty. Here, have a taste of this ice cold milk. [184] Tasty, huh? "
+Sandy,Sun,"It's always sunny here, even in winter! Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun. "
+Sandy,Thu2,That shady-looking guy in the back? I'm really not supposed to talk about it. Anyway... what's the weather like in the valley
+Sandy,Thu4,"Hey... I think I can trust you. You can keep a secret, right? That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions. SOOOOoo! How's that Stardew Valley weather right now?"
+Sandy,Fri4,"My name's not really Sandy, you know. It's just good for business. But everyone calls me Sandy anyway, so I've just gotten used to it."
+Sandy,Wed8,"Isn't it expensive, coming to the desert so often like you do? You must really like to see me, huh? Hmmm... "
+Sandy,Sun8,"Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm... Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him."
+Sandy,Wed10,"Hey, it's @! I'm glad to see you, kid. I was starting to think you'd never come back! If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm. You'll just have to visit me more often so I don't get depressed. "
+Sandy,Tue10,"Hi!~ Stay as long as you like. The air conditioning sure feels nice, doesn't it?"
+Vincent,Introduction,"Oh, a stranger! My name's Vincent. Momma says not to talk to strangers... But you seem okay."
 Vincent,Resort_Entering,That was fun! I wanna be a boat captain some day!
 Vincent,Resort_Leaving,I wanna come back soon!
 Vincent,Resort_Shore,I wanna see a shark! 
 Vincent,Resort,"If you look close, you can see little bugs jumping out of the sand. "
-Vincent,reject_869,"Oooh! Nice find!# #Mom wouldn't let me keep him, though... "
-Vincent,Mon,I wanna be just like my big brother when I grow up! # #Okay! Bye!
+Vincent,reject_869,"Oooh! Nice find! Mom wouldn't let me keep him, though... "
+Vincent,Mon,I wanna be just like my big brother when I grow up! Okay! Bye!
 Vincent,Mon4, kent#I'm glad Dad's back... but he's different than I remember... |Dad's not around much... I miss playing with him. 
 Vincent,Tue, ... Mom won't let me have any more gummies today. 
-Vincent,Tue6,"Can you keep a secret, mister?^Can you keep a secret, miss? # #I wanna marry Miss Penny when I grow up.# #Just don't tell her, okay? "
-Vincent,Wed,"I wanna look for bugs, but Mom gets mad when I'm all dirty. # #It's a tough choice."
+Vincent,Tue6,"Can you keep a secret, mister?^Can you keep a secret, miss? I wanna marry Miss Penny when I grow up. Just don't tell her, okay? "
+Vincent,Wed,"I wanna look for bugs, but Mom gets mad when I'm all dirty. It's a tough choice."
 Vincent,Thu,I'm hungry... where's Mom? 
 Vincent,Thu2,You're not as boring as most grown-ups!
-Vincent,Fri,"# .3#Ew, it's boiled beet night again... # #Oh no... Mom's making lentil soup tonight. "
-Vincent,Sat_1,Dad's coming back soon!# #I hope he brings me some toys. 
-Vincent,Sat,"Miss Penny makes me read a new book every week. # #At least she lets me pick them, sometimes!"
-Vincent,Sat8, kent#Dad seems weird since he came back. I wonder what happened to him? # #He doesn't play with me anymore. |I wonder if Dad will ever come home... 
+Vincent,Fri,"# .3#Ew, it's boiled beet night again... Oh no... Mom's making lentil soup tonight. "
+Vincent,Sat_1,Dad's coming back soon! I hope he brings me some toys. 
+Vincent,Sat,"Miss Penny makes me read a new book every week. At least she lets me pick them, sometimes!"
+Vincent,Sat8, kent#Dad seems weird since he came back. I wonder what happened to him? He doesn't play with me anymore. |I wonder if Dad will ever come home... 
 Vincent,Sun,"Hi there, mister!^Hi there, miss."
-Vincent,Sun10,Hi Uncle @!^Hi Auntie @!# #Don't tell Mom... but you're my favorite grown-up. 
+Vincent,Sun10,Hi Uncle @!^Hi Auntie @! Don't tell Mom... but you're my favorite grown-up. 
 Willy,Introduction,Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.
-Willy,accept_869,"Ah... That's the perfect bait for a catfish I've been tryin' to catch!# #Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago.# #Somethin' tells me you could use it, lad.^Somethin' tells me you could use it, miss."
-Willy,FullCrabPond," ... Ah... That old familiar scent. You've been raisin' crabs, haven't ya?# #Yer a man after me own heart, @. Hah! ^Yer a lady after me own heart, @. Hah! # #Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast! [797]"
-Willy,MovieInvitation,"Ah... a movie. That's kind of ye, lad.^Ah... a movie. That's kind of ye, miss.# #I'll just finish me pipe, and head over."
-Willy,Mon,"Ahoy there, son.^Ahoy there, lass.# #Looks like decent weather for fishing, eh?"
+Willy,accept_869,"Ah... That's the perfect bait for a catfish I've been tryin' to catch! Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago. Somethin' tells me you could use it, lad.^Somethin' tells me you could use it, miss."
+Willy,FullCrabPond," ... Ah... That old familiar scent. You've been raisin' crabs, haven't ya? Yer a man after me own heart, @. Hah! ^Yer a lady after me own heart, @. Hah! Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast! [797]"
+Willy,MovieInvitation,"Ah... a movie. That's kind of ye, lad.^Ah... a movie. That's kind of ye, miss. I'll just finish me pipe, and head over."
+Willy,Mon,"Ahoy there, son.^Ahoy there, lass. Looks like decent weather for fishing, eh?"
 Willy,Mon4,Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.
 Willy,Tue,A true angler has respect for the water... don't you forget that.
-Willy,Tue6,"The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch.# #The fishing life is tough, but there's something about it that keeps you goin'."
+Willy,Tue6,"The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch. The fishing life is tough, but there's something about it that keeps you goin'."
 Willy,Wed,Some fish come and go with the seasons. Others only come out at night or in the rain.
 Willy,Thu," ...Eh? I would tell you about my thoughts, but it's a fisherman's secret."
-Willy,Thu2,There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them.# #You'll need the finest bait you can get if you want a rare fish to bite.
+Willy,Thu2,There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them. You'll need the finest bait you can get if you want a rare fish to bite.
 Willy,Fri,"If you really want to get the fish biting, make sure you put some bait on your hook."
 Willy,Sat,"If the local fishing scene got a bit more lively, I might expand the shop's stock."
-Willy,Sat8,"How's the fishing life going for ya?# #I try to fish as often as possible, but it's not easy when you've got a shop to run."
-Willy,Sun,"If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.# #Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.# #There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while."
-Willy,Sun10,"Hey, it's my skipper, @! # #I'd give you a discount on bait if I could afford it. "
-Wizard,Introduction,"Ah, yes. I have predicted your arrival a long time ago, young @.# #However, your fate is ultimately in your own hands."
-Wizard,accept_868,"Ah... an arctic shard.# #A most powerful substance, indeed, and potently infused with the element of ice.# #I'll take it, if you don't mind.# #...# #...Erm...You're still here. Oh. You want something?# #...Take this."
+Willy,Sat8,"How's the fishing life going for ya? I try to fish as often as possible, but it's not easy when you've got a shop to run."
+Willy,Sun,"If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line. Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in. There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while."
+Willy,Sun10,"Hey, it's my skipper, @! I'd give you a discount on bait if I could afford it. "
+Wizard,Introduction,"Ah, yes. I have predicted your arrival a long time ago, young @. However, your fate is ultimately in your own hands."
+Wizard,accept_868,"Ah... an arctic shard. A most powerful substance, indeed, and potently infused with the element of ice. I'll take it, if you don't mind. ... ...Erm...You're still here. Oh. You want something? ...Take this."
 Wizard,MovieInvitation,"Hmm... I suppose I could accompany you... yes. Once you've arrived, I shall appear. Farewell."
-Wizard,Mon,"Ah, yes. I have seen many things about your future, young @.# #If I were to tell you, there could be grave consequences."
+Wizard,Mon,"Ah, yes. I have seen many things about your future, young @. If I were to tell you, there could be grave consequences."
 Wizard,Tue,"If you have nothing important to tell me, leave me be. I have much work to do."
 Wizard,Tue4,I trust you enough to allow you in my basement. Treat what you find there with respect.
-Wizard,Wed,"It takes years of study to understand the language of the elementals.# #To actually speak their language requires a lifetime of devoted effort.# #Now, if you'll excuse me..."
+Wizard,Wed,"It takes years of study to understand the language of the elementals. To actually speak their language requires a lifetime of devoted effort. Now, if you'll excuse me..."
 Wizard,Thu,There are many mysteries around us. You must be patient if you wish to discover them.
-Wizard,Thu10,"You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter...# #I could be mistaken... It's rare, but it does happen."
-Wizard,Fri,"I believe the townsfolk are afraid of me.# #It is unfortunate, but I suppose it is human to be afraid of the unknown."
-Wizard,Fri6,"I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw.# #It's not a very mature way to express one's anger."
-Wizard,Sat,"Beware, you are standing above a potent magical field.# #I built my hut right here on purpose, you know."
+Wizard,Thu10,"You musn't tell anyone... but I have reason to believe that one of the locals is actually my daughter... I could be mistaken... It's rare, but it does happen."
+Wizard,Fri,"I believe the townsfolk are afraid of me. It is unfortunate, but I suppose it is human to be afraid of the unknown."
+Wizard,Fri6,"I was married, long ago. After my wife and I split, she began flying around the countryside, cursing everything she saw. It's not a very mature way to express one's anger."
+Wizard,Sat,"Beware, you are standing above a potent magical field. I built my hut right here on purpose, you know."
 Wizard,Sat2,Have you made any headway with the forest spirits?
-Wizard,Sun,"I sometimes observe the local villagers in secret.# #I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue."
+Wizard,Sun,"I sometimes observe the local villagers in secret. I am hoping to find an apprentice. Some day I will leave this mortal plane, but my arcane pursuits must continue."
