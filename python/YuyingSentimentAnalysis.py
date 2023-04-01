@@ -18,6 +18,7 @@ df2 = pd.read_csv('..\csv\MajorYAML.csv', encoding='utf8')
 df = pd.concat([df1, df2])
 
 # Do sentiment analysis
+# Do sentiment analysis
 sentiment_scores = df['dialogue'].apply(lambda x: sia.polarity_scores(x))
 compound_scores = np.array(sentiment_scores.apply(lambda x: x['compound']))
 

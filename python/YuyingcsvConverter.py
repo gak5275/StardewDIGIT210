@@ -4,10 +4,13 @@ import glob
 import os
 import re
 
+comment = re.compile(r'#!.+?\b')
 placeholder = re.compile(r'\$\w')
 placeholder2 = re.compile(r'%\w+?\b')
 onomatopoeia = re.compile(r'\*.+?\*')
 action = re.compile(r'[\-\"\d\w\s]+?\/.+?\b')
+spaces = re.compile(r'[^\S\r]{2,}')
+
 
 def converter(directory):
     # convert yaml files to csv files
@@ -22,12 +25,13 @@ def converter(directory):
             character = filename.split('.')[0]
             for key, value in data['content'].items():
                 scene = key
-                dialogue = ''.join(str(element) for element in value.split('#')[::-1])
-                dialogue = action.sub('',dialogue) # remove action such as
+                dialogue = ''.join(str(element) for element in value)
+                dialogue = comment.sub('',dialogue) # remove #!String
                 dialogue = placeholder.sub(' ',dialogue) # remove placeholder such as $e, $8
-                dialogue = placeholder2.sub('',dialogue) # remove placeholder such as %kid1
-                dialogue = onomatopoeia.sub('',dialogue) # remove onomatopoeia such as *sigh*
-
+                dialogue = placeholder2.sub(' ',dialogue) # remove placeholder such as %kid1
+                dialogue = action.sub(' ',dialogue) # remove action such as
+                dialogue = onomatopoeia.sub(' ',dialogue) # remove onomatopoeia such as *sigh*
+                dialogue = spaces.sub(' ',dialogue)
                 row = {'character':character, 'scene':scene, 'dialogue':dialogue}
                 rows.append(row)
                 # print(row)
