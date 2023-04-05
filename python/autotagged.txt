@@ -140,7 +140,7 @@ Zuzu : PERSON
 Zuzu Broadcasting Group : ORG
 Zuzu City : GPE
 \*urp*\Oh : PERSON
-\And : GPE
+\And : NORP
 \Anyway : PERSON
 \Aye : PERSON
 \Cut!\I'm : PERSON

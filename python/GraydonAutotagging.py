@@ -180,7 +180,7 @@ def assembleAllNames(CollPath):
             sourcePath = f"{CollPath}/{file}"
             eachFileData = xmlTagger(sourcePath, SortedDict)
             # ebb: In the lines above, we send to the xmlTagger to add the nlp info as XML elements and attributes to the source files.
-            return eachFileData
+    return eachFileData
     # Python functions don't really need to have return lines, but we can set the return to the function's most important output.
 
 def writeSortedEntries(dictionary):
