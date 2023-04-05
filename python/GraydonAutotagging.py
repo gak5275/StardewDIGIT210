@@ -19,8 +19,8 @@ nlp = spacy.load('en_core_web_lg')
 # 1. ebb: Define the paths to the source collection and the target collection.
 # We can use a relative path defined from this Python file's location.
 ##################################################################################
-CollPath = 'pythonfiles/xmlfiles'
-TargetPath = 'autotagged.txt'
+CollPath = 'pythonfiles/xmlfiles/LocationsXML'
+TargetPath = 'Target/autotag'
 
 #########################################################################################
 # ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
@@ -38,9 +38,9 @@ ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
-    {"label": "PERSON", "pattern": "Abigail"},
-    {"label": "PERSON", "pattern": "Alex"},
-    {"label": "PERSON", "pattern": "Caroline"},
+    #{"label": "PERSON", "pattern": "Abigail"},
+    #{"label": "PERSON", "pattern": "Alex"},
+    #{"label": "PERSON", "pattern": "Caroline"},
     #{"label": "PERSON", "pattern": "Clint"},
     #{"label": "PERSON", "pattern": "Demetrius"},
     #{"label": "PERSON", "pattern": "Dwarf"},
@@ -73,7 +73,7 @@ patterns = [
     #{"label": "PERSON", "pattern": "Willy"},
     #{"label": "PERSON", "pattern": "Wizard"},
 
-    {"label": "LOC", "pattern": "Stardew Valley"},
+    #{"label": "LOC", "pattern": "Stardew Valley"},
     #{"label": "LOC", "pattern": "Community Center"},
     #{"label": "LOC", "pattern": "Bus Stop"},
     #{"label": "LOC", "pattern": "Saloon"},
@@ -137,7 +137,7 @@ def readTextFiles(filepath):
 def entitycollector(tokens):
     entities = {}
     for ent in sorted(tokens.ents):
-        if ent.label_ == "LOC" or ent.label_=="FAC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP":
+        if ent.label_ == "LOC" or ent.label_=="FAC" or ent.label_=="ORG" or ent.label_=="GPE" or ent.label_=="NORP" or ent.label_=="PERSON":
             if not regex.match(r"\w*[.,!?;:']\w*", ent.text):
         # ebb: The line helps experiment with different spaCy named entity classifiers, in combination if you like:
         # When using it, remember to indent the next lines for the for loop.

@@ -1,0 +1,209 @@
+#$b#Clint : PERSON
+#$b#I : PERSON
+#$b#I'd : PERSON
+#$b#I'll : PERSON
+#$b#Is : ORG
+$10\Well : PERSON
+$5\Great : PERSON
+$7\Ah : PERSON
+$7\Sorry : PERSON
+$8#$b#We'll : PERSON
+$8\ : PERSON
+$8\Well : ORG
+$a#$b#Sorry : PERSON
+$a\Okay : PERSON
+$a\You : GPE
+$h#$b#My : PERSON
+$h\I : PERSON
+$h\LOOK : GPE
+$h\Not : PERSON
+$h\Now : ORG
+$l\I've : GPE
+$l\Oh : PERSON
+$l\Um : PERSON
+$s#$b#The : GPE
+$s\Dad : PERSON
+$s\Farm : PERSON
+$s\Gus : PERSON
+$s\Have : PERSON
+$s\Here : PERSON
+$s\I'll : GPE
+$s\I'm : PERSON
+$s\It : PERSON
+$s\Look : PERSON
+$s\Psst : NORP
+$s\You : PERSON
+$s^You : PERSON
+$u\I : GPE
+-20 : GPE
+@!$h#$b#I : PERSON
+@!^Hiya : GPE
+@!^Oh : PERSON
+@.#$b#I'm Robin : PERSON
+@.$8\The : ORG
+@.$a\Well : ORG
+@.$h\I : ORG
+@.$s#$b#The : FAC
+@.$s\An : PERSON
+@.\Maru : ORG
+@.\Sebby : PERSON
+@.^I've : PERSON
+@.^She : ORG
+@?$9#$r : PERSON
+@?$a\You : PERSON
+@?$s#$r 83 : PERSON
+@?$s\You : PERSON
+@?\Well : ORG
+Abigail : PERSON
+Board--?$4\*groan*\Well : PERSON
+Caroline : PERSON
+Charlie : PERSON
+Cindersap Forest : PERSON
+Clara : PERSON
+Clint : PERSON
+Community Development Pilot Program : ORG
+Crimsonfish : NORP
+Dad : PERSON
+Demetrius : ORG
+Dusty : PERSON
+Emily : PERSON
+Event Hospital : ORG
+Event band3#Hi-Energy : ORG
+Farm : ORG
+Farmer : PERSON
+George : PERSON
+Gotoro : GPE
+Gozman : PERSON
+Gunther : PERSON
+Gus : PERSON
+Haley : PERSON
+Harvey : PERSON
+Hehehe : PERSON
+Horatio : PERSON
+Jas : PERSON
+Jenu : ORG
+Jodi : PERSON
+Joja : PERSON
+Joja Bluu' : PERSON
+Joja Co. Membership : ORG
+Joja Cola : ORG
+Joja Corporation : ORG
+Joja Headquarters : FAC
+K : PERSON
+Kel : PERSON
+Kent : PERSON
+Krobus : ORG
+Leah : PERSON
+Leo : PERSON
+Lewis : PERSON
+Linus : PERSON
+Lu : PERSON
+MarILDA : PERSON
+Marlon : PERSON
+Marnie : PERSON
+Maru : ORG
+Mini-Jukebox : ORG
+Mullner : PERSON
+Necromancer : ORG
+Nice : GPE
+North 43.5 East : LOC
+Pappy : PERSON
+Pelican : NORP
+Pelican Town : LOC
+Penny : PERSON
+Pierre : PERSON
+Planet Yazzo : PERSON
+Post-Dimensional : ORG
+Post-Dimensional Nullspace' : ORG
+Rasmodius : PERSON
+Rat#Actually : PERSON
+Robin : PERSON
+Saloon : NORP
+Sam : PERSON
+Sandy : PERSON
+Sebastian : PERSON
+Shane : PERSON
+Slime Hutch!\Not : ORG
+Stardew Valley : LOC
+Tomatoes : ORG
+Town : GPE
+Tunnelers : NORP
+Vince : PERSON
+Vincent : PERSON
+Warrior : ORG
+Whew : PERSON
+Willy : PERSON
+Yazzo : PERSON
+Yoba : PERSON
+Yutkin : PERSON
+Zuzu : PERSON
+Zuzu Broadcasting Group : ORG
+Zuzu City : GPE
+\*urp*\Oh : PERSON
+\And : GPE
+\Anyway : PERSON
+\Aye : PERSON
+\Cut!\I'm : PERSON
+\Hah : NORP
+\Hey : PERSON
+\Hi Honey.#$b#Tomorrow night : PERSON
+\Hi Shane : PERSON
+\Hmm : PERSON
+\I'm : GPE
+\New : ORG
+\Nice : PERSON
+\No : ORG
+\Now : GPE
+\Phew : PERSON
+\Stick : ORG
+\They : ORG
+\Um : PERSON
+^My dearest : ORG
+^You : PERSON
+aerobics2#I : GPE
+apologize2#You : PERSON
+b#It : NORP
+bell pepper : ORG
+bluu : PERSON
+boat1#I'm : GPE
+box2#You : PERSON
+bush : PERSON
+causin : ORG
+city4#You : ORG
+explain2#I : PERSON
+garage3#I'm : LOC
+gridball : ORG
+h^Thanks : ORG
+heart1#I'm : ORG
+idea3#Sci-Fi\Well : ORG
+joy\Emily : PERSON
+kid\Thanks : PERSON
+kids1#I : PERSON
+kids2#Absolutely : PERSON
+kids3#I : PERSON
+kids4#No : PERSON
+kids5#No : PERSON
+lendin : PERSON
+mail2#I : GPE
+mope : PERSON
+my mom.$a#$b#Half : PERSON
+null#Hey : PERSON
+null#I'm : ORG
+parents5#Yeah : PERSON
+phi-lo : PERSON
+pool1#You : ORG
+pool4#I : PERSON
+robot2#I'm : ORG
+s\I'm : ORG
+sculpt1#It : ORG
+sigh*$s\Demetrius : ORG
+spryer : ORG
+the Big n' : ORG
+the Grampleton Carnival : ORG
+the Grand Spire : FAC
+the Joja Community Development : ORG
+the Pelican Town Community Center : ORG
+the Stardew Valley : LOC
+the golden archway : FAC
+wood1#Yes#$r : ORG
+yes#Sure.#$r : PERSON
