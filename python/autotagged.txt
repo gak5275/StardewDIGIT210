@@ -39,7 +39,7 @@ $u\I : GPE
 @!$h#$b#I : PERSON
 @!^Hiya : GPE
 @!^Oh : PERSON
-@.#$b#I'm Robin : PERSON
+@.#$b#I'm : PERSON
 @.$8\The : ORG
 @.$a\Well : ORG
 @.$h\I : ORG
@@ -58,19 +58,21 @@ Abigail : PERSON
 Board--?$4\*groan*\Well : PERSON
 Caroline : PERSON
 Charlie : PERSON
-Cindersap Forest : PERSON
 Clara : PERSON
 Clint : PERSON
+Community Center : LOC
 Community Development Pilot Program : ORG
 Crimsonfish : NORP
 Dad : PERSON
-Demetrius : ORG
+Demetrius : PERSON
 Dusty : PERSON
+Dwarf : PERSON
 Emily : PERSON
 Event Hospital : ORG
 Event band3#Hi-Energy : ORG
-Farm : ORG
+Farm : LOC
 Farmer : PERSON
+Forest : LOC
 George : PERSON
 Gotoro : GPE
 Gozman : PERSON
@@ -89,10 +91,11 @@ Joja Co. Membership : ORG
 Joja Cola : ORG
 Joja Corporation : ORG
 Joja Headquarters : FAC
+JojaMart : LOC
 K : PERSON
 Kel : PERSON
 Kent : PERSON
-Krobus : ORG
+Krobus : PERSON
 Leah : PERSON
 Leo : PERSON
 Lewis : PERSON
@@ -101,12 +104,13 @@ Lu : PERSON
 MarILDA : PERSON
 Marlon : PERSON
 Marnie : PERSON
-Maru : ORG
+Maru : PERSON
 Mini-Jukebox : ORG
 Mullner : PERSON
 Necromancer : ORG
 Nice : GPE
 North 43.5 East : LOC
+Pam : PERSON
 Pappy : PERSON
 Pelican : NORP
 Pelican Town : LOC
@@ -118,7 +122,7 @@ Post-Dimensional Nullspace' : ORG
 Rasmodius : PERSON
 Rat#Actually : PERSON
 Robin : PERSON
-Saloon : NORP
+Saloon : LOC
 Sam : PERSON
 Sandy : PERSON
 Sebastian : PERSON
@@ -126,6 +130,7 @@ Shane : PERSON
 Slime Hutch!\Not : ORG
 Stardew Valley : LOC
 Tomatoes : ORG
+Tower : LOC
 Town : GPE
 Tunnelers : NORP
 Vince : PERSON
@@ -140,14 +145,13 @@ Zuzu : PERSON
 Zuzu Broadcasting Group : ORG
 Zuzu City : GPE
 \*urp*\Oh : PERSON
-\And : NORP
+\And : GPE
 \Anyway : PERSON
 \Aye : PERSON
 \Cut!\I'm : PERSON
 \Hah : NORP
 \Hey : PERSON
 \Hi Honey.#$b#Tomorrow night : PERSON
-\Hi Shane : PERSON
 \Hmm : PERSON
 \I'm : GPE
 \New : ORG
@@ -202,7 +206,7 @@ the Big n' : ORG
 the Grampleton Carnival : ORG
 the Grand Spire : FAC
 the Joja Community Development : ORG
-the Pelican Town Community Center : ORG
+the Pelican Town : ORG
 the Stardew Valley : LOC
 the golden archway : FAC
 wood1#Yes#$r : ORG
