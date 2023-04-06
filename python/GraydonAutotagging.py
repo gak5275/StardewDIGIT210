@@ -38,7 +38,7 @@ ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
-    #{"label": "PERSON", "pattern": "Abigail"},
+    #{"label": "NULL", "pattern": "Abigail"},
     #{"label": "PERSON", "pattern": "Alex"},
     #{"label": "PERSON", "pattern": "Caroline"},
     #{"label": "PERSON", "pattern": "Clint"},
@@ -188,7 +188,8 @@ def writeSortedEntries(dictionary):
         for key, value in dictionary.items():
             f.write(key + ' : ' + value + '\n')
 def xmlTagger(sourcePath, SortedDict):
-    with open(sourcePath, 'r', encoding='utf8') as f:
+    # with open(sourcePath, 'r', encoding='utf8') as f:
+    with open(sourcePath, 'r') as f:
         readFile = f.read()
         stringFile = str(readFile)
 
@@ -203,11 +204,12 @@ def xmlTagger(sourcePath, SortedDict):
             replacement = '<name type="' + val + '">' + key + '</name>'
             # print(f"{replacement=}")
             stringFile = stringFile.replace(key, replacement)
+            cleanedUp = regex.sub(r"(<\w+? \w+?=.)<name type=\"\w+?\">(\w+?)</name>(\")", r"\1\2\3", stringFile)
             # print(f"{stringFile=}")
 
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w') as f:
-            f.write(stringFile)
+            f.write(cleanedUp)
 
 assembleAllNames(CollPath)
 
