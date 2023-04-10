@@ -1,89 +1,77 @@
-#$b#Clint : PERSON
-#$b#I : PERSON
-#$b#I'd : PERSON
-#$b#I'll : PERSON
-#$b#Is : ORG
-$10\Well : PERSON
-$5\Great : PERSON
-$7\Ah : PERSON
-$7\Sorry : PERSON
-$8#$b#We'll : PERSON
-$8\ : PERSON
-$8\Well : ORG
-$a#$b#Sorry : PERSON
-$a\Okay : PERSON
-$a\You : GPE
-$h#$b#My : PERSON
-$h\I : PERSON
-$h\LOOK : GPE
-$h\Not : PERSON
-$h\Now : ORG
-$l\I've : GPE
-$l\Oh : PERSON
-$l\Um : PERSON
-$s#$b#The : GPE
-$s\Dad : PERSON
-$s\Farm : PERSON
-$s\Gus : PERSON
-$s\Have : PERSON
-$s\Here : PERSON
-$s\I'll : GPE
-$s\I'm : PERSON
-$s\It : PERSON
-$s\Look : PERSON
-$s\Psst : NORP
-$s\You : PERSON
-$s^You : PERSON
-$u\I : GPE
 -20 : GPE
-@!$h#$b#I : PERSON
-@!^Hiya : GPE
-@.#$b#I'm : PERSON
-@.$8\The : ORG
-@.$a\Well : ORG
-@.$h\I : ORG
-@.$s#$b#The : FAC
-@.\Maru : ORG
-@.^She : ORG
-@?$a\You : PERSON
-@?$s\You : PERSON
-@?\Well : ORG
+-20 Event Hospital 2 : ORG
+-30 Event beach1 Relax : ORG
+-40 : PERSON
+18981 : PERSON
+4He : ORG
+5It : PERSON
+6If : PERSON
+6Well : PERSON
+7Well : ORG
+8I : PERSON
+8Oh : GPE
+8Okay : PERSON
+8You : PERSON
+9I : ORG
+9It : PERSON
 Abigail : PERSON
-Board--?$4\*groan*\Well : PERSON
+Alex : PERSON
 Caroline : PERSON
 Clint : PERSON
 Community Center : LOC
 Community Development Pilot Program : ORG
+CoolShane : ORG
 Crimsonfish : NORP
+Crusty : ORG
 Dad : PERSON
 Demetrius : PERSON
+Dreadlord Xarth : PERSON
 Dusty : PERSON
 Dwarf : PERSON
 Emily : PERSON
 Event Hospital : ORG
-Event band3#Hi-Energy : ORG
+Event band2 Experimental : ORG
+Event books2 : ORG
+Event darkroom3 : PERSON
 Farm : LOC
 Forest : LOC
 George : PERSON
+Good luck!Hi : PERSON
+Goodnight : PERSON
 Gotoro : GPE
+Grandpa : PERSON
+Gunther : PERSON
 Gus : PERSON
+Hahaha : PERSON
 Haley : PERSON
 Harvey : PERSON
+HeeheeOh my!Beautiful!Let's : ORG
+Hooo~ : ORG
 Jas : PERSON
 Jodi : PERSON
 JojaMart : LOC
+Junimos : PERSON
+Kel : PERSON
 Kent : PERSON
 Krobus : PERSON
 Leah : PERSON
 Leo : PERSON
 Lewis : PERSON
 Linus : PERSON
+Lupini : GPE
+MarILDA : PERSON
 Marnie : PERSON
 Maru : PERSON
+Mediary : PERSON
 Mini-Jukebox : ORG
+Mmmmm : PERSON
+Mmph : PERSON
+Morris : PERSON
+Mui-wahMuuui-wahWhy : PERSON
 Mullner : PERSON
-Nice : GPE
+NoHey : GPE
 North 43.5 East : LOC
+Oasis : LOC
 Pam : PERSON
 Pelican : NORP
 Pelican Town : LOC
@@ -95,61 +83,171 @@ Robin : PERSON
 Saloon : LOC
 Sam : PERSON
 Sandy : PERSON
+Sci-FiWell : ORG
 Sebastian : PERSON
 Shane : PERSON
-Slime Hutch!\Not : ORG
+Slime Hutch!Not : ORG
 Stardew Valley : LOC
+Stick : FAC
 Tomatoes : ORG
 Tower : LOC
 Town : GPE
 Tunnelers : NORP
-Vince : PERSON
 Vincent : PERSON
 Warrior : ORG
+Whaddya : PERSON
 Willy : PERSON
-\*urp*\Oh : PERSON
-\And : GPE
-\Anyway : PERSON
-\Cut!\I'm : PERSON
-\Hah : NORP
-\Hmm : PERSON
-\I'm : GPE
-\New : ORG
-\Nice : PERSON
-\No : ORG
-\Now : GPE
-\Phew : PERSON
-\Stick : ORG
-\They : ORG
-^My dearest : ORG
-aerobics2#I : GPE
-b#It : NORP
-bell pepper : ORG
-boat1#I'm : GPE
-causin : ORG
-city4#You : ORG
-explain2#I : PERSON
-garage3#I'm : LOC
-gridball : ORG
-h^Thanks : ORG
-heart1#I'm : ORG
-idea3#Sci-Fi\Well : ORG
-joy\Emily : PERSON
-kid\Thanks : PERSON
-lendin : PERSON
-mail2#I : GPE
-my mom.$a#$b#Half : PERSON
-null#I'm : ORG
-pool1#You : ORG
-robot2#I'm : ORG
-s\I'm : ORG
-sculpt1#It : ORG
-sigh*$s\Demetrius : ORG
-spryer : ORG
-the Big n' : ORG
-the Grampleton Carnival : ORG
-the Grand Spire : FAC
-the Pelican Town : ORG
-the Stardew Valley : LOC
-the golden archway : FAC
-wood1#Yes#$r : ORG
+Yesss : PERSON
+aHey : PERSON
+aHmmph : PERSON
+aHmph : PERSON
+aHow : PERSON
+aLet : ORG
+aOkay : PERSON
+aThat : PERSON
+aWell : ORG
+aWow : PERSON
+aYes : PERSON
+aYou : PERSON
+aYuck : PERSON
+advice1 Impress : ORG
+aerobics2 : PERSON
+apologize1 : PERSON
+books1 : PERSON
+city1 : GPE
+city2 : NORP
+cook1 : PERSON
+cook2 : PERSON
+cook3 : PERSON
+credit1 : PERSON
+credit2 : PERSON
+dance1 : PERSON
+explain3 : PERSON
+garage1 : PERSON
+garage2 : PERSON
+garage3 : PERSON
+hAlright : PERSON
+hAnd : PERSON
+hAnyway : PERSON
+hAre : PERSON
+hAye : PERSON
+hBartender : PERSON
+hBig : PERSON
+hCome : PERSON
+hCould : PERSON
+hHah : ORG
+hHehe : ORG
+hHere : ORG
+hHi : ORG
+hIt : PERSON
+hLOOK : NORP
+hLet : ORG
+hMs : ORG
+hNo : PERSON
+hOh : ORG
+hOkayAh : PERSON
+hOld : PERSON
+hSam : PERSON
+hSome : ORG
+hSomeone : PERSON
+hThe : ORG
+hThere : ORG
+hThese : NORP
+hWell : ORG
+hWhat : PERSON
+hWho : PERSON
+hYes : PERSON
+heart3 : PERSON
+heyYou : ORG
+h|It : ORG
+h|Well : ORG
+idea1 Mystery : PERSON
+idea2 Romance : PERSON
+kidThanks : ORG
+kids6 : PERSON
+lA : PERSON
+lAbysmal : PERSON
+lAfter : PERSON
+lAh : PERSON
+lGreat : LOC
+lHeh : PERSON
+lKel : PERSON
+lMoney : PERSON
+lNow : PERSON
+lOh : PERSON
+lSam : PERSON
+lThat : PERSON
+lUm : PERSON
+lWe : PERSON
+lWell : ORG
+lYou : PERSON
+ladIt : ORG
+mail3 : PERSON
+parents3 : ORG
+parents5 : PERSON
+pool2 : PERSON
+popcorn1 : PERSON
+robot1 : PERSON
+robot3 : PERSON
+robot4 : PERSON
+sAre : PERSON
+sAye : PERSON
+sDad : PERSON
+sDemetrius : PERSON
+sEw : PERSON
+sFish : PERSON
+sFor : PERSON
+sGahh : ORG
+sGus : PERSON
+sHere : PERSON
+sHey : GPE
+sHmm : PERSON
+sHmmm : NORP
+sHow : PERSON
+sIt : PERSON
+sJoja Corporation : ORG
+sLet : ORG
+sMom : ORG
+sMy : ORG
+sOf : ORG
+sOh : PERSON
+sOne : ORG
+sShe : PERSON
+sThanks : ORG
+sThat : ORG
+sThe : ORG
+sThis : PERSON
+sThough : PERSON
+sUhhh : PERSON
+sUm : GPE
+sWell : PERSON
+sWhaa : ORG
+sWhat : PERSON
+sWhoops : PERSON
+sWith : ORG
+sYes : PERSON
+sYou : PERSON
+sYour : PERSON
+sculpt1 : PERSON
+sculpt2 : PERSON
+sculpt3 : PERSON
+secret1 : ORG
+stadium2 Fun : ORG
+toast3 : PERSON
+toast4 To : ORG
+uAnd : PERSON
+uCome back!*sigh : PERSON
+uHah : PERSON
+uHeh : PERSON
+uHey : PERSON
+uI : PERSON
+uInsult : ORG
+uMom : PERSON
+uNow : ORG
+uOh : NORP
+uStop : PERSON
+uThanks : PERSON
+uThat : PERSON
+uThe : GPE
+uWell : NORP
+uYou : PERSON
