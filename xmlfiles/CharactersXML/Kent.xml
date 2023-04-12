@@ -1,30 +1,30 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Mon:</context> <dialogue who="Kent">"Hello, farmer.#$e#I've been gone so long... I feel like a stranger."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Kent">"Hello, farmer. I've been gone so long... I feel like a stranger."</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Kent">"Hey, @. Nice to see you."</dialogue> </p>
 <p><context>Resort_Leaving:</context> <dialogue who="Kent">"Time to head home."</dialogue> </p>
-<p><context>Resort_Shore:</context> <dialogue who="Kent">"Standing on this beach... I feel a rare sense of peace.$h#$e#The ocean is a very special thing."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Kent">"Standing on this beach... I feel a rare sense of peace. The ocean is a very special thing."</dialogue> </p>
 <p><context>Resort_Chair:</context> <dialogue who="Kent">"This is a great place to bond with the family. I really appreciate you fixing it up."</dialogue> </p>
 <p><context>Resort_Bar:</context> <dialogue who="Kent">"Just getting some water."</dialogue> </p>
-<p><context>Resort:</context> <dialogue who="Kent">"The boat ride was fun. I even got to use some of my nautical training to help navigate.$h"</dialogue> </p>
-<p><context>MovieInvitation:</context> <dialogue who="Kent">"Erm... okay. Thank you. I'll meet you there.$h"</dialogue> </p>
-<p><context>accept_864:</context> <dialogue who="Kent">"...!$4#$b#...Where did you find this?$4#$b#...$5#$b#This man... We fought together in the war, @. He was like a brother to me. #$b#But... only one of us made it back.$5#$b#He never lost his courage, though. Even in the face of death. A true hero... I'll never forget him.#$b#Thanks for bringing me this... It means a lot to me.#$b#Here, take this. It's been sitting in the back of our cupboard for years, and we've never used it."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Kent">"The boat ride was fun. I even got to use some of my nautical training to help navigate."</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue who="Kent">"Erm... okay. Thank you. I'll meet you there."</dialogue> </p>
+<p><context>accept_864:</context> <dialogue who="Kent">"...! ...Where did you find this? ... This man... We fought together in the war, @. He was like a brother to me.  But... only one of us made it back. He never lost his courage, though. Even in the face of death. A true hero... I'll never forget him. Thanks for bringing me this... It means a lot to me. Here, take this. It's been sitting in the back of our cupboard for years, and we've never used it."</dialogue> </p>
 <p><context>reject_865:</context> <dialogue who="Kent">"Yep... It's been tightly sealed, so the flavor should still be really potent."</dialogue> </p>
-<p><context>Mon4:</context> <dialogue who="Kent">"I don't know if I'll ever get used to being back home.#$e#The peacefulness of the town feels like a mask. That's probably just me though."</dialogue> </p>
-<p><context>Tue:</context> <dialogue who="Kent">"Things haven't changed much since I've been gone.#$e#Well, except that you're here."</dialogue> </p>
-<p><context>Tue2:</context> <dialogue who="Kent">"Things haven't changed much since I've been gone.#$e#Except that we have a new farmer in town.$h"</dialogue> </p>
-<p><context>Wed6:</context> <dialogue who="Kent">"...I lost a lot of friends in battle.$s#$e#What's sad is that I can't even remember their faces.#$e#..."</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Kent">"I don't know if I'll ever get used to being back home. The peacefulness of the town feels like a mask. That's probably just me though."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Kent">"Things haven't changed much since I've been gone. Well, except that you're here."</dialogue> </p>
+<p><context>Tue2:</context> <dialogue who="Kent">"Things haven't changed much since I've been gone. Except that we have a new farmer in town."</dialogue> </p>
+<p><context>Wed6:</context> <dialogue who="Kent">"...I lost a lot of friends in battle. What's sad is that I can't even remember their faces. ..."</dialogue> </p>
 <p><context>Wed:</context> <dialogue who="Kent">"You've been here a while now, haven't you? Your farm must be thriving."</dialogue> </p>
-<p><context>Thu6:</context> <dialogue who="Kent">"#$1 Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. He's a man now.#$e#I wish I could've been there for him.$s"</dialogue> </p>
-<p><context>Thu:</context> <dialogue who="Kent">"Are you friends with my son?#$e#You probably know him better than I do...$s"</dialogue> </p>
+<p><context>Thu6:</context> <dialogue who="Kent">"I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine. Sam has really grown up since I left. He's a man now. I wish I could've been there for him."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Kent">"Are you friends with my son? You probably know him better than I do..."</dialogue> </p>
 <p><context>Thu_inlaw_Sam:</context> <dialogue who="Kent">"Hey, @. Are you enjoying the married lifestyle?"</dialogue> </p>
 <p><context>Fri:</context> <dialogue who="Kent">"It looks like a decent day for fishing, doesn't it?"</dialogue> </p>
 <p><context>Sat:</context> <dialogue who="Kent">"Jodi tells me you've really become a part of this community. I'm glad to hear it."</dialogue> </p>
-<p><context>Sat8:</context> <dialogue who="Kent">"I have trouble sleeping, so please excuse me if I seem tired.#$e#I'm sure you can understand."</dialogue> </p>
-<p><context>Sun:</context> <dialogue who="Kent">"I don't know what to do with myself now that I'm back.#$e#I'm used to having more structure in my day."</dialogue> </p>
-<p><context>event_popcorn1:</context> <dialogue who="Kent">"You keep quiet! Stop trying to turn me against my wife.$u"</dialogue> </p>
-<p><context>event_popcorn2:</context> <dialogue who="Kent">"...$s#$b#You're absolutely right, @.$s"</dialogue> </p>
-<p><context>event_popcorn3:</context> <dialogue who="Kent">"Don't lie to me! I hate lies more than anything!$u"</dialogue> </p>
+<p><context>Sat8:</context> <dialogue who="Kent">"I have trouble sleeping, so please excuse me if I seem tired. I'm sure you can understand."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Kent">"I don't know what to do with myself now that I'm back. I'm used to having more structure in my day."</dialogue> </p>
+<p><context>event_popcorn1:</context> <dialogue who="Kent">"You keep quiet! Stop trying to turn me against my wife."</dialogue> </p>
+<p><context>event_popcorn2:</context> <dialogue who="Kent">"... You're absolutely right, @."</dialogue> </p>
+<p><context>event_popcorn3:</context> <dialogue who="Kent">"Don't lie to me! I hate lies more than anything!"</dialogue> </p>
 
 </xml>

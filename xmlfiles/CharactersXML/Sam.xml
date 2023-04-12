@@ -1,102 +1,24 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>10:</context> <dialogue who="Sam">"Did you watch the game last night?#$b#Or wait, do you even have a TV set...?"</dialogue> </p>
-<p><context>14:</context> <dialogue who="Sam">"Ugh, I stepped in something gross earlier... and I just bought these shoes.$s"</dialogue> </p>
-<p><context>Introduction:</context> <dialogue who="Sam">"Hey, I'm Sam. Good to meet you.$h"</dialogue> </p>
+<p><context>10:</context> <dialogue who="Sam">"Did you watch the game last night? Or wait, do you even have a TV set...?"</dialogue> </p>
+<p><context>14:</context> <dialogue who="Sam">"Ugh, I stepped in something gross earlier... and I just bought these shoes."</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Sam">"Hey, I'm Sam. Good to meet you."</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Sam">"Wow, what a spot!"</dialogue> </p>
-<p><context>Resort:</context> <dialogue who="Sam">"I bet there's some cool stuff deeper on the island.#$e#Willy said we have to stay here, though... some kind of liability issues or something.$s"</dialogue> </p>
-<p><context>Resort_Leaving:</context> <dialogue who="Sam">"I'm feeling pretty good from all the sunlight.$h"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Sam">"I bet there's some cool stuff deeper on the island. Willy said we have to stay here, though... some kind of liability issues or something."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Sam">"I'm feeling pretty good from all the sunlight."</dialogue> </p>
 <p><context>Resort_Shore:</context> <dialogue who="Sam">"Check out these gnarly waves... Guess what? I'm gonna save up for a surfboard."</dialogue> </p>
-<p><context>Resort_Towel:</context> <dialogue who="Sam">"%Sam is playing a jazzy tune on his guitar."</dialogue> </p>
-<p><context>Resort_Towel_2:</context> <dialogue who="Sam">"Maybe I should learn to play the ukelele.#$e#Abby on the congas and Sebastian on the steel drums... 'The Pelicans of Paradise'...$s#$e#What's the matter, you look worried.$h"</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Sam">"Maybe I should learn to play the ukelele. Abby on the congas and Sebastian on the steel drums... 'The Pelicans of Paradise'... What's the matter, you look worried."</dialogue> </p>
 <p><context>Resort_Bar:</context> <dialogue who="Sam">"I'm just getting juiced up, then it's back to the beach."</dialogue> </p>
-<p><context>danceRejection:</context> <dialogue who="Sam">"Hmm... I dunno. Maybe next year.$s"</dialogue> </p>
-<p><context>dumped_Guys:</context> <dialogue who="Sam">"...$a"</dialogue> </p>
-<p><context>secondChance_Guys:</context> <dialogue who="Sam">"Alright, I'm done with the cold shoulder act. Let's just forget about what happened.$7"</dialogue> </p>
-<p><context>breakUp:</context> <dialogue who="Sam">"Wait... what?!$8#$b#I thought we were doing okay... I guess I was way off... alright, then.$9#$b#Yeah, sure... we can still be friends.$9"</dialogue> </p>
-<p><context>divorced:</context> <dialogue who="Sam">"I'm sorry, @. I don't think I can still be your friend.$s"</dialogue> </p>
-<p><context>Mon2:</context> <dialogue who="Sam">"Hey, how's it going?#$e#Last night I practiced guitar for 4 hours straight. My fingers hurt like crazy.$s#$e#Bye, I've got something to do..."</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Sam">"Hmm... I dunno. Maybe next year."</dialogue> </p>
+<p><context>dumped_Guys:</context> <dialogue who="Sam">"..."</dialogue> </p>
+<p><context>secondChance_Guys:</context> <dialogue who="Sam">"Alright, I'm done with the cold shoulder act. Let's just forget about what happened."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Sam">"Wait... what?! I thought we were doing okay... I guess I was way off... alright, then. Yeah, sure... we can still be friends."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Sam">"I'm sorry, @. I don't think I can still be your friend."</dialogue> </p>
+<p><context>Mon2:</context> <dialogue who="Sam">"Hey, how's it going? Last night I practiced guitar for 4 hours straight. My fingers hurt like crazy. Bye, I've got something to do..."</dialogue> </p>
 <p><context>Mon:</context> <dialogue who="Sam">"Hey, farmer."</dialogue> </p>
-<p><context>Mon8:</context> <dialogue who="Sam">"I'll tell you a secret... my name 'Sam' is short for 'Samson'.$10#$e#Most people don't know that so keep it on mute."</dialogue> </p>
-<p><context>Tue:</context> <dialogue who="Sam">"Oh, hi! It's good to see you again.#$e#Take it easy."</dialogue> </p>
-<p><context>Tue4:</context> <dialogue who="Sam">"Hi, @. Do you want to hang out or something?#$e#Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster."</dialogue> </p>
-<p><context>Wed:</context> <dialogue who="Sam">"I'm trying to come up with a new song for my band, but I'm blanking...#$q 19/20 Wed_old#Hey.. What do you think my new song should be about?#$r 20 30 Wed_20#Farming, mining, and chopping wood.#$r 8820 30 Wed_20#A city in the sea.#$r 8821 30 Wed_20#Trains.#$r 19 -50 Wed_19#Choose anything. It'll still be a horrible song."</dialogue> </p>
-<p><context>Wed_old:</context> <dialogue who="Sam">"$p 19#But I already know what you think about it.$a|Thanks to your help I'm already done with the lyrics!$h"</dialogue> </p>
-<p><context>Wed_19:</context> <dialogue who="Sam">"Hey, man... what the heck is your problem? Sorry I asked.$a"</dialogue> </p>
-<p><context>Wed_20:</context> <dialogue who="Sam">"Hey, you know what? That sounds perfect. Thanks!$h"</dialogue> </p>
-<p><context>Wed6:</context> <dialogue who="Sam">"I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town."</dialogue> </p>
-<p><context>Wed10:</context> <dialogue who="Sam">"Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$10"</dialogue> </p>
-<p><context>Thu6_1:</context> <dialogue who="Sam">"I think my Dad might be coming back in a year or so.#$e#I guess you might be able to meet him, then. If you're still living here.#$e#You wouldn't abandon the farm after putting so much effort into it!"</dialogue> </p>
-<p><context>Thu6_2:</context> <dialogue who="Sam">"...I have mixed feelings about my father being back. He seems strange.$s#$b#But I guess I haven't seen him in 3 years... so that could explain it."</dialogue> </p>
-<p><context>Thu_3:</context> <dialogue who="Sam">"*sigh*... what am I still doing here?"</dialogue> </p>
-<p><context>Thu:</context> <dialogue who="Sam">"The clouds look great this time of year, don't they?#$e#Like scoops of vanilla ice cream floating on blue raspberry sauce... Or maybe I'm just hungry."</dialogue> </p>
-<p><context>Thu2:</context> <dialogue who="Sam">"My Dad is a soldier, fighting against the Gotoro Empire. That's why he's not here...#$e#He'll come back someday.#$e#...I've heard some terrible things about the Gotoro Empire...$s"</dialogue> </p>
-<p><context>Thu_2:</context> <dialogue who="Sam">"Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay."</dialogue> </p>
-<p><context>Thu2_2:</context> <dialogue who="Sam">"Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay."</dialogue> </p>
-<p><context>Fri:</context> <dialogue who="Sam">"Did I ever tell you we used to live in the city?#$e#There's a lot more stuff going on, but it's also kinda noisy and hectic... It's hard to say which is better."</dialogue> </p>
-<p><context>Fri4:</context> <dialogue who="Sam">"Dad used to work as a garbage man in the city.#$e#You don't even want to know some of the things he found in people's trash."</dialogue> </p>
-<p><context>Fri10:</context> <dialogue who="Sam">"The older I get the more attached I feel to the valley.#$b#Although I could be biased... for a certain reason.$10#$e#So, how are you doing today?$h"</dialogue> </p>
-<p><context>Sat4:</context> <dialogue who="Sam">"Oh! I just remembered I'm supposed to call my Grandma. Okay, I'm going to put this rubber band on my wrist so I don't forget.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h"</dialogue> </p>
-<p><context>Sat:</context> <dialogue who="Sam">"Hmm. I just remembered that I was meaning to do something... But I forgot.#$e#This happens to me all the time."</dialogue> </p>
-<p><context>Sun8:</context> <dialogue who="Sam">"Sometimes I wonder if my mother is actually happy with her life...$s#$e#I asked her once and got the feeling she was hiding some inner pain."</dialogue> </p>
-<p><context>Sun:</context> <dialogue who="Sam">"Oh, it's a nice day... isn't it?"</dialogue> </p>
-<p><context><date season="spring">spring_21:</date></context> <dialogue who="Sam">"Sometimes those spring petals that float around make my nose drip.$s#$e#I like summer best, myself."</dialogue> </p>
-<p><context><event>Event_band1:</event></context> <dialogue who="Sam">"Hey, you know what? That's exactly the kind of style I've been thinking about... for the band."</dialogue> </p>
-<p><context><event>Event_band2:</event></context> <dialogue who="Sam">"Hey, you know what? That's exactly the kind of style I've been thinking about... for the band."</dialogue> </p>
-<p><context><event>Event_band3:</event></context> <dialogue who="Sam">"Hey, you know what? That's exactly the kind of style I've been thinking about... for the band."</dialogue> </p>
-<p><context><event>Event_band4:</event></context> <dialogue who="Sam">"Hey, you know what? That's exactly the kind of style I've been thinking about... for the band."</dialogue> </p>
-<p><context><event>event_room1:</event></context> <dialogue who="Sam">"Oh, I see."</dialogue> </p>
-<p><context><date season="spring">spring_12:</date></context> <dialogue who="Sam">"My little brother gets so excited for festivals. He's been talking about tomorrow's egg hunt all day."</dialogue> </p>
-<p><context><date season="spring">spring_23:</date></context> <dialogue who="Sam">"Why couldn't the flower dance be today so I could get work off?$s"</dialogue> </p>
-<p><context><date season="winter">winter_7:</date></context> <dialogue who="Sam">"One time, Gus fell in the river during the Ice Festival. We had to build a huge fire in the saloon to dry him out.#$e#We were all worried we'd never taste his famous spaghetti ever again."</dialogue> </p>
-<p><context><date season="fall">fall_26:</date></context> <dialogue who="Sam">"Tonight, after everyone is asleep, that weird old man who lives in the woods will set up the haunted maze. He always makes sure no one is around to see him working."</dialogue> </p>
-<p><context><date season="summer">summer_10:</date></context> <dialogue who="Sam">"I don't have to work tomorrow! I've never been so happy.$h"</dialogue> </p>
-<p><context><date season="winter">winter_24:</date></context> <dialogue who="Sam">"The Feast of the Winter Star is supposed to be a time to show gratitude for all the good things in life.#$b#Me? I'm mostly interested in the food. Hehe.$h"</dialogue> </p>
-<p><context><event>event_room2:</event></context> <dialogue who="Sam">"Yeah... That's what happened!"</dialogue> </p>
-<p><context><event>event_snack1:</event></context> <dialogue who="Sam">"He's right... That's what happened.$s^She's right... that's what happened.$s"</dialogue> </p>
-<p><context><event>event_snack2:</event></context> <dialogue who="Sam">"Yeah... That's what happened!"</dialogue> </p>
-<p><context><event>event_snack3:</event></context> <dialogue who="Sam">"What!? He's lying!$a^What!? She's lying!$a"</dialogue> </p>
-<p><context><date season="summer">summer_Mon2:</date></context> <dialogue who="Sam">"Hey, how's it going?#$e#I'm hungry.#$e#See you later."</dialogue> </p>
-<p><context><date season="summer">summer_Mon6:</date></context> <dialogue who="Sam">"Have you been to the desert yet?#$e#You can find some interesting things there. Dad took me a couple times when I was younger."</dialogue> </p>
-<p><context>summer_Mon:</context> <dialogue who="Sam">"There's a little less pollen in the summer... my nose is really happy."</dialogue> </p>
-<p><context>summer_Tue:</context> <dialogue who="Sam">"Oh, hi! It's good to see you again.#$e#Goodbye for now."</dialogue> </p>
-<p><context><date season="summer">summer_Tue4:</date></context> <dialogue who="Sam">"Hi, @. Do you want to hang out or something?#$e#I'm so energized during summer I hardly have to sleep!"</dialogue> </p>
-<p><context>summer_Wed:</context> <dialogue who="Sam">"Hi. Taking the day off?#$e#Sounds interesting."</dialogue> </p>
-<p><context><date season="summer">summer_Wed2:</date></context> <dialogue who="Sam">"I saw a spider on my ceiling last night. They sure like the warmth.#$e#I hope he didn't crawl into my mouth while I was asleep...$s"</dialogue> </p>
-<p><context>summer_Thu:</context> <dialogue who="Sam">"Dad was telling me about our national enemy, the Gotoro Empire... They sound like a ruthless bunch."</dialogue> </p>
-<p><context><date season="summer">summer_Thu6_1:</date></context> <dialogue who="Sam">"Sometimes I can hear my Dad pacing down the hallway at night.$s#$b#...But he won't tell us what's troubling him."</dialogue> </p>
-<p><context>summer_Fri:</context> <dialogue who="Sam">"You know... I used to live in the city and I have to admit, this place is much nicer in the summer.$h#$e#The city is so hot with all that concrete."</dialogue> </p>
-<p><context>summer_Sun:</context> <dialogue who="Sam">"When you see hot air balloons drifting over the sea, you'll know that summer's in full swing."</dialogue> </p>
-<p><context><date season="fall">fall_Mon2:</date></context> <dialogue who="Sam">"I like taking walks in the forest this time of year. The temperature is so comfortable#$e#...$h"</dialogue> </p>
-<p><context>fall_Mon:</context> <dialogue who="Sam">"Oh, hi. Are you making friends with anyone in town?#$e#Bye."</dialogue> </p>
-<p><context>fall_Tue:</context> <dialogue who="Sam">"My shoes always seem to wear out this time of year. Look, my toe's poking through!$h#$e#That's what happens when you skateboard too much."</dialogue> </p>
-<p><context><date season="fall">fall_9:</date></context> <dialogue who="Sam">"I ordered a new pair of shoes online. They're the same style so I know they'll fit right."</dialogue> </p>
-<p><context><date season="fall">fall_16:</date></context> <dialogue who="Sam">"I ordered some shoes online more than a week ago! Man, they're really taking a long time.#$e#I guess we must really live in the middle of nowhere.$s"</dialogue> </p>
-<p><context><date season="fall">fall_23:</date></context> <dialogue who="Sam">"Ah, my feet feel great in these new shoes. They're a little crisp, but they'll break in. Especially after I run through the haunted maze this weekend.$h"</dialogue> </p>
-<p><context><date season="fall">fall_Tue4:</date></context> <dialogue who="Sam">"Hi, @. Do you want to hang out or something?#$e#Just stop by whenever you want."</dialogue> </p>
-<p><context>fall_Wed:</context> <dialogue who="Sam">"Hey... something smells good, like pizza.#$e#Do you smell that? Maybe Mom's cooking something."</dialogue> </p>
-<p><context><date season="fall">fall_Thu6_1:</date></context> <dialogue who="Sam">"I think my Dad might be coming back next year.#$e#I guess that's kind of soon. Weird."</dialogue> </p>
-<p><context><date season="fall">fall_Thu6:</date></context> <dialogue who="Sam">"I guess I should start thinking about moving out soon...$s#$e#...But I would miss Mom's fish casserole, so I dunno...$s#$e#I hate making decisions."</dialogue> </p>
-<p><context>fall_Thu:</context> <dialogue who="Sam">"Did you ever notice all the spider webs that appear during the fall?#$e#If you get up early you'll see them covered in dew... like little stars."</dialogue> </p>
-<p><context>fall_Fri:</context> <dialogue who="Sam">"I used to live in Zuzu City, you know. The biggest difference is the noise. It's never quiet in the city.#$e#There's way more people around you, always. And it's always bright with city lights, even at night.#$e#I guess which setting you like depends on your personality."</dialogue> </p>
-<p><context><date season="fall">fall_Fri10:</date></context> <dialogue who="Sam">"I think I've grown to like the country more than the city.$h#$b#Although I could be biased... for a certain reason.$10#$e#So, how are you doing today?$h"</dialogue> </p>
-<p><context><date season="fall">fall_Sat4:</date></context> <dialogue who="Sam">"I'm lucky to have the biggest room in the house to myself.#$e#I guess there's advantages to being the oldest child."</dialogue> </p>
-<p><context>fall_Sat:</context> <dialogue who="Sam">"Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time."</dialogue> </p>
-<p><context><date season="fall">fall_Sun8:</date></context> <dialogue who="Sam">"The first week of fall is already over. Man, that went by fast.$s#$e#Whatever. I'm just happy that you came to visit me!#$e#So do you have anything new to tell me?"</dialogue> </p>
-<p><context>fall_Sun:</context> <dialogue who="Sam">"It's hard to have fun on Sunday... I keep thinking about having to go to work tomorrow.$s"</dialogue> </p>
-<p><context><date season="fall">fall_14:</date></context> <dialogue who="Sam">"Hi @.#$e#Hmm.. I wonder if I could grow a cactus in my room?"</dialogue> </p>
-<p><context><date season="winter">winter_Mon2:</date></context> <dialogue who="Sam">"Everyone's indoors during the winter, so I can play guitar as loud as I want.$h"</dialogue> </p>
-<p><context>winter_Mon:</context> <dialogue who="Sam">"Hi... Cold, isn't it?"</dialogue> </p>
-<p><context>winter_Tue:</context> <dialogue who="Sam">"Oh, hi! It's good to see you again.#$e#Take it easy."</dialogue> </p>
-<p><context><date season="winter">winter_Tue4:</date></context> <dialogue who="Sam">"Hi, @. Do you want to hang out or something?#$e#Well, it's a good time of year to catch up on all the sleep I've missed.$h"</dialogue> </p>
-<p><context>winter_Wed:</context> <dialogue who="Sam">"$d Joja#I hate working at JojaMart, but how else am I going to make money in this town?|I'm glad I work at the museum now. It's way more interesting than that depressing JojaMart ever was."</dialogue> </p>
-<p><context><date season="winter">winter_Thu6_1:</date></context> <dialogue who="Sam">"I think my Dad is coming back this spring.#$e#It's been 3 years since I've seen him. This is going to be strange."</dialogue> </p>
-<p><context><date season="winter">winter_Thu6:</date></context> <dialogue who="Sam">"Dad's been back for a while now. I guess I'm finally getting used to it."</dialogue> </p>
-<p><context>winter_Thu:</context> <dialogue who="Sam">"My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He's coming back soon, though."</dialogue> </p>
-<p><context><date season="winter">winter_Thu_2:</date></context> <dialogue who="Sam">"One thing that's nice about winter... all the mosquitos are gone."</dialogue> </p>
-<p><context>winter_Fri:</context> <dialogue who="Sam">"The worst thing about the snow is getting your feet soaked. You're lucky in those thick boots."</dialogue> </p>
-<p><context><date season="winter">winter_Sat4:</date></context> <dialogue who="Sam">"I just remembered I need to change the strings on my guitar.#$b#Okay, I'm going to write a note on my wrist so I remember to do it tonight.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h"</dialogue> </p>
-<p><context><date season="winter">winter_Sun8:</date></context> <dialogue who="Sam">"It would be fun if we could go sledding, wouldn't it?#$e#I don't think there are any good hills nearby.$s#$e#Plus, I don't have a sled.#$e#So, how have you been doing lately?"</dialogue> </p>
-<p><context>winter_Sun:</context> <dialogue who="Sam">"Try not to make a mess in the house or my Mom will flip."</dialogue> </p>
+<p><context>Mon8:</context> <dialogue who="Sam">"I'll tell you a secret... my name 'Sam' is short for 'Samson'. Most people don't know that so keep it on mute."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Sam">"Oh, hi! It's good to see you again. Take it easy."</dialogue> </p>
+<p><context>Tue4:</context> <dialogue who="Sam">"Hi, @. Do you want to hang out or something? Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Sam">"I'm trying to come up with a new song for my band, but I'm blanking... Hey.. What do you think my new song should be about?</dialogue> </p>
 </xml>
