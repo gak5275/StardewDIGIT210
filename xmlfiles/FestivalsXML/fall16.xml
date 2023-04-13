@@ -46,6 +46,6 @@
 <p><context>Jas:</context> <dialogue who="Jas">Ow! A hen pecked my little finger!</dialogue> </p>
 <p><context>Vincent:</context> <dialogue who="Vincent">Moooo!</dialogue> </p>
 <p><context>Marlon:</context> <dialogue who="Marlon">Clint's blades get sharper every year. So do his prices...</dialogue> </p>
-<p><context>Willy:</context> <dialogue who="Willy">Are you setting up a grange display, @? It's your chance to show off all the good produce from %farm!</dialogue> </p>
+<p><context>Willy:</context> <dialogue who="Willy">Are you setting up a grange display, @? It's your chance to show off all the good produce from !</dialogue> </p>
 <p><context>Leo:</context> <dialogue who="Leo">Haha! I've never seen anything like this before...</dialogue> </p>
 </xml>
