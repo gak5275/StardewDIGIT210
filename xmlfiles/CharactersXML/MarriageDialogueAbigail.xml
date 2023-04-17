@@ -1,76 +1,75 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Rainy_Day_0:</context> <dialogue who="Abigail">"The dark... the rain... it gets me excited.$l"</dialogue> </p>
-<p><context>Rainy_Day_1:</context> <dialogue who="Abigail">"Hey, remember when we played that duet by the lake? This weather reminds me of that day.#$e#You really surprised me with that mini-harp... I never expected that. I guess that's why I like you so much.$l"</dialogue> </p>
-<p><context>Rainy_Day_2:</context> <dialogue who="Abigail">"Hey! I woke up early and did some exploring on my own. I found this and it reminded me of you. [768 767 769 66 82]#$e#Think you can find something better than that? I'm not so sure!$h"</dialogue> </p>
-<p><context>Rainy_Day_3:</context> <dialogue who="Abigail">"It might be a good day to visit the caves, huh? Just be careful out there.#$e#If you go, bring a Life Elixir or two."</dialogue> </p>
-<p><context>Rainy_Day_4:</context> <dialogue who="Abigail">"Maybe I'll boot up Journey Of The Prairie King today... one of these days I swear I'll beat it on my own.$h"</dialogue> </p>
-<p><context>patio_Abigail:</context> <dialogue who="Abigail">"%Abigail is lost in her music."</dialogue> </p>
+<p><context>Rainy_Day_0:</context> <dialogue who="Abigail">"The dark... the rain... it gets me excited."</dialogue> </p>
+<p><context>Rainy_Day_1:</context> <dialogue who="Abigail">"Hey, remember when we played that duet by the lake? This weather reminds me of that day. You really surprised me with that mini-harp... I never expected that. I guess that's why I like you so much."</dialogue> </p>
+<p><context>Rainy_Day_2:</context> <dialogue who="Abigail">"Hey! I woke up early and did some exploring on my own. I found this and it reminded me of you. [768 767 769 66 82] Think you can find something better than that? I'm not so sure!"</dialogue> </p>
+<p><context>Rainy_Day_3:</context> <dialogue who="Abigail">"It might be a good day to visit the caves, huh? Just be careful out there. If you go, bring a Life Elixir or two."</dialogue> </p>
+<p><context>Rainy_Day_4:</context> <dialogue who="Abigail">"Maybe I'll boot up Journey Of The Prairie King today... one of these days I swear I'll beat it on my own."</dialogue> </p>
 <p><context>Rainy_Day_Abigail:</context> <dialogue who="Abigail">"The countryside looks more interesting on a day like this, don't you think?"</dialogue> </p>
-<p><context>Rainy_Night_0:</context> <dialogue who="Abigail">"I was just gazing out into the rainswept woods... I swear I saw something darker than black shifting around the trees.$6"</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue who="Abigail">"I was just gazing out into the rainswept woods... I swear I saw something darker than black shifting around the trees."</dialogue> </p>
 <p><context>Rainy_Night_1:</context> <dialogue who="Abigail">"It's a good night to see a ghost..."</dialogue> </p>
 <p><context>Rainy_Night_2:</context> <dialogue who="Abigail">"Can you feel it? There's a stillness in the rain..."</dialogue> </p>
-<p><context>Rainy_Night_3:</context> <dialogue who="Abigail">"On nights like this, I like to turn the light down low and just listen...$8"</dialogue> </p>
-<p><context>Rainy_Night_4:</context> <dialogue who="Abigail">"I felt like making some soup for dinner. I hope it's not too disgusting. [199 218 219 727 730]$h"</dialogue> </p>
-<p><context>Rainy_Night_5:</context> <dialogue who="Abigail">"Hey! You look like you've been hard at work. Can I help you relax?^Have you been working hard? You look cute when you're a little exhausted.$h"</dialogue> </p>
+<p><context>Rainy_Night_3:</context> <dialogue who="Abigail">"On nights like this, I like to turn the light down low and just listen..."</dialogue> </p>
+<p><context>Rainy_Night_4:</context> <dialogue who="Abigail">"I felt like making some soup for dinner. I hope it's not too disgusting. [199 218 219 727 730]"</dialogue> </p>
+<p><context>Rainy_Night_5:</context> <dialogue who="Abigail">"Hey! You look like you've been hard at work. Can I help you relax?^Have you been working hard? You look cute when you're a little exhausted."</dialogue> </p>
 <p><context>Rainy_Night_Abigail:</context> <dialogue who="Abigail">"The sound of rain should put us right to sleep tonight."</dialogue> </p>
-<p><context>Indoor_Day_0:</context> <dialogue who="Abigail">"I always loved this place, long before you moved in. Now I can explore the farm whenever I want!$h"</dialogue> </p>
-<p><context>Indoor_Day_1:</context> <dialogue who="Abigail">"Hey, @. Heading out into the wild? I got you something...[286 287 205 732]#$e#Use that if you get into a tough spot. It should help keep you safe."</dialogue> </p>
-<p><context>Indoor_Day_2:</context> <dialogue who="Abigail">"Heading to the mines? Hey... if you find something tasty, remember to bring me a piece!$h"</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue who="Abigail">"I always loved this place, long before you moved in. Now I can explore the farm whenever I want!"</dialogue> </p>
+<p><context>Indoor_Day_1:</context> <dialogue who="Abigail">"Hey, @. Heading out into the wild? I got you something...[286 287 205 732] Use that if you get into a tough spot. It should help keep you safe."</dialogue> </p>
+<p><context>Indoor_Day_2:</context> <dialogue who="Abigail">"Heading to the mines? Hey... if you find something tasty, remember to bring me a piece!"</dialogue> </p>
 <p><context>Indoor_Day_3:</context> <dialogue who="Abigail">"Hey! I'm just debating what I should do today. I'm not used to having this much freedom!"</dialogue> </p>
 <p><context>Indoor_Day_4:</context> <dialogue who="Abigail">"You don't mind if I do some re-decorating now and then, do you? I'm still excited to have a place of my own to work on."</dialogue> </p>
 <p><context>Indoor_Day_Abigail:</context> <dialogue who="Abigail">"There's always something new happening on our farm... I love it."</dialogue> </p>
 <p><context>Indoor_Night_0:</context> <dialogue who="Abigail">"I had a good day, today. There's always something interesting goin on around here, if you look close enough."</dialogue> </p>
-<p><context>Indoor_Night_1:</context> <dialogue who="Abigail">"Hey! Tell me about your day. Did anything exciting happen?$h"</dialogue> </p>
+<p><context>Indoor_Night_1:</context> <dialogue who="Abigail">"Hey! Tell me about your day. Did anything exciting happen?"</dialogue> </p>
 <p><context>Indoor_Night_2:</context> <dialogue who="Abigail">"I used to be a night owl, but I'm starting to enjoy the rhythm of life on the farm. It feels natural."</dialogue> </p>
-<p><context>Indoor_Night_3:</context> <dialogue who="Abigail">"*yawn*... I'm ready to call it a night pretty soon.$h"</dialogue> </p>
+<p><context>Indoor_Night_3:</context> <dialogue who="Abigail">"*yawn*... I'm ready to call it a night pretty soon."</dialogue> </p>
 <p><context>Indoor_Night_4:</context> <dialogue who="Abigail">"The sounds of the night are louder out here. I'll never stop enjoying that."</dialogue> </p>
-<p><context>Indoor_Night_Abigail:</context> <dialogue who="Abigail">"Are you ready for bed soon? I turned on the electric blanket for us...$l"</dialogue> </p>
+<p><context>Indoor_Night_Abigail:</context> <dialogue who="Abigail">"Are you ready for bed soon? I turned on the electric blanket for us..."</dialogue> </p>
 <p><context>Outdoor_0:</context> <dialogue who="Abigail">"The soft breeze is blowing mountain air throughout the valley today. It smells like fresh pine and sage."</dialogue> </p>
 <p><context>Outdoor_1:</context> <dialogue who="Abigail">"Hmm... I think we've got plenty of space for outdoor slime ranching!"</dialogue> </p>
 <p><context>Outdoor_2:</context> <dialogue who="Abigail">"Make sure to keep things tidy around your Grandpa's shrine. There's something special about it, I can feel it."</dialogue> </p>
-<p><context>Outdoor_3:</context> <dialogue who="Abigail">"It's pretty cool that we have a cave on our property. It's something I always dreamed about.$h"</dialogue> </p>
-<p><context>Outdoor_4:</context> <dialogue who="Abigail">"I always forget to put some snacks in my pocket. *rumble*$h"</dialogue> </p>
-<p><context>Outdoor_Abigail:</context> <dialogue who="Abigail">"I'm just going to hang out here, okay?#$e#There's a lot of interesting bugs and things out here. *chuckle*$h"</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue who="Abigail">"It's pretty cool that we have a cave on our property. It's something I always dreamed about."</dialogue> </p>
+<p><context>Outdoor_4:</context> <dialogue who="Abigail">"I always forget to put some snacks in my pocket. *rumble*"</dialogue> </p>
+<p><context>Outdoor_Abigail:</context> <dialogue who="Abigail">"I'm just going to hang out here, okay? There's a lot of interesting bugs and things out here. *chuckle*"</dialogue> </p>
 <p><context>funLeave_Abigail:</context> <dialogue who="Abigail">"I'm going in to town today, just so you know. I need to stretch these legs a bit."</dialogue> </p>
-<p><context>funReturn_Abigail:</context> <dialogue who="Abigail">"Hey! Did you have a good day? Mine went well. It was refreshing to take a walk.$h"</dialogue> </p>
-<p><context>OneKid_3:</context> <dialogue who="Abigail">"I can't believe I'm a \"mom\"... life is weird.$h"</dialogue> </p>
-<p><context>TwoKids_0:</context> <dialogue who="Abigail">"I already gave %kid1 and %kid2 their chocolate cereal. They were screaming!"</dialogue> </p>
-<p><context>TwoKids_2:</context> <dialogue who="Abigail">"I had a dream that %kid2 will grow up to be a famous monster hunter. I've already been thinking about a little armor set."</dialogue> </p>
-<p><context>TwoKids_3:</context> <dialogue who="Abigail">"A cool old house, a couple kids, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started.$h"</dialogue> </p>
-<p><context>Good_1:</context> <dialogue who="Abigail">"Did you hear that? Sometimes I'm convinced this house is haunted.$u"</dialogue> </p>
+<p><context>funReturn_Abigail:</context> <dialogue who="Abigail">"Hey! Did you have a good day? Mine went well. It was refreshing to take a walk."</dialogue> </p>
+<p><context>OneKid_3:</context> <dialogue who="Abigail">"I can't believe I'm a \"mom\"... life is weird."</dialogue> </p>
+<p><context>TwoKids_0:</context> <dialogue who="Abigail">"I already gave  and  their chocolate cereal. They were screaming!"</dialogue> </p>
+<p><context>TwoKids_2:</context> <dialogue who="Abigail">"I had a dream that  will grow up to be a famous monster hunter. I've already been thinking about a little armor set."</dialogue> </p>
+<p><context>TwoKids_3:</context> <dialogue who="Abigail">"A cool old house, a couple kids, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started."</dialogue> </p>
+<p><context>Good_1:</context> <dialogue who="Abigail">"Did you hear that? Sometimes I'm convinced this house is haunted."</dialogue> </p>
 <p><context>Good_2:</context> <dialogue who="Abigail">"Welwick's horoscope predicted great things for me today. I feel really motivated!"</dialogue> </p>
 <p><context>Good_3:</context> <dialogue who="Abigail">"I can't even remember the last time I dyed my hair... I swear, it never fades from this color..."</dialogue> </p>
-<p><context>Good_4:</context> <dialogue who="Abigail">"I'm glad I owned a heavy pair of boots before moving in. It's hard to imagine tip-toeing around the mud in sneakers.$h"</dialogue> </p>
-<p><context>Good_5:</context> <dialogue who="Abigail">"I was just admiring the mermaid's pendant you gave me... I'll proudly wear this to my grave.$l"</dialogue> </p>
-<p><context>Good_6:</context> <dialogue who="Abigail">"Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters.$6#$e#Just promise me you'll be careful. I don't want to lose you."</dialogue> </p>
-<p><context>Good_7:</context> <dialogue who="Abigail">"@? I just want to say that I appreciate all the hard work you do for us. I'm really proud of you.$l"</dialogue> </p>
+<p><context>Good_4:</context> <dialogue who="Abigail">"I'm glad I owned a heavy pair of boots before moving in. It's hard to imagine tip-toeing around the mud in sneakers."</dialogue> </p>
+<p><context>Good_5:</context> <dialogue who="Abigail">"I was just admiring the mermaid's pendant you gave me... I'll proudly wear this to my grave."</dialogue> </p>
+<p><context>Good_6:</context> <dialogue who="Abigail">"Hey. I know you're smart, but I still worry about you sometimes. The world is full of monsters. Just promise me you'll be careful. I don't want to lose you."</dialogue> </p>
+<p><context>Good_7:</context> <dialogue who="Abigail">"@? I just want to say that I appreciate all the hard work you do for us. I'm really proud of you."</dialogue> </p>
 <p><context>Neutral_0:</context> <dialogue who="Abigail">"I hope you'll still like me when I'm old and shriveled. It's going to happen some day!"</dialogue> </p>
 <p><context>Neutral_1:</context> <dialogue who="Abigail">"Do you think your Grandpa would be proud of us?"</dialogue> </p>
 <p><context>Neutral_6:</context> <dialogue who="Abigail">"I wonder how the old shop is doing? I should visit my parents again soon."</dialogue> </p>
 <p><context>Neutral_7:</context> <dialogue who="Abigail">"If you moved on to the spirit world, I'd set up a little shrine for you next to Grandpa's."</dialogue> </p>
-<p><context>Neutral_8:</context> <dialogue who="Abigail">"No matter how much we clean, the house keeps getting dirty again.#$e#I guess farms are kind of dirty."</dialogue> </p>
+<p><context>Neutral_8:</context> <dialogue who="Abigail">"No matter how much we clean, the house keeps getting dirty again. I guess farms are kind of dirty."</dialogue> </p>
 <p><context>Neutral_9:</context> <dialogue who="Abigail">"I wonder if we'll live here our entire lives? I might get bored."</dialogue> </p>
-<p><context>Bad_7:</context> <dialogue who="Abigail">"I used to be special to you, your best friend... now you only seem to put up with me when I make a hot dinner.$s"</dialogue> </p>
-<p><context>Bad_8:</context> <dialogue who="Abigail">"You've been so cold to me lately... What's wrong with you? You're acting like a bog spirit...$s"</dialogue> </p>
-<p><context>Bad_9:</context> <dialogue who="Abigail">"I wonder if I could've done better... I was very good friends with Sebastian before we met. He was probably the one...$s"</dialogue> </p>
+<p><context>Bad_7:</context> <dialogue who="Abigail">"I used to be special to you, your best friend... now you only seem to put up with me when I make a hot dinner."</dialogue> </p>
+<p><context>Bad_8:</context> <dialogue who="Abigail">"You've been so cold to me lately... What's wrong with you? You're acting like a bog spirit..."</dialogue> </p>
+<p><context>Bad_9:</context> <dialogue who="Abigail">"I wonder if I could've done better... I was very good friends with Sebastian before we met. He was probably the one..."</dialogue> </p>
 <p><context><date season="spring">spring_1:</date></context> <dialogue who="Abigail">"So, do you have any big plans for the new year?"</dialogue> </p>
-<p><context><date season="spring">spring_12:</date></context> <dialogue who="Abigail">"Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you because we're married!$h#$e#I plan on winning that egg hunt. Go ahead and try to beat me."</dialogue> </p>
-<p><context><date season="spring">spring_2:</date></context> <dialogue who="Abigail">"Do you have any new year's resolutions? I'm trying to lose a few pounds around the middle.$h"</dialogue> </p>
-<p><context><date season="summer">summer_1:</date></context> <dialogue who="Abigail">"I get sunburnt very easily, so I need to be careful this time of year.#$e#I hope you like me pale!$h"</dialogue> </p>
-<p><context><date season="summer">summer_4:</date></context> <dialogue who="Abigail">"Make sure you don't get a heat stroke, my love.#$e#Drink plenty of water and don't overwork yourself."</dialogue> </p>
+<p><context><date season="spring">spring_12:</date></context> <dialogue who="Abigail">"Hey, the egg festival is tomorrow. I'm sorry, but I won't go easy on you because we're married! I plan on winning that egg hunt. Go ahead and try to beat me."</dialogue> </p>
+<p><context><date season="spring">spring_2:</date></context> <dialogue who="Abigail">"Do you have any new year's resolutions? I'm trying to lose a few pounds around the middle."</dialogue> </p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue who="Abigail">"I get sunburnt very easily, so I need to be careful this time of year. I hope you like me pale!"</dialogue> </p>
+<p><context><date season="summer">summer_4:</date></context> <dialogue who="Abigail">"Make sure you don't get a heat stroke, my love. Drink plenty of water and don't overwork yourself."</dialogue> </p>
 <p><context><date season="summer">summer_8:</date></context> <dialogue who="Abigail">"Sorry about the smell... I was sweating all night in the heat."</dialogue> </p>
-<p><context><date season="summer">summer_15:</date></context> <dialogue who="Abigail">"It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them. It's fun!$h"</dialogue> </p>
+<p><context><date season="summer">summer_15:</date></context> <dialogue who="Abigail">"It's summer... that means the house is full of flies. Don't worry, I'll take care of them. It's fun!"</dialogue> </p>
 <p><context><date season="fall">fall_6:</date></context> <dialogue who="Abigail">"Ah... fall. This might be my favorite time of year. The colors really complement my hair, don't you think?"</dialogue> </p>
 <p><context><date season="fall">fall_1:</date></context> <dialogue who="Abigail">"The scent is unmistakable... mushroom, rotting leaves, pumpkin. It's fall, alright. Isn't it lovely?"</dialogue> </p>
-<p><context><date season="fall">fall_2:</date></context> <dialogue who="Abigail">"Can we grow giant pumpkins this season? Please, honey?$h"</dialogue> </p>
-<p><context><date season="fall">fall_20:</date></context> <dialogue who="Abigail">"Honey... you're worth more to me than a chest full of quartz.#$e#Now, a chest full of amethyst? Hmm... I'd have to think about that one.$h"</dialogue> </p>
-<p><context><date season="winter">winter_3:</date></context> <dialogue who="Abigail">"I actually like the cold weather. It just gives me an excuse to get cozy!$h"</dialogue> </p>
+<p><context><date season="fall">fall_2:</date></context> <dialogue who="Abigail">"Can we grow giant pumpkins this season? Please, honey?"</dialogue> </p>
+<p><context><date season="fall">fall_20:</date></context> <dialogue who="Abigail">"Honey... you're worth more to me than a chest full of quartz. Now, a chest full of amethyst? Hmm... I'd have to think about that one."</dialogue> </p>
+<p><context><date season="winter">winter_3:</date></context> <dialogue who="Abigail">"I actually like the cold weather. It just gives me an excuse to get cozy!"</dialogue> </p>
 <p><context><date season="winter">winter_15:</date></context> <dialogue who="Abigail">"It's fun to explore the valley in winter! Everything is so different under a blanket of snow. And so quiet..."</dialogue> </p>
 <p><context>spring_Abigail:</context> <dialogue who="Abigail">"I may like the colder seasons, but by the end I'm always glad to see spring arrive."</dialogue> </p>
 <p><context>summer_Abigail:</context> <dialogue who="Abigail">"Oh man... I could go for some chocolate cake."</dialogue> </p>
-<p><context>fall_Abigail:</context> <dialogue who="Abigail">"Do I smell pumpkin on you? Maybe I'm just dreaming...$h"</dialogue> </p>
-<p><context>winter_Abigail:</context> <dialogue who="Abigail">"Remember when we played 'Prairie King' together in my room, so long ago? Those were good times.$h"</dialogue> </p>
-<p><context>spouseRoom_Abigail:</context> <dialogue who="Abigail">"#$c .5#I got up a little before you and fed David Jr. He's very active this morning.#$e#I hope you don't mind the guinea pig smell."</dialogue> </p>
+<p><context>fall_Abigail:</context> <dialogue who="Abigail">"Do I smell pumpkin on you? Maybe I'm just dreaming..."</dialogue> </p>
+<p><context>winter_Abigail:</context> <dialogue who="Abigail">"Remember when we played 'Prairie King' together in my room, so long ago? Those were good times."</dialogue> </p>
+<p><context>spouseRoom_Abigail:</context> <dialogue who="Abigail">"I got up a little before you and fed David Jr. He's very active this morning. I hope you don't mind the guinea pig smell."</dialogue> </p>
 </xml>

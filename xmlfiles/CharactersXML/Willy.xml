@@ -2,20 +2,20 @@
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Willy">"Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days."</dialogue> </p>
-<p><context>accept_869:</context> <dialogue who="Willy">"Ah... That's the perfect bait for a catfish I've been tryin' to catch!#$b#Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago.#$b#Somethin' tells me you could use it, lad.^Somethin' tells me you could use it, miss."</dialogue> </p>
-<p><context>FullCrabPond:</context> <dialogue who="Willy">"*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya?#$b#Yer a man after me own heart, @. Hah!$h^Yer a lady after me own heart, @. Hah!$h#$b#Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast! [797]"</dialogue> </p>
-<p><context>MovieInvitation:</context> <dialogue who="Willy">"Ah... a movie. That's kind of ye, lad.^Ah... a movie. That's kind of ye, miss.#$b#I'll just finish me pipe, and head over."</dialogue> </p>
-<p><context>Mon:</context> <dialogue who="Willy">"Ahoy there, son.^Ahoy there, lass.#$b#Looks like decent weather for fishing, eh?"</dialogue> </p>
+<p><context>accept_869:</context> <dialogue who="Willy">"Ah... That's the perfect bait for a catfish I've been tryin' to catch! Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago. Somethin' tells me you could use it, lad.^Somethin' tells me you could use it, miss."</dialogue> </p>
+<p><context>FullCrabPond:</context> <dialogue who="Willy">"*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya? Yer a man after me own heart, @. Hah!^Yer a lady after me own heart, @. Hah! Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast! [797]"</dialogue> </p>
+<p><context>MovieInvitation:</context> <dialogue who="Willy">"Ah... a movie. That's kind of ye, lad.^Ah... a movie. That's kind of ye, miss. I'll just finish me pipe, and head over."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Willy">"Ahoy there, son.^Ahoy there, lass. Looks like decent weather for fishing, eh?"</dialogue> </p>
 <p><context>Mon4:</context> <dialogue who="Willy">"Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it."</dialogue> </p>
 <p><context>Tue:</context> <dialogue who="Willy">"A true angler has respect for the water... don't you forget that."</dialogue> </p>
-<p><context>Tue6:</context> <dialogue who="Willy">"The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch.#$e#The fishing life is tough, but there's something about it that keeps you goin'."</dialogue> </p>
+<p><context>Tue6:</context> <dialogue who="Willy">"The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch. The fishing life is tough, but there's something about it that keeps you goin'."</dialogue> </p>
 <p><context>Wed:</context> <dialogue who="Willy">"Some fish come and go with the seasons. Others only come out at night or in the rain."</dialogue> </p>
 <p><context>Thu:</context> <dialogue who="Willy">"*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret."</dialogue> </p>
-<p><context>Thu2:</context> <dialogue who="Willy">"There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them.#$e#You'll need the finest bait you can get if you want a rare fish to bite."</dialogue> </p>
+<p><context>Thu2:</context> <dialogue who="Willy">"There's rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them. You'll need the finest bait you can get if you want a rare fish to bite."</dialogue> </p>
 <p><context>Fri:</context> <dialogue who="Willy">"If you really want to get the fish biting, make sure you put some bait on your hook."</dialogue> </p>
 <p><context>Sat:</context> <dialogue who="Willy">"If the local fishing scene got a bit more lively, I might expand the shop's stock."</dialogue> </p>
-<p><context>Sat8:</context> <dialogue who="Willy">"How's the fishing life going for ya?#$e#I try to fish as often as possible, but it's not easy when you've got a shop to run."</dialogue> </p>
-<p><context>Sun:</context> <dialogue who="Willy">"If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line.#$b#Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in.#$e#There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while."</dialogue> </p>
-<p><context>Sun10:</context> <dialogue who="Willy">"Hey, it's my skipper, @!$h#$e#I'd give you a discount on bait if I could afford it.$s"</dialogue> </p>
+<p><context>Sat8:</context> <dialogue who="Willy">"How's the fishing life going for ya? I try to fish as often as possible, but it's not easy when you've got a shop to run."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Willy">"If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line. Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in. There's all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while."</dialogue> </p>
+<p><context>Sun10:</context> <dialogue who="Willy">"Hey, it's my skipper, @! I'd give you a discount on bait if I could afford it."</dialogue> </p>
 
 </xml>
