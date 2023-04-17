@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>Marnie	SPEAKER	AnimalShop.xml	Marnie's Ranch	location
+Marnie	SPEAKER	Farm.xml	The Farm	location
+Marnie	SPEAKER	Forest.xml	Cindersap Forest	location
+Marnie	SPEAKER	HaleyHouse.xml	Haley's House	location
+Marnie	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Marnie	SPEAKER	Town.xml	Pelican Town	location
+Shane	SPEAKER	AnimalShop.xml	Marnie's Ranch	location
+Shane	SPEAKER	BusStop.xml	Bus Stop	location
+Shane	SPEAKER	Farm.xml	The Farm	location
+Shane	SPEAKER	Forest.xml	Cindersap Forest	location
+Shane	SPEAKER	ManorHouse.xml	The Mayor's House	location
+Shane	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Shane	SPEAKER	Town.xml	Pelican Town	location
+Jas	SPEAKER	AnimalShop.xml	Marnie's Ranch	location
+Jas	SPEAKER	FarmHouse.xml	Farmer's House	location
+Jas	SPEAKER	Forest.xml	Cindersap Forest	location
+Jas	SPEAKER	Town.xml	Pelican Town	location
+Elliott	SPEAKER	ArchaeologyHouse.xml	Museum/Library	location
+Elliott	SPEAKER	Beach.xml	The Beach	location
+Elliott	SPEAKER	ElliottHouse.xml	Elliott's Cabin	location
+Elliott	SPEAKER	Farm.xml	The Farm	location
+Elliott	SPEAKER	FarmHouse.xml	Farmer's House	location
+Elliott	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Emily	SPEAKER	ArchaeologyHouse.xml	Museum/Library	location
+Emily	SPEAKER	Farm.xml	The Farm	location
+Emily	SPEAKER	FarmHouse.xml	Farmer's House	location
+Emily	SPEAKER	HaleyHouse.xml	Haley's House	location
+Emily	SPEAKER	ManorHouse.xml	The Mayor's House	location
+Emily	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Emily	SPEAKER	Town.xml	Pelican Town	location
+Emily	SPEAKER	Woods.xml	Secret Woods	location
+Gunther	SPEAKER	ArchaeologyHouse.xml	Museum/Library	location
+Gunther	SPEAKER	Farm.xml	The Farm	location
+Gunther	SPEAKER	Town.xml	Pelican Town	location
+Abigail	SPEAKER	Backwoods.xml	Backwoods	location
+Abigail	SPEAKER	Farm.xml	The Farm	location
+Abigail	SPEAKER	HaleyHouse.xml	Haley's House	location
+Abigail	SPEAKER	ManorHouse.xml	The Mayor's House	location
+Abigail	SPEAKER	Mine.xml	The Mines	location
+Abigail	SPEAKER	Mountain.xml	The Mountain	location
+Abigail	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Abigail	SPEAKER	Town.xml	Pelican Town	location
+Penny	SPEAKER	BathHouse_Pool.xml	Spa	location
+Penny	SPEAKER	FarmHouse.xml	Farmer's House	location
+Penny	SPEAKER	Forest.xml	Cindersap Forest	location
+Penny	SPEAKER	HaleyHouse.xml	Haley's House	location
+Penny	SPEAKER	Mountain.xml	The Mountain	location
+Penny	SPEAKER	Town.xml	Pelican Town	location
+Penny	SPEAKER	Trailer.xml	Penny's Trailer	location
+Haley	SPEAKER	Beach.xml	The Beach	location
+Haley	SPEAKER	FarmHouse.xml	Farmer's House	location
+Haley	SPEAKER	Forest.xml	Cindersap Forest	location
+Haley	SPEAKER	HaleyHouse.xml	Haley's House	location
+Haley	SPEAKER	Town.xml	Pelican Town	location
+Alex	SPEAKER	Beach.xml	The Beach	location
+Alex	SPEAKER	BusStop.xml	Bus Stop	location
+Alex	SPEAKER	Farm.xml	The Farm	location
+Alex	SPEAKER	JoshHouse.xml	Alex's House	location
+Alex	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Alex	SPEAKER	Town.xml	Pelican Town	location
+Sebastian	SPEAKER	Beach.xml	The Beach	location
+Sebastian	SPEAKER	FarmHouse.xml	Farmer's House	location
+Sebastian	SPEAKER	Mountain.xml	The Mountain	location
+Sebastian	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Sebastian	SPEAKER	SamHouse.xml	Sam's House	location
+Sebastian	SPEAKER	ScienceHouse.xml	Carpenter's Shop	location
+Sebastian	SPEAKER	SebastianRoom.xml	Sebastian's Room	location
+Sam	SPEAKER	Beach.xml	The Beach	location
+Sam	SPEAKER	BusStop.xml	Bus Stop	location
+Sam	SPEAKER	Farm.xml	The Farm	location
+Sam	SPEAKER	FarmHouse.xml	Farmer's House	location
+Sam	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Sam	SPEAKER	SamHouse.xml	Sam's House	location
+Sam	SPEAKER	SebastianRoom.xml	Sebastian's Room	location
+Sam	SPEAKER	Town.xml	Pelican Town	location
+Vincent	SPEAKER	Beach.xml	The Beach	location
+Vincent	SPEAKER	FarmHouse.xml	Farmer's House	location
+Vincent	SPEAKER	Forest.xml	Cindersap Forest	location
+Vincent	SPEAKER	Town.xml	Pelican Town	location
+Willy	SPEAKER	Beach.xml	The Beach	location
+Willy	SPEAKER	BoatTunnel.xml	Boat Tunnel	location
+Willy	SPEAKER	FishShop.xml	Fish Shop	location
+Willy	SPEAKER	IslandSouth.xml	Ginger Island	location
+Willy	SPEAKER	IslandWest.xml	Ginger Island	location
+Willy	SPEAKER	Mountain.xml	The Mountain	location
+Willy	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Willy	SPEAKER	Town.xml	Pelican Town	location
+Gus	SPEAKER	Beach.xml	The Beach	location
+Gus	SPEAKER	Farm.xml	The Farm	location
+Gus	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Gus	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Gus	SPEAKER	Town.xml	Pelican Town	location
+Robin	SPEAKER	BusStop.xml	Bus Stop	location
+Robin	SPEAKER	ManorHouse.xml	The Mayor's House	location
+Robin	SPEAKER	Mountain.xml	The Mountain	location
+Robin	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Robin	SPEAKER	ScienceHouse.xml	Carpenter's Shop	location
+Robin	SPEAKER	SebastianRoom.xml	Sebastian's Room	location
+Robin	SPEAKER	Town.xml	Pelican Town	location
+Lewis	SPEAKER	BusStop.xml	Bus Stop	location
+Lewis	SPEAKER	ManorHouse.xml	The Mayor's House	location
+Lewis	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Lewis	SPEAKER	Town.xml	Pelican Town	location
+Morris	SPEAKER	CommunityCenter.xml	Community Center	location
+Morris	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Morris	SPEAKER	Town.xml	Pelican Town	location
+Pierre	SPEAKER	CommunityCenter.xml	Community Center	location
+Pierre	SPEAKER	Farm.xml	The Farm	location
+Pierre	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Pierre	SPEAKER	Town.xml	Pelican Town	location
+Caroline	SPEAKER	CommunityCenter.xml	Community Center	location
+Caroline	SPEAKER	HaleyHouse.xml	Haley's House	location
+Caroline	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Caroline	SPEAKER	Sunroom.xml	Caroline's Sunroom	location
+Caroline	SPEAKER	Town.xml	Pelican Town	location
+George	SPEAKER	CommunityCenter.xml	Community Center	location
+George	SPEAKER	JoshHouse.xml	Alex's House	location
+George	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+George	SPEAKER	Town.xml	Pelican Town	location
+Leah	SPEAKER	Farm.xml	The Farm	location
+Leah	SPEAKER	Forest.xml	Cindersap Forest	location
+Leah	SPEAKER	HaleyHouse.xml	Haley's House	location
+Leah	SPEAKER	LeahHouse.xml	Leah's House	location
+Leah	SPEAKER	Town.xml	Pelican Town	location
+Kent	SPEAKER	Farm.xml	The Farm	location
+Kent	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Kent	SPEAKER	SamHouse.xml	Sam's House	location
+Clint	SPEAKER	Farm.xml	The Farm	location
+Clint	SPEAKER	ManorHouse.xml	The Mayor's House	location
+Clint	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Clint	SPEAKER	Town.xml	Pelican Town	location
+Evelyn	SPEAKER	Farm.xml	The Farm	location
+Evelyn	SPEAKER	JoshHouse.xml	Alex's House	location
+Demetrius	SPEAKER	Farm.xml	The Farm	location
+Demetrius	SPEAKER	ScienceHouse.xml	Carpenter's Shop	location
+Demetrius	SPEAKER	Town.xml	Pelican Town	location
+Marlon	SPEAKER	Farm.xml	The Farm	location
+Marlon	SPEAKER	Mine.xml	The Mines	location
+Jodi	SPEAKER	Farm.xml	The Farm	location
+Jodi	SPEAKER	SamHouse.xml	Sam's House	location
+Jodi	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Jodi	SPEAKER	Town.xml	Pelican Town	location
+Grandpa	SPEAKER	FarmHouse.xml	Farmer's House	location
+Maru	SPEAKER	FarmHouse.xml	Farmer's House	location
+Maru	SPEAKER	HaleyHouse.xml	Haley's House	location
+Maru	SPEAKER	Hospital.xml	Hospital	location
+Maru	SPEAKER	Mountain.xml	The Mountain	location
+Maru	SPEAKER	ScienceHouse.xml	Carpenter's Shop	location
+Harvey	SPEAKER	FarmHouse.xml	Farmer's House	location
+Harvey	SPEAKER	Forest.xml	Cindersap Forest	location
+Harvey	SPEAKER	HarveyRoom.xml	Harvey's Room	location
+Harvey	SPEAKER	Hospital.xml	Hospital	location
+Harvey	SPEAKER	JoshHouse.xml	Alex's House	location
+Harvey	SPEAKER	Railroad.xml	The Railroad	location
+Harvey	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Harvey	SPEAKER	SeedShop.xml	Pierre's General Store	location
+Leo	SPEAKER	IslandHut.xml	Leo's Hut	location
+Leo	SPEAKER	IslandNorth.xml	Ginger Island	location
+Leo	SPEAKER	IslandSouth.xml	Ginger Island	location
+Leo	SPEAKER	IslandWest.xml	Ginger Island	location
+Leo	SPEAKER	Mountain.xml	The Mountain	location
+Linus	SPEAKER	IslandSouth.xml	Ginger Island	location
+Linus	SPEAKER	Mountain.xml	The Mountain	location
+Linus	SPEAKER	Town.xml	Pelican Town	location
+Wizard	SPEAKER	Railroad.xml	The Railroad	location
+Wizard	SPEAKER	Sewer.xml	The Sewers	location
+Wizard	SPEAKER	WizardHouse.xml	The Wizard's Tower	location
+Pam	SPEAKER	Saloon.xml	The Stardrop Saloon	location
+Pam	SPEAKER	Town.xml	Pelican Town	location
+Pam	SPEAKER	Trailer.xml	Penny's Trailer	location
+Pam	SPEAKER	Trailer_Big.xml	Pam's House	location
+Sandy	SPEAKER	SandyHouse.xml	Oasis	location
+Dwarf	SPEAKER	Sewer.xml	The Sewers	location
+Krobus	SPEAKER	Sewer.xml	The Sewers	location
+Bear	SPEAKER	Woods.xml	Secret Woods	location
