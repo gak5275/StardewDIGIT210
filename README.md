@@ -1,17 +1,34 @@
-# StardewDIGIT210
-Repository for our Stardew Valley analysis project for DIGIT 210
+# StardewDIGIT210: A Stardew Valley Analysis Project
 
-Stardew Valley has a few overarching themes:
-* Appreciation of nature
-* Connection with local community
-* Escaping the rush of "modern life" (as the game puts it)
+Welcome to the StardewDIGIT210 repository! This project aims to analyze the popular game Stardew Valley, specifically focusing on its overarching themes and the representation of these themes in the game's dialogue.
 
-Questions we would like to answer by analyzing the game's text:
-* To what extent are these themes represented in the game's dialogue?
-* Which characters embody these themes the most? Which ones embody them the least?
-* Are there any other themes consistently present throughout the dialogue?
+## Main Themes
 
-How we will analyze the text of Stardew Valley:
-* Look at the word usage of each character and identify recurring themes
-* Create a network of connections and relationships between the characters
-* Identify which locations in the game certain characters appear together
+Stardew Valley is known for its emphasis on the following themes:
+
+1. Appreciation of nature
+2. Connection with the local community
+3. Escaping the rush of "modern life" (as the game puts it)
+
+## Research Questions
+
+We aim to answer the following questions through our analysis of the game's text:
+
+1. To what extent are the main themes represented in the game's dialogue?
+2. Which characters embody these themes the most? Which ones embody them the least?
+3. Are there any other themes consistently present throughout the dialogue?
+
+## Methodology
+
+To analyze the text of Stardew Valley, we will:
+
+1. Examine the word usage of each character and identify recurring themes.
+2. Create a network of connections and relationships between the characters.
+3. Identify which locations in the game certain characters appear together.
+
+By following this methodology, we hope to gain valuable insights into the thematic content of the game and the representation of its characters.
+
+## Contributions
+
+We welcome contributions to this project! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or create an issue. We look forward to collaborating with you!
+
