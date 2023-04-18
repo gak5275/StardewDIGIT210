@@ -27,8 +27,3 @@ To analyze the text of Stardew Valley, we will:
 3. Identify which locations in the game certain characters appear together.
 
 By following this methodology, we hope to gain valuable insights into the thematic content of the game and the representation of its characters.
-
-## Contributions
-
-We welcome contributions to this project! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or create an issue. We look forward to collaborating with you!
-
