@@ -1,0 +1,86 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Penny">"Oh... Hello! I'm Penny..."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Penny">"This island is so beautiful!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Penny">"I had a great time.$h"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Penny">"I'm a little embarrassed wearing my bathing suit in public.$s#$b#I hope no one's looking...$s"</dialogue> </p>
+<p><context>Resort_Shore_2:</context> <dialogue who="Penny">"Somehow, the water here looks so different...#$e#I can hardly believe this is the same ocean I've been gazing at my entire life."</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Penny">"The wind keeps making me lose my page, but it feels really great on the skin.$h"</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Penny">"I'm reading a book about a sailor who washes up on a deserted island.#$b#I wonder what I would do in that sort of a situation?"</dialogue> </p>
+<p><context>Resort_Marriage_Towel_2:</context> <dialogue who="Penny">"Hey honey, do you mind standing a little to the left?#$b#Thanks, the sun was making it a little bit hard to read!$h"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Penny">"This sand is so soft and fine. It feels great on my toes!$h"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Penny">"Hi... #$e#Oh, did you want something?"</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Penny">"Oh... No, thanks.$s"</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Penny">"...$s#$b#I... I see... *sniff* ... W... We can just be friends, then.$s"</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue who="Penny">"What you did for my family is so generous. Thank you!"</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue who="Penny">"There are some truly wonderful people in the world..."</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue who="Penny">"I can't bear to see you...$s"</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Penny">"...Please, leave me alone.$s"</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue who="Penny">"You've left a permanent scar on my heart, @. Still... I'm ready to speak to you again.$s"</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Penny">"*sigh*... My mother definitely has a problem with going to the saloon too much.$s#$q 7/8 Mon_old#But it's best not to dwell on bad things, right?#$r 7 50 Mon_7#Right. It's best to be positive!#$r 8 10 Mon_8#I think it's good to be realistic."</dialogue> </p>
+<p><context>Mon_old:</context> <dialogue who="Penny">"#$p 7#But if I keep trying I think I can get her to change.|I guess it makes sense. There's not much I can do to change it, anyway."</dialogue> </p>
+<p><context>Mon_7:</context> <dialogue who="Penny">"That's how I feel. I'm just going to focus on making the future better."</dialogue> </p>
+<p><context>Mon_8:</context> <dialogue who="Penny">"Maybe you're right. It's better to cope with reality.$u"</dialogue> </p>
+<p><context>Mon8:</context> <dialogue who="Penny">"I'm eager to move out. It's such a burden to be worrying about Mom all the time.#$e#I want her to be happy, but I can't stay here forever... you know?$s"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Penny">"I'm tutoring Vincent and Jas today... They're a handful, but it's nice to make a difference in someone's life."</dialogue> </p>
+<p><context>Tue4:</context> <dialogue who="Penny">"$d bus#Maybe now that my mother has her bus driving job back, I can start saving more money. Things are looking a little brighter.|I'm trying to save money from my tutoring job, but it's hard with my mother out of work.$s"</dialogue> </p>
+<p><context>Tue10:</context> <dialogue who="Penny">"Um, @? A farm seems like a good place for children, don't you think?$l#$e#It was just a thought I had.$l"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Penny">"We don't have a school here but I'm doing my best to give Vincent and Jas a proper education.#$e#Every child deserves a chance to be successful.#$e#Jas is very good at math and reading. Vincent is good at... well, he has an active imagination!"</dialogue> </p>
+<p><context>Wed2:</context> <dialogue who="Penny">"You know what? I should take the children on a field trip some time. Maybe to the forest.#$e#A guest speaker would be nice... maybe someone familiar with nature?#$e#Sorry, I'm just thinking out loud."</dialogue> </p>
+<p><context>Wed4:</context> <dialogue who="Penny">"I've lived in Pelican Town my whole life. Can you believe that?#$e#I guess there's a lot out there I'll never experience."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Penny">"We're very lucky to have a library in such a small town.#$e#When you're lost in a book, it's easy to forget the realities of your life.$u#$e#...Maybe that's why I like reading so much.$s#$e#...Sorry. I got carried away there."</dialogue> </p>
+<p><context>Thu6:</context> <dialogue who="Penny">"I wish I could keep a garden, but our yard is such a mess.$u#$e#Maybe I'll live in a place where I can have a garden someday.#$e#Maybe I'll live on a farm! *giggle*$h"</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Penny">"If you dig in the dirt you can find some interesting things.#$e#One time I found a really old piece of pottery. I brought it to Gunther and he said it was over a thousand years old."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue who="Penny">"If you dig in the dirt you can find some interesting things.#$e#One time I found a really old piece of pottery. I brought it to Gunther and he said it was over a thousand years old."</dialogue> </p>
+<p><context>Fri4:</context> <dialogue who="Penny">"Dishes, dishes, dishes. Ugh... If my mother wasn't always nursing a headache from her late nights at the saloon, maybe she could help around the house a little.$s"</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Penny">"This is such a small town. You can't avoid meeting everyone.#$e#I wonder what it's like to live in the city?"</dialogue> </p>
+<p><context>Sat2:</context> <dialogue who="Penny">"$d Joja#Things changed a lot after the JojaMart went up. It's been really bad for Pierre's shop. Mom loves JojaMart, though. The prices are cheap, so she can afford a lot more there than she ever could at Pierre's.|Mom's been complaining ever since JojaMart closed down. I think it's good for her, though. Maybe she'll drink less Joja Cola now."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Penny">"Hello. Ummm...$u#$b#The weather's interesting today, don't you think?#$e#Sorry...$u"</dialogue> </p>
+<p><context>Sun4:</context> <dialogue who="Penny">"I've been trying to keep our place clean, but it always gets messy again.$s#$e#It's hard to run a household all by yourself.$u"</dialogue> </p>
+<p><context><event>event_speaker_kids1:</event></context> <dialogue who="Penny">"Oh no?$l#$b#Well, I guess that makes sense... you're busy with other things right now."</dialogue> </p>
+<p><context><event>event_speaker_kids2:</event></context> <dialogue who="Penny">"... Me too. I'm glad you feel that way.$7"</dialogue> </p>
+<p><context><event>event_speaker_kids3:</event></context> <dialogue who="Penny">"Yes... the urge to care for something innocent and helpless. It makes sense that we'd feel that."</dialogue> </p>
+<p><context><event>event_speaker_kids4:</event></context> <dialogue who="Penny">"Oh, really?$s#$b# I think you'd make a good parent.$7"</dialogue> </p>
+<p><context><event>event_speaker_kids5:</event></context> <dialogue who="Penny">"hmm...$s#$b#If everyone thought like that, humans would die out.$s"</dialogue> </p>
+<p><context><event>event_speaker_kids6:</event></context> <dialogue who="Penny">"Oh...$s#$b#That's kind of sad... but I guess I can understand your point.$s"</dialogue> </p>
+<p><context><event>event_speaker_yes:</event></context> <dialogue who="Penny">"Great!$h#$b#Let me just call the children over."</dialogue> </p>
+<p><context><event>event_speaker_no:</event></context> <dialogue who="Penny">"Really?... Uh... Well, alright. I guess I'll see you later then.%fork$s"</dialogue> </p>
+<p><context><event>event_mail1:</event></context> <dialogue who="Penny">"Thank you...$l#$b#I just wish George wasn't so upset... I was only trying to help.$s"</dialogue> </p>
+<p><context><event>event_mail2:</event></context> <dialogue who="Penny">"Oh... I guess you're right.$l#$b#I'm sorry, Mr. Mullner. It was rude, what I did.$s"</dialogue> </p>
+<p><context><event>event_mail3:</event></context> <dialogue who="Penny">"I see."</dialogue> </p>
+<p><context><event>event_old1:</event></context> <dialogue who="Penny">"I guess you're right... why stress out about something you can't change?$u"</dialogue> </p>
+<p><context><event>event_old2:</event></context> <dialogue who="Penny">"You're right, we shouldn't ignore the reality of aging.$u#$b#I guess the sooner we come to terms with our mortality, the more time we can spend really living in the here-and-now.$u"</dialogue> </p>
+<p><context><event>event_old3:</event></context> <dialogue who="Penny">"That's nice of you to say... I totally agree with you.#$b#We should treat our elders with the same respect we hope to receive ourselves some day."</dialogue> </p>
+<p><context><event>event_old4:</event></context> <dialogue who="Penny">"That's a horrible thing to say. Life is a precious thing to waste like that!$a"</dialogue> </p>
+<p><context><event>event_cook1:</event></context> <dialogue who="Penny">"You really mean it? Thank you! ... it's such a relief to hear that.$h#$b#I've been working so hard on this recipe, and I'm really proud of it."</dialogue> </p>
+<p><context><event>event_cook2:</event></context> <dialogue who="Penny">"Oh... Uh, sure.$s"</dialogue> </p>
+<p><context><event>event_cook3:</event></context> <dialogue who="Penny">"Oh...I'm sorry.$s"</dialogue> </p>
+<p><context><event>event_pool1:</event></context> <dialogue who="Penny">"That's right...$8"</dialogue> </p>
+<p><context><event>event_pool2:</event></context> <dialogue who="Penny">"Really? I thought you'd have noticed by now...$8"</dialogue> </p>
+<p><context><event>event_pool3:</event></context> <dialogue who="Penny">"No!$9"</dialogue> </p>
+<p><context><event>event_pool4:</event></context> <dialogue who="Penny">"...Oh, @. I thought you did, but I wasn't sure.$6#$b#...I'll always remember this night.$6^You look so beautiful tonight... I... *gasp*$6"</dialogue> </p>
+<p><context><event>event_pool5:</event></context> <dialogue who="Penny">"Y...You don't?$8#$b#...!!!%fork$10"</dialogue> </p>
+<p><context><event>event_family1:</event></context> <dialogue who="Penny">"Me too.$h"</dialogue> </p>
+<p><context><event>event_family2:</event></context> <dialogue who="Penny">"...sorry.$s"</dialogue> </p>
+<p><context><event>event_family3:</event></context> <dialogue who="Penny">"I see.$s"</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue who="Penny">"Hi... Um, nice weather, isn't it?"</dialogue> </p>
+<p><context><date season="summer">summer_Mon4:</date></context> <dialogue who="Penny">"$d cc#Thanks for fixing the community center back up. I guess you're kind of a town hero.|Hello, @. It's nice to see you're doing well."</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue who="Penny">"$d bus#I heard you were responsible for fixing the bus back up. Thank you.|My mother used to drive the bus to Calico Desert... but the bus stopped working a few years ago. Mayor says there's not enough money in the town coffers, or else he'd have it fixed.$u"</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue who="Penny">"So... do you like to decorate your farm house?#$e#It must be nice having your own place to decorate."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue who="Penny">"Hello. Ummm...$u#$b#The mountains look nice today, don't they?$u"</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue who="Penny">"Hi... Um, are you doing okay?$u"</dialogue> </p>
+<p><context><date season="fall">fall_Mon4:</date></context> <dialogue who="Penny">"It's kind of embarrassing to be the only family in town who lives in a trailer.$u#$e#I wish I could live in a nice house, someday.$s"</dialogue> </p>
+<p><context><date season="fall">fall_Tue4:</date></context> <dialogue who="Penny">"Your farm looks really pretty right now.$h"</dialogue> </p>
+<p><context><date season="fall">fall_Thu6:</date></context> <dialogue who="Penny">"Mom doesn't take very good care of herself...$u#$e#I worry about her.$u"</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue who="Penny">"Fall is a sad time of year for me...$s"</dialogue> </p>
+<p><context><date season="fall">fall_Fri6:</date></context> <dialogue who="Penny">"When I was a little girl, my father abandoned us because he said he felt 'trapped'. We haven't seen him since.$s#$b#I'm sorry to make things uncomfortable for you... It's just that this time of year makes me think of it for some reason.$u#$e#Anyway... How's the farming life going?"</dialogue> </p>
+<p><context><date season="fall">fall_Sun10:</date></context> <dialogue who="Penny">"@! I was just thinking about the future...#$e#Where do you picture yourself in ten years?$l#$e#I have a few ideas for myself...$u"</dialogue> </p>
+<p><context><date season="fall">fall_Sat8:</date></context> <dialogue who="Penny">"Hi @.$h#$e#Your farmhouse must be pretty easy to clean, huh?"</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue who="Penny">"...yes?$u"</dialogue> </p>
+<p><context><date season="winter">winter_Fri2:</date></context> <dialogue who="Penny">"Are you friends with Linus? He lives in a tent up in the mountains.#$e#Everyone ignores him, the poor guy. He's actually really nice... Just a little odd.#$e#It must be so cold to live in a tent this time of year."</dialogue> </p>
+<p><context><date season="winter">winter_Tue4:</date></context> <dialogue who="Penny">"I'm looking forward to seeing what your farm looks like in the spring.#$e#It's going to be so fresh and beautiful.$h"</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue who="Penny">"I try to stay indoors as much as possible during the winter. I hate being cold."</dialogue> </p>
+<p><context>winter_Thu:</context> <dialogue who="Penny">"Oh... hi. You want to talk?$u#$e#If you find any interesting artifacts or minerals, Gunther will gladly display them in the museum.#$e#He told me he has special gifts for people who donate."</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue who="Penny">"On the 25th we'll be having the Feast of the Winter Star. It's one of my favorite events.#$e#It's supposed to be a time to show gratitude for all the good things in your life... but for most people it's just a time to relax and exchange gifts."</dialogue> </p>
+</xml>

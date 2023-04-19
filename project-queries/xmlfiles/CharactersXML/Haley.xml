@@ -1,0 +1,110 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Haley">"Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h"</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Haley">"I saw a dolphin on the way in!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Haley">"There's something about the sun that just makes me feel good."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Haley">"It's strange the places life can take you... who knows what other lands are out there?"</dialogue> </p>
+<p><context>Resort_Shore_2:</context> <dialogue who="Haley">"Wow, look at how the sunlight sparkles on the horizon!$h#$b#I bet the sunsets here would make for an amazing photo.#$e#I have to remember to bring my camera next time."</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Haley">"Getting the perfect tan is an artform...#$e#It's kind of like toasting a marshmallow... you have to rotate the body just right.$h"</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Haley">"Laying out on a tropical beach.#$b#*sigh* I think I've finally found my place in the universe.#$e#But I guess Stardew Valley's not such a bad place either!$h"</dialogue> </p>
+<p><context>Resort_Towel_3:</context> <dialogue who="Haley">"Emily's friend had this swimsuit shipped to me from all the way out in Zuzu City.#$e#City fashion is on a whole different level, isn't it?$h"</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue who="Haley">"I painted my toenails blue to match the sea. What do you think? *wiggle* *wiggle*$h"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Haley">"Gus made a cute, fruity drink just for me!$h"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Haley">"This is such a perfect beach. I'd stay here forever if I could!"</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Haley">"Ew... No."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Haley">"I'll be fine on my own...$7#$e#Thanks for the memories.$7#$e#Why are you still clinging to me? Go live your own life.$7"</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Haley">"Agh!$8#$b#Oh... hmph. Beat me to it, huh? Alright..."</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue who="Haley">"I've got nothing to say to you!$a"</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue who="Haley">"Alright, alright... I'm done giving you the cold shoulder. Just promise me you'll never, ever lie to me again.$s"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Haley">"This town is so small. It sucks.$u#$e#I have to drive, like, twenty miles to buy any decent clothes.$s#$e#That's why I usually just order online.#$e#What?"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Haley">"Nice shoes.^Nice makeup.#$b#Are those made out of plastic?^Or wait... Are you even wearing any?#$e#I'm bored."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Haley">"The only thing I like about this town is the beach.$u"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Haley">"#$1 HaleyClothes#I've decided I am going to organize my clothes today. I'll have to throw out all of last year's styles to make room for the new ones!#$e#*sigh* I could really go for a cupcake right now.#$e#Do you need something?"</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Haley">"%Haley is ignoring you."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue who="Haley">"Don't you get tired of running around on that farm all day, or whatever it is you do?#$e#I couldn't stand getting all dirty like that.#$e#You probably get a nice tan, though."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Haley">"I'm feeling an urge to go shopping. Ugh! I wish there was a mall here."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Haley">"My sister is so weird. Sometimes I wonder if we're actually related.$u"</dialogue> </p>
+<p><context>Wed8:</context> <dialogue who="Haley">"There are only two things I like about this town.#$b#One of them is the beach.#$e#The other one is a secret! *giggle*$h"</dialogue> </p>
+<p><context>Tue2:</context> <dialogue who="Haley">"I wonder if any nice shells washed up on the beach this morning?#$e#This isn't the best time of year for shells, though."</dialogue> </p>
+<p><context>Wed4:</context> <dialogue who="Haley">"I'm glad that the flowers are starting to bloom.#$e#Those pink ones smell so good.$h"</dialogue> </p>
+<p><context>Fri6:</context> <dialogue who="Haley">"I need to find some kind of hobby other than shopping.#$e#I've decided I want to expand my horizons.#$e#Maybe I should learn to play the mini-harp?"</dialogue> </p>
+<p><context>Mon6:</context> <dialogue who="Haley">"I used to complain about this town being so small, but I've grown to like it.#$e#If it was much bigger it wouldn't feel like a community."</dialogue> </p>
+<p><context>Thu6:</context> <dialogue who="Haley">"I cooked dinner last night. It actually turned out okay!#$e#But I did make a huge mess in the kitchen..."</dialogue> </p>
+<p><context>Sun6:</context> <dialogue who="Haley">"I'm thinking about donating a bunch of clothes... I must have a hundred pairs of shoes."</dialogue> </p>
+<p><context>Sat8:</context> <dialogue who="Haley">"#$1 haleySeagull#Yesterday I found a seagull with her wing caught in a net. I set her free, of course. She looked so helpless, the poor thing.$k$s#$e#You know, I should probably start exercising more... this youthful metabolism won't last forever."</dialogue> </p>
+<p><context>Fri10:</context> <dialogue who="Haley">"@, can we go on a camping trip someday?#$e#The most exotic place I've been is Zuzu city."</dialogue> </p>
+<p><context><event>Event_clean1:</event></context> <dialogue who="Haley">"*sigh*...$u"</dialogue> </p>
+<p><context><event>Event_clean2:</event></context> <dialogue who="Haley">"NO!! I'm not going to do it!$a#$b#You guys are both stupid!%fork$a"</dialogue> </p>
+<p><context><event>Event_clean3:</event></context> <dialogue who="Haley">"She should take the 'high road'? What's that supposed to mean?$u#$b#You think I'm being a baby, huh?%fork$a"</dialogue> </p>
+<p><context><event>Event_jar1:</event></context> <dialogue who="Haley">"Great, then you shouldn't have any problem opening this jar for me!$h"</dialogue> </p>
+<p><context><event>Event_jar2:</event></context> <dialogue who="Haley">"Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?"</dialogue> </p>
+<p><context><event>Event_darkroom1:</event></context> <dialogue who="Haley">"Aw, thanks!$h"</dialogue> </p>
+<p><context><event>Event_darkroom2:</event></context> <dialogue who="Haley">"Oh! I thought you knew.#$b#This room's for developing photos."</dialogue> </p>
+<p><context><event>Event_darkroom3:</event></context> <dialogue who="Haley">"Is that so...?$s"</dialogue> </p>
+<p><context><event>Event_darkroom4:</event></context> <dialogue who="Haley">"Aw, thanks!$h"</dialogue> </p>
+<p><context><event>Event_darkroom5:</event></context> <dialogue who="Haley">"Oh! I thought you knew.#$b#This room's for developing photos."</dialogue> </p>
+<p><context><event>Event_darkroom6:</event></context> <dialogue who="Haley">"Is that so...?$s"</dialogue> </p>
+<p><context><event>Event_beach1:</event></context> <dialogue who="Haley">"No, you won't! This bracelet was passed down to me by my great-grandmother!$a"</dialogue> </p>
+<p><context><event>Event_beach2:</event></context> <dialogue who="Haley">"*sigh*$s#$b#...Maybe it'll wash up on another shore. I can't bear to think of it at the bottom of the ocean.$s"</dialogue> </p>
+<p><context><event>Event_room1:</event></context> <dialogue who="Haley">"Him? No!#$b#...Well, I guess I used to like Alex. But not anymore! He's immature."</dialogue> </p>
+<p><context><event>Event_room2:</event></context> <dialogue who="Haley">"What? That sounds fun, but I wouldn't want to leave Stardew Valley right now..."</dialogue> </p>
+<p><context><event>Event_room3:</event></context> <dialogue who="Haley">"Huh? What's an android?"</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue who="Haley">"I'm going to get such a nice tan this summer."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue who="Haley">"Ew, you're all dirty."</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue who="Haley">"Um... Yes?#$e#I didn't hear you, I'm thinking about something else."</dialogue> </p>
+<p><context><date season="summer">summer_10:</date></context> <dialogue who="Haley">"Do you have baby bunnies on your farm? Bunnies are SO cute! &lt;"</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue who="Haley">"If you stay in the sun a lot it'll make your hair lighter.#$e#It's a good thing to know!"</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue who="Haley">"I wonder what Alex is doing today...#$e#Huh? I didn't notice you standing there."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue who="Haley">"Farming sounds so boring...#$q 42/43 summer_Sat_old#What do you even do all day?#$r 42 10 summer_Sat_12#Care for plants#$r 42 10 summer_Sat_12#Explore the caves#$r 43 -10 summer_Sat_13#Snoop around in your room#$r 42 10 summer_Sat_12#Dig for treasure"</dialogue> </p>
+<p><context>summer_Sat_old:</context> <dialogue who="Haley">"#$p 43#Hey, you better not be snooping around in my room anymore!$a|But I guess it could get you in pretty good shape."</dialogue> </p>
+<p><context><date season="summer">summer_Sat_12:</date></context> <dialogue who="Haley">"Hmm... sounds like a lot of work."</dialogue> </p>
+<p><context><date season="summer">summer_Sat_13:</date></context> <dialogue who="Haley">"What? You'd better not be doing that!$a"</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue who="Haley">"Emily usually cooks dinner... But she makes weird stuff like quinoa."</dialogue> </p>
+<p><context><date season="summer">summer_Tue2:</date></context> <dialogue who="Haley">"Do you wear those clothes every day?"</dialogue> </p>
+<p><context><date season="summer">summer_Tue4:</date></context> <dialogue who="Haley">"$p 47#Hey I found this new tool to open jars with. So you won't need to help me anymore.$h|There's not a cloud in the sky today.$h"</dialogue> </p>
+<p><context><date season="summer">summer_Wed4:</date></context> <dialogue who="Haley">"It's so hot today!#$e#I wish I had some ice cream.$s"</dialogue> </p>
+<p><context><date season="summer">summer_Fri4:</date></context> <dialogue who="Haley">"I spent 3 hours practicing my signature today.#$e#I guess that's pretty silly, huh?"</dialogue> </p>
+<p><context><date season="summer">summer_Thu6:</date></context> <dialogue who="Haley">"If you stay in the sun a lot it will make your hair lighter... But you don't want to get sunburnt, either.#$e#I just want a healthy amount of sunlight. Everything in moderation, right?"</dialogue> </p>
+<p><context><date season="summer">summer_Mon6:</date></context> <dialogue who="Haley">"I should start reading some books instead of magazines.#$e#It's good to learn things, isn't it?#$e#I only ever look at the pictures."</dialogue> </p>
+<p><context><date season="summer">summer_Sun6:</date></context> <dialogue who="Haley">"#$1 HaleySister#I talked to my sister for a while last night. I actually enjoyed it quite a bit.#$e#You know, Emily's not actually that weird. I guess we have more in common than I used to think.#$e#Don't tell her I said so."</dialogue> </p>
+<p><context><date season="summer">summer_Sat6:</date></context> <dialogue who="Haley">"It seems like a good day to go swimming."</dialogue> </p>
+<p><context><date season="summer">summer_Tue8:</date></context> <dialogue who="Haley">"I guess living in the country isn't so bad.#$e#If I lived in the city I might start to miss all the trees.#$e#@, I think I've been hanging out with you too much.$h"</dialogue> </p>
+<p><context><date season="summer">summer_Fri10:</date></context> <dialogue who="Haley">"Oh, hi @!#$e#Do you like kids?$l"</dialogue> </p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue who="Haley">"It's fall already?$s"</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue who="Haley">"It's gross when all these fallen leaves get slimy."</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue who="Haley">"Hmm... Something smells weird...#$e#You've been working on the farm, huh?"</dialogue> </p>
+<p><context>fall_Wed:</context> <dialogue who="Haley">"Oh, hi. Did you want something?"</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue who="Haley">"I feel the urge to go shopping. *sigh*"</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue who="Haley">"Is that a grass stain on your knee?#$e#Sorry, I'm allergic to grass."</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue who="Haley">"It's too cold to go to the beach anymore.#$q 44 fall_Sat_old#*sigh*...what do you think I should do today?#$r 44 10 fall_Sat_12#Watercolor painting#$r 44 20 fall_Sat_12#Relax and read a magazine#$r 44 -30 fall_Sat_13#Stop being a selfish crybaby"</dialogue> </p>
+<p><context>fall_Sat_old:</context> <dialogue who="Haley">"I'll probably take a nap later."</dialogue> </p>
+<p><context><date season="fall">fall_Sat_12:</date></context> <dialogue who="Haley">"Hmm... That's a pretty good idea, actually."</dialogue> </p>
+<p><context><date season="fall">fall_Sat_13:</date></context> <dialogue who="Haley">"Get away from me, you stupid jerk.$a"</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue who="Haley">"I've never been to the forest. It's muddy and I could get a blister on my foot."</dialogue> </p>
+<p><context><date season="fall">fall_Tue2:</date></context> <dialogue who="Haley">"Something smells earthy...#$b#Oh, right. You work on a farm."</dialogue> </p>
+<p><context><date season="fall">fall_Fri4:</date></context> <dialogue who="Haley">"You look like you've been doing a lot of hard work.#$b#Why don't you take the rest of the day off?"</dialogue> </p>
+<p><context><date season="fall">fall_Wed4:</date></context> <dialogue who="Haley">"If you're ever bored, come say hi."</dialogue> </p>
+<p><context><date season="fall">fall_Thu6:</date></context> <dialogue who="Haley">"Shopping just doesn't sound as fun as it used to.#$e#What's happening to me?#$e#Hmm..."</dialogue> </p>
+<p><context><date season="fall">fall_Mon6:</date></context> <dialogue who="Haley">"$p 48#Did I ever tell you I found another one of my great-grandma's bracelets in the attic?|See this bracelet? It belonged to my great-grandmother.#$e#She was a really interesting lady."</dialogue> </p>
+<p><context><date season="fall">fall_Sun6:</date></context> <dialogue who="Haley">"I've never been to the forest, you know.#$e#It might be interesting to explore it some day."</dialogue> </p>
+<p><context><date season="fall">fall_Tue8:</date></context> <dialogue who="Haley">"I'm starting to like the smell of dirt. Isn't that weird?#$e#I think it's because you're around all the time.$h"</dialogue> </p>
+<p><context><date season="fall">fall_Mon10:</date></context> <dialogue who="Haley">"@, I'm happy to see you today.$h"</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue who="Haley">"I want to move somewhere warmer."</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue who="Haley">"Hi. Do you need something from me?#$e#..."</dialogue> </p>
+<p><context><date season="winter">winter_9:</date></context> <dialogue who="Haley">"Hmm. What brand is your shirt?#$e#Oh. Um, nevermind."</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue who="Haley">"I wish someone would bring me a peppermint coffee.$s#$e#Don't even bother, I know you won't be able to make one."</dialogue> </p>
+<p><context>winter_Thu:</context> <dialogue who="Haley">"I'm going to start writing a list of all the clothes I need for next spring."</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue who="Haley">"Do you have a pony on your farm?$h#$e#Oh. That's disappointing...$s"</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue who="Haley">"The only good thing about winter is that I get to sleep more.#$e#I like at least 10 hours of sleep every night."</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue who="Haley">"Will you say hi to Alex for me?#$e#Thanks."</dialogue> </p>
+<p><context><date season="winter">winter_Tue2:</date></context> <dialogue who="Haley">"Your name is @, right?#$e#I keep forgetting."</dialogue> </p>
+<p><context><date season="winter">winter_Tue4:</date></context> <dialogue who="Haley">"Hi @.#$e#Is anything exciting happening on your farm?"</dialogue> </p>
+<p><context><date season="winter">winter_Wed6:</date></context> <dialogue who="Haley">"I think I'm starting to realize that clothes aren't the most important thing. Right?#$e#I still like clothes, though. I mean, what's wrong with expressing yourself a little?"</dialogue> </p>
+<p><context><date season="winter">winter_Thu6:</date></context> <dialogue who="Haley">"Maybe I'll donate some of my skirts to a charity this spring.#$e#I mean, I do have over 1,000 skirts.$h#$e#...what?"</dialogue> </p>
+<p><context><date season="winter">winter_Sun6:</date></context> <dialogue who="Haley">"Um, if you see Alex could you tell him I'm busy today?#$e#Thanks."</dialogue> </p>
+<p><context><date season="winter">winter_Mon8:</date></context> <dialogue who="Haley">"I wish it were warmer here in Stardew Valley.#$e#I could move somewhere else, but..."</dialogue> </p>
+<p><context><date season="winter">winter_Fri8:</date></context> <dialogue who="Haley">"Do you think you'll ever have a pony on your farm?"</dialogue> </p>
+<p><context><date season="winter">winter_Sat8:</date></context> <dialogue who="Haley">"I'm glad you have less work to do in the winter.#$e#It must be nice to have a break, huh?"</dialogue> </p>
+<p><context><date season="winter">winter_Sun10:</date></context> <dialogue who="Haley">"@, you look rugged today. I like it.^@, you look pretty today.#$e#...$h"</dialogue> </p>
+</xml>

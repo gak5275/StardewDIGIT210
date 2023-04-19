@@ -1,0 +1,106 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Sebastian">"Oh. You just moved in, right? Cool.#$e#Out of all the places you could live, you chose Pelican Town?"</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Sebastian">"I liked the boat ride. At one point you couldn't see any land at all.."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Sebastian">"I'm ready to get back home."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Sebastian">"The beach is nice, but I don't love the crowds."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Sebastian">"You think Willy would let me lug a jet ski out here?#$b#...Nah.$h"</dialogue> </p>
+<p><context>Resort_Wander:</context> <dialogue who="Sebastian">"...Now, if I were a tropical frog, where would I hide...$h"</dialogue> </p>
+<p><context>Resort_Wander_2:</context> <dialogue who="Sebastian">"I bet this place looks pretty cool in the rain."</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Sebastian">"It's good to get away from the computer and see the real world sometimes. I forget how nice it can be.$h"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Sebastian">"I usually wear black, but in this heat..."</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Sebastian">"No... There's someone else I want to dance with."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Sebastian">"Why do you keep bothering me? I'm trying to forget about you.$s"</dialogue> </p>
+<p><context>dumped_Guys:</context> <dialogue who="Sebastian">"I don't want to see you for a while.$u"</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Sebastian">"... alright...$s#$b#I guess I'll see you around, then...$s"</dialogue> </p>
+<p><context>secondChance_Guys:</context> <dialogue who="Sebastian">"Hey..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Sebastian">"Um... need something?"</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Sebastian">"If I just disappeared would it really matter?$s"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Sebastian">"I was thinking... people are like stones skipping over the water.#$b#Eventually we're going to sink."</dialogue> </p>
+<p><context>Tue6:</context> <dialogue who="Sebastian">"I like your new boots!$h^Your hair looks nice today.$h#$e#Do you want to hang out for a while?"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Sebastian">"What am I going to do today?#$e#Probably nothing."</dialogue> </p>
+<p><context>Wed2:</context> <dialogue who="Sebastian">"Sam is probably my only friend in this town.#$e#Well, Abby is nice too, but...$h#$e#Umm.. nevermind."</dialogue> </p>
+<p><context>Wed2_inlaw_Abigail:</context> <dialogue who="Sebastian">"Sam is probably my only friend in this town, anymore..."</dialogue> </p>
+<p><context>Wed6:</context> <dialogue who="Sebastian">"You and Sam are probably my only friends in this town.$s"</dialogue> </p>
+<p><context>Wed10:</context> <dialogue who="Sebastian">"Um... You're single, right?#$e#Just wondering!$l"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Sebastian">"#$1 Sebastian1#I snuck into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay?#$e#Hi.#$e#...want something?"</dialogue> </p>
+<p><context>Mountain_47_23:</context> <dialogue who="Sebastian">"I come here for the peace and quiet."</dialogue> </p>
+<p><context>Thu4:</context> <dialogue who="Sebastian">"Why does everyone like Maru so much? Sure, she's smart and friendly, but don't they realize it's all just an attention-grabbing scam?#$e#Sorry...$s"</dialogue> </p>
+<p><context>Thu6:</context> <dialogue who="Sebastian">"Could you picture someone like me living on a farm? It seems ridiculous.$h"</dialogue> </p>
+<p><context>Thu8:</context> <dialogue who="Sebastian">"Could you picture me living on a farm?#$e#It seems ridiculous, but I have been thinking about it lately."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Sebastian">"Uh... I don't really know you."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue who="Sebastian">"*sigh*... If gas wasn't so expensive I'd ride my motorcycle to the city today.#$e#$q 15/16 Fri_old#So what do you do when you aren't working?#$r 15 0 Fri_bad#More Farming#$r 16 30 Fri_good#Comic books#$r 15 -30 Fri_bad#Shopping#$r 15 -30 Fri_bad#Sports"</dialogue> </p>
+<p><context>Fri_old:</context> <dialogue who="Sebastian">"$p 16#Hey, if you're bored feel free to hang out in my room...$h|You probably prefer the small-town life, huh?"</dialogue> </p>
+<p><context>Fri_good:</context> <dialogue who="Sebastian">"Oh yeah? Well, did you read the new 'Cave Saga X'? I won't spoil it for you, but oh man...$h"</dialogue> </p>
+<p><context>Fri_bad:</context> <dialogue who="Sebastian">"Oh yea? Hmm... Not really my thing, but everyone's different I guess.$u"</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Sebastian">"What? I didn't hear you... I'm busy thinking about something.#$e#What do you want?"</dialogue> </p>
+<p><context>Sat2:</context> <dialogue who="Sebastian">"You know, I should be doing something productive right now. I just lose focus too fast...$s#$b#Maybe I should drink more coffee?"</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Sebastian">"Hey. Your name is @, right?"</dialogue> </p>
+<p><context>Sun2:</context> <dialogue who="Sebastian">"Having a good weekend? ...nice."</dialogue> </p>
+<p><context>Sun4:</context> <dialogue who="Sebastian">"I usually stay inside, but I do go to the beach now and then.#$b#Pretty much only when it's raining, though.#$e#For some reason, staring off into the bleak horizon makes me feel... I dunno. Like it's worthwhile to keep pushing on, I guess."</dialogue> </p>
+<p><context>Fri8:</context> <dialogue who="Sebastian">"What's new?$h#$e#I'll be at the saloon tonight destroying Sam at pool again.$h"</dialogue> </p>
+<p><context>Sun10:</context> <dialogue who="Sebastian">"I was just thinking about you...$l"</dialogue> </p>
+<p><context><event>Event_game1:</event></context> <dialogue who="Sebastian">"Okay, that'll work."</dialogue> </p>
+<p><context><event>Event_game2:</event></context> <dialogue who="Sebastian">"Good choice. That works well with my role."</dialogue> </p>
+<p><context><event>Event_cave1:</event></context> <dialogue who="Sebastian">"Not so fast! I want to know what it is."</dialogue> </p>
+<p><context><event>Event_cave2:</event></context> <dialogue who="Sebastian">"Really? It was making a lot of noise!"</dialogue> </p>
+<p><context><event>Event_cave3:</event></context> <dialogue who="Sebastian">"It's too dangerous without a sword. But I like your sense of adventure.$h"</dialogue> </p>
+<p><context><event>event_garage1:</event></context> <dialogue who="Sebastian">"Great.$8"</dialogue> </p>
+<p><context><event>event_garage2:</event></context> <dialogue who="Sebastian">"Okay... Nevermind then.$9"</dialogue> </p>
+<p><context><event>event_garage3:</event></context> <dialogue who="Sebastian">"Don't worry, I'll make sure to show you the ropes before I let you do anything dangerous.$8^There's no need to worry... I'll make sure you're safe.$8"</dialogue> </p>
+<p><context><event>event_city1:</event></context> <dialogue who="Sebastian">"Hmm... Not exactly how I'd put it but, yeah."</dialogue> </p>
+<p><context><event>event_city2:</event></context> <dialogue who="Sebastian">"Yea... That's exactly how I feel, too.$l"</dialogue> </p>
+<p><context><event>event_city3:</event></context> <dialogue who="Sebastian">"Oh... Well maybe this wasn't the right place to bring you, then. I thought you'd see the beauty in it.$s"</dialogue> </p>
+<p><context><event>event_city4:</event></context> <dialogue who="Sebastian">"Ugh... You sound like my Mom.$a#$b#...*sigh*$s#$b#You're right, though. I'm addicted to these things, it's not good.$s"</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue who="Sebastian">"Everyone is so happy in the sun. I don't get it."</dialogue> </p>
+<p><context><date season="summer">summer_Mon6:</date></context> <dialogue who="Sebastian">"Everyone is so happy when it's sunny out...#$e#Different people like different things, I guess."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue who="Sebastian">"I'm looking forward to the cold, damp season. I feel more at home."</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue who="Sebastian">"What's the point of going outside? I've already seen it all."</dialogue> </p>
+<p><context><date season="summer">summer_Wed8:</date></context> <dialogue who="Sebastian">"Why am I grinning? I guess I've been unusually happy lately...$l"</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue who="Sebastian">"I definitely don't want to go swimming, if that's what you're going to ask.$s#$e#Oh, you just stopped to say hi? Sorry."</dialogue> </p>
+<p><context><date season="summer">summer_Thu10:</date></context> <dialogue who="Sebastian">"If you ever wanted to go swimming... I guess I'd do it.$l"</dialogue> </p>
+<p><context><date season="summer">summer_Mountain_58_35:</date></context> <dialogue who="Sebastian">"#$c .5#The temperature only starts to get comfortable at night.#$e#It always seems to stay a little cooler by the lake."</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue who="Sebastian">"Oh, hey. *yawn*"</dialogue> </p>
+<p><context><date season="summer">summer_Fri6:</date></context> <dialogue who="Sebastian">"Hey, I'm glad you stopped by.$h#$e#How have you been coping with this heat?"</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue who="Sebastian">"I hope we're not having mushroom casserole tonight...$s"</dialogue> </p>
+<p><context><date season="spring">spring_12:</date></context> <dialogue who="Sebastian">"I'm not too big on festivals. Lots of commotion, too much social interaction... More stress than fun, if you ask me."</dialogue> </p>
+<p><context><date season="spring">spring_23:</date></context> <dialogue who="Sebastian">"Ugh... Tomorrow is the worst festival of the year by a mile. Just wait and see how stupid I look during the flower dance."</dialogue> </p>
+<p><context><date season="fall">fall_20:</date></context> <dialogue who="Sebastian">"Are you looking forward to the Spirit's Eve festival? It's probably my favorite.$h"</dialogue> </p>
+<p><context><date season="fall">fall_26:</date></context> <dialogue who="Sebastian">"The Spirit's Eve festival is tomorrow. I really hope they have those skeletons on display again this year.$h#$e#I almost feel like they're my friends at this point."</dialogue> </p>
+<p><context><date season="summer">summer_10:</date></context> <dialogue who="Sebastian">"Hehe... It might be funny to put something disgusting in the potluck soup tomorrow. Just don't poison anyone.#$e#Why ruin the potluck? Hmm... I guess some people feel liberated when the rigid structures of society break down a little. Maybe I'm weird."</dialogue> </p>
+<p><context><date season="summer">summer_27:</date></context> <dialogue who="Sebastian">"Tomorrow we'll all be gathering at the docks to see the migration of the moonlight jellies. I think it starts at ten o'clock."</dialogue> </p>
+<p><context><date season="winter">winter_24:</date></context> <dialogue who="Sebastian">"It's the eve of the winter star today. Better make sure you've got an empty stomach for the feast tomorrow."</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue who="Sebastian">"I usually only go outside after dark. Does that sound weird to you?"</dialogue> </p>
+<p><context><date season="summer">summer_Sun4:</date></context> <dialogue who="Sebastian">"Last night, I saw a group of bats flying around near the lake.#$e#I guess maybe they are feeding on the mosquitoes this time of year?"</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue who="Sebastian">"So... it's the big harvest season, isn't it?"</dialogue> </p>
+<p><context><date season="fall">fall_Mon4:</date></context> <dialogue who="Sebastian">"You're probably making a lot of money on your farm, huh?#$e#I guess I should get a job soon...$s"</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue who="Sebastian">"Pumpkin spice this... pumpkin spice that... man, I do get sick of these seasonal fads."</dialogue> </p>
+<p><context><date season="fall">fall_Tue6:</date></context> <dialogue who="Sebastian">"Who does Demetrius think he is, telling me what to do? He's not even my real father.$a"</dialogue> </p>
+<p><context>fall_Wed:</context> <dialogue who="Sebastian">"*yawn*... what time is it? I think I slept too much last night."</dialogue> </p>
+<p><context><date season="fall">fall_Wed8:</date></context> <dialogue who="Sebastian">"I'm glad you showed up. I was starting to get bored.#$e#Now I feel a lot more energetic, believe it or not."</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue who="Sebastian">"My room might be a little less depressing if I had a window...$s"</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue who="Sebastian">"*yawn*... I was up until 3 reading this new book...#$q 62/63 fall_Fri_old#Do you read, @?#$r 62 -30 Fri_bad#Yep. The classics.#$r 63 30 Fri_good#Only Sci-fi and Fantasy#$r 62 0 Fri_bad#I like a good Romance#$r 63 -30 Fri_bad#No, I don't read books"</dialogue> </p>
+<p><context>fall_Fri_old:</context> <dialogue who="Sebastian">"$p 62#You probably wouldn't like it.$s|I think you'd like it."</dialogue> </p>
+<p><context>fall_Fri_good:</context> <dialogue who="Sebastian">"Hey, me too. There's nothing like a good fiction to push the boundaries of the imagination.$h"</dialogue> </p>
+<p><context>fall_Fri_bad:</context> <dialogue who="Sebastian">"Huh. Sounds boring."</dialogue> </p>
+<p><context><date season="fall">fall_Fri6:</date></context> <dialogue who="Sebastian">"I've been reading a book about a farmer. Reminds me a lot of you, actually.$h#$e#Sorry if that creeps you out.$h"</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue who="Sebastian">"I was *this* close to moping in bed the entire day. Kinda wish I had, now."</dialogue> </p>
+<p><context>fall_Sun:</context> <dialogue who="Sebastian">"The sun is coming out less and less these days... wonderful."</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue who="Sebastian">"I'm enjoying this gloomy weather... although I have to say, it's a little cold."</dialogue> </p>
+<p><context><date season="winter">winter_Mon4:</date></context> <dialogue who="Sebastian">"Nothing surprises me anymore... nothing makes me laugh.#$e#Yeah, I know... I'm being a little dramatic."</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue who="Sebastian">"Hmm... I don't really have anything to say. I still don't know you very well."</dialogue> </p>
+<p><context><date season="winter">winter_Tue4:</date></context> <dialogue who="Sebastian">"Hey...#$b#It's hard to think of new things to talk about, sometimes. Even after you know someone.#$e#...Sorry."</dialogue> </p>
+<p><context><date season="winter">winter_Tue6:</date></context> <dialogue who="Sebastian">"I was so close to screaming at Mom for throwing away my old comic collection... But something stopped me.#$e#Hmm... with age comes wisdom."</dialogue> </p>
+<p><context><date season="winter">winter_Tue10:</date></context> <dialogue who="Sebastian">"You came here to see me?$l#$e#...$h"</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue who="Sebastian">"%Sebastian seems lost in thought..."</dialogue> </p>
+<p><context><date season="winter">winter_Wed4:</date></context> <dialogue who="Sebastian">"Hey, don't let me stop you from getting your work done.#$e#If you aren't busy I don't mind if you stick around.$h"</dialogue> </p>
+<p><context>winter_Thu:</context> <dialogue who="Sebastian">"I wonder what's for dinner tonight... *grumble*$s"</dialogue> </p>
+<p><context><date season="winter">winter_Thu6:</date></context> <dialogue who="Sebastian">"I should learn how to cook. That would be useful."</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue who="Sebastian">"It's fun to live so close to the train tracks. It's a reminder that there's a big world out there."</dialogue> </p>
+<p><context><date season="winter">winter_Fri8:</date></context> <dialogue who="Sebastian">"When I was younger I'd run out to the railroad whenever I heard a train coming.#$e#Whatever happened to those days...? *sigh*$s"</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue who="Sebastian">"The frogs aren't very happy in winter.#$e#Poor little guys.$s"</dialogue> </p>
+<p><context><date season="winter">winter_Sat6:</date></context> <dialogue who="Sebastian">"I like winter but I do feel bad for all the cold animals out there.#$e#I guess they're used to it, though... like me."</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue who="Sebastian">"I built a snowgoon but Demetrius made me get rid of it.#$e#What's his problem?$u"</dialogue> </p>
+<p><context><date season="winter">winter_Sun6:</date></context> <dialogue who="Sebastian">"I built a snowgoon but Demetrius made me get rid of it... yet Maru's cute little snowman goes unharmed!$a#$e#Ridiculous."</dialogue> </p>
+</xml>

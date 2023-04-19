@@ -1,0 +1,77 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Rainy_Day_0:</context> <dialogue who="Leah">"I sometimes find inspiration in the most unlikely of places."</dialogue> </p>
+<p><context>Rainy_Day_1:</context> <dialogue who="Leah">"I used to find rain depressing when I lived in the city. But here in Stardew Valley it's beautiful."</dialogue> </p>
+<p><context>Rainy_Day_2:</context> <dialogue who="Leah">"Good morning! I got up early and did some mushroom hunting. Here, take one.[281 404 420 257]#$e#Searching for mushrooms is like going on a treasure hunt. It's a lot of fun.$h"</dialogue> </p>
+<p><context>Rainy_Day_3:</context> <dialogue who="Leah">"It's days like this I'm really happy about my heavy-duty boots.$h"</dialogue> </p>
+<p><context>Rainy_Day_4:</context> <dialogue who="Leah">"The trees have been begging for this rain... I'm happy for them."</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue who="Leah">"How was your day? Did you see any animals out there?"</dialogue> </p>
+<p><context>patio_Leah:</context> <dialogue who="Leah">"Don't look too close, it's a work in progress."</dialogue> </p>
+<p><context>Rainy_Night_1:</context> <dialogue who="Leah">"I usually go for salad... but a wet night like this gives me cravings for hot soup.$h"</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue who="Leah">"It's going to be relaxing to fall asleep on a night like this...$l"</dialogue> </p>
+<p><context>Rainy_Night_3:</context> <dialogue who="Leah">"I made a little wood sculpture today, but it was so ugly I threw it into the fire.$u#$e#I think to become a great artist, you have to be critical of your own work."</dialogue> </p>
+<p><context>Rainy_Night_4:</context> <dialogue who="Leah">"I'm glad you're home... It's a good night to get under the covers and stay warm."</dialogue> </p>
+<p><context>Rainy_Night_Leah:</context> <dialogue who="Leah">"How was your day today, dear? Muddy?"</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue who="Leah">"This house is a lot nicer than my old cabin! I don't miss it."</dialogue> </p>
+<p><context>Indoor_Day_1:</context> <dialogue who="Leah">"Good morning, @. I've planted these in a little pot out back... [16 18 20 22 90 259 396 402]#$e#I grew that with great love and attention. Enjoy it."</dialogue> </p>
+<p><context>Indoor_Day_2:</context> <dialogue who="Leah">"Always remember to keep your eyes peeled for wild food! There's lots out there."</dialogue> </p>
+<p><context>Indoor_Day_3:</context> <dialogue who="Leah">"I was thinking... life's too short to eat bad food. Luckily, we live in one of the best regions for fresh greens and vegetables!#$e#Here, I made you a healthy salad. [196]#$e#I'm surprised you aren't sick of my salad yet!"</dialogue> </p>
+<p><context>Indoor_Day_4:</context> <dialogue who="Leah">"Good morning, @! I made us some coffee.[395]$h#$e#My morning just wouldn't be complete without a hot cup of coffee."</dialogue> </p>
+<p><context>Indoor_Night_0:</context> <dialogue who="Leah">"Something about this time of night makes me thirsty."</dialogue> </p>
+<p><context>Indoor_Night_1:</context> <dialogue who="Leah">"The flow of time is so delicate... even the tiniest decision changes the future forever."</dialogue> </p>
+<p><context>Indoor_Night_2:</context> <dialogue who="Leah">"It's so much lovelier here at night than the garish glow of the city.#$e#Everything worked out perfectly for me. I'm very lucky."</dialogue> </p>
+<p><context>Indoor_Night_3:</context> <dialogue who="Leah">"I never thought I'd receive a mermaid's pendant so soon after moving here! I'm happy about it, though.$l"</dialogue> </p>
+<p><context>Indoor_Night_4:</context> <dialogue who="Leah">"I saw a wild rabbit today. I just wish I could pet one someday. They look so soft..."</dialogue> </p>
+<p><context>Outdoor_0:</context> <dialogue who="Leah">"The cool breeze feels nice. It reminds me of living by the river."</dialogue> </p>
+<p><context>Outdoor_1:</context> <dialogue who="Leah">"Hmm... I'm going to do some maintenance over here. I just get the urge to do some hammering now and then."</dialogue> </p>
+<p><context>Outdoor_2:</context> <dialogue who="Leah">"It's going to be a special day, I can sense it."</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue who="Leah">"Ah... that smell of fresh dirt. There's nothing quite like it.$h#$e#You can just tell the air is clean here... it feels good in the lungs."</dialogue> </p>
+<p><context>Outdoor_4:</context> <dialogue who="Leah">"Don't overwork yourself, dear.#$e#Make sure and take a break every now and then, or get something to eat.$h"</dialogue> </p>
+<p><context>funLeave_Leah:</context> <dialogue who="Leah">"I'm going to take a nature walk today. I need to get out of the house."</dialogue> </p>
+<p><context>funReturn_Leah:</context> <dialogue who="Leah">"I had a nice, relaxing time today. How did your day go?"</dialogue> </p>
+<p><context>OneKid_3:</context> <dialogue who="Leah">"It's fun to be a parent. I want to make sure %kid1 grows up to have a love for the outdoors."</dialogue> </p>
+<p><context>TwoKids_3:</context> <dialogue who="Leah">"We've got a wonderful farm and a full family. Our new life has really turned out well, hasn't it?"</dialogue> </p>
+<p><context>Good_0:</context> <dialogue who="Leah">"Living here, I feel like I'm on the summit of a great mountain."</dialogue> </p>
+<p><context>Good_1:</context> <dialogue who="Leah">"Did I ever tell you... when you first moved here I had a dream that we'd be together someday."</dialogue> </p>
+<p><context>Good_2:</context> <dialogue who="Leah">"Sometimes it's hard not to believe in destiny... the fact that I decided to move here, and that we found each other.#$b#It could've gone entirely differently at any point."</dialogue> </p>
+<p><context>Good_3:</context> <dialogue who="Leah">"Wow, you look full of energy today!$l^You look beautiful today.$l"</dialogue> </p>
+<p><context>Good_4:</context> <dialogue who="Leah">"Mmm... You smell nice today."</dialogue> </p>
+<p><context>Good_5:</context> <dialogue who="Leah">"I was just admiring my wedding amulet... I'll cherish this treasure for the rest of my life.$l"</dialogue> </p>
+<p><context>Good_6:</context> <dialogue who="Leah">"Be careful out there! Sometimes I worry about you falling into a mine shaft."</dialogue> </p>
+<p><context>Good_7:</context> <dialogue who="Leah">"@? I just want to say that I appreciate all the hard work you do for our household.$h"</dialogue> </p>
+<p><context>Good_8:</context> <dialogue who="Leah">"Don't worry about me... I know you've got a lot of responsibilities outside of the house. I'm fine in here by myself!$l"</dialogue> </p>
+<p><context>Good_9:</context> <dialogue who="Leah">"Oh, I'm not bored... I'm just enjoying what we have here.#$e#It's a simple life, but I like it.$h"</dialogue> </p>
+<p><context>Neutral_0:</context> <dialogue who="Leah">"I hope you'll still like me when I'm old and gray."</dialogue> </p>
+<p><context>Neutral_1:</context> <dialogue who="Leah">"I wonder who lived here before us?"</dialogue> </p>
+<p><context>Neutral_2:</context> <dialogue who="Leah">"Don't you have anything to do today?"</dialogue> </p>
+<p><context>Neutral_3:</context> <dialogue who="Leah">"If you go into town, make sure and say hi to everyone for me."</dialogue> </p>
+<p><context>Neutral_4:</context> <dialogue who="Leah">"I'll do the laundry tomorrow morning before you get up... that way you won't have any down-time."</dialogue> </p>
+<p><context>Neutral_5:</context> <dialogue who="Leah">"Are we doing okay on money, @?"</dialogue> </p>
+<p><context>Neutral_6:</context> <dialogue who="Leah">"I wonder what everyone in town is doing today?"</dialogue> </p>
+<p><context>Neutral_7:</context> <dialogue who="Leah">"I don't really feel like doing anything today."</dialogue> </p>
+<p><context>Neutral_8:</context> <dialogue who="Leah">"No matter how much I clean, the house keeps getting dirty again.#$e#I guess farms can be kind of dirty."</dialogue> </p>
+<p><context>Neutral_9:</context> <dialogue who="Leah">"I wonder if we'll live here our entire lives?"</dialogue> </p>
+<p><context>Bad_0:</context> <dialogue who="Leah">"...Do you still love me?$s"</dialogue> </p>
+<p><context>Bad_1:</context> <dialogue who="Leah">"*sigh*... Maybe we got married too young.$s"</dialogue> </p>
+<p><context>Bad_2:</context> <dialogue who="Leah">"Are you still happy with me?s"</dialogue> </p>
+<p><context>Bad_3:</context> <dialogue who="Leah">"Did I do something wrong? You've been acting different lately.$s"</dialogue> </p>
+<p><context>Bad_4:</context> <dialogue who="Leah">"Do you ever wonder what else is out there?$s"</dialogue> </p>
+<p><context>Bad_5:</context> <dialogue who="Leah">"You used to be romantic... what happened?$s#$e#I know I'm not as young as I used to be... is that what you married me for?$a"</dialogue> </p>
+<p><context>Bad_6:</context> <dialogue who="Leah">"We only have one short life to live... is this the best way to do it?$s"</dialogue> </p>
+<p><context>Bad_7:</context> <dialogue who="Leah">"I used to be your sweetie... now you only seem to put up with me when I make a hot dinner.$s"</dialogue> </p>
+<p><context>Bad_8:</context> <dialogue who="Leah">"You've been so cold to me lately...$s"</dialogue> </p>
+<p><context>Bad_9:</context> <dialogue who="Leah">"I wonder if I could've done better.$s"</dialogue> </p>
+<p><context><date season="spring">spring_2:</date></context> <dialogue who="Leah">"So, what are we planting this season?"</dialogue> </p>
+<p><context><date season="spring">spring_1:</date></context> <dialogue who="Leah">"That was some way to ring in the new year last night...$l"</dialogue> </p>
+<p><context><date season="spring">spring_15:</date></context> <dialogue who="Leah">"*sigh*... I guess it's time for the 'spring cleaning' again.$s"</dialogue> </p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue who="Leah">"Ah, summer... I can smell the spice berries already.$h"</dialogue> </p>
+<p><context><date season="summer">summer_9:</date></context> <dialogue who="Leah">"Sorry if I'm wet to the touch... I was sweating all night in the heat."</dialogue> </p>
+<p><context><date season="summer">summer_2:</date></context> <dialogue who="Leah">"It's summer... that means the house is full of flies.#$e#Don't worry, I'll take care of them."</dialogue> </p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue who="Leah">"I love fall for the mushroom hunting opportunities. It comes and goes pretty fast."</dialogue> </p>
+<p><context><date season="fall">fall_20:</date></context> <dialogue who="Leah">"Have you planned for winter at all? It's good to have a stockpile of hay."</dialogue> </p>
+<p><context><date season="fall">fall_2:</date></context> <dialogue who="Leah">"I know harvest season is a busy time for you. I'll try and help out as much as I can."</dialogue> </p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue who="Leah">"Winter's here, and that means crystal fruit is in season. It has such a unique flavor, don't you think?"</dialogue> </p>
+<p><context><date season="winter">winter_7:</date></context> <dialogue who="Leah">"I'm looking forward to carving ice sculptures tomorrow. I only get to do it once a year, but it's a lot of fun!"</dialogue> </p>
+<p><context><date season="winter">winter_28:</date></context> <dialogue who="Leah">"Hey, here's to another great year at %farm farm! Let's have some fun tonight! [348]$h#$e#Next year is going to be great, I can feel it."</dialogue> </p>
+</xml>
