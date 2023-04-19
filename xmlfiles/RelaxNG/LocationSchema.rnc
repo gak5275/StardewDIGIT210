@@ -1,0 +1,10 @@
+start = xml
+xml = element xml {location}
+location = element location {place, (text | dialogue | name)+}
+
+dialogue = element dialogue {who, (text | name)*}
+who = attribute who {xsd:string}
+
+name = element name {type, text}
+type = attribute type {xsd:string}
+place = attribute place {xsd:string}
