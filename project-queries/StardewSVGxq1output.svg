@@ -1,508 +1,274 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
-   <g transform="translate(50, 20)"><!--Use XML comments down here in the XML plot. In SVG, transform/translate shifts things by X and Y coordinates.
-    So this moves the whole plot over by 50 and down by 20 from top left. We're going to start by plotting down the screen.
-    We can come back here to work on flipping the plot in a different direction.
-    Here's a lot more you can do with the transform attribute in SVG: 
-    https://jenkov.com/tutorials/svg/svg-transformation.html 
-    
-    Okay, let's take a look at the catchphrases across the season! 
-    -->
-      <g id="abigail">
+   <g transform="translate(200, 200)">
+      <g id="Abigail">
          <line x1="0"
-               y1="20"
-               x2="290"
-               y2="20"
-               stroke="red"
-               stroke-width="5"/>
+               y1="50"
+               x2="18.5185185185185185"
+               y2="50"
+               stroke="lightblue"
+               stroke-width="20"/>
+         <text x="-100" y="50" stroke="black">Abigail</text>
       </g>
-      <g id="maru">
-         <line x1="0"
-               y1="40"
-               x2="910"
-               y2="40"
-               stroke="green"
-               stroke-width="5"/>
-      </g>
-      <g id="linus">
-         <line x1="0"
-               y1="60"
-               x2="530"
-               y2="60"
-               stroke="blue"
-               stroke-width="5"/>
-      </g>
-      <g id="marilda">
-         <line x1="0"
-               y1="80"
-               x2="35"
-               y2="80"
-               stroke="orange"
-               stroke-width="5"/>
-      </g>
-      <g id="sebastian">
+      <g id="Pierre">
          <line x1="0"
                y1="100"
-               x2="475"
+               x2="22.792022792022792"
                y2="100"
-               stroke="black"
-               stroke-width="5"/>
+               stroke="lightgreen"
+               stroke-width="20"/>
+         <text x="-100" y="100" stroke="black">Pierre</text>
       </g>
-      <g id="stardew valley">
+      <g id="Shane">
          <line x1="0"
-               y1="120"
-               x2="25"
-               y2="120"
-               stroke="purple"
-               stroke-width="5"/>
+               y1="150"
+               x2="48.433048433048433"
+               y2="150"
+               stroke="blue"
+               stroke-width="20"/>
+         <text x="-100" y="150" stroke="black">Shane</text>
       </g>
-      <g id="city1">
-         <line x1="0"
-               y1="140"
-               x2="5"
-               y2="140"
-               stroke="aqua"
-               stroke-width="5"/>
-      </g>
-      <g id="city2">
-         <line x1="0"
-               y1="160"
-               x2="5"
-               y2="160"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="willy">
-         <line x1="0"
-               y1="180"
-               x2="385"
-               y2="180"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="robin">
+      <g id="Emily">
          <line x1="0"
                y1="200"
-               x2="635"
+               x2="24.2165242165242165"
                y2="200"
-               stroke=""
-               stroke-width="5"/>
+               stroke="green"
+               stroke-width="20"/>
+         <text x="-100" y="200" stroke="black">Emily</text>
       </g>
-      <g id="-20">
+      <g id="Clint">
          <line x1="0"
-               y1="220"
-               x2="375"
-               y2="220"
-               stroke=""
-               stroke-width="5"/>
+               y1="250"
+               x2="27.0655270655270655"
+               y2="250"
+               stroke="lightpink"
+               stroke-width="20"/>
+         <text x="-100" y="250" stroke="black">Clint</text>
       </g>
-      <g id="marnie">
-         <line x1="0"
-               y1="240"
-               x2="410"
-               y2="240"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="leo">
-         <line x1="0"
-               y1="260"
-               x2="185"
-               y2="260"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="penny">
-         <line x1="0"
-               y1="280"
-               x2="1485"
-               y2="280"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="jas">
+      <g id="Alex">
          <line x1="0"
                y1="300"
-               x2="445"
+               x2="25.641025641025641"
                y2="300"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="300" stroke="black">Alex</text>
       </g>
-      <g id="vincent">
+      <g id="George">
          <line x1="0"
-               y1="320"
-               x2="695"
-               y2="320"
+               y1="350"
+               x2="12.8205128205128205"
+               y2="350"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="350" stroke="black">George</text>
       </g>
-      <g id="town">
-         <line x1="0"
-               y1="340"
-               x2="75"
-               y2="340"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="demetrius">
-         <line x1="0"
-               y1="360"
-               x2="400"
-               y2="360"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="tomatoes">
-         <line x1="0"
-               y1="380"
-               x2="5"
-               y2="380"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="haley">
+      <g id="Penny">
          <line x1="0"
                y1="400"
-               x2="475"
+               x2="41.3105413105413105"
                y2="400"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="400" stroke="black">Penny</text>
       </g>
-      <g id="alex">
+      <g id="Lewis">
          <line x1="0"
-               y1="420"
-               x2="620"
-               y2="420"
+               y1="450"
+               x2="56.98005698005698"
+               y2="450"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="450" stroke="black">Lewis</text>
       </g>
-      <g id="tunnelers">
-         <line x1="0"
-               y1="440"
-               x2="10"
-               y2="440"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="elliott">
-         <line x1="0"
-               y1="460"
-               x2="25"
-               y2="460"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="crimsonfish">
-         <line x1="0"
-               y1="480"
-               x2="5"
-               y2="480"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="sam">
+      <g id="Sam">
          <line x1="0"
                y1="500"
-               x2="720"
+               x2="22.792022792022792"
                y2="500"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="500" stroke="black">Sam</text>
       </g>
-      <g id="gotoro">
+      <g id="Leah">
          <line x1="0"
-               y1="520"
-               x2="5"
-               y2="520"
+               y1="550"
+               x2="18.5185185185185185"
+               y2="550"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="550" stroke="black">Leah</text>
       </g>
-      <g id="gus">
-         <line x1="0"
-               y1="540"
-               x2="470"
-               y2="540"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="hooo~">
-         <line x1="0"
-               y1="560"
-               x2="5"
-               y2="560"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="krobus">
-         <line x1="0"
-               y1="580"
-               x2="160"
-               y2="580"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="hhi">
+      <g id="Gus">
          <line x1="0"
                y1="600"
-               x2="5"
+               x2="11.396011396011396"
                y2="600"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="600" stroke="black">Gus</text>
       </g>
-      <g id="leah">
+      <g id="Demetrius">
          <line x1="0"
-               y1="620"
-               x2="1050"
-               y2="620"
+               y1="650"
+               x2="2.849002849002849"
+               y2="650"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="650" stroke="black">Demetrius</text>
       </g>
-      <g id="kel">
-         <line x1="0"
-               y1="640"
-               x2="40"
-               y2="640"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="farm">
-         <line x1="0"
-               y1="660"
-               x2="40"
-               y2="660"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="gunther">
-         <line x1="0"
-               y1="680"
-               x2="50"
-               y2="680"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="shane">
+      <g id="Robin">
          <line x1="0"
                y1="700"
-               x2="660"
+               x2="49.8575498575498575"
                y2="700"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="700" stroke="black">Robin</text>
       </g>
-      <g id="harvey">
+      <g id="Marnie">
          <line x1="0"
-               y1="720"
-               x2="360"
-               y2="720"
+               y1="750"
+               x2="15.6695156695156695"
+               y2="750"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="750" stroke="black">Marnie</text>
       </g>
-      <g id="stick">
-         <line x1="0"
-               y1="740"
-               x2="5"
-               y2="740"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="lupini">
-         <line x1="0"
-               y1="760"
-               x2="5"
-               y2="760"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="clint">
-         <line x1="0"
-               y1="780"
-               x2="370"
-               y2="780"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="pam">
+      <g id="Jodi">
          <line x1="0"
                y1="800"
-               x2="465"
+               x2="8.547008547008547"
                y2="800"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="800" stroke="black">Jodi</text>
       </g>
-      <g id="lewis">
+      <g id="Morris">
          <line x1="0"
-               y1="820"
-               x2="620"
-               y2="820"
+               y1="850"
+               x2="15.6695156695156695"
+               y2="850"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="850" stroke="black">Morris</text>
       </g>
-      <g id="pierre">
-         <line x1="0"
-               y1="840"
-               x2="190"
-               y2="840"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="emily">
-         <line x1="0"
-               y1="860"
-               x2="650"
-               y2="860"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="toast4 to">
-         <line x1="0"
-               y1="880"
-               x2="5"
-               y2="880"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="pelican">
+      <g id="Willy">
          <line x1="0"
                y1="900"
-               x2="60"
+               x2="2.849002849002849"
                y2="900"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="900" stroke="black">Willy</text>
       </g>
-      <g id="advice1 impress">
+      <g id="Gunther">
          <line x1="0"
-               y1="920"
-               x2="5"
-               y2="920"
+               y1="950"
+               x2="1.4245014245014245"
+               y2="950"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="950" stroke="black">Gunther</text>
       </g>
-      <g id="kent">
-         <line x1="0"
-               y1="940"
-               x2="40"
-               y2="940"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="george">
-         <line x1="0"
-               y1="960"
-               x2="205"
-               y2="960"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="grandpa">
-         <line x1="0"
-               y1="980"
-               x2="15"
-               y2="980"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="dusty">
+      <g id="Linus">
          <line x1="0"
                y1="1000"
-               x2="20"
+               x2="5.698005698005698"
                y2="1000"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="1000" stroke="black">Linus</text>
       </g>
-      <g id="evelyn">
+      <g id="Pam">
          <line x1="0"
-               y1="1020"
-               x2="10"
-               y2="1020"
+               y1="1050"
+               x2="38.4615384615384615"
+               y2="1050"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="1050" stroke="black">Pam</text>
       </g>
-      <g id="caroline">
-         <line x1="0"
-               y1="1040"
-               x2="75"
-               y2="1040"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="post-dimensional">
-         <line x1="0"
-               y1="1060"
-               x2="10"
-               y2="1060"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="secret1">
-         <line x1="0"
-               y1="1080"
-               x2="5"
-               y2="1080"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="jodi">
+      <g id="Jas">
          <line x1="0"
                y1="1100"
-               x2="100"
+               x2="1.4245014245014245"
                y2="1100"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="1100" stroke="black">Jas</text>
       </g>
-      <g id="community center">
+      <g id="Vincent">
          <line x1="0"
-               y1="1120"
-               x2="5"
-               y2="1120"
+               y1="1150"
+               x2="1.4245014245014245"
+               y2="1150"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="1150" stroke="black">Vincent</text>
       </g>
-      <g id="morris">
-         <line x1="0"
-               y1="1140"
-               x2="110"
-               y2="1140"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="jojamart">
-         <line x1="0"
-               y1="1160"
-               x2="15"
-               y2="1160"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="community development pilot program">
-         <line x1="0"
-               y1="1180"
-               x2="5"
-               y2="1180"
-               stroke=""
-               stroke-width="5"/>
-      </g>
-      <g id="saloon">
+      <g id="Haley">
          <line x1="0"
                y1="1200"
-               x2="45"
+               x2="24.2165242165242165"
                y2="1200"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="1200" stroke="black">Haley</text>
       </g>
-      <g id="forest">
+      <g id="Caroline">
          <line x1="0"
-               y1="1220"
-               x2="10"
-               y2="1220"
+               y1="1250"
+               x2="1.4245014245014245"
+               y2="1250"
                stroke=""
-               stroke-width="5"/>
+               stroke-width="20"/>
+         <text x="-100" y="1250" stroke="black">Caroline</text>
       </g>
-      <g id="mini-jukebox">
-         <line x1="0"
-               y1="1240"
-               x2="20"
-               y2="1240"
-               stroke=""
-               stroke-width="5"/>
-      </g>
+      <line x1="0"
+            y1="350"
+            x2="500"
+            y2="350"
+            stroke="black"
+            stroke-width="3"/>
+      <!-- X axis -->
+      <line x1="0"
+            y1="1700"
+            x2="0"
+            y2="0"
+            stroke="black"
+            stroke-width="3"/>
+      <!-- Y axis -->
+      <line x1="100"
+            y1="350"
+            x2="100"
+            y2="250"
+            stroke="green"
+            stroke-width="1"/>
+      <line x1="200"
+            y1="350"
+            x2="200"
+            y2="250"
+            stroke="green"
+            stroke-width="1"/>
+      <line x1="300"
+            y1="350"
+            x2="300"
+            y2="250"
+            stroke="green"
+            stroke-width="1"/>
+      <line x1="400"
+            y1="350"
+            x2="400"
+            y2="250"
+            stroke="green"
+            stroke-width="1"/>
+      <line x1="500"
+            y1="350"
+            x2="500"
+            y2="250"
+            stroke="green"
+            stroke-width="1"/>
    </g>
 </svg>
