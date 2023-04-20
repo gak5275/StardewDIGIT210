@@ -3,7 +3,8 @@ declare variable $stardew := collection("autotag/East");
 IT READS UP ABOVE THE PARENT DIRECTORY OF THIS XQUERY FILE, and DOWN INTO FILES IT NEEDS IN A PROJECT.
 :)
 
-declare variable $colors := ("lightblue", "lightgreen", "blue", "green", "lightpink");
+(:declare variable $colors := ("#4B158D", "#324376", "#50B65E", "#586BA4", "#F5DD90", "#2564EE", "#F68E5F", "#F76C5E", "#AF9AB2", "#FED839", "#820B8A", "#672A4E", "#5CF64A", "#43B929", "#FF37A6", "#0DAB76", "#0B5D1E", "#191716", "#440D0F", "#84596B", "#758ECD", "#A0DDFF", "#0D5C63", "#FF6978", "#dc2f02");:)
+declare variable $colors := ("#264653", "#264653", "#286569", "#297574", "#29817c", "#2a9187", "#2a9d8f", "#49a389", "#6fab82", "#93b27b", "#adb876", "#c8bd71", "#e9c46a", "#ebbf69", "#ecbb68", "#edb767", "#efb165", "#f1aa63", "#f4a261", "#f29c5f", "#f0965d", "#ee8f5b", "#ed8a59", "#eb8156", "#e76f51");
 declare variable $xSpacer := 5;
 declare variable $ySpacer := 50;
 
@@ -11,6 +12,9 @@ declare variable $ySpacer := 50;
 
 
 declare variable $allNames := $stardew//dialogue/@who => distinct-values();
+
+(: Count names to automatically determine y axis size:)
+declare variable $countallNames := $stardew//dialogue/@who => distinct-values() => count();
 
 declare variable $nameTotal := $stardew//dialogue/@who => count();
 (: ebb: Note: The line above gets the count of all type attributes on names including duplicates. 
@@ -25,12 +29,50 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
 
 <svg
     width="100%"
-    height="100%"
-    xmlns="http://www.w3.org/2000/svg">
+    height="{($countallNames+2) * $ySpacer}"
+    xmlns="http://www.w3.org/2000/svg"
+    overflow-y="scroll">
+        
+        <!-- Graph Markers -->
+        <g
+            transform="translate(150, 50)">
+
+             <line 
+                x1="0"
+                y1="{($countallNames+0.5) * $ySpacer}"
+                x2="{100 * $xSpacer}"
+                y2="{($countallNames+0.5) * $ySpacer}"
+                stroke="black"
+                stroke-width ="3"
+           />
+           <!-- Y axis -->
+             <line 
+                x1="0"
+                y1="{($countallNames+0.5) * $ySpacer}"
+                x2="0"
+                y2="{0}"
+                stroke="black"
+                stroke-width ="3"
+           />
+            <!-- X axis -->
+            
+               { for $i at $pos in (1 to 5)
+        return
+            <line 
+                x1="{2 * $pos * $xSpacer * 10}"
+                y1="{0}"
+                x2="{2 * $pos * $xSpacer * 10}"
+                y2="{($countallNames+0.5) * $ySpacer}"
+                stroke="green"
+                stroke-width ="1"
+           />
+        }
+    </g>
     
     
+    <!-- Data -->
     <g
-        transform="translate(200, 200)">
+        transform="translate(150, 50)">
       
         
         {
@@ -82,40 +124,6 @@ attribute it is. :)
         
         
           
-       <line 
-            x1="0"
-            y1="{7 * $ySpacer}"
-            x2="{100 * $xSpacer}"
-            y2="{7 * $ySpacer}"
-            stroke="black"
-            stroke-width ="3"
-       />
-       <!-- X axis -->
-         <line 
-            x1="0"
-            y1="{34 * $ySpacer}"
-            x2="0"
-            y2="{0}"
-            stroke="black"
-            stroke-width ="3"
-       />
-        <!-- Y axis -->
-        
-           { for $i at $pos in (1 to 5)
-    return
-        <line 
-            x1="{2 * $pos * $xSpacer * 10}"
-            y1="{7 * $ySpacer}"
-            x2="{2 * $pos * $xSpacer * 10}"
-            y2="{5 * $ySpacer}"
-            stroke="green"
-            stroke-width ="1"
-       />
-    
-    
-    
-    
-    }
         
         
     </g>
