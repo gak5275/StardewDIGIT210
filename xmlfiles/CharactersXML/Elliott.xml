@@ -37,7 +37,7 @@
 <p><context><event>event_idea1:</event></context> <dialogue who="Elliott">"Mystery, huh? It's definitely an exciting genre. I'll remember that."</dialogue> </p>
 <p><context><event>event_idea2:</event></context> <dialogue who="Elliott">"Ah, one of the classic genres. I'll remember that."</dialogue> </p>
 <p><context><event>event_idea3:</event></context> <dialogue who="Elliott">"I would've never guessed! I suppose even those of the 'earthiest' profession sometimes have their heads in the stars. I'll remember that."</dialogue> </p>
-<p><context><event>event_boat1:</event></context> <dialogue who="Elliott">"... I was worried you might not feel this way about another man.^So am I."</dialogue> </p>
+<p><context><event>event_boat1:</event></context> <dialogue who="Elliott">"... I was worried you might not feel this way about another man. So am I."</dialogue> </p>
 <p><context><event>event_boat2:</event></context> <dialogue who="Elliott">"Oh! I'm so sorry."</dialogue> </p>
 <p><context><event>event_toast1:</event></context> <dialogue who="Elliott">"Well...okay. Here's to @!"</dialogue> </p>
 <p><context><event>event_toast2:</event></context> <dialogue who="Elliott">"That's a great idea! Here's to us!"</dialogue> </p>

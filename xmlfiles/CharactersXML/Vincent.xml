@@ -10,7 +10,7 @@
 <p><context>Mon:</context> <dialogue who="Vincent">"I wanna be just like my big brother when I grow up! Okay! Bye!"</dialogue> </p>
 <p><context>Mon4:</context> <dialogue who="Vincent">"I'm glad Dad's back... but he's different than I remember... Dad's not around much... I miss playing with him."</dialogue> </p>
 <p><context>Tue:</context> <dialogue who="Vincent">"*sigh*... Mom won't let me have any more gummies today."</dialogue> </p>
-<p><context>Tue6:</context> <dialogue who="Vincent">"Can you keep a secret, mister?^Can you keep a secret, miss? I wanna marry Miss Penny when I grow up. Just don't tell her, okay?"</dialogue> </p>
+<p><context>Tue6:</context> <dialogue who="Vincent">"Can you keep a secret, mister? Can you keep a secret, miss? I wanna marry Miss Penny when I grow up. Just don't tell her, okay?"</dialogue> </p>
 <p><context>Wed:</context> <dialogue who="Vincent">"I wanna look for bugs, but Mom gets mad when I'm all dirty. It's a tough choice."</dialogue> </p>
 <p><context>Thu:</context> <dialogue who="Vincent">"I'm hungry... where's Mom?"</dialogue> </p>
 <p><context>Thu2:</context> <dialogue who="Vincent">"You're not as boring as most grown-ups!"</dialogue> </p>
@@ -18,7 +18,7 @@
 <p><context>Sat_1:</context> <dialogue who="Vincent">"Dad's coming back soon! I hope he brings me some toys."</dialogue> </p>
 <p><context>Sat:</context> <dialogue who="Vincent">"Miss Penny makes me read a new book every week. At least she lets me pick them, sometimes!"</dialogue> </p>
 <p><context>Sat8:</context> <dialogue who="Vincent">"Dad seems weird since he came back. I wonder what happened to him? He doesn't play with me anymore. I wonder if Dad will ever come home..."</dialogue> </p>
-<p><context>Sun:</context> <dialogue who="Vincent">"Hi there, mister!^Hi there, miss."</dialogue> </p>
-<p><context>Sun10:</context> <dialogue who="Vincent">"Hi Uncle @!^Hi Auntie @! Don't tell Mom... but you're my favorite grown-up."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Vincent">"Hi there, mister! Hi there, miss."</dialogue> </p>
+<p><context>Sun10:</context> <dialogue who="Vincent">"Hi Uncle @! Hi Auntie @! Don't tell Mom... but you're my favorite grown-up."</dialogue> </p>
 
 </xml>

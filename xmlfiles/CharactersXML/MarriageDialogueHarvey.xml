@@ -9,7 +9,7 @@
 <p><context>Rainy_Night_0:</context> <dialogue who="Harvey">"How was your day, honey? I was going to do the dishes but I got absorbed in the latest issue of \"Knee Surgery Enthusiast\"."</dialogue> </p>
 <p><context>patio_Harvey:</context> <dialogue who="Harvey">"You know, this 'journal of tendon dynamics' is actually bearable when I'm reading out here."</dialogue> </p>
 <p><context>Rainy_Night_1:</context> <dialogue who="Harvey">"If you're enjoying life, who cares if it's a little repetitive? That's what I say."</dialogue> </p>
-<p><context>Rainy_Night_2:</context> <dialogue who="Harvey">"You look a little soggy, hun. Why don't you warm yourself by the fire?^You look a little soggy, dear. Why don't you warm yourself by the fire?"</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue who="Harvey">"You look a little soggy, hun. Why don't you warm yourself by the fire? You look a little soggy, dear. Why don't you warm yourself by the fire?"</dialogue> </p>
 <p><context>Rainy_Night_3:</context> <dialogue who="Harvey">"The sound of rain gives our minds something to focus on, so we're not distracted by random thoughts. That's my theory for why it's so soothing..."</dialogue> </p>
 <p><context>Rainy_Night_4:</context> <dialogue who="Harvey">"I made us a nice healthy dinner. Only fresh, wholesome ingredients from the valley! [212 214 225 209 200] Just make sure to eat a reasonable portion, dear."</dialogue> </p>
 <p><context>Indoor_Day_0:</context> <dialogue who="Harvey">"I think we're all striving to reach some kind of balance in life. An equilibrium of complexity. For me, moving here was exactly what my body needed to find that balance."</dialogue> </p>
@@ -36,8 +36,8 @@
 <p><context>TwoKids_3:</context> <dialogue who="Harvey">"My life is devoted to you and the children now, and I'm very happy about it. I always dreamed of having a wonderful family. I had nightmares of being a bachelor forever.... I love you so much."</dialogue> </p>
 <p><context>Good_0:</context> <dialogue who="Harvey">"@...I still can't believe we're married..."</dialogue> </p>
 <p><context>Good_1:</context> <dialogue who="Harvey">"You rescued me from a life of loneliness, and filled the emptiness in my heart. Thank you."</dialogue> </p>
-<p><context>Good_2:</context> <dialogue who="Harvey">"I knew you were the one from the moment you moved here... ^I knew you were the one from the moment you moved here..."</dialogue> </p>
-<p><context>Good_3:</context> <dialogue who="Harvey">"Wow, you look really handsome today! Did you shave?^Oh, my... you look beautiful today."</dialogue> </p>
+<p><context>Good_2:</context> <dialogue who="Harvey">"I knew you were the one from the moment you moved here...  I knew you were the one from the moment you moved here..."</dialogue> </p>
+<p><context>Good_3:</context> <dialogue who="Harvey">"Wow, you look really handsome today! Did you shave? Oh, my... you look beautiful today."</dialogue> </p>
 <p><context>Good_6:</context> <dialogue who="Harvey">"Be careful out there! I have nightmares about your limp body being wheeled into the emergency room."</dialogue> </p>
 <p><context>funLeave_Harvey:</context> <dialogue who="Harvey">"I think I'll take a little walk today. I need to unwind."</dialogue> </p>
 <p><context>funReturn_Harvey:</context> <dialogue who="Harvey">"I had a nice day. It's refreshing to spend some time alone now and then. Did you have a good day, honey?"</dialogue> </p>

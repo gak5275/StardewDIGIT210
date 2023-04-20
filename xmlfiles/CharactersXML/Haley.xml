@@ -1,7 +1,7 @@
 
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
-<p><context>Introduction:</context> <dialogue who="Haley">"Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you? Huh? Oh... I'm Haley. Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind."</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Haley">"Oh... you're that new farmer boy, aren't you? Oh... You're that new farmer girl, or whatever. Aren't you? Huh? Oh... I'm Haley. Hmm... If it weren't for those horrendous clothes you might actually be cute. Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind."</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Haley">"I saw a dolphin on the way in!"</dialogue> </p>
 <p><context>Resort_Leaving:</context> <dialogue who="Haley">"There's something about the sun that just makes me feel good."</dialogue> </p>
 <p><context>Resort_Shore:</context> <dialogue who="Haley">"It's strange the places life can take you... who knows what other lands are out there?"</dialogue> </p>
@@ -18,7 +18,7 @@
 <p><context>dumped_Girls:</context> <dialogue who="Haley">"I've got nothing to say to you!"</dialogue> </p>
 <p><context>secondChance_Girls:</context> <dialogue who="Haley">"Alright, alright... I'm done giving you the cold shoulder. Just promise me you'll never, ever lie to me again."</dialogue> </p>
 <p><context>Mon:</context> <dialogue who="Haley">"This town is so small. It sucks. I have to drive, like, twenty miles to buy any decent clothes. That's why I usually just order online. What?"</dialogue> </p>
-<p><context>Tue:</context> <dialogue who="Haley">"Nice shoes.^Nice makeup. Are those made out of plastic?^Or wait... Are you even wearing any? I'm bored."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Haley">"Nice shoes. Nice makeup. Are those made out of plastic? Or wait... Are you even wearing any? I'm bored."</dialogue> </p>
 <p><context>Wed:</context> <dialogue who="Haley">"The only thing I like about this town is the beach."</dialogue> </p>
 <p><context>Thu:</context> <dialogue who="Haley">"I've decided I am going to organize my clothes today. I'll have to throw out all of last year's styles to make room for the new ones! *sigh* I could really go for a cupcake right now. Do you need something?"</dialogue> </p>
 <p><context>Fri2:</context> <dialogue who="Haley">"Don't you get tired of running around on that farm all day, or whatever it is you do? I couldn't stand getting all dirty like that. You probably get a nice tan, though."</dialogue> </p>

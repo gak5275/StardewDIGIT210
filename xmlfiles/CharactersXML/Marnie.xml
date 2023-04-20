@@ -8,7 +8,7 @@
 <p><context>Resort_Chair:</context> <dialogue who="Marnie">"Ew... the chair's wet."</dialogue> </p>
 <p><context>Resort_Bar:</context> <dialogue who="Marnie">"Phew... It's hot!"</dialogue> </p>
 <p><context>reject_789:</context> <dialogue who="Marnie">"Gah! ...Um... What? Heh.. I don't know what that is..."</dialogue> </p>
-<p><context>Mon:</context> <dialogue who="Marnie">"I love animals, Mr. @. If you treat yours well I'm sure we'll become good friends!^I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Marnie">"I love animals, Mr. @. If you treat yours well I'm sure we'll become good friends! I just love animals, Ms. @. Treat them kindly and we'll become friends, I'm sure!"</dialogue> </p>
 <p><context>Mon4:</context> <dialogue who="Marnie">"Animals are so innocent, so sweet. And If I don't look after them, who will? I just hope my chickens aren't too upset when I take their eggs."</dialogue> </p>
 <p><context>Thu_2:</context> <dialogue who="Marnie">"You've been here a while, now... how's your farm doing? Taking care of animals is easy as long as you don't forget about them!"</dialogue> </p>
 <p><context>Saloon:</context> <dialogue who="Marnie">"Now that I'm here I can finally relax and socialize a bit."</dialogue> </p>

@@ -13,7 +13,7 @@
 <p><context>pamHouseUpgradeAnonymous:</context> <dialogue who="Gus">"I saw Pam earlier today... she was grinning from ear to ear! She said someone bought her a new house! Whoever it was, they truly deserve the best!"</dialogue> </p>
 <p><context>Saloon:</context> <dialogue who="Gus">"Good evening. Can I get you anything?"</dialogue> </p>
 <p><context>Saloon4:</context> <dialogue who="Gus">"Good evening. Make yourself at home."</dialogue> </p>
-<p><context>SeedShop_Entry:</context> <dialogue who="Gus">"Hi, Pierre!/Now, what do I need.../Ah, that looks good!/Makin' my special sauce tonight!/Pierre! What's fresh?/Pierre! Waddya got for me?"</dialogue> </p>
+<p><context>SeedShop_Entry:</context> <dialogue who="Gus">"Hi, Pierre! Now, what do I need... Ah, that looks good! Makin' my special sauce tonight!Pierre! What's fresh?Pierre! Waddya got for me?"</dialogue> </p>
 <p><context>Saloon8:</context> <dialogue who="Gus">"Hi there @. I'm glad to see you! You're always welcome here."</dialogue> </p>
 <p><context>Saloon_Tue:</context> <dialogue who="Gus">"Hi! Please relax and enjoy yourself."</dialogue> </p>
 <p><context>Saloon_Thu:</context> <dialogue who="Gus">"Hey, you look like you could use a beverage."</dialogue> </p>

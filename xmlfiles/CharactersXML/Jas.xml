@@ -8,7 +8,7 @@
 <p><context>Resort:</context> <dialogue who="Jas">"Aunt Marnie told me not to get burnt... But when I walk fast, it feels cool, so I think I'll be okay."</dialogue> </p>
 <p><context>reject_869:</context> <dialogue who="Jas">"Ew, gross!"</dialogue> </p>
 <p><context>Mon:</context> <dialogue who="Jas">"Oh...Are you looking for Aunt Marnie?"</dialogue> </p>
-<p><context>Mon4:</context> <dialogue who="Jas">"Hi, Mr. @.^Hi, Ms. @. It's fun to live on a farm."</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Jas">"Hi, Mr. @. Hi, Ms. @. It's fun to live on a farm."</dialogue> </p>
 <p><context>Tue:</context> <dialogue who="Jas">"What? *giggle* ...hi."</dialogue> </p>
 <p><context>Tue6:</context> <dialogue who="Jas">"You can play with my dolls if you want to. Just make sure to brush their hair when you're done."</dialogue> </p>
 <p><context>Wed:</context> <dialogue who="Jas">"..."</dialogue> </p>
@@ -21,7 +21,7 @@
 <p><context>Fri4:</context> <dialogue who="Jas">"I like living on the farm... my favorite is the fresh ice cream from our cows' milk."</dialogue> </p>
 <p><context>Sat:</context> <dialogue who="Jas">"You smell like grass."</dialogue> </p>
 <p><context>Sat2:</context> <dialogue who="Jas">"Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once. She loved it."</dialogue> </p>
-<p><context>Sat8:</context> <dialogue who="Jas">"You're always so nice to me, Mr. @^You're always so nice to me, Ms. @. Grown-ups are usually mean and boring, but you're different."</dialogue> </p>
+<p><context>Sat8:</context> <dialogue who="Jas">"You're always so nice to me, Mr. @ You're always so nice to me, Ms. @. Grown-ups are usually mean and boring, but you're different."</dialogue> </p>
 <p><context>Sun:</context> <dialogue who="Jas">"Um... d...do you want something? I'm not supposed to talk to strangers."</dialogue> </p>
 <p><context>Sun2:</context> <dialogue who="Jas">"Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games. I'm thankful for all my toys."</dialogue> </p>
 <p><context>Sun10:</context> <dialogue who="Jas">"Did you know Shane's my godfather? He was a friend of my parents. ...they died.*sniff*"</dialogue> </p>

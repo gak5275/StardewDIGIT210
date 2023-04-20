@@ -44,7 +44,7 @@
 <p><context><event>event_room1:</event></context> <dialogue who="Shane">"Okay... that'll require a great script. Maybe I'll ask Elliott for advice next time I see him at the saloon."</dialogue> </p>
 <p><context><event>event_room2:</event></context> <dialogue who="Shane">"Sounds great. I'll have to create a bunch of practical effects to make it look cool."</dialogue> </p>
 <p><context><event>event_noLoan1:</event></context> <dialogue who="Shane">"I didn't know you were such a miser..."</dialogue> </p>
-<p><context><event>event_noLoan2:</event></context> <dialogue who="Shane">"Okay, Dad...^Okay, Mom..."</dialogue> </p>
+<p><context><event>event_noLoan2:</event></context> <dialogue who="Shane">"Okay, Dad... Okay, Mom..."</dialogue> </p>
 <p><context><event>event_noLoan3:</event></context> <dialogue who="Shane">"Oh, wow..."</dialogue> </p>
 <p><context><event>event_apologize1:</event></context> <dialogue who="Shane">"...Yeah, me too."</dialogue> </p>
 <p><context><event>event_apologize2:</event></context> <dialogue who="Shane">"I know... that's why I stopped by, to tell you about it."</dialogue> </p>

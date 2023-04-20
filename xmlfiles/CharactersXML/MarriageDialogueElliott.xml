@@ -7,9 +7,9 @@
 <p><context>Rainy_Day_3:</context> <dialogue who="Elliott">"I think I'll remain indoors today, my dear. The rain causes my hair to go limp."</dialogue> </p>
 <p><context>Rainy_Day_4:</context> <dialogue who="Elliott">"My inspiration for writing is like the weather... it comes and goes at random. Today I feel entirely dull. Perhaps I'll read one of the classics to get my creative juices flowing."</dialogue> </p>
 <p><context>patio_Elliott:</context> <dialogue who="Elliott">"Ah, what a lovely day to read a book... don't you think, my dear?"</dialogue> </p>
-<p><context>Rainy_Night_0:</context> <dialogue who="Elliott">"Good evening. Did you have a productive day, @?^Good evening. Did you have a productive day, my dear?"</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue who="Elliott">"Good evening. Did you have a productive day, @? Good evening. Did you have a productive day, my dear?"</dialogue> </p>
 <p><context>Rainy_Night_1:</context> <dialogue who="Elliott">"You're ice cold! Let me keep you warm."</dialogue> </p>
-<p><context>Rainy_Night_2:</context> <dialogue who="Elliott">"My skill with words is unmatched, yet I can't find the way to properly describe your allure.^My skill with words is unmatched, yet I can't find the way to properly describe your beauty."</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue who="Elliott">"My skill with words is unmatched, yet I can't find the way to properly describe your allure. My skill with words is unmatched, yet I can't find the way to properly describe your beauty."</dialogue> </p>
 <p><context>Rainy_Night_3:</context> <dialogue who="Elliott">"What did I do today? I'll just say this... it takes a lot of work to maintain this rugged physique!"</dialogue> </p>
 <p><context>Rainy_Night_4:</context> <dialogue who="Elliott">"I spent the afternoon daydreaming about the ocean. So I decided to cook some seafood. [198 202 727 728]"</dialogue> </p>
 <p><context>Indoor_Day_0:</context> <dialogue who="Elliott">"I've been taking much better care of myself now that we're together. The bachelor life wasn't particularly healthy for me."</dialogue> </p>
@@ -17,7 +17,7 @@
 <p><context>Indoor_Day_2:</context> <dialogue who="Elliott">"If you find a spider in the house, don't squash it! Just let me know and I'll take the poor thing outside."</dialogue> </p>
 <p><context>Indoor_Day_3:</context> <dialogue who="Elliott">"Today is going to be a fantastic day... I can feel it! I get this special feeling in my nose..."</dialogue> </p>
 <p><context>Indoor_Day_4:</context> <dialogue who="Elliott">"I've had this recurring nightmare that you gave me a buzz cut... You wouldn't ever do that to me, would you? I trust you."</dialogue> </p>
-<p><context>Indoor_Night_0:</context> <dialogue who="Elliott">"From the brightest winter star, to the shimmer of an iridium vein... nothing can compare to my wonderful man.^From the brightest winter star, to the fragrant fairy rose... nothing can compare with your captivating beauty."</dialogue> </p>
+<p><context>Indoor_Night_0:</context> <dialogue who="Elliott">"From the brightest winter star, to the shimmer of an iridium vein... nothing can compare to my wonderful man. From the brightest winter star, to the fragrant fairy rose... nothing can compare with your captivating beauty."</dialogue> </p>
 <p><context>Indoor_Night_1:</context> <dialogue who="Elliott">"A crackling fire adds wonderful ambience to the house... every piece of wood burns in a unique way."</dialogue> </p>
 <p><context>Indoor_Night_2:</context> <dialogue who="Elliott">"I never had much success growing plant in my old beach house. Hopefully I can pick up a thing or two by watching you. In this respect, you are the master and I only a humble apprentice."</dialogue> </p>
 <p><context>Indoor_Night_3:</context> <dialogue who="Elliott">"When I behold thy wondrous face, a precious jewel of form and grace, my heart... torn by the dread of night, is purified with golden light. Poetry is the only way I can begin to describe my feelings for you."</dialogue> </p>
@@ -37,7 +37,7 @@
 <p><context>Good_0:</context> <dialogue who="Elliott">"@... I'm so proud of all your hard work. I'm very lucky to have you."</dialogue> </p>
 <p><context>Good_1:</context> <dialogue who="Elliott">"I made a whole secret book of poems expressing my love for you."</dialogue> </p>
 <p><context>Good_2:</context> <dialogue who="Elliott">"I came to the valley to find the ivory tower from which my talents could reign supreme. But what I really found was a dungeon of loneliness. You saved me from that."</dialogue> </p>
-<p><context>Good_3:</context> <dialogue who="Elliott">"Wow, you look really handsome today! Did you shave? Your jawline is perfect.^Your feminine allure is irresistible today. I can't keep my eyes off you."</dialogue> </p>
+<p><context>Good_3:</context> <dialogue who="Elliott">"Wow, you look really handsome today! Did you shave? Your jawline is perfect. Your feminine allure is irresistible today. I can't keep my eyes off you."</dialogue> </p>
 <p><context>Good_4:</context> <dialogue who="Elliott">"I feel burnt out in your absence. But when I hear that sound of muddy boots on wood, my heart rises from the ash."</dialogue> </p>
 <p><context>Good_5:</context> <dialogue who="Elliott">"I'm doing a walking meditation. It's good for creativity."</dialogue> </p>
 <p><context>Good_6:</context> <dialogue who="Elliott">"Be careful out there! I do worry about you sometimes. There are people in the world who would take advantage of you."</dialogue> </p>

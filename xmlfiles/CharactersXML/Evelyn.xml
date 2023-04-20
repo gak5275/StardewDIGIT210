@@ -30,7 +30,7 @@
 <p><context>fall_Wed:</context> <dialogue who="Evelyn">"The good Mayor put me in charge of the town's public gardens. The fall flowers are delicate, so don't go stomping on them! I know how you kids like to do."</dialogue> </p>
 <p><context>fall_Thu:</context> <dialogue who="Evelyn">"Today I'm baking cookies. They're shaped like little pumpkins. Maybe I'll tell you my recipe one of these days."</dialogue> </p>
 <p><context>fall_Sat:</context> <dialogue who="Evelyn">"Are you friends with Alex? Sometime he worries me sick."</dialogue> </p>
-<p><context>fall_Sat_inlaw_Alex:</context> <dialogue who="Evelyn">"Oh, hello my dear. I think of you as my own grandson now.^Oh, hello my dear. I think of you as my own grand-daughter now."</dialogue> </p>
+<p><context>fall_Sat_inlaw_Alex:</context> <dialogue who="Evelyn">"Oh, hello my dear. I think of you as my own grandson now. Oh, hello my dear. I think of you as my own grand-daughter now."</dialogue> </p>
 <p><context>fall_Sun:</context> <dialogue who="Evelyn">"My eyesight may be poor, but my nose hasn't failed me yet! I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a girl."</dialogue> </p>
 <p><context>winter_Mon:</context> <dialogue who="Evelyn">"Be careful you don't slip on the ice, dear."</dialogue> </p>
 <p><context>winter_Tue:</context> <dialogue who="Evelyn">"Aren't you cold? You should wear a thicker jacket, my dear! This weather isn't good for my joints..."</dialogue> </p>

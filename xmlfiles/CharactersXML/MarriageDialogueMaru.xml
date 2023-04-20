@@ -35,7 +35,7 @@
 <p><context>Good_1:</context> <dialogue who="Maru">"Now that we live together, it's hard to imagine being alone again."</dialogue> </p>
 <p><context>Good_2:</context> <dialogue who="Maru">"Taking a break? That's good!"</dialogue> </p>
 <p><context>Good_3:</context> <dialogue who="Maru">"There's a lot of strategy to planning and running a farm. It's more intellectually stimulating than I thought!"</dialogue> </p>
-<p><context>Good_4:</context> <dialogue who="Maru">"For a while there I was considering building a robotic husband. But you're a lot more fun!^For a while there I was considering building a robotic wife. But you're a lot more fun!"</dialogue> </p>
+<p><context>Good_4:</context> <dialogue who="Maru">"For a while there I was considering building a robotic husband. But you're a lot more fun! For a while there I was considering building a robotic wife. But you're a lot more fun!"</dialogue> </p>
 <p><context>Good_5:</context> <dialogue who="Maru">"I was just admiring my wedding amulet... The shell is flawless. This is a very rare specimen!"</dialogue> </p>
 <p><context>Good_6:</context> <dialogue who="Maru">"Last night, I had a dream that I was looking through a gigantic telescope. I saw something moving in the nebula. Kind of spooky."</dialogue> </p>
 <p><context>Neutral_0:</context> <dialogue who="Maru">"I hope you'd still like me even if I gained weight."</dialogue> </p>

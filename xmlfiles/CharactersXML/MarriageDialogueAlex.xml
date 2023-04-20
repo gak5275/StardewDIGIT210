@@ -12,7 +12,7 @@
 <p><context>Rainy_Night_2:</context> <dialogue who="Alex">"Oh... the smell? I've been eating garlic all day. I'm trying to stay manly... Sorry."</dialogue> </p>
 <p><context>Rainy_Night_3:</context> <dialogue who="Alex">"I've been setting aside a few scraps for Dusty. He deserves a treat now and then."</dialogue> </p>
 <p><context>Rainy_Night_4:</context> <dialogue who="Alex">"I was hungry so I made some dinner. Here, I saved you a plate. [241 242 225 214 198]"</dialogue> </p>
-<p><context>Indoor_Day_0:</context> <dialogue who="Alex">"Ahh... there's nothing like a good night's sleep next to my husband!^Ahh... there's nothing like a good night's sleep next to my wife!"</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue who="Alex">"Ahh... there's nothing like a good night's sleep next to my husband! Ahh... there's nothing like a good night's sleep next to my wife!"</dialogue> </p>
 <p><context>Indoor_Day_1:</context> <dialogue who="Alex">"Hey, honey! I made you a hot breakfast.[195 210 211] If you want to get strong, you have to eat like you mean it!"</dialogue> </p>
 <p><context>Indoor_Day_2:</context> <dialogue who="Alex">"Come here. *squeeze*... Mmhmm. You're firming up from all that farm work."</dialogue> </p>
 <p><context>Indoor_Day_3:</context> <dialogue who="Alex">"I'm still getting used to cooking and doing laundry... It's not exactly my favorite, but I knew what I was getting into when I married you."</dialogue> </p>
@@ -25,7 +25,7 @@
 <p><context>Outdoor_0:</context> <dialogue who="Alex">"Hey. When I stand here and look out over our land... I'm really proud. You've done great work."</dialogue> </p>
 <p><context>Outdoor_1:</context> <dialogue who="Alex">"This is a great place to raise children. I would've loved growing up in a place like this. So much room to run around!"</dialogue> </p>
 <p><context>Outdoor_2:</context> <dialogue who="Alex">"I like to spend as much time outside as possible. It just feels better to be out here."</dialogue> </p>
-<p><context>Outdoor_3:</context> <dialogue who="Alex">"Look at us, with our little farm. We make a cute couple.^Hey. Maybe it's the golden light, but you look beautiful today."</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue who="Alex">"Look at us, with our little farm. We make a cute couple. Hey. Maybe it's the golden light, but you look beautiful today."</dialogue> </p>
 <p><context>Outdoor_4:</context> <dialogue who="Alex">"Ahh... It feels great to be outside. Stardew Valley really is the most beautiful place..."</dialogue> </p>
 <p><context>OneKid_0:</context> <dialogue who="Alex">"I'm still getting used to my new life as a stay-at-home dad."</dialogue> </p>
 <p><context>OneKid_1:</context> <dialogue who="Alex">"Little  is going to grow up strong, just like Daddy."</dialogue> </p>
@@ -33,7 +33,7 @@
 <p><context>TwoKids_2:</context> <dialogue who="Alex">"Maybe  will be the first professional gridball player from Pelican Town?"</dialogue> </p>
 <p><context>TwoKids_3:</context> <dialogue who="Alex">"I finally have the family life that I missed out on as a kid... thank you."</dialogue> </p>
 <p><context>Good_0:</context> <dialogue who="Alex">"@... I will always love you."</dialogue> </p>
-<p><context>Good_1:</context> <dialogue who="Alex">"You're very handsome... have I told you that?^You're very beautiful... have I told you that?"</dialogue> </p>
+<p><context>Good_1:</context> <dialogue who="Alex">"You're very handsome... have I told you that? You're very beautiful... have I told you that?"</dialogue> </p>
 <p><context>Good_6:</context> <dialogue who="Alex">"I know you're strong, but sometimes I worry that you might get eaten by slimes... or worse. Just be careful."</dialogue> </p>
 <p><context>funLeave_Alex:</context> <dialogue who="Alex">"I'm going into town today. I'll see you tonight."</dialogue> </p>
 <p><context>funReturn_Alex:</context> <dialogue who="Alex">"I had a good day. I like to see my grandparents often, they're getting pretty old."</dialogue> </p>

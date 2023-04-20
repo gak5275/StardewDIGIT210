@@ -12,7 +12,7 @@
 <p><context>Rainy_Night_2:</context> <dialogue who="Abigail">"Can you feel it? There's a stillness in the rain..."</dialogue> </p>
 <p><context>Rainy_Night_3:</context> <dialogue who="Abigail">"On nights like this, I like to turn the light down low and just listen..."</dialogue> </p>
 <p><context>Rainy_Night_4:</context> <dialogue who="Abigail">"I felt like making some soup for dinner. I hope it's not too disgusting. [199 218 219 727 730]"</dialogue> </p>
-<p><context>Rainy_Night_5:</context> <dialogue who="Abigail">"Hey! You look like you've been hard at work. Can I help you relax?^Have you been working hard? You look cute when you're a little exhausted."</dialogue> </p>
+<p><context>Rainy_Night_5:</context> <dialogue who="Abigail">"Hey! You look like you've been hard at work. Can I help you relax? Have you been working hard? You look cute when you're a little exhausted."</dialogue> </p>
 <p><context>Rainy_Night_Abigail:</context> <dialogue who="Abigail">"The sound of rain should put us right to sleep tonight."</dialogue> </p>
 <p><context>Indoor_Day_0:</context> <dialogue who="Abigail">"I always loved this place, long before you moved in. Now I can explore the farm whenever I want!"</dialogue> </p>
 <p><context>Indoor_Day_1:</context> <dialogue who="Abigail">"Hey, @. Heading out into the wild? I got you something...[286 287 205 732] Use that if you get into a tough spot. It should help keep you safe."</dialogue> </p>

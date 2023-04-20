@@ -43,7 +43,7 @@
 <p><context>summer_Mon_inlaw_Haley:</context> <dialogue who="Emily">"Haley and I get along much better now that she's moved out. I look forward to her visits!"</dialogue> </p>
 <p><context>summer_Tue:</context> <dialogue who="Emily">"Hello there, @. I feel lazy today."</dialogue> </p>
 <p><context><date season="summer">summer_Tue6:</date></context> <dialogue who="Emily">"I feel bad for Linus. People judge him, but he's just living a different lifestyle. I wish everyone could learn to be accepting of others."</dialogue> </p>
-<p><context><date season="summer">summer_Sun6:</date></context> <dialogue who="Emily">"Hi, @! We've become decent friends, haven't we? That's fine with me. You're a cool guy.^I'm glad."</dialogue> </p>
+<p><context><date season="summer">summer_Sun6:</date></context> <dialogue who="Emily">"Hi, @! We've become decent friends, haven't we? That's fine with me. You're a cool guy. I'm glad."</dialogue> </p>
 <p><context><date season="summer">summer_Sun8:</date></context> <dialogue who="Emily">"Hi, @! We've become decent friends, haven't we? This may sound weird, but I've always been certain this would happen."</dialogue> </p>
 <p><context>summer_Wed:</context> <dialogue who="Emily">"It doesn't rain much in summer, does it? That just means more watering work for you, huh? Or do you enjoy the sunny weather?"</dialogue> </p>
 <p><context>summer_Thu:</context> <dialogue who="Emily">"I consider the bees and butterflies to be my special friends!"</dialogue> </p>

@@ -1,7 +1,7 @@
 <?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
-<p><context>Introduction:</context> <dialogue who="Pierre">"Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store.^Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store. If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!"</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Pierre">"Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store. Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store. If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!"</dialogue> </p>
 <p><context>Resort:</context> <dialogue who="Pierre">"I'm losing a lot of money being away from the shop... But, you know what? It's worth it."</dialogue> </p>
 <p><context>Resort_Shore:</context> <dialogue who="Pierre">"Mmm... that salty smell of the sea is making me want some sashimi."</dialogue> </p>
 <p><context>Resort_Chair:</context> <dialogue who="Pierre">"Eh, let the kids play in the sun. I'll just sit in this chair."</dialogue> </p>
@@ -10,7 +10,7 @@
 <p><context>joja_Begin:</context> <dialogue who="Pierre">"This is a sad day for Pelican Town... The stronger Joja becomes, the closer I move toward bankruptcy. I might have to sell the shop soon..."</dialogue> </p>
 <p><context>MovieInvitation:</context> <dialogue who="Pierre">"Hey, that's a great idea... It'll be nice to get out from behind the counter. I'll meet you there!"</dialogue> </p>
 <p><context>Mon:</context> <dialogue who="Pierre">"Welcome! If you're looking for seeds, you've come to the right place!"</dialogue> </p>
-<p><context>Mon_inlaw_Abigail:</context> <dialogue who="Pierre">"Hello, er... my son?^Hello, er... daughter?"</dialogue> </p>
+<p><context>Mon_inlaw_Abigail:</context> <dialogue who="Pierre">"Hello, er... my son? Hello, er... daughter?"</dialogue> </p>
 <p><context>Mon4:</context> <dialogue who="Pierre">"Hi, @. Need any seeds or fruit tree saplings?"</dialogue> </p>
 <p><context>Mon4_inlaw_Abigail:</context> <dialogue who="Pierre">"Hi, @. How's Abigail doing? The shop hasn't been the same without her..."</dialogue> </p>
 <p><context>Tue:</context> <dialogue who="Pierre">"Sometimes I get new items in stock, so make sure to stop by every so often. It's a lot of work to run a shop."</dialogue> </p>
@@ -18,7 +18,7 @@
 <p><context>Wed:</context> <dialogue who="Pierre">"It's my day off today. Hmmm... what to do..."</dialogue> </p>
 <p><context>Wed4:</context> <dialogue who="Pierre">"When I was younger I always had something interesting to do... now I find myself just wasting time whenever I'm not at work."</dialogue> </p>
 <p><context>Thu:</context> <dialogue who="Pierre">"I'm happy to buy any produce off you. I'll give you a fair price, of course!"</dialogue> </p>
-<p><context>Thu2:</context> <dialogue who="Pierre">"I really do appreciate your business, Mr. @. I've been having a harder and harder time turning a decent profit.^I really do appreciate your business, Ms. @. I've been having a harder and harder time turning a decent profit."</dialogue> </p>
+<p><context>Thu2:</context> <dialogue who="Pierre">"I really do appreciate your business, Mr. @. I've been having a harder and harder time turning a decent profit. I really do appreciate your business, Ms. @. I've been having a harder and harder time turning a decent profit."</dialogue> </p>
 <p><context>Thu8:</context> <dialogue who="Pierre">"Does Abigail look anything like me? Don't tell my wife, but sometimes I wonder if I'm really the father. Don't tell my wife, but I hate to cook dinner."</dialogue> </p>
 <p><context>Fri:</context> <dialogue who="Pierre">"Business has been slow since Joja moved into town. It's hard to compete with their selection. Hi there. Is your farm doing well? Maybe a few of my seeds will spruce things up."</dialogue> </p>
 <p><context>Sat:</context> <dialogue who="Pierre">"If you find any wild produce, I'll take it off your hands for a reasonable price."</dialogue> </p>
