@@ -315,20 +315,20 @@
 <p><context>ScienceHouse_Renovation_RemoveStairs:</context> <dialogue>Remove Stairs/Remove a staircase./Select an area for the renovation.</dialogue> </p>
 <p><context>Journal_Name:</context> <dialogue>Journal Scrap</dialogue> </p>
 <p><context>IslandFarmhouse_Drawer:</context> <dialogue>You open the drawer and find a tattered journal...</dialogue> </p>
-<p><context>    Gourmand_Intro:</context> <dialogue who="Gourmand">Kribbibbit... Whooo? You da farmer who tend-a da land outside me house, bub?</dialogue> </p>
-<p><context>    Gourmand_RequestIntro:</context> <dialogue who="Gourmand">Gurrp... Dah land once teemed wis fresh, fresh fooda... *sigh*... me wish ta seein' da teemin' once more.</dialogue> </p>
-<p><context>    Gourmand_RequestQuestion:</context> <dialogue who="Gourmand">You be growin' da thing outside now, bub?</dialogue> </p>
-<p><context>    Gourmand_RequestFailed:</context> <dialogue who="Gourmand">Kriibbitt... You no grow da thing I wish-a da see... Grow dis a thing and return-a ta me..</dialogue> </p>
-<p><context>    Gourmand_Request_0:</context> <dialogue who="Gourmand">Grow you for me... da pink thing... da juicy thing...</dialogue> </p>
-<p><context>    Gourmand_Request_0_Success:</context> <dialogue who="Gourmand">Gurrrp... Yes. Bombo pink... Bombo juicy...|...Bringin' me back to da good old days... sunny days when things bein' sweeter...|*slurp*... Me wanna take a big bombo juicy bite...|...But, me won't.</dialogue> </p>
-<p><context>    Gourmand_Request_1:</context> <dialogue who="Gourmand">Me wanna see da longo yellow ticklin' thing... da thing dat be wavin' in the wind...</dialogue> </p>
-<p><context>    Gourmand_Request_1_Success:</context> <dialogue who="Gourmand">Gurrrp... Good. Bombo longo and when da run through it... bombo ticklin'.|Heh... remindin' me of an old girlfriend... *gurp*...|Heh... Now me wanna tickle-da you...|...But, me won't.</dialogue> </p>
-<p><context>    Gourmand_Request_2:</context> <dialogue who="Gourmand">Me wanna eat da zesty ground-fruit, but make da breath stink...</dialogue> </p>
-<p><context>    Gourmand_Request_2_Success:</context> <dialogue who="Gourmand">Gurrrp... Yes... Me eatin' da thing once. Made da breath smell bombo bad...|...Remindin' me of Papa when I was just a tadpole...|Heh... Me wanna take a big bite, and smell bombo bad...|...But, me won't.</dialogue> </p>
-<p><context>    Gourmand_Reward:</context> <dialogue who="Gourmand">Kriibbitt... Yes... Thank-a da you. This bringin' me back... To da good times, long, long ago, bub...|Here... This da for you.</dialogue> </p>
-<p><context>    Gourmand_LastReward:</context> <dialogue who="Gourmand">Kriibbitt... Yes... Me remember everything now!|Thank-a da you for remindin' me so much.|This da one last reward for you, bub.</dialogue> </p>
-<p><context>    Gourmand_Finished:</context> <dialogue who="Gourmand">Kriibbitt... Good to see you again, bombo-friend.|I hope a you growin' da big bombo fruit, bub!</dialogue> </p>
-<p><context>    Gourmand_InProgress:</context> <dialogue who="Gourmand">Ah... I see you growin' da thing. But it's still ding-ee small. Come back when it's bombo big...</dialogue> </p>
+<p><context>    Gourmand_Intro:</context> <dialogue who="Misc">Kribbibbit... Whooo? You da farmer who tend-a da land outside me house, bub?</dialogue> </p>
+<p><context>    Gourmand_RequestIntro:</context> <dialogue who="Misc">Gurrp... Dah land once teemed wis fresh, fresh fooda... *sigh*... me wish ta seein' da teemin' once more.</dialogue> </p>
+<p><context>    Gourmand_RequestQuestion:</context> <dialogue who="Misc">You be growin' da thing outside now, bub?</dialogue> </p>
+<p><context>    Gourmand_RequestFailed:</context> <dialogue who="Misc">Kriibbitt... You no grow da thing I wish-a da see... Grow dis a thing and return-a ta me..</dialogue> </p>
+<p><context>    Gourmand_Request_0:</context> <dialogue who="Misc">Grow you for me... da pink thing... da juicy thing...</dialogue> </p>
+<p><context>    Gourmand_Request_0_Success:</context> <dialogue who="Misc">Gurrrp... Yes. Bombo pink... Bombo juicy...|...Bringin' me back to da good old days... sunny days when things bein' sweeter...|*slurp*... Me wanna take a big bombo juicy bite...|...But, me won't.</dialogue> </p>
+<p><context>    Gourmand_Request_1:</context> <dialogue who="Misc">Me wanna see da longo yellow ticklin' thing... da thing dat be wavin' in the wind...</dialogue> </p>
+<p><context>    Gourmand_Request_1_Success:</context> <dialogue who="Misc">Gurrrp... Good. Bombo longo and when da run through it... bombo ticklin'.|Heh... remindin' me of an old girlfriend... *gurp*...|Heh... Now me wanna tickle-da you...|...But, me won't.</dialogue> </p>
+<p><context>    Gourmand_Request_2:</context> <dialogue who="Misc">Me wanna eat da zesty ground-fruit, but make da breath stink...</dialogue> </p>
+<p><context>    Gourmand_Request_2_Success:</context> <dialogue who="Misc">Gurrrp... Yes... Me eatin' da thing once. Made da breath smell bombo bad...|...Remindin' me of Papa when I was just a tadpole...|Heh... Me wanna take a big bite, and smell bombo bad...|...But, me won't.</dialogue> </p>
+<p><context>    Gourmand_Reward:</context> <dialogue who="Misc">Kriibbitt... Yes... Thank-a da you. This bringin' me back... To da good times, long, long ago, bub...|Here... This da for you.</dialogue> </p>
+<p><context>    Gourmand_LastReward:</context> <dialogue who="Misc">Kriibbitt... Yes... Me remember everything now!|Thank-a da you for remindin' me so much.|This da one last reward for you, bub.</dialogue> </p>
+<p><context>    Gourmand_Finished:</context> <dialogue who="Misc">Kriibbitt... Good to see you again, bombo-friend.|I hope a you growin' da big bombo fruit, bub!</dialogue> </p>
+<p><context>    Gourmand_InProgress:</context> <dialogue who="Misc">Ah... I see you growin' da thing. But it's still ding-ee small. Come back when it's bombo big...</dialogue> </p>
 <p><context>Saloon_Arcade_Cowboy_Menu:</context> <dialogue>= Journey Of The Prairie King =</dialogue> </p>
 <p><context>Saloon_Arcade_Cowboy_Continue:</context> <dialogue>Continue Journey</dialogue> </p>
 <p><context>Saloon_Arcade_Cowboy_NewGame:</context> <dialogue>Start New Journey</dialogue> </p>
