@@ -1,0 +1,16 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Clint">"Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Clint">"I'm gonna put on my special red trunks. They're supposed to be really eye-catching."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Clint">"Well, that didn't turn out like I was imagining..."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Clint">"Oh no... I forgot to clip my toenails."</dialogue> </p>
+<p><context>Resort_Shore_2:</context> <dialogue who="Clint">"I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. I hope no one noticed..."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue who="Clint">"Ow... my whole torso is burnt to a crisp."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Clint">"I'm hungry..."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Clint">"*sigh*... We're all at the beach but I still feel so alone..."</dialogue> </p>
+<p><context>reject_868:</context> <dialogue who="Clint">"Hmm... That's an interesting stone, like nothing I've ever seen before. I wouldn't know what to do with it, though. I deal in the mundane, not the magical..."</dialogue> </p>
+<p><context>cc_Minecart:</context> <dialogue who="Clint">"Somehow, the old town minecart system started working again. It's very convenient for getting to and from the mines. Don't get too cozy, though... if it can start up so suddenly, it could just as well shut down..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Clint">"Yep. I'm a blacksmith. My father was also a blacksmith. My grandfather was a blacksmith as well. I bet you can't guess what my great-grandfather was...</dialogue> </p>
+
+</xml>

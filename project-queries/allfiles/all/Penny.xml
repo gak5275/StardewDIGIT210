@@ -1,0 +1,22 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Penny">"Oh... Hello! I'm Penny..."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Penny">"This island is so beautiful!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Penny">"I had a great time."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Penny">"I'm a little embarrassed wearing my bathing suit in public. I hope no one's looking..."</dialogue> </p>
+<p><context>Resort_Shore_2:</context> <dialogue who="Penny">"Somehow, the water here looks so different... I can hardly believe this is the same ocean I've been gazing at my entire life."</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Penny">"The wind keeps making me lose my page, but it feels really great on the skin."</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Penny">"I'm reading a book about a sailor who washes up on a deserted island. I wonder what I would do in that sort of a situation?"</dialogue> </p>
+<p><context>Resort_Marriage_Towel_2:</context> <dialogue who="Penny">"Hey honey, do you mind standing a little to the left? Thanks, the sun was making it a little bit hard to read!"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Penny">"This sand is so soft and fine. It feels great on my toes!"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Penny">"Hi...  Oh, did you want something?"</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Penny">"Oh... No, thanks."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Penny">"... I... I see... *sniff* ... W... We can just be friends, then."</dialogue> </p>
+<p><context>pamHouseUpgrade:</context> <dialogue who="Penny">"What you did for my family is so generous. Thank you!"</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue who="Penny">"There are some truly wonderful people in the world..."</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue who="Penny">"I can't bear to see you..."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Penny">"...Please, leave me alone."</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue who="Penny">"You've left a permanent scar on my heart, @. Still... I'm ready to speak to you again."</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Penny">"*sigh*... My mother definitely has a problem with going to the saloon too much. But it's best not to dwell on bad things, right?</dialogue> </p>
+</xml>

@@ -1,0 +1,51 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Demetrius">"Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself! I'm studying the local plants and animals from my home laboratory. Have you met my daughter Maru? She's interested to meet you."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Demetrius">"I already spotted a rare crab. This place is great."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Demetrius">"I'll be analyzing this data for months."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Demetrius">"*crunch*... whoops, there goes an endangered crab species... ... Oh, nevermind. It was just the empty shell! I can sleep tonight."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue who="Demetrius">"Are you having fun, @? You need to remember to take breaks now and then too!"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Demetrius">"I usually don't partake... but I'm usually not on a tropical island, either. Hahaha."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Demetrius">"Can you believe this place? It's teeming with exotic life!"</dialogue> </p>
+<p><context>reject_869:</context> <dialogue who="Demetrius">"It's a good specimen, but a very common species. You can keep it."</dialogue> </p>
+<p><context>reject_865:</context> <dialogue who="Demetrius">"Fruit and salt? What an odd combination..."</dialogue> </p>
+<p><context>pamHouseUpgradeAnonymous:</context> <dialogue who="Demetrius">"Robin won't even tell *me* who paid for Pam's new house! I pretend I'm mad at her but secretly I'm glad she's so loyal to her word..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Demetrius">"Maru helps me out in the lab sometimes... She's a good kid."</dialogue> </p>
+<p><context>Mon_inlaw_Maru:</context> <dialogue who="Demetrius">"It's hard to do good science without Maru's help... But her happiness is much more important than my experiment!"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Demetrius">"This valley has a very vibrant and diverse ecosystem. That's one reason I was excited to move here."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Demetrius">"You're probably growing a lot of interesting plants on your farm, huh? Maybe I'll stop by your place some day and check it out."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Demetrius">"How's the farming business going? It's parsnip season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Demetrius">"Robin has a hot temper. It's better to stay on her good side. Don't tell her I said that."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Demetrius">"Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then... Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?"</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Demetrius">"It's good to take a break from work every now and then. I guess that's kind of difficult when you live on a farm, though. Hey, at least in the winter you don't have to worry about crops."</dialogue> </p>
+<p><context>Fri4:</context> <dialogue who="Demetrius">"Robin has a hot temper. It's better to stay on her good side. ...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve..."</dialogue> </p>
+<p><context>Wed6:</context> <dialogue who="Demetrius">"Hi @! How are you doing today? I wish I could make your farming job easier somehow."</dialogue> </p>
+<p><context>Event_tomato1:</context> <dialogue who="Demetrius">"Really? I figured a farmer would know the correct answer..."</dialogue> </p>
+<p><context>Event_tomato2:</context> <dialogue who="Demetrius">"See? @ agrees with me."</dialogue> </p>
+<p><context>Event_Lab_Silence:</context> <dialogue who="Demetrius">"Well, we'd better titrate this solution before it crystallizes on us."</dialogue> </p>
+<p><context>Event_Lab_Rat:</context> <dialogue who="Demetrius">"*sigh*..."</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue who="Demetrius">"Sorry, I'm really busy. There's so many plants to study right now."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue who="Demetrius">"Make sure to water your plants every day. Although, if you're using water retaining soil you don't need to worry about watering as often. It's pretty convenient."</dialogue> </p>
+<p><context>summer_Thu:</context> <dialogue who="Demetrius">"How's the farming business going? It's tomato season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day."</dialogue> </p>
+<p><context>summer_Fri:</context> <dialogue who="Demetrius">"So I heard Maru had you look through that telescope out back. If you and Maru become friends, I'm sure she'll show you how to use that telescope out back. Pretty exciting, huh?"</dialogue> </p>
+<p><context>summer_Fri_inlaw_Maru:</context> <dialogue who="Demetrius">"I hope my daughter's keeping up on her math and science!"</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue who="Demetrius">"Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth? Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?"</dialogue> </p>
+<p><context>summer_Mon6:</context> <dialogue who="Demetrius">"I became a scientist because I wanted to contribute to the progression of our species. Of course, none of this would be possible without farmers such as yourself."</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue who="Demetrius">"During this time of year I divert my attentions to fungi."</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue who="Demetrius">"We know a lot about nature thanks to science. But there's always a lot more to learn."</dialogue> </p>
+<p><context>fall_Thu:</context> <dialogue who="Demetrius">"How's the farming business going? It's corn season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day."</dialogue> </p>
+<p><context>fall_Fri:</context> <dialogue who="Demetrius">"Maru sure spends a lot of time working on those gadgets of hers. I'm glad she's so dedicated."</dialogue> </p>
+<p><context>fall_Fri_inlaw_Maru:</context> <dialogue who="Demetrius">"I'm still flabbergasted about Maru's secret robot... was it all a dream?"</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue who="Demetrius">"Let's see... perhaps the nitrogen fixation level is affected by nematode secretions... Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?"</dialogue> </p>
+<p><context>fall_Wed6:</context> <dialogue who="Demetrius">"Hi @. I'm always glad when you come for a visit. It's nice to have some company after all this lonely lab-work."</dialogue> </p>
+<p><context>winter_Mon:</context> <dialogue who="Demetrius">"I'm taking a break from my research right now."</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue who="Demetrius">"Talk to my wife if you want to increase the size of your house."</dialogue> </p>
+<p><context>winter_Wed:</context> <dialogue who="Demetrius">"Do you have a kitchen in your house yet? Cooking is kind of like doing lab work."</dialogue> </p>
+<p><context>winter_Thu:</context> <dialogue who="Demetrius">"Do you have any animals on your farm?"</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue who="Demetrius">"Hello."</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue who="Demetrius">"Let's see... if seasonal nitrogen levels could be modeled by a piecewise function... Oh! Sorry. I was analyzing data and I didn't notice you there. Do you need anything?"</dialogue> </p>
+<p><context>winter_Sun:</context> <dialogue who="Demetrius">"Feel free to harvest as much lumber and stone from this area as you please."</dialogue> </p>
+<p><context>winter_Fri4:</context> <dialogue who="Demetrius">"Thanks for stopping by. I need to think about something other than legumes for a while. So, what have you been doing lately? That sounds interesting."</dialogue> </p>
+
+</xml>

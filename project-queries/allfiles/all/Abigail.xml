@@ -1,0 +1,33 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>4:</context> <dialogue who="Abigail">"Oh, hi."</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Abigail">"Oh, that's right... I heard someone new was moving onto that old farm.It's kind of a shame, really. I always enjoyed exploring those overgrown fields by myself."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Abigail">"I hope a mermaid visits the beach."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Abigail">"I'm gonna ask Willy if we can take the scenic route back."</dialogue> </p>
+<p><context>Resort_Leaving_2:</context> <dialogue who="Abigail">"Maybe we'll see a sea monster on the way back."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Abigail">"The beach is okay, but it gets boring pretty quick. I'd rather check out that dark jungle, or the volcano!"</dialogue> </p>
+<p><context>Resort_Shore_2:</context> <dialogue who="Abigail">"Hmm, you think I could sneak my guinea pig onto the island?Nah, David's probably not much of a swimmer anyways."</dialogue> </p>
+<p><context>Resort_Umbrella:</context> <dialogue who="Abigail">"My skin gets burnt really easily. So I'm just gonna stay under this umbrella for a while.I like it in the shade. Too much sun makes me dizzy."</dialogue> </p>
+<p><context>Resort_Umbrella_2:</context> <dialogue who="Abigail">"Hey @, want to build a sand castle with me?Actually, a sand dungeon might be cooler!"</dialogue> </p>
+<p><context>Resort_Umbrella_3:</context> <dialogue who="Abigail">"Hey @, you think you could build a raft?I saw a few cool islands on the way here I want to visit."</dialogue> </p>
+<p><context>Resort_Wander:</context> <dialogue who="Abigail">"An island this big has got to be hiding some buried treasure.Quick, get me a shovel!Relax, I'm just kidding."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Abigail">"Gus made me a dark purple refresher, to match my hair. It tastes great!"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Abigail">"Bummer... Willy says we have to stay on the beach... And I brought my sword and everything..."</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Abigail">"That's flattering... but I'm gonna have to say no. Sorry."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Abigail">"What are you doing here? Just leave me alone!"</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue who="Abigail">"Don't talk to me!"</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue who="Abigail">"*sigh*... I can't stay mad at you anymore, @. Let's just move on with our lives."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Abigail">"Oh... I... I understand. You see me as just a friend... I guess we weren't really a good match..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Abigail">"Oh, hey. Taking a break from work?"</dialogue> </p>
+<p><context>Mon2:</context> <dialogue who="Abigail">"Oh, hi!Do you ever hang out at the cemetery? It's a peaceful place to spend some time alone."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Abigail">"Ugh... I'm not in a good mood right now. I said I'm not in a good mood... what do you want?"</dialogue> </p>
+<p><context>Tue2:</context> <dialogue who="Abigail">"...*sigh*... I know my parents mean well, but sometimes they just cannot understand my point of view. Weren't they ever young?"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Abigail">"Hey. Sorry in advance if I say anything rude. I didn't get much sleep last night.What do you want?"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Abigail">"Oh no, I think my Dad's going to cook dinner tonight... I don't feel like doing anything today..."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Abigail">"Wow, I just realized it's Friday.  Sometimes I totally lose track of time."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue who="Abigail">"We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Abigail">"The fresh mountain air is nice on a day like this. I wonder if the frogs will make an appearance soon."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Abigail">"Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter..."</dialogue> </p>
+<p><context>Sun2:</context> <dialogue who="Abigail">"I wonder what would happen if I spent all night in the graveyard? @, What do you think happens to us after we die?</dialogue> </p>
+</xml>

@@ -1,0 +1,20 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Leah">"Hello, it's nice to meet you.  You picked a good time to move here... The spring is lovely."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Leah">"Don't tell anyone, but Willy let me steer the boat for a few minutes."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Leah">"Well, that was deeply relaxing."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Leah">"I love the weather in Stardew Valley, but seeing a different climate now and then helps put things into perspective."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Leah">"The shape of the waves here is awe inspiring. I wonder if I could ever capture that sort of formlessness in a sculpture."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue who="Leah">"I like the heat as long as I'm keeping perfectly still."</dialogue> </p>
+<p><context>Resort_Wander:</context> <dialogue who="Leah">"Mmm, I bet the trees around here would make for an interesting medium to work with. Though Willy probably wouldn't be happy with me if I dragged a bunch of logs onto his ship!"</dialogue> </p>
+<p><context>Resort_Wander_2:</context> <dialogue who="Leah">"I wonder what kind of things you could forage out here. I think I saw some tasty looking walnuts growing on a bush nearby."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Leah">"Have you tried the Piña Colada? I'm on my second one... hehe."</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Leah">"I'll be honest. I don't want to dance with you."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Leah">"I've realized I'm happier by myself. So just leave me be."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Leah">"Ohh... Got it. Hah... I really don't have any luck when it comes to this stuff..."</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue who="Leah">"I don't want to see you for a while..."</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue who="Leah">"You caused a lot of grief with what you did... but I'm ready to put the past behind us."</dialogue> </p>
+<p><context>Beach:</context> <dialogue who="Leah">"I came for the sound of the ocean. Beautiful, isn't it?"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Leah">"The trees look nice today, don't they? So why did you become a farmer?</dialogue> </p>
+</xml>

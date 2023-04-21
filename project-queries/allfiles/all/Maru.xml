@@ -1,0 +1,24 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Maru">"Oh! Aren't you the one who just moved in? I'm Maru. I've been looking forward to meeting you! You know, with a small town like this, a new face can really alter the community dynamic. It's exciting!"</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Maru">"Willy mentioned that you helped fix the boat. Thanks for doing that!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Maru">"That was fun!"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Maru">"I've been noticing a few different starfish species. My favorite are the big purple ones, but they're all very interesting!"</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Maru">"*gasp*... It's a solar eclipse! Oh... nevermind. It's just your body blocking the sun."</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Maru">"We're so far removed from civilization out here. Imagine the stars you could see at night. Who knows, maybe we'd even see a flying saucer or two!"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Maru">"Mmmm... Why are tropical fruits so good?"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Maru">"I wonder if Willy would let me bring my telescope here sometime...Maybe I'd even see you running around Farm!"</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Maru">"I'm flattered! But... No."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Maru">"We have nothing to say to each other."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Maru">"Not good enough for you, huh? Fine..."</dialogue> </p>
+<p><context>dumped_Girls:</context> <dialogue who="Maru">"You've got some nerve, speaking to me!"</dialogue> </p>
+<p><context>secondChance_Girls:</context> <dialogue who="Maru">"You've lost some respect with me, @... but I'm willing to forgive you."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Maru">"Whenever I'm struggling with a technical problem, I always take a walk. It's surprising how much a change of scenery can help."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Maru">"Have you met my mother? She's the town's carpenter."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Maru">"On Tuesdays and Thursdays I work at Harvey's clinic. He says he likes having me around in case his medical equipment goes haywire! Being a farmer must be pretty easy, huh?"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Maru">"I plan on spending a lot of time with my telescope this summer."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Maru">"Do you know my Dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Maru">"Hey, sorry if I seem cranky... I'm a little sore from work yesterday. I had to carry ten boxes of medical files to the attic! I had to sort patient records for four hours straight! "</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Maru">"Hi! Do you have fun working on the farm?</dialogue> </p>
+</xml>

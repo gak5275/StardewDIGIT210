@@ -1,0 +1,24 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Alex">"Oh, hey. So you're the new guy, huh? Cool. Hey, you're the new girl, huh? I think we're going to get along great. I'm Alex. I'll see you around."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Alex">"Finally, we're here!"</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Alex">"Aw... I guess it can't last forever."</dialogue> </p>
+<p><context>Resort_Wander:</context> <dialogue who="Alex">"I knew I shoulda brought a frisbee... Oh well."</dialogue> </p>
+<p><context>Resort_Wander_2:</context> <dialogue who="Alex">"I wonder if anyone would be up for a volleyball tournament. Don't worry, I'll go easy!"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Alex">"I wonder how far I could swim out, and still make it back? I'm guessing at least a mile. ... Don't worry, I'm not going to try it."</dialogue> </p>
+<p><context>Resort_Chair:</context> <dialogue who="Alex">"Aren't you hot in that outfit? C'mon, man... It's the beach! Aren't you hot in that outfit? You gotta get some ocean breeze goin'!"</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Alex">"With this island open, there's no excuse to be pasty anymore!"</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Alex">"Phew, it feels good to finally get these abs a little sunlight. Kind of a shame to have them hidden away all the time back home."</dialogue> </p>
+<p><context>Resort_Towel_3:</context> <dialogue who="Alex">"When I go pro, I'll vacation on islands all around the world. But for now, this place will do just fine!"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Alex">"I'm ordering a banana shake with two scoops of protein powder."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Alex">"Ah... The island life. I could get used to this!"</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Alex">"Nah... I'm gonna ask someone else. Good luck."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Alex">"I thought we had something special... I guess I was wrong."</dialogue> </p>
+<p><context>dumped_Guys:</context> <dialogue who="Alex">"You're not worth my time."</dialogue> </p>
+<p><context>secondChance_Guys:</context> <dialogue who="Alex">"I don't know if I can trust you anymore, but I'm willing to give you a chance."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Alex">"You're giving me wha...? *huff*... Got it. Alright... well, you've made your choice. You're not gonna see me begging."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Alex">"Did you know I was an all-star quarterback in high school? It's true. See this little star on my jacket here? That proves it."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Alex">"The beach is a cool place to hang out and soak up some rays.You gotta spend some time in the sun or else you'll get all pale. *sigh*... I wish there were more girls in this town, know what I mean? Hey, do you wanna hang out with me at the beach some time? Do you have a bikini?"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Alex">"Looks like a good day to play catch, huh? I'd ask you to throw the ball around, but you don't really seem like the sports type. If you weren't a girl I'd ask you to play catch.</dialogue> </p>
+</xml>

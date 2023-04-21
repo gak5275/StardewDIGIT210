@@ -1,0 +1,34 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Sebastian">"Oh. You just moved in, right? Cool. Out of all the places you could live, you chose Pelican Town?"</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Sebastian">"I liked the boat ride. At one point you couldn't see any land at all.."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Sebastian">"I'm ready to get back home."</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Sebastian">"The beach is nice, but I don't love the crowds."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Sebastian">"You think Willy would let me lug a jet ski out here? ...Nah."</dialogue> </p>
+<p><context>Resort_Wander:</context> <dialogue who="Sebastian">"...Now, if I were a tropical frog, where would I hide..."</dialogue> </p>
+<p><context>Resort_Wander_2:</context> <dialogue who="Sebastian">"I bet this place looks pretty cool in the rain."</dialogue> </p>
+<p><context>Resort_Towel:</context> <dialogue who="Sebastian">"It's good to get away from the computer and see the real world sometimes. I forget how nice it can be."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Sebastian">"I usually wear black, but in this heat..."</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Sebastian">"No... There's someone else I want to dance with."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Sebastian">"Why do you keep bothering me? I'm trying to forget about you."</dialogue> </p>
+<p><context>dumped_Guys:</context> <dialogue who="Sebastian">"I don't want to see you for a while."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Sebastian">"... alright... I guess I'll see you around, then..."</dialogue> </p>
+<p><context>secondChance_Guys:</context> <dialogue who="Sebastian">"Hey..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Sebastian">"Um... need something?"</dialogue> </p>
+<p><context>Mon4:</context> <dialogue who="Sebastian">"If I just disappeared would it really matter?"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Sebastian">"I was thinking... people are like stones skipping over the water. Eventually we're going to sink."</dialogue> </p>
+<p><context>Tue6:</context> <dialogue who="Sebastian">"I like your new boots! Your hair looks nice today. Do you want to hang out for a while?"</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Sebastian">"What am I going to do today? Probably nothing."</dialogue> </p>
+<p><context>Wed2:</context> <dialogue who="Sebastian">"Sam is probably my only friend in this town. Well, Abby is nice too, but... Umm.. nevermind."</dialogue> </p>
+<p><context>Wed2_inlaw_Abigail:</context> <dialogue who="Sebastian">"Sam is probably my only friend in this town, anymore..."</dialogue> </p>
+<p><context>Wed6:</context> <dialogue who="Sebastian">"You and Sam are probably my only friends in this town."</dialogue> </p>
+<p><context>Wed10:</context> <dialogue who="Sebastian">"Um... You're single, right? Just wondering!"</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Sebastian">"I snuck into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay? Hi. ...want something?"</dialogue> </p>
+<p><context>Mountain_47_23:</context> <dialogue who="Sebastian">"I come here for the peace and quiet."</dialogue> </p>
+<p><context>Thu4:</context> <dialogue who="Sebastian">"Why does everyone like Maru so much? Sure, she's smart and friendly, but don't they realize it's all just an attention-grabbing scam? Sorry..."</dialogue> </p>
+<p><context>Thu6:</context> <dialogue who="Sebastian">"Could you picture someone like me living on a farm? It seems ridiculous."</dialogue> </p>
+<p><context>Thu8:</context> <dialogue who="Sebastian">"Could you picture me living on a farm? It seems ridiculous, but I have been thinking about it lately."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Sebastian">"Uh... I don't really know you."</dialogue> </p>
+<p><context>Fri2:</context> <dialogue who="Sebastian">"*sigh*... If gas wasn't so expensive I'd ride my motorcycle to the city today. So what do you do when you aren't working?</dialogue> </p>
+</xml>

@@ -1,0 +1,55 @@
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+
+
+<p><context>name: Feast of the Winter Star</context> </p>
+<p><context>conditions:</context> Town/900 1400 </p>
+<p><context>shop: F 2625 1000 -1 F 1745 800 -1 F 1747 500 -1 F 1678 1000 -1 F 1390 700 -1 F 807 3000 -1 F 2798 1000 -1 F 2634 1000 -1 F 2633 500 -1 F 2635 500 -1 F 2636 700 -1 F 1440 5000 -1 F 1296 800 -1</context> </p>
+<p><context>set-up: christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas</context> </p>
+<p><context>secretSanta:</context> none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta \"dialogue1\"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta \"dialogue2\"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2 </p>
+<p><context>Abigail_spouse:</context> <dialogue who="Abigail">I wonder if I could lick one of those canes...</dialogue> </p>
+<p><context>Leah_spouse:</context> <dialogue who="Leah">I'm thankful for our simple life on the farm.</dialogue> </p>
+<p><context>Maru_spouse:</context> <dialogue who="Maru">Hey, @. I'm ready to head home whenever you are.</dialogue> </p>
+<p><context>Penny_spouse:</context> <dialogue who="Penny">I'm thankful to have met you...</dialogue> </p>
+<p><context>Haley_spouse:</context> <dialogue who="Haley">Me?... Oh, I'm thankful for... how about I just show you when we get home tonight?</dialogue> </p>
+<p><context>Sebastian_spouse:</context> <dialogue who="Sebastian">Hey, @. As you can see, I'm fulfilling my family obligations...</dialogue> </p>
+<p><context>Sam_spouse:</context> <dialogue who="Sam">*yawn*... I'm here for the gifts and the cookies.</dialogue> </p>
+<p><context>Alex_spouse:</context> <dialogue who="Alex">What am I thankful for? I'll show you when we get back home...</dialogue> </p>
+<p><context>Harvey_spouse:</context> <dialogue who="Harvey">I'm feeling a little overwhelmed... thank goodness for this crisp air...</dialogue> </p>
+<p><context>Elliott_spouse:</context> <dialogue who="Elliott">You don't need to get me anything, you've already given me the greatest gift of all...</dialogue> </p>
+<p><context>Abigail:</context> <dialogue who="Abigail">Nothing like a piping hot feast on a cold winter's day, huh?</dialogue> </p>
+<p><context>Robin:</context> <dialogue who="Robin">Hiya, @. You're welcome to join our family table if you need company.</dialogue> </p>
+<p><context>Demetrius:</context> <dialogue who="Demetrius">I'll probably get another tool set this year... *sigh*</dialogue> </p>
+<p><context>Maru:</context> <dialogue who="Maru">Hi, @.</dialogue> </p>
+<p><context>Shane:</context> <dialogue who="Shane">I've met some people who believe in spirits, and magic... but me? I've never seen anything that couldn't be explained by science.</dialogue> </p>
+<p><context>Sebastian:</context> <dialogue who="Sebastian">Spending time with family is tiring sometimes.</dialogue> </p>
+<p><context>Pierre:</context> <dialogue who="Pierre">My sales figures have been phenomenal lately... thanks to the Feast of the Winter Star! Boy, holidays are good for business. I wonder if I could invent some new ones...</dialogue> </p>
+<p><context>Caroline:</context> <dialogue who="Caroline">Ooohh... I've had too much nog.</dialogue> </p>
+<p><context>Linus:</context> <dialogue who="Linus">I'd join in... but I don't think I'm welcome.</dialogue> </p>
+<p><context>Alex:</context> <dialogue who="Alex">Oh, hello.</dialogue> </p>
+<p><context>George:</context> <dialogue who="George">A feast for some stupid star? Humbug!</dialogue> </p>
+<p><context>Evelyn:</context> <dialogue who="Evelyn">Oh, my! Aren't you cold, dear? It's freezing!</dialogue> </p>
+<p><context>Lewis:</context> <dialogue who="Lewis">Today is a time to be thankful for this year's good fortune. Forget your worries for a day and relax!</dialogue> </p>
+<p><context>Clint:</context> <dialogue who="Clint">*sigh*... All these happy families. But for me, just another lonely year.</dialogue> </p>
+<p><context>Emily:</context> <dialogue who="Emily">'@! What are you hoping to find under the spirit tree?_A new watering can._All work and no play? That's not very fun. A jug of spiced mead. Ooo... that sounds nice. Make sure to give me a taste. A pair of stylish boots._I see. That would be a great gift!'</dialogue> </p>
+<p><context>Penny:</context> <dialogue who="Penny">What a beautiful tree.</dialogue> </p>
+<p><context>Pam:</context> <dialogue who="Pam">Hmmph... I'm still upset I didn't win the ice fishing competition.</dialogue> </p>
+<p><context>Haley:</context> <dialogue who="Haley">I hope there's a new camera for me under the spirit tree!</dialogue> </p>
+<p><context>Jodi:</context> <dialogue who="Jodi">It's not a good time of year for a diet...</dialogue> </p>
+<p><context>Kent:</context> <dialogue who="Kent">Good afternoon, @. Happy Feasting.</dialogue> </p>
+<p><context>Sam:</context> <dialogue who="Sam">I'm thankful for my guitar and my skateboard. Oh, and my family I guess.</dialogue> </p>
+<p><context>Leah:</context> <dialogue who="Leah">Gus was just telling me about his artisan candy canes. *yawn* I think he had too much cinnamon nog.</dialogue> </p>
+<p><context>Marnie:</context> <dialogue who="Marnie">Welcome to the Feast of the Winter Star!</dialogue> </p>
+<p><context>Elliott:</context> <dialogue who="Elliott">Why, hello @. It's chilly, isn't it?</dialogue> </p>
+<p><context>Gus:</context> <dialogue who="Gus">It's a fine art, making candy canes. You've really got to search far and wide for the best ingredients. They aren't easy to come by these days! I usually use Fern Island Ringfruit for my premier canes, you know. You can't beat that bright red coloring... And it's all natural! Oh, you want to know the secret to my deluxe double-canes? Okay, but you've got to promise absolute secrecy. *whisper* It's a drop of vanilla in the white candy to complement the cherry flavor. Of course, peppermint candy canes are the standard, and I always make a healthy batch of those as well. Hey, you look like you're falling asleep. Are you okay?</dialogue> </p>
+<p><context>Willy:</context> <dialogue who="Willy">'Do you want to hear the Legend of the Winter Star?_Yes_In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as =Stardrop is connected to the Winter Star in some way._No thanks_Suit yourself.'</dialogue> </p>
+<p><context>Wizard:</context> <dialogue who="Wizard">Ah, the mysterious Winter Star. One of the reasons I chose this valley as the location for my... research.</dialogue> </p>
+<p><context>Harvey:</context> <dialogue who="Harvey">I'm thankful there were no medical emergencies this year!</dialogue> </p>
+<p><context>Sandy:</context> <dialogue who="Sandy">I heard it's raining back home. Is that why you came here? I kind of miss the rain, actually...</dialogue> </p>
+<p><context>Jas:</context> <dialogue who="Jas">Ohh! Presents!</dialogue> </p>
+<p><context>Vincent:</context> <dialogue who="Vincent">Can we open presents now?!</dialogue> </p>
+<p><context>Marlon:</context> <dialogue who="Marlon">Hey, good afternoon.</dialogue> </p>
+<p><context>Leo:</context> <dialogue who="Leo">Linus feels uncomfortable about joining in, so I'm going to keep him company. We'll have our own little feast... mashed winter root and spice berry fish!</dialogue> </p>
+
+
+</xml>

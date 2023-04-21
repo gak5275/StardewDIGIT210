@@ -1,0 +1,71 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Rainy_Day_0:</context> <dialogue who="Sebastian">"Finally... some heavy rain. I get bored of sunny weather easily."</dialogue> </p>
+<p><context>Rainy_Day_1:</context> <dialogue who="Sebastian">"Hey. I was just thinking about my old room in the basement. I felt comfortable there, but this is a lot more interesting. And I don't miss the smell... I felt kind of embarrassed living in my mom's house for so long."</dialogue> </p>
+<p><context>Rainy_Day_2:</context> <dialogue who="Sebastian">"Hey. I couldn't sleep last night so I took a walk to the caves. I found this... want it?[575 769 767 84 66 78] I just have trouble sleeping sometimes, it has nothing to do with you. I love you."</dialogue> </p>
+<p><context>Rainy_Day_3:</context> <dialogue who="Sebastian">"Seems like a pretty good day to just lay around, maybe read a book or something... what do you think?"</dialogue> </p>
+<p><context>Rainy_Day_4:</context> <dialogue who="Sebastian">"Hey, another rainy day... perfect. You look cold... here, come closer."</dialogue> </p>
+<p><context>Rainy_Night_0:</context> <dialogue who="Sebastian">"I'm trying my best to quit smoking now that we're married... I don't wanna die on you. It's a bad habit. I want to have a future together."</dialogue> </p>
+<p><context>patio_Sebastian:</context> <dialogue who="Sebastian">"Need something? I'll just be over here working on my bike for a while."</dialogue> </p>
+<p><context>Rainy_Night_1:</context> <dialogue who="Sebastian">"I did some work on the laptop today. I was actually brainstorming some ideas for a game I want to make. With your farming income, I can afford to do what I want with my life. It's pretty amazing. Thank you."</dialogue> </p>
+<p><context>Rainy_Night_2:</context> <dialogue who="Sebastian">"Sorry, I didn't make any dinner. We might have a frozen pizza in the fridge or something. I dunno, my mind was elsewhere. It's hard to remember to do chores..."</dialogue> </p>
+<p><context>Rainy_Night_3:</context> <dialogue who="Sebastian">"How was your day? Did you slay any monsters? It feels good to take out your aggression now and then, doesn't it?"</dialogue> </p>
+<p><context>Rainy_Night_4:</context> <dialogue who="Sebastian">"Maybe a witch will visit us tonight? Hah.. if only life was that interesting..."</dialogue> </p>
+<p><context>Indoor_Day_0:</context> <dialogue who="Sebastian">"The older I get, the less I'm drawn to the city. It had a certain mystique to it, once. But it turns out that was just a romantic fantasy. The city's so busy, so full of people... I don't belong there. I'm a loner."</dialogue> </p>
+<p><context>Indoor_Day_1:</context> <dialogue who="Sebastian">"Hey... want some coffee?[395] I needed some... woke up early from a nightmare and I just couldn't fall back asleep."</dialogue> </p>
+<p><context>Indoor_Day_2:</context> <dialogue who="Sebastian">"I couldn't sleep last night so I went for a night ride on the motorcycle. I need to stay independent, even though we're married. That's just how I am. I still love you, though."</dialogue> </p>
+<p><context>Indoor_Day_3:</context> <dialogue who="Sebastian">"Hey. How'd you sleep last night? I heard you mumbling. You seemed scared, but I have to admit... it was kind of cute."</dialogue> </p>
+<p><context>Indoor_Day_4:</context> <dialogue who="Sebastian">"Living here with you is teaching me to come out of my shell a little bit. I think it's good for me."</dialogue> </p>
+<p><context>Indoor_Night_0:</context> <dialogue who="Sebastian">"Hey. I just hung out around the house, today. Nothing interesting... ... The view from our house is perfect. You can see the sun setting over Pelican Town from the front porch."</dialogue> </p>
+<p><context>Indoor_Night_1:</context> <dialogue who="Sebastian">"Maybe I drank too much coffee... I don't feel very tired. I'm still trying to adjust to the farm schedule. I used to stay up until 5am and sleep in until 2pm, sometimes."</dialogue> </p>
+<p><context>Indoor_Night_2:</context> <dialogue who="Sebastian">"It's really cool to have our own place. I can do whatever I feel like and not have people nagging at me all the time. I'm sure Maru's happy that I'm gone."</dialogue> </p>
+<p><context>Indoor_Night_3:</context> <dialogue who="Sebastian">"I spotted a bat out the window earlier. It's kind of hard to see, but if you stay focused you can often catch them flittering about. They're out there."</dialogue> </p>
+<p><context>Indoor_Night_4:</context> <dialogue who="Sebastian">"I often felt unappreciated back home... but here I feel like I really belong. Thanks for making me feel welcome, @."</dialogue> </p>
+<p><context>Outdoor_0:</context> <dialogue who="Sebastian">"I feel like I want to do something today... but I'm not sure what. Do you ever have that problem, @?"</dialogue> </p>
+<p><context>Outdoor_1:</context> <dialogue who="Sebastian">"Hmm... sometimes I have to force myself to stay outside for health. I dunno what it is, but I like being indoors. Maybe I'm just so used to my dark basement."</dialogue> </p>
+<p><context>Outdoor_2:</context> <dialogue who="Sebastian">"I'll just watch you from here. I enjoy watching you."</dialogue> </p>
+<p><context>Outdoor_3:</context> <dialogue who="Sebastian">"I don't want to get soft now that I'm a married guy. Maybe I should start eating more hot pepper and working out? Just an idea..."</dialogue> </p>
+<p><context>Outdoor_4:</context> <dialogue who="Sebastian">"We should raise more slimes... In big quantities they can be pretty profitable. And they're so easy to raise. Also, different colored slimes produce different items. I dunno, I think it'd be kind of a fun hobby for us."</dialogue> </p>
+<p><context>OneKid_0:</context> <dialogue who="Sebastian">"I'm still getting used to being a father. Don't worry, I'll take good care of ! It's just... something new."</dialogue> </p>
+<p><context>OneKid_1:</context> <dialogue who="Sebastian">"Maybe when  is a little older, I'll get a sidecar for the bike and we can all go for a ride."</dialogue> </p>
+<p><context>OneKid_3:</context> <dialogue who="Sebastian">"Have you smelled ? Maybe it's time for a bath..."</dialogue> </p>
+<p><context>TwoKids_0:</context> <dialogue who="Sebastian">"Don't worry, I already fed the kids...  spilled the chocolate milk all over my shirt again."</dialogue> </p>
+<p><context>TwoKids_1:</context> <dialogue who="Sebastian">"I hope  and  are nice to each other. Maru and I always fought as kids. If I think back on it, it was mostly my fault..."</dialogue> </p>
+<p><context>TwoKids_2:</context> <dialogue who="Sebastian">"I've had this recurring dream that  is wearing a shadow shaman costume and sitting on a glowing pumpkin. Weird, huh?"</dialogue> </p>
+<p><context>TwoKids_3:</context> <dialogue who="Sebastian">"We've come a long way, @. Look at our family. To be honest, I never really thought I'd end up in this situation. Now that I'm here, I like it..."</dialogue> </p>
+<p><context>Good_0:</context> <dialogue who="Sebastian">"Hey. Look at me. Never forget that I love you... you're everything to me. Now go make us some money."</dialogue> </p>
+<p><context>Good_1:</context> <dialogue who="Sebastian">"Hey... come here. You look great today."</dialogue> </p>
+<p><context>Good_2:</context> <dialogue who="Sebastian">"You always look great, even after slopping around in the yard all day."</dialogue> </p>
+<p><context>Good_3:</context> <dialogue who="Sebastian">"I don't often show it, but I'm really happy that I'm your husband. Marrying you was the best decision I ever made."</dialogue> </p>
+<p><context>Good_4:</context> <dialogue who="Sebastian">"You don't ever have to worry about me. I like to spend a lot of time alone."</dialogue> </p>
+<p><context>Good_5:</context> <dialogue who="Sebastian">"Sometimes I feel so angry... but when you show up I always start to calm down. Maybe I'll mellow out with age."</dialogue> </p>
+<p><context>Good_6:</context> <dialogue who="Sebastian">"I know you're tough, but I still worry about you, sometimes. Don't ever go monster hunting without a life elixir and some sturdy boots, okay?"</dialogue> </p>
+<p><context>Good_8:</context> <dialogue who="Sebastian">"I don't really feel like doing work today. Maybe I'll see what's on TV."</dialogue> </p>
+<p><context>Good_9:</context> <dialogue who="Sebastian">"I don't really need friends. You're the only person I need in my life. Is that weird? I guess I'm not like most people."</dialogue> </p>
+<p><context>Neutral_0:</context> <dialogue who="Sebastian">"When I take walks I do my best to avoid everyone. I hate being pressured into small talk."</dialogue> </p>
+<p><context>Neutral_2:</context> <dialogue who="Sebastian">"Why don't you tell me about your day when we're in bed tonight? I'm kind of busy right now..."</dialogue> </p>
+<p><context>Neutral_3:</context> <dialogue who="Sebastian">"Are you going into town today? Why, what are you up to?"</dialogue> </p>
+<p><context>Neutral_4:</context> <dialogue who="Sebastian">"I guess I can do the laundry today... You probably have your hands full with running the farm."</dialogue> </p>
+<p><context>Neutral_5:</context> <dialogue who="Sebastian">"Are we doing okay on money? I don't want to have to sell my laptop..."</dialogue> </p>
+<p><context>Neutral_6:</context> <dialogue who="Sebastian">"If you need to go see your friends in town, go ahead. I like being alone, anyways."</dialogue> </p>
+<p><context>Neutral_8:</context> <dialogue who="Sebastian">"House-cleaning isn't fun, but when I listen to music and it goes by pretty fast."</dialogue> </p>
+<p><context>Bad_5:</context> <dialogue who="Sebastian">"Look, I just want to be alone. Why don't you go outside and do your own thing for a while?"</dialogue> </p>
+<p><context>Bad_6:</context> <dialogue who="Sebastian">"What do you want? You sound like my step-dad. Go away."</dialogue> </p>
+<p><context>Bad_7:</context> <dialogue who="Sebastian">"This place is starting to feel like a tomb."</dialogue> </p>
+<p><context>Bad_8:</context> <dialogue who="Sebastian">"I started smoking again... I've just been really stressed out lately."</dialogue> </p>
+<p><context>funLeave_Sebastian:</context> <dialogue who="Sebastian">"I'm going to take a walk today. I need some time to myself. I'll see you in the evening."</dialogue> </p>
+<p><context>funReturn_Sebastian:</context> <dialogue who="Sebastian">"My day was fine, nothing much to tell you about. Why don't you tell me about yours?"</dialogue> </p>
+<p><context><date season="spring">spring_1:</date></context> <dialogue who="Sebastian">"Oohh... my head. Happy new year..."</dialogue> </p>
+<p><context><date season="spring">spring_12:</date></context> <dialogue who="Sebastian">"Are you excited for tomorrow's festival? It'll be good to see Sam again."</dialogue> </p>
+<p><context><date season="spring">spring_23:</date></context> <dialogue who="Sebastian">"Oh... tomorrow's the flower dance, isn't it? Do we have to go? I hate wearing that ridiculous tight jumpsuit. Why does Lewis make us do this?"</dialogue> </p>
+<p><context><date season="summer">summer_1:</date></context> <dialogue who="Sebastian">"Summer's here... I need to start slathering the sunscreen pretty thick if I want to maintain my pale complexion..."</dialogue> </p>
+<p><context><date season="summer">summer_10:</date></context> <dialogue who="Sebastian">"Have you thought about what you're going to put in the luau soup? I have no idea what's good... you're the chef!"</dialogue> </p>
+<p><context><date season="summer">summer_27:</date></context> <dialogue who="Sebastian">"The weather's starting to cool off. It feels great. Should we go to the festival tomorrow night? It's actually a tradition I kind of enjoy."</dialogue> </p>
+<p><context><date season="fall">fall_1:</date></context> <dialogue who="Sebastian">"It seems like the whole valley's changed overnight... I guess fall's finally here."</dialogue> </p>
+<p><context><date season="fall">fall_15:</date></context> <dialogue who="Sebastian">"The Stardew Valley Fair is a little crowded for my tastes... but I'll just hang out with Sam. It'll be good to catch up with him. You should play some carnival games, though! Don't worry about me."</dialogue> </p>
+<p><context><date season="fall">fall_26:</date></context> <dialogue who="Sebastian">"I'm excited for the Spirit's Eve tomorrow. I wonder what horrors we'll find there."</dialogue> </p>
+<p><context><date season="winter">winter_1:</date></context> <dialogue who="Sebastian">"What are your plans this winter? I know it's more of a laid-back time for you."</dialogue> </p>
+<p><context><date season="winter">winter_7:</date></context> <dialogue who="Sebastian">"Are you going to enter the fishing contest tomorrow?"</dialogue> </p>
+<p><context><date season="winter">winter_28:</date></context> <dialogue who="Sebastian">"It's been a great year, @. We should celebrate a little. [346] I'm sure next year will be even better."</dialogue> </p>
+</xml>

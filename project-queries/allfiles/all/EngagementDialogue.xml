@@ -1,0 +1,30 @@
+
+<?xml-model href="../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Maru0:</context> <dialogue who="Maru">I'm really excited. I'm going to be your wife. Hehe.</dialogue> </p>
+<p><context>Maru1:</context> <dialogue who="Maru">I need to get mentally prepared for being a farmer's wife.</dialogue> </p>
+<p><context>Leah0:</context> <dialogue who="Leah">... I'm a little nervous. But happy.</dialogue> </p>
+<p><context>Leah1:</context> <dialogue who="Leah">I've always dreamed of living on a farm. I'm going to be so happy.</dialogue> </p>
+<p><context>Haley0:</context> <dialogue who="Haley">I'm so happy! It's just like I always dreamed.</dialogue> </p>
+<p><context>Haley1:</context> <dialogue who="Haley">It's okay. I know we can't have a honeymoon, since your farm needs to be taken care of. I'm a farmer now, too!</dialogue> </p>
+<p><context>Penny0:</context> <dialogue who="Penny">@.. I'm a little scared. This is such a big change! Don't worry, I'm really happy, too.</dialogue> </p>
+<p><context>Penny1:</context> <dialogue who="Penny">We're going to have a little farm family, soon. I'm so glad you feel this way about me.</dialogue> </p>
+<p><context>Abigail0:</context> <dialogue who="Abigail">Hehe. Me? Married? I never thought this would happen. We're going to have a lot of fun together.</dialogue> </p>
+<p><context>Abigail1:</context> <dialogue who="Abigail">I'm engaged to a farmer. Wow! Our lives are going to be a lot different from now on.</dialogue> </p>
+<p><context>Sam0:</context> <dialogue who="Sam">I'm going to be really happy as your husband, @. I'm excited.</dialogue> </p>
+<p><context>Sam1:</context> <dialogue who="Sam">I never dreamed this would happen. I'm so lucky. I can't wait till the wedding.</dialogue> </p>
+<p><context>Sebastian0:</context> <dialogue who="Sebastian">In a couple days I'm going to be living on a farm. I can't believe it. I'm happy, though.</dialogue> </p>
+<p><context>Sebastian1:</context> <dialogue who="Sebastian">When you showed up in town, I never thought I'd be marrying you some day. Life is strange, huh?</dialogue> </p>
+<p><context>Harvey0:</context> <dialogue who="Harvey">Oh my goodness! I have so much to prepare before the wedding! I'm nervous. I'll be relieved after we're all settled in on your farm.</dialogue> </p>
+<p><context>Harvey1:</context> <dialogue who="Harvey">I'm really happy. This was always my secret wish.</dialogue> </p>
+<p><context>Elliott0:</context> <dialogue who="Elliott">The farm will be such a lovely place to write. I'm really looking forward to this. We're going to make a great pair.</dialogue> </p>
+<p><context>Elliott1:</context> <dialogue who="Elliott">This is going to be such an adventure! I'm really excited. Aren't you? We can use my cottage as a beach house.</dialogue> </p>
+<p><context>Alex0:</context> <dialogue who="Alex">@, this is the greatest thing that could have happened. I can't wait.</dialogue> </p>
+<p><context>Alex1:</context> <dialogue who="Alex">I'm going to love being a farmer.</dialogue> </p>
+<p><context>Shane0:</context> <dialogue who="Shane">Part of me is wondering if this isn't all some elaborate prank. I can't believe you'd actually want to marry someone like me.</dialogue> </p>
+<p><context>Shane1:</context> <dialogue who="Shane">@... My head's spinning, and I haven't even had a beer today.</dialogue> </p>
+<p><context>Emily0:</context> <dialogue who="Emily">Can you believe we're about to move in together? I've never lived with anyone but my family. It's... exciting.</dialogue> </p>
+<p><context>Emily1:</context> <dialogue who="Emily">I always knew something important would happen between us... I just never thought it would be this! The parrot is excited too.</dialogue> </p>
+<p><context>Krobus0:</context> <dialogue who="Krobus">@... I'm afraid we'll have to keep this a secret... Neither my people nor yours would accept us living together.</dialogue> </p>
+<p><context>Krobus1:</context> <dialogue who="Krobus">You know I'll be a very strange person to live with, right? I won't be able to leave the house...</dialogue> </p>
+</xml>

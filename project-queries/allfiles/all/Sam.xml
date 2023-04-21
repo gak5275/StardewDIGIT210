@@ -1,0 +1,24 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>10:</context> <dialogue who="Sam">"Did you watch the game last night? Or wait, do you even have a TV set...?"</dialogue> </p>
+<p><context>14:</context> <dialogue who="Sam">"Ugh, I stepped in something gross earlier... and I just bought these shoes."</dialogue> </p>
+<p><context>Introduction:</context> <dialogue who="Sam">"Hey, I'm Sam. Good to meet you."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Sam">"Wow, what a spot!"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Sam">"I bet there's some cool stuff deeper on the island. Willy said we have to stay here, though... some kind of liability issues or something."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Sam">"I'm feeling pretty good from all the sunlight."</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Sam">"Check out these gnarly waves... Guess what? I'm gonna save up for a surfboard."</dialogue> </p>
+<p><context>Resort_Towel_2:</context> <dialogue who="Sam">"Maybe I should learn to play the ukelele. Abby on the congas and Sebastian on the steel drums... 'The Pelicans of Paradise'... What's the matter, you look worried."</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Sam">"I'm just getting juiced up, then it's back to the beach."</dialogue> </p>
+<p><context>danceRejection:</context> <dialogue who="Sam">"Hmm... I dunno. Maybe next year."</dialogue> </p>
+<p><context>dumped_Guys:</context> <dialogue who="Sam">"..."</dialogue> </p>
+<p><context>secondChance_Guys:</context> <dialogue who="Sam">"Alright, I'm done with the cold shoulder act. Let's just forget about what happened."</dialogue> </p>
+<p><context>breakUp:</context> <dialogue who="Sam">"Wait... what?! I thought we were doing okay... I guess I was way off... alright, then. Yeah, sure... we can still be friends."</dialogue> </p>
+<p><context>divorced:</context> <dialogue who="Sam">"I'm sorry, @. I don't think I can still be your friend."</dialogue> </p>
+<p><context>Mon2:</context> <dialogue who="Sam">"Hey, how's it going? Last night I practiced guitar for 4 hours straight. My fingers hurt like crazy. Bye, I've got something to do..."</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Sam">"Hey, farmer."</dialogue> </p>
+<p><context>Mon8:</context> <dialogue who="Sam">"I'll tell you a secret... my name 'Sam' is short for 'Samson'. Most people don't know that so keep it on mute."</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Sam">"Oh, hi! It's good to see you again. Take it easy."</dialogue> </p>
+<p><context>Tue4:</context> <dialogue who="Sam">"Hi, @. Do you want to hang out or something? Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Sam">"I'm trying to come up with a new song for my band, but I'm blanking... Hey.. What do you think my new song should be about?</dialogue> </p>
+</xml>

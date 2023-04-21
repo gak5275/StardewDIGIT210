@@ -1,0 +1,41 @@
+
+<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+<p><context>Introduction:</context> <dialogue who="Caroline">"Hello! You must be @, the new farmer. I'm Caroline. My husband runs the general store here. And have you met my daughter, Abigail? She's the pale one with the purple hair."</dialogue> </p>
+<p><context>Resort_Entering:</context> <dialogue who="Caroline">"Willy gave us each a piece of his fish jerky. I'm still chewing on it."</dialogue> </p>
+<p><context>Resort_Leaving:</context> <dialogue who="Caroline">"I'll sleep well tonight!"</dialogue> </p>
+<p><context>Resort_Shore:</context> <dialogue who="Caroline">"The water is so warm here compared to the valley. It's really pleasant!"</dialogue> </p>
+<p><context>Resort_Bar:</context> <dialogue who="Caroline">"I told Gus to surprise me, and he made an iced green tea with mango zest. How nice!"</dialogue> </p>
+<p><context>Resort:</context> <dialogue who="Caroline">"Hi @. Are you here to relax, or to do work?"</dialogue> </p>
+<p><context>Mon:</context> <dialogue who="Caroline">"I wish Abby wouldn't spend so much time in her room."</dialogue> </p>
+<p><context>Mon_inlaw_Abigail:</context> <dialogue who="Caroline">"Hi, @. Are you enjoying the married life? I hope so!"</dialogue> </p>
+<p><context>Mon8:</context> <dialogue who="Caroline">"When we first moved to Pelican Town I would take secret walks to the Wizard's tower. Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?"</dialogue> </p>
+<p><context>Tue:</context> <dialogue who="Caroline">"I've seen wild horesradish in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food."</dialogue> </p>
+<p><context>Wed:</context> <dialogue who="Caroline">"Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items."</dialogue> </p>
+<p><context>Thu:</context> <dialogue who="Caroline">"Hmmm... I wonder if I can get Pierre to cook dinner tonight. Hmmm... what am I going to make for dinner tonight? Maybe I'll just get take-out from the Saloon."</dialogue> </p>
+<p><context>Fri:</context> <dialogue who="Caroline">"It's a fine-looking day. On days like this I like to help Evelyn with the public gardens. She's strong for her age, but I think she appreciates all the help she can get."</dialogue> </p>
+<p><context>Sat:</context> <dialogue who="Caroline">"Is it just me, or does Abigail have an unhealthy interest in doom and gloom? Maybe I'm just too old to understand."</dialogue> </p>
+<p><context>Sat_inlaw_Abigail:</context> <dialogue who="Caroline">"Dinner's been a lot quieter since Abigail moved out... No, not because she used to chew with her mouth open!"</dialogue> </p>
+<p><context>Sat2:</context> <dialogue who="Caroline">"Abby's always had a strange interest in the occult. I'm not sure where she gets it from..."</dialogue> </p>
+<p><context>Sat4:</context> <dialogue who="Caroline">"Abby's always had a strange interest in the occult. I'm not sure where she gets it from..."</dialogue> </p>
+<p><context>Sat6:</context> <dialogue who="Caroline">"When we first moved here, I took a while to settle down... I wasn't ready for the domestic life. Pierre's a bit traditional... but he's a good man. He's ambitious, but he always puts his family first."</dialogue> </p>
+<p><context>Sun:</context> <dialogue who="Caroline">"Today I'm just going to relax and think positively. Do you ever take a day off?"</dialogue> </p>
+<p><context>Wed6:</context> <dialogue who="Caroline">"Stardew Valley is nice, but I wish I knew more people. I'm glad that we've become friends."</dialogue> </p>
+<p><context>summer_Mon:</context> <dialogue who="Caroline">"On wednesdays the shop is closed. Keep that in mind if you're going to need anything."</dialogue> </p>
+<p><context>summer_Tue:</context> <dialogue who="Caroline">"I've been seeing wild fruits in the forest lately. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food."</dialogue> </p>
+<p><context>summer_Wed:</context> <dialogue who="Caroline">"Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items."</dialogue> </p>
+<p><context>summer_Sat:</context> <dialogue who="Caroline">"Is it just me, or does Abigail look a little pale? Maybe I'm just worrying about her too much."</dialogue> </p>
+<p><context>summer_Sat_inlaw_Abigail:</context> <dialogue who="Caroline">"How's Abigail's health? She's always been such a pale girl. Hopefully the farm lifestyle puts a little color in her cheeks."</dialogue> </p>
+<p><context>summer_Sun:</context> <dialogue who="Caroline">"Today I'm just going to relax and think positively. Do you ever take a day off?"</dialogue> </p>
+<p><context>summer_Wed6:</context> <dialogue who="Caroline">"Time seems to go by faster and faster the older you get... "</dialogue> </p>
+<p><context>fall_Mon:</context> <dialogue who="Caroline">"Fall is Abby's favorite season, so I'm hoping she'll come out of her room more often."</dialogue> </p>
+<p><context>fall_Mon_inlaw_Abigail:</context> <dialogue who="Caroline">"Abby was taking online classes here, but I don't think her heart was really in it... She's a free spirit, like I was before I met Pierre. She's probably having the time of her life on your farm."</dialogue> </p>
+<p><context>fall_Tue:</context> <dialogue who="Caroline">"I've seen edible mushrooms in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food."</dialogue> </p>
+<p><context>fall_Sat:</context> <dialogue who="Caroline">"Is it just me, or does Abigail play too many video games? Maybe I'm a little old-fashioned."</dialogue> </p>
+<p><context>fall_Wed6:</context> <dialogue who="Caroline">"You know, I used to want to be a farmer myself. Well, more like a rancher. I always loved movies about the wild west when I was a girl."</dialogue> </p>
+<p><context>winter_Tue:</context> <dialogue who="Caroline">"Winter is harsh, but you can dig up some roots if you're lucky. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food."</dialogue> </p>
+<p><context>winter_Fri:</context> <dialogue who="Caroline">"Even though it's cold, I still check on the public garden beds every now and then. I just want to make sure they aren't damaged too much before spring returns."</dialogue> </p>
+<p><context>winter_Sat:</context> <dialogue who="Caroline">"Don't you think Abby would look better with her natural hair color? She used to have light chestnut-colored hair."</dialogue> </p>
+<p><context>winter_Wed6:</context> <dialogue who="Caroline">"Are you excited for the new year? I predict that you'll be super-successful on your farm."</dialogue> </p>
+
+</xml>
