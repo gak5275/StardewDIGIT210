@@ -94,7 +94,7 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
         
         
         {
-            for $n at $pos in $namesSortedByCounts
+            for $n at $pos in $allNames
                 let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
             
             
