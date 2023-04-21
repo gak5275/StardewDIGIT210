@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="1450"
+     overflow-y="scroll"><!-- Graph Markers -->
+   <g transform="translate(150, 50)"><!-- X axis -->
+      <line x1="0"
+            y1="1275"
+            x2="500"
+            y2="1275"
+            stroke="black"
+            stroke-width="3"/>
+      <!-- Y axis -->
+      <line x1="0"
+            y1="1275"
+            x2="0"
+            y2="0"
+            stroke="black"
+            stroke-width="3"/>
+      <!-- Percentage Marks -->
+      <line x1="166.665"
+            y1="0"
+            x2="166.665"
+            y2="1275"
+            stroke="green"
+            stroke-width="1"/>
+      <line x1="333.33"
+            y1="0"
+            x2="333.33"
+            y2="1275"
+            stroke="green"
+            stroke-width="1"/>
+      <line x1="499.995"
+            y1="0"
+            x2="499.995"
+            y2="1275"
+            stroke="green"
+            stroke-width="1"/>
+      <text x="166.665" y="1300">5%</text>
+      <text x="333.33" y="1300">10%</text>
+      <text x="499.995" y="1300">15%</text>
+   </g>
+   <!-- Data -->
+   <g transform="translate(150, 50)">
+      <g id="Abigail">
+         <line x1="0"
+               y1="50"
+               x2="123.444444444444444321"
+               y2="50"
+               stroke="#264653"
+               stroke-width="20"/>
+         <text x="-100" y="50" stroke="black">Abigail</text>
+         <text x="153.444444444444444321" y="50" stroke="black">3.704%</text>
+      </g>
+      <g id="Pierre">
+         <line x1="0"
+               y1="100"
+               x2="151.931623931623931472"
+               y2="100"
+               stroke="#264653"
+               stroke-width="20"/>
+         <text x="-100" y="100" stroke="black">Pierre</text>
+         <text x="181.931623931623931472" y="100" stroke="black">4.558%</text>
+      </g>
+      <g id="Shane">
+         <line x1="0"
+               y1="150"
+               x2="322.854700854700854378"
+               y2="150"
+               stroke="#286569"
+               stroke-width="20"/>
+         <text x="-100" y="150" stroke="black">Shane</text>
+         <text x="352.854700854700854378" y="150" stroke="black">9.687%</text>
+      </g>
+      <g id="Emily">
+         <line x1="0"
+               y1="200"
+               x2="161.427350427350427189"
+               y2="200"
+               stroke="#297574"
+               stroke-width="20"/>
+         <text x="-100" y="200" stroke="black">Emily</text>
+         <text x="191.427350427350427189" y="200" stroke="black">4.843%</text>
+      </g>
+      <g id="Clint">
+         <line x1="0"
+               y1="250"
+               x2="180.418803418803418623"
+               y2="250"
+               stroke="#29817c"
+               stroke-width="20"/>
+         <text x="-100" y="250" stroke="black">Clint</text>
+         <text x="210.418803418803418623" y="250" stroke="black">5.413%</text>
+      </g>
+      <g id="Alex">
+         <line x1="0"
+               y1="300"
+               x2="170.923076923076922906"
+               y2="300"
+               stroke="#2a9187"
+               stroke-width="20"/>
+         <text x="-100" y="300" stroke="black">Alex</text>
+         <text x="200.923076923076922906" y="300" stroke="black">5.128%</text>
+      </g>
+      <g id="George">
+         <line x1="0"
+               y1="350"
+               x2="85.461538461538461453"
+               y2="350"
+               stroke="#2a9d8f"
+               stroke-width="20"/>
+         <text x="-100" y="350" stroke="black">George</text>
+         <text x="115.461538461538461453" y="350" stroke="black">2.564%</text>
+      </g>
+      <g id="Penny">
+         <line x1="0"
+               y1="400"
+               x2="275.376068376068375793"
+               y2="400"
+               stroke="#49a389"
+               stroke-width="20"/>
+         <text x="-100" y="400" stroke="black">Penny</text>
+         <text x="305.376068376068375793" y="400" stroke="black">8.262%</text>
+      </g>
+      <g id="Lewis">
+         <line x1="0"
+               y1="450"
+               x2="379.82905982905982868"
+               y2="450"
+               stroke="#6fab82"
+               stroke-width="20"/>
+         <text x="-100" y="450" stroke="black">Lewis</text>
+         <text x="409.82905982905982868" y="450" stroke="black">11.396%</text>
+      </g>
+      <g id="Sam">
+         <line x1="0"
+               y1="500"
+               x2="151.931623931623931472"
+               y2="500"
+               stroke="#93b27b"
+               stroke-width="20"/>
+         <text x="-100" y="500" stroke="black">Sam</text>
+         <text x="181.931623931623931472" y="500" stroke="black">4.558%</text>
+      </g>
+      <g id="Leah">
+         <line x1="0"
+               y1="550"
+               x2="123.444444444444444321"
+               y2="550"
+               stroke="#adb876"
+               stroke-width="20"/>
+         <text x="-100" y="550" stroke="black">Leah</text>
+         <text x="153.444444444444444321" y="550" stroke="black">3.704%</text>
+      </g>
+      <g id="Gus">
+         <line x1="0"
+               y1="600"
+               x2="75.965811965811965736"
+               y2="600"
+               stroke="#c8bd71"
+               stroke-width="20"/>
+         <text x="-100" y="600" stroke="black">Gus</text>
+         <text x="105.965811965811965736" y="600" stroke="black">2.279%</text>
+      </g>
+      <g id="Demetrius">
+         <line x1="0"
+               y1="650"
+               x2="18.991452991452991434"
+               y2="650"
+               stroke="#e9c46a"
+               stroke-width="20"/>
+         <text x="-100" y="650" stroke="black">Demetrius</text>
+         <text x="48.991452991452991434" y="650" stroke="black">0.57%</text>
+      </g>
+      <g id="Robin">
+         <line x1="0"
+               y1="700"
+               x2="332.350427350427350095"
+               y2="700"
+               stroke="#ebbf69"
+               stroke-width="20"/>
+         <text x="-100" y="700" stroke="black">Robin</text>
+         <text x="362.350427350427350095" y="700" stroke="black">9.972%</text>
+      </g>
+      <g id="Marnie">
+         <line x1="0"
+               y1="750"
+               x2="104.452991452991452887"
+               y2="750"
+               stroke="#ecbb68"
+               stroke-width="20"/>
+         <text x="-100" y="750" stroke="black">Marnie</text>
+         <text x="134.452991452991452887" y="750" stroke="black">3.134%</text>
+      </g>
+      <g id="Jodi">
+         <line x1="0"
+               y1="800"
+               x2="56.974358974358974302"
+               y2="800"
+               stroke="#edb767"
+               stroke-width="20"/>
+         <text x="-100" y="800" stroke="black">Jodi</text>
+         <text x="86.974358974358974302" y="800" stroke="black">1.709%</text>
+      </g>
+      <g id="Morris">
+         <line x1="0"
+               y1="850"
+               x2="104.452991452991452887"
+               y2="850"
+               stroke="#efb165"
+               stroke-width="20"/>
+         <text x="-100" y="850" stroke="black">Morris</text>
+         <text x="134.452991452991452887" y="850" stroke="black">3.134%</text>
+      </g>
+      <g id="Willy">
+         <line x1="0"
+               y1="900"
+               x2="18.991452991452991434"
+               y2="900"
+               stroke="#f1aa63"
+               stroke-width="20"/>
+         <text x="-100" y="900" stroke="black">Willy</text>
+         <text x="48.991452991452991434" y="900" stroke="black">0.57%</text>
+      </g>
+      <g id="Gunther">
+         <line x1="0"
+               y1="950"
+               x2="9.495726495726495717"
+               y2="950"
+               stroke="#f4a261"
+               stroke-width="20"/>
+         <text x="-100" y="950" stroke="black">Gunther</text>
+         <text x="39.495726495726495717" y="950" stroke="black">0.285%</text>
+      </g>
+      <g id="Linus">
+         <line x1="0"
+               y1="1000"
+               x2="37.982905982905982868"
+               y2="1000"
+               stroke="#f29c5f"
+               stroke-width="20"/>
+         <text x="-100" y="1000" stroke="black">Linus</text>
+         <text x="67.982905982905982868" y="1000" stroke="black">1.14%</text>
+      </g>
+      <g id="Pam">
+         <line x1="0"
+               y1="1050"
+               x2="256.384615384615384359"
+               y2="1050"
+               stroke="#f0965d"
+               stroke-width="20"/>
+         <text x="-100" y="1050" stroke="black">Pam</text>
+         <text x="286.384615384615384359" y="1050" stroke="black">7.692%</text>
+      </g>
+      <g id="Jas">
+         <line x1="0"
+               y1="1100"
+               x2="9.495726495726495717"
+               y2="1100"
+               stroke="#ee8f5b"
+               stroke-width="20"/>
+         <text x="-100" y="1100" stroke="black">Jas</text>
+         <text x="39.495726495726495717" y="1100" stroke="black">0.285%</text>
+      </g>
+      <g id="Vincent">
+         <line x1="0"
+               y1="1150"
+               x2="9.495726495726495717"
+               y2="1150"
+               stroke="#ed8a59"
+               stroke-width="20"/>
+         <text x="-100" y="1150" stroke="black">Vincent</text>
+         <text x="39.495726495726495717" y="1150" stroke="black">0.285%</text>
+      </g>
+      <g id="Haley">
+         <line x1="0"
+               y1="1200"
+               x2="161.427350427350427189"
+               y2="1200"
+               stroke="#eb8156"
+               stroke-width="20"/>
+         <text x="-100" y="1200" stroke="black">Haley</text>
+         <text x="191.427350427350427189" y="1200" stroke="black">4.843%</text>
+      </g>
+      <g id="Caroline">
+         <line x1="0"
+               y1="1250"
+               x2="9.495726495726495717"
+               y2="1250"
+               stroke="#e76f51"
+               stroke-width="20"/>
+         <text x="-100" y="1250" stroke="black">Caroline</text>
+         <text x="39.495726495726495717" y="1250" stroke="black">0.285%</text>
+      </g>
+   </g>
+</svg>

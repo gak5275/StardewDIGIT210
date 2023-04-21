@@ -13,8 +13,8 @@ declare variable $ySpacer := 50;
 
 declare variable $allNames := $stardew//dialogue/@who => distinct-values();
 
-(: Count names to automatically determine y axis size:)
-declare variable $countallNames := $stardew//dialogue/@who => distinct-values() => count();
+(: Count names to automatically determine marker sizes:)
+declare variable $countallNames := $allNames => count();
 
 declare variable $nameTotal := $stardew//dialogue/@who => count();
 (: ebb: Note: The line above gets the count of all type attributes on names including duplicates. 
@@ -123,14 +123,5 @@ attribute it is. :)
         }
         
         
-          
-        
-        
     </g>
-    
-    
- 
-    
-    
-
 </svg>
