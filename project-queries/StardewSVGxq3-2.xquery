@@ -12,6 +12,19 @@ declare variable $ySpacer := 50;
 
 
 declare variable $allNames := $stardew//dialogue/@who => distinct-values();
+declare variable $name-colors := 
+    for $a at $pos in $allNames
+        let $color := ('(' || 0 || ',' || $pos * 3 || ',' || $pos* 7 || ')')
+        return ($a || '-rgb' || $color);
+(: ebb: We're basically creating this:
+Abigail-rgb(0,3,7) Alex-rgb(0,6,14) Bear-rgb(0,9,21)
+:)      
+declare variable $namesSortedByCounts := 
+    for $n in $allNames
+            let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
+            order by $countType descending
+            return $n;
+    
 
 (: Count names to automatically determine marker sizes:)
 declare variable $countallNames := $allNames => count();
@@ -85,7 +98,7 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
         
         
         {
-            for $n at $pos in $allNames
+            for $n at $pos in $namesSortedByCounts
             let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
             
             

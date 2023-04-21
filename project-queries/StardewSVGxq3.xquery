@@ -4,7 +4,9 @@ IT READS UP ABOVE THE PARENT DIRECTORY OF THIS XQUERY FILE, and DOWN INTO FILES 
 :)
 
 (:declare variable $colors := ("#4B158D", "#324376", "#50B65E", "#586BA4", "#F5DD90", "#2564EE", "#F68E5F", "#F76C5E", "#AF9AB2", "#FED839", "#820B8A", "#672A4E", "#5CF64A", "#43B929", "#FF37A6", "#0DAB76", "#0B5D1E", "#191716", "#440D0F", "#84596B", "#758ECD", "#A0DDFF", "#0D5C63", "#FF6978", "#dc2f02");:)
-declare variable $colors := ("#264653", "#264653", "#286569", "#297574", "#29817c", "#2a9187", "#2a9d8f", "#49a389", "#6fab82", "#93b27b", "#adb876", "#c8bd71", "#e9c46a", "#ebbf69", "#ecbb68", "#edb767", "#efb165", "#f1aa63", "#f4a261", "#f29c5f", "#f0965d", "#ee8f5b", "#ed8a59", "#eb8156", "#e76f51");
+(: declare variable $colors := ("#264653", "#264653", "#286569", "#297574", "#29817c", "#2a9187", "#2a9d8f", "#49a389", "#6fab82", "#93b27b", "#adb876", "#c8bd71", "#e9c46a", "#ebbf69", "#ecbb68", "#edb767", "#efb165", "#f1aa63", "#f4a261", "#f29c5f", "#f0965d", "#ee8f5b", "#ed8a59", "#eb8156", "#e76f51"); :)
+(: declare variable $colors := ("#264653", "#6fab82"); :)
+
 declare variable $xSpacer := 5;
 declare variable $ySpacer := 50;
 
@@ -12,6 +14,13 @@ declare variable $ySpacer := 50;
 
 
 declare variable $allNames := $stardew//dialogue/@who => distinct-values() => sort();
+declare variable $name-colors := 
+    for $a at $pos in $allNames
+        let $color := ('(' || 0 || ',' || $pos * 3 || ',' || $pos* 7 || ')')
+        return ($a || '-rgb' || $color);
+(: ebb: We're basically creating this:
+Abigail-rgb(0,3,7) Alex-rgb(0,6,14) Bear-rgb(0,9,21)
+:)    
 
 (: Count names to automatically determine marker sizes:)
 declare variable $countallNames := $allNames => count();
@@ -85,15 +94,15 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
         
         
         {
-            for $n at $pos in $allNames
-            let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
+            for $n at $pos in $namesSortedByCounts
+                let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
             
             
-            let $namePerc := $countType div $nameTotal * 100
-            (: Variable below to give scaled bars, but have accurate percentages (above):)
-            let $nameScaled := $namePerc * 10 (:Final number limits graph size: 5 shows 20%, 10 shows 10%:)
+                let $namePerc := $countType div $nameTotal * 100
+                (: Variable below to give scaled bars, but have accurate percentages (above):)
+                let $nameScaled := $namePerc * 10 (:Final number limits graph size: 5 shows 20%, 10 shows 10%:)
             
-            let $perc := $namePerc => format-number('01%')
+                let $perc := $namePerc => format-number('01%')
             
             
             
@@ -117,7 +126,7 @@ attribute it is. :)
                         y1='{$pos * $ySpacer}'
                         x2='{$nameScaled * $xSpacer}'
                         y2="{$pos * $ySpacer}"
-                        stroke='{$colors[position() = $pos]}'
+                        stroke = 'rgb(0, {$pos * 3}, {$pos* 7})'
                         stroke-width='20'/>
                     
                     <text
