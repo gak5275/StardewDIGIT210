@@ -1,4 +1,4 @@
-declare variable $stardew := collection("autotag/East");
+declare variable $stardew := collection("allfiles/all");
 (: CAUTION: ABOVE IS A RELATIVE FILE PATH DESIGNED FOR WORKING IN oXYGEN ON YOUR LOCAL COMPUTER.
 IT READS UP ABOVE THE PARENT DIRECTORY OF THIS XQUERY FILE, and DOWN INTO FILES IT NEEDS IN A PROJECT.
 :)
@@ -11,7 +11,7 @@ declare variable $ySpacer := 50;
 (: These are the different kinds of name types to look for :)
 
 
-declare variable $allNames := $stardew//dialogue/@who => distinct-values();
+declare variable $allNames := $stardew//dialogue/@who => distinct-values() => sort();
 
 (: Count names to automatically determine marker sizes:)
 declare variable $countallNames := $allNames => count();
