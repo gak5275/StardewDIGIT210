@@ -56,24 +56,24 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
         />
         <!-- Percentage Marks -->
         {
-            for $i at $pos in (1 to 3)
+            for $i at $pos in (1 to 2)
             return 
                 <line
-                    x1="{33.333 * $pos * $xSpacer}"
+                    x1="{50 * $pos * $xSpacer}"
                     y1="{0}"
-                    x2="{33.333 * $pos * $xSpacer}"
+                    x2="{50 * $pos * $xSpacer}"
                     y2="{($countallNames + 0.5) * $ySpacer}"
                     stroke="green"
                     stroke-width="1"
                 ></line>
         }
         {
-            for $i at $pos in (1 to 3)
+            for $i at $pos in (1 to 2)
             return
                 <text
-                    x = "{33.333 * $pos * $xSpacer}"
+                    x = "{50 * $pos * $xSpacer}"
                     y = "{($countallNames + 1) * $ySpacer}">
-                        {concat(round($pos * 33.333 div 6.666, 0), "%")}
+                        {concat(round($pos * 50 div 10, 0), "%")}
                 </text>
         }
     </g>
@@ -91,7 +91,7 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
             
             let $namePerc := $countType div $nameTotal * 100
             (: Variable below to give scaled bars, but have accurate percentages (above):)
-            let $nameScaled := $namePerc * 6.666 (:Final number limits graph size: 5 shows 20%, 10 shows 10%:)
+            let $nameScaled := $namePerc * 10 (:Final number limits graph size: 5 shows 20%, 10 shows 10%:)
             
             let $perc := $namePerc => format-number('01%')
             
