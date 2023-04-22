@@ -5,7 +5,7 @@ IT READS UP ABOVE THE PARENT DIRECTORY OF THIS XQUERY FILE, and DOWN INTO FILES 
 
 (:declare variable $colors := ("#4B158D", "#324376", "#50B65E", "#586BA4", "#F5DD90", "#2564EE", "#F68E5F", "#F76C5E", "#AF9AB2", "#FED839", "#820B8A", "#672A4E", "#5CF64A", "#43B929", "#FF37A6", "#0DAB76", "#0B5D1E", "#191716", "#440D0F", "#84596B", "#758ECD", "#A0DDFF", "#0D5C63", "#FF6978", "#dc2f02");:)
 (: declare variable $colors := ("#264653", "#264653", "#286569", "#297574", "#29817c", "#2a9187", "#2a9d8f", "#49a389", "#6fab82", "#93b27b", "#adb876", "#c8bd71", "#e9c46a", "#ebbf69", "#ecbb68", "#edb767", "#efb165", "#f1aa63", "#f4a261", "#f29c5f", "#f0965d", "#ee8f5b", "#ed8a59", "#eb8156", "#e76f51"); :)
-declare variable $colors := ("#7c44bf", "#993e00", "#e34a16", "#22629a", "#e4a0ff", "#5e011e", "#d10017", "#42e8e3", "#df433c", "#fffc35", "#391e47", "#ffff96", "#ffa39b", "#8c0200", "#db8200", "#f77825", "#9355ea", "#c1ff7f", "#a0510c", "#5a5a7f", "#d16132", "#50b797", "#1d66f2", "#3e2327", "#8e0154", "#b7f3c8", "#073b35", "#110026", "#b6005b", "#000000", "#806fff", "#d30a4d", "#c3fffa", "#fee02a", "#e75184", "#b76f4b", "#8f8f46", "#b6b243", "#a0a0a0", "#f888c4", "#43551c", "#37b230", "#66ccff", "#333333", "#33cc33", "#660000", "#9933cc", "#996633");
+declare variable $colors := ("#d10017" (:Emily:), "#073b35" (:Harvey:), "#22629a" (:Shane:), "#5e011e" (:Elliott:), "#b7f3c8" (:Leah:), "#ffff96" (:Sam:), "#df433c" (:Penny:), "#7c44bf" (:Abigail:), "#fffc35" (:Haley:), "#391e47" (:Sebastian:), "#993e00" (:Alex:), "#9355ea" (:Lewis:), "#8e0154" (:Maru:), "#f77825" (:Robin:), "#000000" (:Universal:), "#f888c4" (:Pam:), "#110026" (:Krobus:), "#d16132" (:Pierre:), "#b76f4b" (:Leo:), "#8c0200" (:Willy:), "#1d66f2" (:Demetrius:), "#e34a16" (:Marnie:), "#db8200" (:Gus:), "#a0a0a0" (:Misc:), "#fee02a" (:Linus:), "#e75184" (:Jodi:), "#50b797" (:George:), "#c1ff7f" (:Caroline:), "#a0510c" (:Clint:), "#806fff" (:Wizard:), "#b6005b" (:Evelyn:), "#e4a0ff" (:Jas:), "#ffa39b" (:Vincent:), "#43551c" (:Kent:), "#5a5a7f" (:Morris:), "#b6b243" (:Snail:), "#8f8f46" (:Birdie:), "#d30a4d" (:Sandy:), "#3e2327" (:Dwarf:), "#37b230" (:Marlon:), "#42e8e3" (:Gunther:), "#c3fffa" (:Qi:), "#66ccff" (:Grandpa:), "#33cc33" (:Junimos:), "#996633" (:Bear:), "#333333" (:Bouncer:), "#660000" (:Gil:), "#9933cc" (:Governor:));
 declare variable $xSpacer := 5;
 declare variable $ySpacer := 50;
 
@@ -14,6 +14,11 @@ declare variable $ySpacer := 50;
 
 declare variable $allNames := $stardew//dialogue/@who => distinct-values();
 
+declare variable $namesSortedByCounts := 
+    for $n in $allNames
+            let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
+            order by $countType descending
+            return $n;
 (: Count names to automatically determine marker sizes:)
 declare variable $countallNames := $allNames => count();
 
@@ -86,7 +91,7 @@ And yes, this is the value you want to use, and it works. We learn that 82% of t
         
         
         {
-            for $n at $pos in $allNames
+            for $n at $pos in $namesSortedByCounts
             let $countType := $stardew//Q{}dialogue[@who = $n]/@who => count()
             
             
