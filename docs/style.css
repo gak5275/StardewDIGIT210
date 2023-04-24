@@ -13,8 +13,8 @@ h3 {
 }
 body {
     display: block;
-    /*  background-color: #F3F4F6;*/
-    background-image: url("images/mountainsBg.png");
+    background-color: #8EE5BE;
+    /* background-image: url("images/mountainsBg.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     /*  background-color: #cccccc;*/
@@ -29,3 +29,10 @@ body {
     font-family: StardewFont;
     src: url("fonts/Stardew_Valley.ttf");
 }
+#cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     margin:auto;
+     border-style:double;
+ }
