@@ -37,6 +37,10 @@ body {
      border-style:double;
  }
  
+<<<<<<< HEAD
 img.svg{
+=======
+#character_dialog{
+>>>>>>> 7de0c36ede18e22e56d73e645223163ef0a02cff
     width: 100%;
 }
