@@ -4,12 +4,32 @@ html {
 }
 h1 {
     font-family: StardewFont;
+    text-align: center;
+    font-size: 60px;
 }
 h2 {
     font-family: StardewFont;
+    text-align: center;
+    font-size: 50px;
 }
 h3 {
     font-family: StardewFont;
+    font-size: 40px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+nav{
+    text-align: center;
+}
+p{
+    margin-right: 400px;
+    margin-left: 400px;
+
+}
+ul{
+    margin-right: 400px;
+    margin-left: 400px;
+
 }
 body {
     display: block;
@@ -39,4 +59,20 @@ body {
 img.character_dialogue{
 width: 100%;
     
+}
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.cc {
+    max-width: 100px;
+}
+img.chick{
+    width:50px;
 }
