@@ -39,12 +39,10 @@ text = df['dialogue'].apply(lemmatize_text)
 text = ' '.join(text)
 
 # update stopwords
-extra_stopwords={'think','don\'t', 'going', 'know', 'feel', 'you\'re', 'i\'ve',
-                 'isn\'t', 'i\'ll', 'feel', 'want', 'maybe', 'need', 'sure',
+extra_stopwords={'think', 'know', 'feel', 'want', 'maybe', 'need', 'sure',
                  'guess', 'little', 'live', 'look', 'thing', 'start', 'smell',
-                 'today', 'tomorrow', 'right', 'year', 'tell', 'sound', 'ei\'m',
-                 'people', 'come', 'remember', 'change', 'sorry', 'place', 'sigh',
-                 'close', 'long', 'hear', 'understand', 'tonight'
+                 'today', 'tomorrow', 'right', 'year', 'tell', 'sound',
+                 'people', 'come', 'remember', 'sorry', 'place',
                  }
 STOP_WORDS.update(extra_stopwords)
 
@@ -53,25 +51,28 @@ wordcloud = WordCloud(stopwords = STOP_WORDS, background_color='white',
                       collocations=True,
                       min_word_length=4,
                       max_words=150,
-                      collocation_threshold=10).generate(text)
-# count the frequency of words in the WordCloud
-text1_dict = Counter(wordcloud.process_text(text))
-# count the frequency of words in the original dialogue column
-text2_dict = Counter(df.loc[:4000]['dialogue'].str.lower().str.split(expand=True).stack().value_counts())
-
-# find the most common word frequency from the first dictionary
-# and divide by the most common word frequency in the second dictionary
-multiplier = text1_dict.most_common(1)[0][1] / text2_dict.most_common(1)[0][1]
-
-# multiply the value in dictionary 2, by the mutiplier above to make
-# the top value equal to the first dictionary. Use subsequently smaller values of the multiplier
-text2_dict = {k: int(k[1] * v) for k, v in zip(text2_dict.items(), np.linspace(multiplier, 1, 4000))}
-
-# combine the two dictionaries
-full_dict = Counter(text1_dict) + Counter(text2_dict)
-
-# create the WordCloud image
-wordcloud = generate_wordcloud(full_dict)
+                      collocation_threshold=10,
+                      height=600,
+                      width=1200
+                      ).generate(text)
+# # count the frequency of words in the WordCloud
+# text1_dict = Counter(wordcloud.process_text(text))
+# # count the frequency of words in the original dialogue column
+# text2_dict = Counter(df.loc[:4000]['dialogue'].str.lower().str.split(expand=True).stack().value_counts())
+#
+# # find the most common word frequency from the first dictionary
+# # and divide by the most common word frequency in the second dictionary
+# multiplier = text1_dict.most_common(1)[0][1] / text2_dict.most_common(1)[0][1]
+#
+# # multiply the value in dictionary 2, by the mutiplier above to make
+# # the top value equal to the first dictionary. Use subsequently smaller values of the multiplier
+# text2_dict = {k: int(k[1] * v) for k, v in zip(text2_dict.items(), np.linspace(multiplier, 1, 4000))}
+#
+# # combine the two dictionaries
+# full_dict = Counter(text1_dict) + Counter(text2_dict)
+#
+# # create the WordCloud image
+# wordcloud = generate_wordcloud(full_dict)
 # display the WordCloud image
 plt.figure(figsize=(8, 4))
 plt.imshow(wordcloud, interpolation='bilInear')
