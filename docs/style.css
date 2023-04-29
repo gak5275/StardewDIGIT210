@@ -80,3 +80,15 @@ img.player{
     margin-right: 400px;
     margin-left: 400px;
 }
+.column {
+  float: right;
+  width: 20%;
+
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
