@@ -1,5 +1,5 @@
 
-<?xml-model href="../../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>LostItemQuest_DefaultThankYou:</context> <dialogue who="Universal">You found it! Thank you.</dialogue> </p>
 <p><context>NewChild_SecondChild1:</context> <dialogue who="Universal">Just look at our little family... We've come a long way, haven't we?</dialogue> </p>

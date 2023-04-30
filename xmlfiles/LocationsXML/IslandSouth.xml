@@ -1,4 +1,4 @@
-<?xml-model href="LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
 IslandDepart: "/-1000 -1000/farmer 15 43 2 Willy 17 45 2/playMusic none/skippable true/playSound furnace/beginSimultaneousCommand/viewport 16 44 clamp true/globalFadeToClear 0.007/endSimultaneousCommand/locationSpecificCommand boat_reset/locationSpecificCommand boat_depart/globalFade/viewport -1000 -1000/end islandDepart" 

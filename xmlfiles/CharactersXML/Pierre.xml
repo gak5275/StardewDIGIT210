@@ -1,4 +1,4 @@
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
 <p><context>Introduction:</context> <dialogue who="Pierre">"Hey, it's Mr. @, the new farmer! I'm Pierre, owner of the local general store. Hey, it's Ms. @, the new farmer! I'm Pierre, owner of the local general store. If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!"</dialogue> </p>

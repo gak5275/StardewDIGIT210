@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Harvey">"It's a pleasure to meet you. I'm Harvey, the local doctor. I perform regular check-ups and medical procedures for all the residents of Pelican Town. It's rewarding work. I hope you'll find your own work equally rewarding, in time."</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Harvey">"Sunscreen? Check... Sun hat? Check..."</dialogue> </p>

@@ -1,5 +1,5 @@
 
-<?xml-model href="../../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Robin:</context> <dialogue who="Robin">Hey there! I had some extra wood lying around... I thought maybe you could use it. Take care!      -Robin %item object 388 50 %%[#]A Gift From Robin</dialogue> </p>
 <p><context>Demetrius:</context> <dialogue who="Demetrius">Dear @, I was conducting a field study the other day, and I found this specimen.  I hope you find it as interesting as I did.        -Demetrius%item object 392 1 394 1 132 1 66 1 %%[#]A Gift From Demetrius</dialogue> </p>

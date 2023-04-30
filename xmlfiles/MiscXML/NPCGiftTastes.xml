@@ -1,4 +1,4 @@
-<?xml-model href="../../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Robin:</context> <dialogue who="Robin">This is for me? Wow, I absolutely love it!! Thanks! This is really nice! Um... why? What the...? This is terrible! Thank you. This might come in handy.</dialogue> </p>
 <p><context>Demetrius:</context> <dialogue who="Demetrius">You're giving this to me? This is amazing! Thank you! This is a very interesting specimen. ...What is this? This is disgusting. That was very thoughtful of you. </dialogue> </p>

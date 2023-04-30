@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Clint">"Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy."</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Clint">"I'm gonna put on my special red trunks. They're supposed to be really eye-catching."</dialogue> </p>

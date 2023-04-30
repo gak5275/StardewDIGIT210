@@ -1,6 +1,6 @@
 start = xml
-xml = element xml {location}
-location = element location {place, (text | dialogue | name)+}
+xml = element xml {mixed{location | dialogue}+}
+location = element location {place, mixed{dialogue | name}+}
 
 dialogue = element dialogue {who, (text | name)*}
 who = attribute who {xsd:string}

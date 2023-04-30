@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Evelyn">"Why, hello and welcome to our little community, dear!  You can call me 'Granny' if you like."</dialogue> </p>
 <p><context>reject_867:</context> <dialogue who="Evelyn">"Oh, I'm sure George would be interested in that!"</dialogue> </p>

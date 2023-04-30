@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Dwarf">"Hey, you're pretty good at mining, for a human."</dialogue> </p>
 <p><context>Mon:</context> <dialogue who="Dwarf">"I got all this stuff from the surface. I just take it from your people during the night. Hmm? What is this concept you call \"private property\"?"</dialogue> </p>

@@ -1,5 +1,5 @@
 
-<?xml-model href="../CharactersXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Abigail:</context> <dialogue who="Abigail">The valley looks more interesting in the rain... don't you think?</dialogue> </p>
 <p><context>Robin:</context> <dialogue who="Robin">The rain doesn't stop me from getting a job done! Although soggy wood isn't a joy to work with.</dialogue> </p>

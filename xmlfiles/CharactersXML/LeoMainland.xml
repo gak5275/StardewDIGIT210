@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>4:</context> <dialogue who="Leo">"I saw a big mango floating in the sky. Linus told me it was a hot-air balloon! I thought only birds could fly..."</dialogue> </p>
 <p><context>18:</context> <dialogue who="Leo">"When I first arrived, Linus made me a suit out of leaves, like his... But I looked funny... like a fuzzy mango! I think I'll stick to my feathers."</dialogue> </p>

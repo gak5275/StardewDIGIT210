@@ -1,4 +1,4 @@
-<?xml-model href="../../FestivalsXML/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>AdventureGuild_KillList_Header:</context> <dialogue>------------------------------\t\t\t --Monster Eradication Goals--             \"Help us keep the valley safe.\"------------------------------</dialogue> </p>
 <p><context>AdventureGuild_KillList_LineFormat:</context> <dialogue>/ </dialogue> </p>

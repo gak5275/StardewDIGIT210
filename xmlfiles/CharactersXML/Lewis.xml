@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Lewis">"So, how was your first night in the old cottage? Your grandpa used to complain about the rickety old bed. But I think, deep down, he actually loved that house."</dialogue> </p>
 <p><context>Resort:</context> <dialogue who="Lewis">"I'm impressed, @. You've really fixed up the place!"</dialogue> </p>

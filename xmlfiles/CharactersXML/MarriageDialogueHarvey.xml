@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Rainy_Day_0:</context> <dialogue who="Harvey">"It's a myth that rainy weather causes the flu. However, take care that you don't slip on the mud! I often worry about you."</dialogue> </p>
 <p><context>Rainy_Day_1:</context> <dialogue who="Harvey">"It was so incredibly lonely living above the clinic by myself... I'm much happier now."</dialogue> </p>

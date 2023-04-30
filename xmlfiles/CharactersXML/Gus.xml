@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Gus">"Well hello there! I'm Gus, chef and owner of the Stardrop Saloon. Stop in if you need any refreshments. I've always got hot coffee and cold beer at the ready."</dialogue> </p>
 <p><context>accept_865:</context> <dialogue who="Gus">"*sniff* sniff* ... that sharp smell! *slurp* *slurp* ... that zesty taste! That gritty texture! It can only be gourmet tomato salt! I'll trade you for it."</dialogue> </p>

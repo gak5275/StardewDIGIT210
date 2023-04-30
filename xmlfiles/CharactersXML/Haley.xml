@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Haley">"Oh... you're that new farmer boy, aren't you? Oh... You're that new farmer girl, or whatever. Aren't you? Huh? Oh... I'm Haley. Hmm... If it weren't for those horrendous clothes you might actually be cute. Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind."</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Haley">"I saw a dolphin on the way in!"</dialogue> </p>

@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Emily">"Ooh!... I can read it on your face. You're going to love it here in Pelican Town. If you're ever looking for something to do in the evening, stop by the saloon. That's where I work!"</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Emily">"Oh, I like this place! It's full of parrots!"</dialogue> </p>

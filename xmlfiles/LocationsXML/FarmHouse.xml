@@ -1,4 +1,4 @@
-<?xml-model href="LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/LocationSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 
 558291/y 3/H: "grandpas_theme/-2000 -1000/farmer 13 23 2/broadcastEvent/addTemporaryActor Grandpa 1 1 -100 -100 2 true/specificTemporarySprite grandpaSpirit/viewport -1000 -1000 true/pause 10000/<dialogue who="Grandpa">My dear boy... My dearest grand-daughter... It's been many years since we last spoke. You were just a little boy... Do you remember? It's been many years since we last spoke. You were just a little girl... Do you remember? Look how far you've come! Though you may have forgotten me, I've been here all along. You see... My body has departed this world, but my heart will always remain in Stardew Valley.</dialogue>/specificTemporarySprite grandpaNight/pause 4000/<dialogue who="Grandpa">You've been here two years now...</dialogue>/grandpaEvaluation/pause 3000/<dialogue who="Grandpa">The future of %farm Farm is in your hands, now. Farewell!</dialogue>/pause 1000/globalFade/removeTemporarySprites/playMusic none/pause 1000/end bed" 

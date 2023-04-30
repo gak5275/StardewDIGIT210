@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Mon:</context> <dialogue who="Leo">"Hi... Everything okay?"</dialogue> </p>
 <p><context>Mon4:</context> <dialogue who="Leo">"I've learned a lot from my parrot family... But I'm sure there's a lot more out there I don't know."</dialogue> </p>

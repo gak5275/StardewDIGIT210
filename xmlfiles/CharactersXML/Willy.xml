@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Introduction:</context> <dialogue who="Willy">"Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days."</dialogue> </p>
 <p><context>accept_869:</context> <dialogue who="Willy">"Ah... That's the perfect bait for a catfish I've been tryin' to catch! Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago. Somethin' tells me you could use it, lad. Somethin' tells me you could use it, miss."</dialogue> </p>

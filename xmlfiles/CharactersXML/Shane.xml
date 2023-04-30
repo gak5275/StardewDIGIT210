@@ -1,5 +1,5 @@
 
-<?xml-model href="CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../RelaxNG/CharacterSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
 <p><context>Mon:</context> <dialogue who="Shane">"I don't know you. Why are you talking to me?"</dialogue> </p>
 <p><context>Resort_Entering:</context> <dialogue who="Shane">"Buh... hope the bar's open."</dialogue> </p>
