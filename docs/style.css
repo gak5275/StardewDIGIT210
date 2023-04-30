@@ -1,3 +1,7 @@
+:root{
+    --text-margin: 20vw;
+    --img-margin: 20vw;
+}
 
 html {
     scroll-behavior: smooth;
@@ -15,22 +19,27 @@ h2 {
 h3 {
     font-family: StardewFont;
     font-size: 40px;
-    margin-right: 400px;
-    margin-left: 400px;
+    margin-right: var(--text-margin);
+    margin-left: var(--text-margin);
 }
 nav{
     text-align: center;
 }
-p{
-    margin-right: 400px;
-    margin-left: 400px;
 
+p {
+    margin-right: var(--text-margin);
+    margin-left: var(--text-margin);
 }
-ul{
-    margin-right: 400px;
-    margin-left: 400px;
 
+ul {
+    margin-right: var(--text-margin);
+    margin-left: var(--text-margin);
 }
+
+figure {
+    margin: 25px 0;
+}
+
 body {
     display: block;
     /* background-color: #8EE5BE; */
@@ -77,8 +86,8 @@ img.chick{
     width:50px;
 }
 img.player{
-    margin-right: 400px;
-    margin-left: 400px;
+    margin-right: var(--img-margin);
+    margin-left: var(--img-margin);
 }
 .column {
   float: right;
@@ -91,4 +100,14 @@ img.player{
   content: "";
   clear: both;
   display: table;
+}
+
+@media (max-width: 600px){
+    img {
+        max-width: 90vw;
+    }
+    h3, p, ul{
+        margin-right: 10vw;
+        margin-left: 10vw;
+    }
 }
