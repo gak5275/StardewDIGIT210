@@ -19,7 +19,9 @@
                 <!-- | <a href="characters.html">Characters</a> | <a href="about.html">About</a> | <a href="chimken.html">Chimken</a>--></h3>
         </nav>
         <h2>Visual Data</h2>
-        <div id="container"><h3>Cytoscape Network - Which characters appear in which locations?</h3>
+        <div id="container">
+            <h2>Cytoscape</h2>
+            <h3>Which characters appear in which locations?</h3>
             <br />
             <div id="cy">
                 <script src="web_session/networks.js"> </script>
@@ -58,24 +60,15 @@
             <br />
             <br />
             <p>This network represents the characters (in green squares) and the locations (in blue circles) in Stardew Valley. If a square and circle are connected, that character appears in that location at least once during heart events. The bigger one of them is, the more connections it has.</p>
-            <p>Based on this, it appears that the Farm, Pelican Town, and the Stardrop Saloon are visited by the most characters. Pelican Town has is the largest area in the game and is where most of the characters' homes are located, and about 25 characters appear there. The Stardrop Saloon is a gathering that many characters frequently visit, and about 16 characters appear there. The player's farm is visited by many characters throughout the game, and there are 13 characters who can potentially live on the farm with the player. There are about 17 characters who appear at the farm. Other locations with a lot of characters include more public open areas like the beach, the mountains, and Cindersap Forest.</p>
+            <p>Based on this, it appears that the Farm, Pelican Town, and the Stardrop Saloon are visited by the most characters. Pelican Town is the largest area in the game and is where most of the characters' homes and businesses are located, and about 25 characters appear there. The Stardrop Saloon is a gathering place that many characters frequently visit, and about 16 characters appear there. The player's farm is visited by many characters throughout the game, and there are 13 characters who can potentially live on the farm with the player. There are about 17 characters who appear at the farm in total. Other locations with a lot of characters include more public open areas like the beach, the mountains, and Cindersap Forest.</p>
             <p>The characters who appear in the most locations during heart events are Abigail, Emily, Sam, and Harvey, who each appear in 8 different locations. Shane, Penny, Robin, Sebastian, and Willy appear in 7 locations each. These characters tend to appear in both public areas like the town or the saloon, as well as locations that are only visited by them and one or two other people. Penny, for example, appears in large areas like Pelican Town and Cindersap Forest, but is also the only character who visits the spa and one of two who appear in her trailer. One exception to this is Shane. Every location that Shane appears in is visited by multiple other characters as well. He also happens to appear in more heart events than most others. Some characters only appear in a few events, and are connected to a small number of locations as a result. Other do show up in a lot of events, but most of them take place in just a few locations. Most of Leah's heart events, for example, take place either in her house or right outside of it.</p>
-            <h3>Character Dialogue by Percentage</h3>
-            <figure>
-                <img src="./images/StardewSVGxq3output.svg" alt="SVG graph 1"
-                    class="character_dialogue">
-            </figure>
-            <p>These graphs show </p>
-            <figure>
-                <img src="./images/StardewSVGxq3-3output.svg" alt="SVG graph 2"
-                    class="character_dialogue">
-            </figure>
+            <h2>Python</h2>
             <h3>Word Cloud</h3>
             <figure>
                 <img src="images/wordcloud.png" alt="word could" class="pythonImage" />
                 <figcaption>
-                    <p>This world could show positive experiences, relationships, and
-                        lifestyles.</p>
+                    <p>This word cloud shows positive experiences, relationships, and
+                        lifestyles within the game's dialogue.</p>
                     <ul><li>Positive experiences: like, good, nice, great...</li>
                         <li>Enjoyable relationships: friend, love, kind...</li>
                         <li>Agricultural lifestyle: farm, work, house...</li></ul>
@@ -86,31 +79,46 @@
                 <img src="images/sentimentAnalysis.png" alt="sentiment analysis" class="pythonImage" />
                 <figcaption>
                     <p>This binary distribution chart shows the distribution of compound sentiment
-                        scores for main and major character dialogues. The left-skewed distribution
-                        indicates that the majority of the text data in main and major character
-                        dialogues is positive. </p>
+                        scores for the dialogue of the main characters. The left-skewed distribution
+                        indicates that the majority of the text data in the
+                        dialogue is positive. </p>
                 </figcaption>
             </figure>
             <h3>Emotion Detection</h3>
             <figure>
                 <img src="images/emotionDetection.png" alt="emotion detection" class="pythonImage" />
                 <figcaption>
-                    <p>The bar chart for emotion detection shows the distribution of different
-                        emotions in text data for main and major character dialogues. There are 30
-                        different emotions detected, which indicates that the emotions expressed in
-                        dialogues are varied and complex. This indicates that Stardew Vally contains
+                    <p>This bar graph for emotion detection shows the distribution of different
+                        emotions in the text data of the main character dialogue. There are 30
+                        different emotions detected, which shows that the emotions expressed in
+                        dialogue is varied and complex. This indicates that Stardew Valley contains
                         a wide range of topics, genres, and styles. The top 5 emotions are happy,
                         sad, attracted, fearful, and angry. We can see that the dataset
-                        contains a mix of positive and negative emotions. </p>
+                        contains a mix of positive and negative emotions.</p>
                 </figcaption>
             </figure>
+            <h2>SVG</h2>
+            <h3>Character Dialogue by Percentage</h3>
+            <figure>
+                <figcaption>&nbsp; Alphabetized</figcaption>
+                <img src="./images/StardewSVGxq3output.svg" alt="SVG graph 1"
+                    class="character_dialogue">
+            </figure>
+            <p>These graphs show the percentage of lines of dialogue each character has across all 103 files in our corpus. The graph above displays the characters by name alphabetically, while the one below shows them from highest percentage of dialogue to lowest. The character with the most dialogue in the game is Emily with 5.159 percent. While this surprised us at first, it made sense once we realized just how much screentime Emily has. Her heart events are very dialogue heavy, and she has a prominent role in the heart events for several other characters as well, such as Haley (her sister) and Clint (who has feelings for her). Her percentage is significantly higher than that of Harvey, who has the second highest amount of dialogue at 5.018 percent. The two of them are the only characters who amount of dialogue exceeds 5 percent. Unsurprisingly, those with the lowest percentages are the more minor characters who cannot be given gifts and only appear in one or two heart events. Characters like Grandpa and the Bear appear in one short scene each, an as a result their dialogue makes up only about 0.12 percent of that in the entire game.</p>
+            <figure>
+                <figcaption>&nbsp; From highest to lowest</figcaption>
+                <img src="./images/StardewSVGxq3-3output.svg" alt="SVG graph 2"
+                    class="character_dialogue">
+            </figure>
+        </div>
+            <br/>
             <figure>
                 <a href="chimken.html"><img src="./images/chicken.png" alt="Secret Chicken Button"
                         class="chick">
                 </a>
             </figure>
             <br />
-        </div>
+        
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
                 alt="Creative Commons License" style="border-width:0"
                 src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work

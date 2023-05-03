@@ -1,4 +1,4 @@
-:root{
+:root {
     --text-margin: 20vw;
     --img-margin: 20vw;
 }
@@ -26,7 +26,7 @@ h4 {
     margin-right: var(--text-margin);
     margin-left: var(--text-margin);
 }
-nav{
+nav {
     text-align: center;
     width: 80vw;
     margin: auto;
@@ -66,21 +66,21 @@ body {
     src: url("fonts/Stardew_Valley.ttf");
 }
 #cy {
-     width: 65vw;
-     height:100vh;
-     position:absolute;
-     margin:auto;
-     border-style:double;
- }
-img.character_dialogue{
-width: 100%;
+    width: 65vw;
+    height: 100vh;
+    position: absolute;
+    margin: auto;
+    border-style: double;
 }
-div{
+img.character_dialogue {
+    width: 100%;
+}
+div {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-img{
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -88,44 +88,46 @@ img{
 img.cc {
     max-width: 100px;
 }
-img.chick{
-    width:50px;
+img.chick {
+    width: 50px;
 }
-img.player{
+img.player {
     margin-right: var(--img-margin);
     margin-left: var(--img-margin);
 }
 .column {
-  float: right;
-  width: 20%;
+    float: right;
+    width: 20%;
 
 }
 
 /* Clear floats after image containers */
 .row::after {
-  content: "";
-  clear: both;
-  display: table;
+    content: "";
+    clear: both;
+    display: table;
 }
 
-@media (max-width: 600px){
+@media (max-width : 600px) {
     img {
         max-width: 90vw;
     }
-    h3, p, ul{
+    h3,
+    p,
+    ul {
         margin-right: 10vw;
         margin-left: 10vw;
     }
 }
 
-div#container{
+div#container {
     width: 80%;
     margin: auto;
-    background: rgba(255,255,255,0.3);
-    
+    background: rgba(255, 255, 255, 0.3);
+
 }
-.pythonImage{
-    width:50%;
+.pythonImage {
+    width: 50%;
 }
 
 img.small {
