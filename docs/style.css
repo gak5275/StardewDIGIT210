@@ -22,6 +22,10 @@ h3 {
     margin-right: var(--text-margin);
     margin-left: var(--text-margin);
 }
+h4 {
+    margin-right: var(--text-margin);
+    margin-left: var(--text-margin);
+}
 nav{
     text-align: center;
     width: 80vw;
@@ -124,5 +128,6 @@ div#container{
     width:50%;
 }
 
-
-
+img.small {
+    max-width: 1000px;
+}

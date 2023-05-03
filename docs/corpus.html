@@ -25,9 +25,27 @@
         <p>Stardew Valley > Content > Data > Events</p>
         <p>Stardew Valley > Content > Data > Festivals</p>
         <h3>Making the Files Readable</h3>
-        <p></p>
+        <p>Almost all of the game files in Stardew Valley have a file type of XNB. When opened in a program like Notepad, Python, or Oxygen, these files contain encoded strings of letters and strange characters, and not anything legible.</p>
+        <figure>
+            <img src="./images/AbigailXNB.png" alt="XNB file" class="small"/>
+        </figure>
+        <p>In order to access the files in a readable form, we had to download a program called <a href="https://www.mediafire.com/file/4c0g0fk3tza384o/XNBExtract.zip/file">XNBExtract</a> and "unpack" the game files. Any XNB files we wanted to read had to be placed in the PACKED folder. Next, we had to run the <i>UnpackFiles.bat</i> file to unpack them. They were then generated as YAML files in the UNPACKED folder, which were readable. The YAML files could then be easily converted into the formats we needed for our project, which were .txt and .xml.</p>
+        <figure>
+            <img src="./images/xnbpacked.png" alt="Packed Folder"/>
+        </figure>
+        <figure>
+            <img src="./images/xnbunpacked.png" alt="Unpacked folder"/>
+        </figure>
         <h3>Organizing the Files</h3>
-        <p></p>
+        <p>As we were finding all of the files that contained dialogue, we sorted them into four folders:</p>
+        <h4><a href="https://github.com/gak5275/StardewDIGIT210/tree/main/xmlfiles/CharactersXML">Character Files</a></h4>
+        <p>In Stardew Valley, there are a few different circumstances in which you can see character dialogue. The simplest way is to just talk to them. What they say will often depend on what day or season it is on the in-game calendar or how good your relationship is with them. Almost every character has their own file in the game that contains this type of dialogue. We ended up using 34 of these files. There are more characters than that in the game, but we wanted to focus our analysis on who we considered to be the main characters, which is anyone who the player can give gifts to.</p>
+        <h4><a href="https://github.com/gak5275/StardewDIGIT210/tree/main/xmlfiles/LocationsXML">Location Files</a></h4>
+        <p>The other major form of character interaction in the game is during heart events. Heart events are scripted scenes that take place once the player has reach a certain friendship level with a character. The dialogue for heart events is sorted in the game's files by the locations that they take place in. Almost every area in the game has its own file that contains the dialogue for its respective heart events. We found 39 of these files in the game, and these were the ones that we ended up doing the most analysis on.</p>
+        <h4><a href="https://github.com/gak5275/StardewDIGIT210/tree/main/xmlfiles/FestivalsXML">Festival Files</a></h4>
+        <p>Characters can also be talked to at festivals. Festivals are special events in the game that take place on the same day each in-game year. Almost all characters attend these events and can be interacted with. The files containing festival dialogue were stored in their own folder in the game. Each of these files contain all of the dialogue that can be seen during the associated festival, and there were 8 of them in total.</p>
+        <h4><a href="https://github.com/gak5275/StardewDIGIT210/tree/main/xmlfiles/MiscXML">Miscellaneous Files</a></h4>
+        <p>Finally, there were the dialogue files that did not fit into any of the previous categories. This included dialogue such as characters' reactions to receiving gifts and the mail that they will send the player. We ended up finding 8 of these miscellaneous files in the game.</p>
         <br />
         <figure>
             <a href="chimken.html"><img src="./images/chicken.png" alt="Secret Chicken Button" class="chick">
