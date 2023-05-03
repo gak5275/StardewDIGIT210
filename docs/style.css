@@ -24,6 +24,8 @@ h3 {
 }
 nav{
     text-align: center;
+    width: 80vw;
+    margin: auto;
 }
 
 p {
@@ -45,6 +47,7 @@ body {
     /* background-color: #8EE5BE; */
     background-image: url("images/valleybackgroundfilter.jpg");
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     /*  background-color: #cccccc;*/
     color: #1D1A11;
@@ -67,7 +70,6 @@ body {
  }
 img.character_dialogue{
 width: 100%;
-    
 }
 div{
     display: block;
@@ -111,3 +113,16 @@ img.player{
         margin-left: 10vw;
     }
 }
+
+div#container{
+    width: 80%;
+    margin: auto;
+    background: rgba(255,255,255,0.3);
+    
+}
+.pythonImage{
+    width:50%;
+}
+
+
+
