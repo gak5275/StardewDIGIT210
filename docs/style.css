@@ -22,6 +22,10 @@ h3 {
     margin-right: var(--text-margin);
     margin-left: var(--text-margin);
 }
+h4 {
+    margin-right: var(--text-margin);
+    margin-left: var(--text-margin);
+}
 nav{
     text-align: center;
 }
@@ -110,4 +114,8 @@ img.player{
         margin-right: 10vw;
         margin-left: 10vw;
     }
+}
+
+img.small {
+    max-width: 1000px;
 }
