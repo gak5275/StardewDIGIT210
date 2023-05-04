@@ -23,7 +23,11 @@
         <h3>Natural Language Processing in Python</h3>
         <p></p>
         <h3>Xquery</h3>
-        <p></p>
+        <p>When creating our network and SVG graphs, we used xquery. For our network, we had to write xquery that would output the names of the characters, the SPEAKER label, the file in which their name is present, and the name of the location that corresponds to said file. Each of these had to be in that exact order with a TAB between each one in order for it to be ready properly when loaded into Cytoscape. The character names were derived from the auto-tagged <b>name</b> elements in which the <b>type</b> attribute equaled <b>PERSON</b>. For the locations, the names came from the <b>location</b> elements of each file, which each contained a <b>place</b> attribute that equaled the locations's name. These entries would then become a connection on our Cytoscape network.</p>
+        <figure>
+            <img src="./images/xqueryoutput.png" alt="Xquery network output" class="small"/>
+        </figure>
+        <p>For our SVG graphs, we had to write xquery that would output a graph featuring each character's name, their corresponding bars on the graph, and the percentages that they represented. For these, the character names came from the <b>who</b> attributes in the <b>dialogue</b> elements that we added to our XML files using regex. The percentages were calculated within our xquery. We also had to oragnize the graph in some way, which we did by both alphabetizing the character names and also ordering them from highest percentage of dialogue to lowest. Finally, we applied a color gradient to the graph so that it becomes lighter as it descends. These graphs are viewable on the Visual Data page.</p>
         <br />
         <figure>
             <a href="chimken.html"><img src="./images/chicken.png" alt="Secret Chicken Button" class="chick">
