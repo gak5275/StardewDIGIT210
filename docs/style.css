@@ -37,7 +37,7 @@ p {
     margin-left: var(--text-margin);
 }
 
-ul {
+ul, ol{
     margin-right: var(--text-margin);
     margin-left: var(--text-margin);
 }
