@@ -18,7 +18,11 @@
                 <!-- | <a href="characters.html">Characters</a> | <a href="about.html">About</a> | <a href="chimken.html">Chimken</a>--></h3>
         </nav>
         <h3>XML</h3>
-        <p>Character dialogue was fairly easy to find within the game files. The dialogue was stored as a .xnb file, which were converted into .yaml and then into .xml files for analysis. The files found with character dialogue could be placed into one of four categories:</p>
+        <p>Character dialogue was fairly easy to find within the game files. The dialogue was stored as a .xnb file, which were converted into .yaml and then into .xml files for analysis.</p>
+        <figure>
+            <img alt="An image of XML code demonstrating the structure of markedup dialogue" src="./images/characterxml.PNG"/>
+        </figure>
+        <p>The files found with character dialogue could be placed into one of four categories:</p>
         <ul>
             <li><a href="#char">Character XML</a></li>  
             <li><a href="#fest">Festivals XML</a></li>
@@ -27,19 +31,21 @@
         </ul>
         <h4 id="char">Character XML</h4>
         <p>Throughout the game, the player can interact with characters found in different locations. Characters will typically have one or two lines before dialogue 'runs out' for the day. Character XML has a different file for each character in the game, with metadata on what to say based on day of the week and weather.</p>
-        <h4 id="fest">Festivals XML</h4>+
+        <h4 id="fest">Festivals XML</h4>
         <p>Stardew Valley has multiple 2 festivals each season that occur on specific days. Unlike the Character XML, Festival XML include phrases and lines for all characters in one file. Some metadata exists to define the position and direction of characters, as well as festival cutscenes. </p>
         <h4 id="loc">Locations XML</h4>
         <p>Throughout the game, cutscenes will play after certain requirements are met. These cutscenes are tied to the location where they play rather than the characters. Location XML have a lot more metadata per line than Character or Festival XML. The metadata includes the positions, movements, animations, facing directions, and even sounds. Dialogue is often weaved in between metadata.</p>
         <h4 id="misc">Misc XML</h4>
         <p>The Misc XML is a collection of xml files that don't properly fit into any other category. The files are typically structured like Festival XML or Location XML. They includes dialogue spoken by characters after recieving a gift, dialogue from mail, dialogue from signs, rainy-day dialogue, and other lines.</p>
         <h4>Regex</h4>
-        <p>Regex was employed to get properly tagged and cleaned dialogue.
-            The metadata from
-            Metadata would be found outside the text aw well as inside it. Text characters like <b>^</b>, <b>$#e$</b>, or <b>$r</b> signified areas where a dialogue changes based on gender, a new dialogue box appears, or a response can be chosen from a list. Other dialogue metadata like <b>|</b> or <b>{}</b> were less frequent.</p>
-        <ul>
-            <li></li>
-        </ul>
+        <p>Regex was employed to get properly tagged and cleaned dialogue. Most lines of dialogue were preceded by some metadata, telling what senario a line of dialogue would play. This was wrapped with a <b>&lt;context&gt;</b> element. Dialogue was wrapped with quotation marks which made for easy use of regex.</p>
+            <br/>
+        <figure>
+            <img alt="An image of xml unmarked dialogue. Metadata inside the lines of dialogue are highlighted yellow." src="./images/charactercleanregex.PNG"/>
+        </figure>
+            <p>Metadata would be found outside the text as well as inside it. Text characters like <b>^</b>, <b>$#e$</b>, or <b>$r</b> signified areas where a dialogue changes based on gender, a new dialogue box appears, or a response can be chosen from a list. Other dialogue metadata like <b>|</b> or <b>{}</b> were less frequent.</p>
+        <!--<h3>Natural Language Processing in Python</h3>
+        <p></p>-->
         <h3>Xquery</h3>
         <p>When creating our network and SVG graphs, we used xquery. For our network, we had to write xquery that would output the names of the characters, the SPEAKER label, the file in which their name is present, and the name of the location that corresponds to said file. Each of these had to be in that exact order with a TAB between each one in order for it to be ready properly when loaded into Cytoscape. The character names were derived from the auto-tagged <b>name</b> elements in which the <b>type</b> attribute equaled <b>PERSON</b>. For the locations, the names came from the <b>location</b> elements of each file, which each contained a <b>place</b> attribute that equaled the locations's name. These entries would then become a connection on our Cytoscape network.</p>
         <figure>
